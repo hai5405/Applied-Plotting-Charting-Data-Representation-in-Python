@@ -1,0 +1,439 @@
+year,geo_name,geo,cip_name,cip,degree_name,degree,grads_total
+2015,"Los Angeles County, CA","05000US06037","Environmental Science","030104","Research Doctorate","17",1
+2013,"Los Angeles County, CA","05000US06037","Environmental Science","030104","Research Doctorate","17",4
+2014,"Los Angeles County, CA","05000US06037","Environmental Science","030104","Research Doctorate","17",2
+2015,"Los Angeles County, CA","05000US06037","Architecture","040201","Research Doctorate","17",2
+2013,"Los Angeles County, CA","05000US06037","Architecture","040201","Research Doctorate","17",2
+2014,"Los Angeles County, CA","05000US06037","Architecture","040201","Research Doctorate","17",2
+2015,"Los Angeles County, CA","05000US06037","Urban, Community, & Regional Planning","040301","Research Doctorate","17",5
+2013,"Los Angeles County, CA","05000US06037","Urban, Community, & Regional Planning","040301","Research Doctorate","17",9
+2014,"Los Angeles County, CA","05000US06037","Urban, Community, & Regional Planning","040301","Research Doctorate","17",6
+2015,"Los Angeles County, CA","05000US06037","American & U.S. Studies","050102","Research Doctorate","17",9
+2013,"Los Angeles County, CA","05000US06037","American & U.S. Studies","050102","Research Doctorate","17",7
+2014,"Los Angeles County, CA","05000US06037","American & U.S. Studies","050102","Research Doctorate","17",5
+2013,"Los Angeles County, CA","05000US06037","Women's Studies","050207","Research Doctorate","17",3
+2015,"Los Angeles County, CA","05000US06037","Other Ethnic, Minority, Gender, & Group Studies","050299","Research Doctorate","17",5
+2013,"Los Angeles County, CA","05000US06037","Other Ethnic, Minority, Gender, & Group Studies","050299","Research Doctorate","17",1
+2014,"Los Angeles County, CA","05000US06037","Other Ethnic, Minority, Gender, & Group Studies","050299","Research Doctorate","17",4
+2015,"Los Angeles County, CA","05000US06037","Speech Communication & Rhetoric","090101","Research Doctorate","17",21
+2013,"Los Angeles County, CA","05000US06037","Speech Communication & Rhetoric","090101","Research Doctorate","17",11
+2014,"Los Angeles County, CA","05000US06037","Speech Communication & Rhetoric","090101","Research Doctorate","17",13
+2013,"Los Angeles County, CA","05000US06037","General Computer & Information Sciences","110101","Research Doctorate","17",7
+2014,"Los Angeles County, CA","05000US06037","General Computer & Information Sciences","110101","Research Doctorate","17",7
+2013,"Los Angeles County, CA","05000US06037","Information Technology","110103","Research Doctorate","17",7
+2015,"Los Angeles County, CA","05000US06037","Information Science","110401","Research Doctorate","17",12
+2013,"Los Angeles County, CA","05000US06037","Information Science","110401","Research Doctorate","17",7
+2014,"Los Angeles County, CA","05000US06037","Information Science","110401","Research Doctorate","17",4
+2015,"Los Angeles County, CA","05000US06037","Computer Science","110701","Research Doctorate","17",69
+2013,"Los Angeles County, CA","05000US06037","Computer Science","110701","Research Doctorate","17",59
+2014,"Los Angeles County, CA","05000US06037","Computer Science","110701","Research Doctorate","17",73
+2015,"Los Angeles County, CA","05000US06037","General Education","130101","Research Doctorate","17",108
+2013,"Los Angeles County, CA","05000US06037","General Education","130101","Research Doctorate","17",107
+2014,"Los Angeles County, CA","05000US06037","General Education","130101","Research Doctorate","17",92
+2015,"Los Angeles County, CA","05000US06037","Multicultural Education","130202","Research Doctorate","17",10
+2013,"Los Angeles County, CA","05000US06037","Multicultural Education","130202","Research Doctorate","17",6
+2014,"Los Angeles County, CA","05000US06037","Multicultural Education","130202","Research Doctorate","17",12
+2014,"Los Angeles County, CA","05000US06037","Curriculum & Instruction","130301","Research Doctorate","17",2
+2015,"Los Angeles County, CA","05000US06037","General Educational Leadership & Administration","130401","Research Doctorate","17",327
+2013,"Los Angeles County, CA","05000US06037","General Educational Leadership & Administration","130401","Research Doctorate","17",317
+2014,"Los Angeles County, CA","05000US06037","General Educational Leadership & Administration","130401","Research Doctorate","17",269
+2015,"Los Angeles County, CA","05000US06037","Urban Education & Leadership","130410","Research Doctorate","17",10
+2013,"Los Angeles County, CA","05000US06037","Urban Education & Leadership","130410","Research Doctorate","17",9
+2014,"Los Angeles County, CA","05000US06037","Urban Education & Leadership","130410","Research Doctorate","17",4
+2015,"Los Angeles County, CA","05000US06037","Other Educational Administration & Supervision","130499","Research Doctorate","17",5
+2013,"Los Angeles County, CA","05000US06037","Other Educational Administration & Supervision","130499","Research Doctorate","17",6
+2014,"Los Angeles County, CA","05000US06037","Other Educational Administration & Supervision","130499","Research Doctorate","17",3
+2015,"Los Angeles County, CA","05000US06037","Educational & Instructional Technology","130501","Research Doctorate","17",22
+2013,"Los Angeles County, CA","05000US06037","Educational & Instructional Technology","130501","Research Doctorate","17",8
+2014,"Los Angeles County, CA","05000US06037","Educational & Instructional Technology","130501","Research Doctorate","17",12
+2015,"Los Angeles County, CA","05000US06037","General Special Education & Teaching","131001","Research Doctorate","17",8
+2013,"Los Angeles County, CA","05000US06037","General Special Education & Teaching","131001","Research Doctorate","17",1
+2014,"Los Angeles County, CA","05000US06037","General Special Education & Teaching","131001","Research Doctorate","17",5
+2015,"Los Angeles County, CA","05000US06037","Other Education","139999","Research Doctorate","17",10
+2015,"Los Angeles County, CA","05000US06037","Aerospace, Aeronautical, & Astronautical Engineering","140201","Research Doctorate","17",14
+2013,"Los Angeles County, CA","05000US06037","Aerospace, Aeronautical, & Astronautical Engineering","140201","Research Doctorate","17",25
+2014,"Los Angeles County, CA","05000US06037","Aerospace, Aeronautical, & Astronautical Engineering","140201","Research Doctorate","17",25
+2015,"Los Angeles County, CA","05000US06037","Architectural Engineering","140401","Research Doctorate","17",1
+2014,"Los Angeles County, CA","05000US06037","Architectural Engineering","140401","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","Bioengineering & Biomedical Engineering","140501","Research Doctorate","17",42
+2013,"Los Angeles County, CA","05000US06037","Bioengineering & Biomedical Engineering","140501","Research Doctorate","17",37
+2014,"Los Angeles County, CA","05000US06037","Bioengineering & Biomedical Engineering","140501","Research Doctorate","17",40
+2015,"Los Angeles County, CA","05000US06037","Chemical Engineering","140701","Research Doctorate","17",33
+2013,"Los Angeles County, CA","05000US06037","Chemical Engineering","140701","Research Doctorate","17",38
+2014,"Los Angeles County, CA","05000US06037","Chemical Engineering","140701","Research Doctorate","17",23
+2015,"Los Angeles County, CA","05000US06037","General Civil Engineering","140801","Research Doctorate","17",21
+2013,"Los Angeles County, CA","05000US06037","General Civil Engineering","140801","Research Doctorate","17",21
+2014,"Los Angeles County, CA","05000US06037","General Civil Engineering","140801","Research Doctorate","17",36
+2015,"Los Angeles County, CA","05000US06037","General Computer Engineering","140901","Research Doctorate","17",4
+2013,"Los Angeles County, CA","05000US06037","General Computer Engineering","140901","Research Doctorate","17",3
+2014,"Los Angeles County, CA","05000US06037","General Computer Engineering","140901","Research Doctorate","17",2
+2015,"Los Angeles County, CA","05000US06037","Electrical & Electronics Engineering","141001","Research Doctorate","17",105
+2013,"Los Angeles County, CA","05000US06037","Electrical & Electronics Engineering","141001","Research Doctorate","17",97
+2014,"Los Angeles County, CA","05000US06037","Electrical & Electronics Engineering","141001","Research Doctorate","17",87
+2015,"Los Angeles County, CA","05000US06037","Engineering Mechanics","141101","Research Doctorate","17",2
+2013,"Los Angeles County, CA","05000US06037","Engineering Mechanics","141101","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","Engineering Physics & Applied Physics","141201","Research Doctorate","17",9
+2013,"Los Angeles County, CA","05000US06037","Engineering Physics & Applied Physics","141201","Research Doctorate","17",11
+2014,"Los Angeles County, CA","05000US06037","Engineering Physics & Applied Physics","141201","Research Doctorate","17",3
+2015,"Los Angeles County, CA","05000US06037","Environmental Health Engineering","141401","Research Doctorate","17",3
+2013,"Los Angeles County, CA","05000US06037","Environmental Health Engineering","141401","Research Doctorate","17",7
+2014,"Los Angeles County, CA","05000US06037","Environmental Health Engineering","141401","Research Doctorate","17",4
+2015,"Los Angeles County, CA","05000US06037","Materials Engineering","141801","Research Doctorate","17",21
+2013,"Los Angeles County, CA","05000US06037","Materials Engineering","141801","Research Doctorate","17",27
+2014,"Los Angeles County, CA","05000US06037","Materials Engineering","141801","Research Doctorate","17",24
+2015,"Los Angeles County, CA","05000US06037","Mechanical Engineering","141901","Research Doctorate","17",40
+2013,"Los Angeles County, CA","05000US06037","Mechanical Engineering","141901","Research Doctorate","17",37
+2014,"Los Angeles County, CA","05000US06037","Mechanical Engineering","141901","Research Doctorate","17",37
+2015,"Los Angeles County, CA","05000US06037","Petroleum Engineering","142501","Research Doctorate","17",3
+2014,"Los Angeles County, CA","05000US06037","Petroleum Engineering","142501","Research Doctorate","17",4
+2013,"Los Angeles County, CA","05000US06037","Systems Engineering","142701","Research Doctorate","17",5
+2014,"Los Angeles County, CA","05000US06037","Systems Engineering","142701","Research Doctorate","17",4
+2015,"Los Angeles County, CA","05000US06037","Industrial Engineering","143501","Research Doctorate","17",6
+2013,"Los Angeles County, CA","05000US06037","Industrial Engineering","143501","Research Doctorate","17",8
+2014,"Los Angeles County, CA","05000US06037","Industrial Engineering","143501","Research Doctorate","17",6
+2015,"Los Angeles County, CA","05000US06037","Linguistics","160102","Research Doctorate","17",17
+2013,"Los Angeles County, CA","05000US06037","Linguistics","160102","Research Doctorate","17",21
+2014,"Los Angeles County, CA","05000US06037","Linguistics","160102","Research Doctorate","17",19
+2015,"Los Angeles County, CA","05000US06037","Comparative Literature","160104","Research Doctorate","17",6
+2013,"Los Angeles County, CA","05000US06037","Comparative Literature","160104","Research Doctorate","17",17
+2014,"Los Angeles County, CA","05000US06037","Comparative Literature","160104","Research Doctorate","17",8
+2015,"Los Angeles County, CA","05000US06037","Other Linguistic, Comparative, Related Language Studies & Services","160199","Research Doctorate","17",6
+2014,"Los Angeles County, CA","05000US06037","Other Linguistic, Comparative, Related Language Studies & Services","160199","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","General East Asian Languages, Literatures, & Linguistics","160300","Research Doctorate","17",1
+2013,"Los Angeles County, CA","05000US06037","General East Asian Languages, Literatures, & Linguistics","160300","Research Doctorate","17",2
+2015,"Los Angeles County, CA","05000US06037","Other East Asian Languages, Literatures, & Linguistics","160399","Research Doctorate","17",5
+2013,"Los Angeles County, CA","05000US06037","Other East Asian Languages, Literatures, & Linguistics","160399","Research Doctorate","17",10
+2014,"Los Angeles County, CA","05000US06037","Other East Asian Languages, Literatures, & Linguistics","160399","Research Doctorate","17",11
+2015,"Los Angeles County, CA","05000US06037","General Slavic Languages, Literatures, & Linguistics","160400","Research Doctorate","17",3
+2013,"Los Angeles County, CA","05000US06037","General Slavic Languages, Literatures, & Linguistics","160400","Research Doctorate","17",4
+2014,"Los Angeles County, CA","05000US06037","General Slavic Languages, Literatures, & Linguistics","160400","Research Doctorate","17",3
+2013,"Los Angeles County, CA","05000US06037","General Germanic Languages, Literatures, & Linguistics","160500","Research Doctorate","17",1
+2014,"Los Angeles County, CA","05000US06037","General Germanic Languages, Literatures, & Linguistics","160500","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","French Language & Literature","160901","Research Doctorate","17",5
+2013,"Los Angeles County, CA","05000US06037","French Language & Literature","160901","Research Doctorate","17",5
+2014,"Los Angeles County, CA","05000US06037","French Language & Literature","160901","Research Doctorate","17",4
+2015,"Los Angeles County, CA","05000US06037","Italian Language & Literature","160902","Research Doctorate","17",1
+2013,"Los Angeles County, CA","05000US06037","Italian Language & Literature","160902","Research Doctorate","17",4
+2014,"Los Angeles County, CA","05000US06037","Italian Language & Literature","160902","Research Doctorate","17",4
+2015,"Los Angeles County, CA","05000US06037","General Hispanic & Latin American Languages, Literatures, & Linguistics","160908","Research Doctorate","17",3
+2013,"Los Angeles County, CA","05000US06037","General Hispanic & Latin American Languages, Literatures, & Linguistics","160908","Research Doctorate","17",2
+2015,"Los Angeles County, CA","05000US06037","Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics","161199","Research Doctorate","17",6
+2013,"Los Angeles County, CA","05000US06037","Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics","161199","Research Doctorate","17",2
+2014,"Los Angeles County, CA","05000US06037","Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics","161199","Research Doctorate","17",2
+2015,"Los Angeles County, CA","05000US06037","General Classical Language, Literature, & Linguistics","161200","Research Doctorate","17",4
+2013,"Los Angeles County, CA","05000US06037","General Classical Language, Literature, & Linguistics","161200","Research Doctorate","17",3
+2014,"Los Angeles County, CA","05000US06037","General Classical Language, Literature, & Linguistics","161200","Research Doctorate","17",2
+2015,"Los Angeles County, CA","05000US06037","Other Foreign Languages, Literatures, & Linguistics","169999","Research Doctorate","17",7
+2013,"Los Angeles County, CA","05000US06037","Other Foreign Languages, Literatures, & Linguistics","169999","Research Doctorate","17",8
+2014,"Los Angeles County, CA","05000US06037","Other Foreign Languages, Literatures, & Linguistics","169999","Research Doctorate","17",6
+2015,"Los Angeles County, CA","05000US06037","General English Language & Literature","230101","Research Doctorate","17",34
+2013,"Los Angeles County, CA","05000US06037","General English Language & Literature","230101","Research Doctorate","17",29
+2014,"Los Angeles County, CA","05000US06037","General English Language & Literature","230101","Research Doctorate","17",26
+2013,"Los Angeles County, CA","05000US06037","Other Library Science","259999","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","General Biological Sciences","260101","Research Doctorate","17",26
+2013,"Los Angeles County, CA","05000US06037","General Biological Sciences","260101","Research Doctorate","17",32
+2014,"Los Angeles County, CA","05000US06037","General Biological Sciences","260101","Research Doctorate","17",31
+2015,"Los Angeles County, CA","05000US06037","Biochemistry","260202","Research Doctorate","17",6
+2013,"Los Angeles County, CA","05000US06037","Biochemistry","260202","Research Doctorate","17",7
+2014,"Los Angeles County, CA","05000US06037","Biochemistry","260202","Research Doctorate","17",4
+2015,"Los Angeles County, CA","05000US06037","Biophysics","260203","Research Doctorate","17",5
+2013,"Los Angeles County, CA","05000US06037","Biophysics","260203","Research Doctorate","17",8
+2014,"Los Angeles County, CA","05000US06037","Biophysics","260203","Research Doctorate","17",8
+2015,"Los Angeles County, CA","05000US06037","Molecular Biology","260204","Research Doctorate","17",24
+2013,"Los Angeles County, CA","05000US06037","Molecular Biology","260204","Research Doctorate","17",30
+2014,"Los Angeles County, CA","05000US06037","Molecular Biology","260204","Research Doctorate","17",24
+2015,"Los Angeles County, CA","05000US06037","Molecular Biochemistry","260205","Research Doctorate","17",8
+2013,"Los Angeles County, CA","05000US06037","Molecular Biochemistry","260205","Research Doctorate","17",15
+2014,"Los Angeles County, CA","05000US06037","Molecular Biochemistry","260205","Research Doctorate","17",9
+2015,"Los Angeles County, CA","05000US06037","Biochemistry & Molecular Biology","260210","Research Doctorate","17",9
+2013,"Los Angeles County, CA","05000US06037","Biochemistry & Molecular Biology","260210","Research Doctorate","17",8
+2014,"Los Angeles County, CA","05000US06037","Biochemistry & Molecular Biology","260210","Research Doctorate","17",13
+2015,"Los Angeles County, CA","05000US06037","Botany & Plant Biology","260301","Research Doctorate","17",4
+2013,"Los Angeles County, CA","05000US06037","Botany & Plant Biology","260301","Research Doctorate","17",1
+2014,"Los Angeles County, CA","05000US06037","Botany & Plant Biology","260301","Research Doctorate","17",2
+2015,"Los Angeles County, CA","05000US06037","Developmental Biology & Embryology","260404","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","Cellular & Molecular Biology","260406","Research Doctorate","17",5
+2013,"Los Angeles County, CA","05000US06037","Cellular & Molecular Biology","260406","Research Doctorate","17",6
+2014,"Los Angeles County, CA","05000US06037","Cellular & Molecular Biology","260406","Research Doctorate","17",8
+2015,"Los Angeles County, CA","05000US06037","Immunology","260507","Research Doctorate","17",1
+2014,"Los Angeles County, CA","05000US06037","Microbiology & Immunology","260508","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","Other Microbiological Science & Immunology","260599","Research Doctorate","17",13
+2013,"Los Angeles County, CA","05000US06037","Other Microbiological Science & Immunology","260599","Research Doctorate","17",9
+2014,"Los Angeles County, CA","05000US06037","Other Microbiological Science & Immunology","260599","Research Doctorate","17",5
+2015,"Los Angeles County, CA","05000US06037","Molecular Genetics","260802","Research Doctorate","17",15
+2013,"Los Angeles County, CA","05000US06037","Molecular Genetics","260802","Research Doctorate","17",21
+2014,"Los Angeles County, CA","05000US06037","Molecular Genetics","260802","Research Doctorate","17",11
+2013,"Los Angeles County, CA","05000US06037","Human & Medical Genetics","260806","Research Doctorate","17",6
+2014,"Los Angeles County, CA","05000US06037","Human & Medical Genetics","260806","Research Doctorate","17",5
+2015,"Los Angeles County, CA","05000US06037","Other Genetics","260899","Research Doctorate","17",3
+2013,"Los Angeles County, CA","05000US06037","Other Genetics","260899","Research Doctorate","17",2
+2014,"Los Angeles County, CA","05000US06037","Other Genetics","260899","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","General Physiology","260901","Research Doctorate","17",1
+2013,"Los Angeles County, CA","05000US06037","General Physiology","260901","Research Doctorate","17",2
+2014,"Los Angeles County, CA","05000US06037","General Physiology","260901","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","Molecular Physiology","260902","Research Doctorate","17",7
+2013,"Los Angeles County, CA","05000US06037","Molecular Physiology","260902","Research Doctorate","17",5
+2014,"Los Angeles County, CA","05000US06037","Molecular Physiology","260902","Research Doctorate","17",5
+2015,"Los Angeles County, CA","05000US06037","Pathology & Experimental Pathology","260910","Research Doctorate","17",8
+2013,"Los Angeles County, CA","05000US06037","Pathology & Experimental Pathology","260910","Research Doctorate","17",8
+2014,"Los Angeles County, CA","05000US06037","Pathology & Experimental Pathology","260910","Research Doctorate","17",7
+2015,"Los Angeles County, CA","05000US06037","Molecular Pharmacology","261002","Research Doctorate","17",15
+2013,"Los Angeles County, CA","05000US06037","Molecular Pharmacology","261002","Research Doctorate","17",17
+2014,"Los Angeles County, CA","05000US06037","Molecular Pharmacology","261002","Research Doctorate","17",15
+2015,"Los Angeles County, CA","05000US06037","Molecular Toxicology","261005","Research Doctorate","17",1
+2013,"Los Angeles County, CA","05000US06037","Molecular Toxicology","261005","Research Doctorate","17",4
+2014,"Los Angeles County, CA","05000US06037","Molecular Toxicology","261005","Research Doctorate","17",2
+2015,"Los Angeles County, CA","05000US06037","Biostatistics","261102","Research Doctorate","17",11
+2013,"Los Angeles County, CA","05000US06037","Biostatistics","261102","Research Doctorate","17",4
+2014,"Los Angeles County, CA","05000US06037","Biostatistics","261102","Research Doctorate","17",11
+2015,"Los Angeles County, CA","05000US06037","Bioinformatics","261103","Research Doctorate","17",2
+2014,"Los Angeles County, CA","05000US06037","Bioinformatics","261103","Research Doctorate","17",3
+2015,"Los Angeles County, CA","05000US06037","Computational Biology","261104","Research Doctorate","17",6
+2013,"Los Angeles County, CA","05000US06037","Computational Biology","261104","Research Doctorate","17",9
+2014,"Los Angeles County, CA","05000US06037","Computational Biology","261104","Research Doctorate","17",4
+2015,"Los Angeles County, CA","05000US06037","Other Biomathematics, Bioinformatics, & Computational Biology","261199","Research Doctorate","17",1
+2013,"Los Angeles County, CA","05000US06037","Other Biomathematics, Bioinformatics, & Computational Biology","261199","Research Doctorate","17",1
+2014,"Los Angeles County, CA","05000US06037","Other Biomathematics, Bioinformatics, & Computational Biology","261199","Research Doctorate","17",3
+2015,"Los Angeles County, CA","05000US06037","Evolutionary Biology","261303","Research Doctorate","17",5
+2013,"Los Angeles County, CA","05000US06037","Evolutionary Biology","261303","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","Epidemiology","261309","Research Doctorate","17",16
+2013,"Los Angeles County, CA","05000US06037","Epidemiology","261309","Research Doctorate","17",14
+2014,"Los Angeles County, CA","05000US06037","Epidemiology","261309","Research Doctorate","17",24
+2015,"Los Angeles County, CA","05000US06037","Molecular Medicine","261401","Research Doctorate","17",1
+2013,"Los Angeles County, CA","05000US06037","Molecular Medicine","261401","Research Doctorate","17",1
+2014,"Los Angeles County, CA","05000US06037","Molecular Medicine","261401","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","Neuroscience","261501","Research Doctorate","17",36
+2013,"Los Angeles County, CA","05000US06037","Neuroscience","261501","Research Doctorate","17",25
+2014,"Los Angeles County, CA","05000US06037","Neuroscience","261501","Research Doctorate","17",35
+2013,"Los Angeles County, CA","05000US06037","Neurobiology & Anatomy","261503","Research Doctorate","17",4
+2014,"Los Angeles County, CA","05000US06037","Neurobiology & Anatomy","261503","Research Doctorate","17",3
+2014,"Los Angeles County, CA","05000US06037","Other Neurobiology & Neurosciences","261599","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","Other Biological & Biomedical Sciences","269999","Research Doctorate","17",13
+2013,"Los Angeles County, CA","05000US06037","Other Biological & Biomedical Sciences","269999","Research Doctorate","17",17
+2014,"Los Angeles County, CA","05000US06037","Other Biological & Biomedical Sciences","269999","Research Doctorate","17",20
+2015,"Los Angeles County, CA","05000US06037","General Mathematics","270101","Research Doctorate","17",44
+2013,"Los Angeles County, CA","05000US06037","General Mathematics","270101","Research Doctorate","17",36
+2014,"Los Angeles County, CA","05000US06037","General Mathematics","270101","Research Doctorate","17",30
+2015,"Los Angeles County, CA","05000US06037","General Applied Mathematics","270301","Research Doctorate","17",7
+2013,"Los Angeles County, CA","05000US06037","General Applied Mathematics","270301","Research Doctorate","17",10
+2014,"Los Angeles County, CA","05000US06037","General Applied Mathematics","270301","Research Doctorate","17",9
+2015,"Los Angeles County, CA","05000US06037","Computational Mathematics","270303","Research Doctorate","17",7
+2013,"Los Angeles County, CA","05000US06037","Computational Mathematics","270303","Research Doctorate","17",15
+2014,"Los Angeles County, CA","05000US06037","Computational Mathematics","270303","Research Doctorate","17",14
+2015,"Los Angeles County, CA","05000US06037","General Statistics","270501","Research Doctorate","17",6
+2013,"Los Angeles County, CA","05000US06037","General Statistics","270501","Research Doctorate","17",11
+2014,"Los Angeles County, CA","05000US06037","General Statistics","270501","Research Doctorate","17",8
+2013,"Los Angeles County, CA","05000US06037","Biological & Physical Sciences","300101","Research Doctorate","17",5
+2014,"Los Angeles County, CA","05000US06037","Biological & Physical Sciences","300101","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","Gerontology","301101","Research Doctorate","17",5
+2013,"Los Angeles County, CA","05000US06037","Gerontology","301101","Research Doctorate","17",3
+2014,"Los Angeles County, CA","05000US06037","Gerontology","301101","Research Doctorate","17",3
+2013,"Los Angeles County, CA","05000US06037","International & Global Studies","302001","Research Doctorate","17",12
+2015,"Los Angeles County, CA","05000US06037","Intercultural, Multicultural, & Diversity Studies","302301","Research Doctorate","17",8
+2013,"Los Angeles County, CA","05000US06037","Intercultural, Multicultural, & Diversity Studies","302301","Research Doctorate","17",7
+2014,"Los Angeles County, CA","05000US06037","Intercultural, Multicultural, & Diversity Studies","302301","Research Doctorate","17",2
+2014,"Los Angeles County, CA","05000US06037","Maritime Sciences","303201","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","Other Multidisciplinary Studies","309999","Research Doctorate","17",8
+2013,"Los Angeles County, CA","05000US06037","Other Multidisciplinary Studies","309999","Research Doctorate","17",8
+2014,"Los Angeles County, CA","05000US06037","Other Multidisciplinary Studies","309999","Research Doctorate","17",7
+2015,"Los Angeles County, CA","05000US06037","General Philosophy & Religious Studies","380001","Research Doctorate","17",13
+2014,"Los Angeles County, CA","05000US06037","General Philosophy & Religious Studies","380001","Research Doctorate","17",5
+2015,"Los Angeles County, CA","05000US06037","Philosophy","380101","Research Doctorate","17",14
+2013,"Los Angeles County, CA","05000US06037","Philosophy","380101","Research Doctorate","17",17
+2014,"Los Angeles County, CA","05000US06037","Philosophy","380101","Research Doctorate","17",11
+2015,"Los Angeles County, CA","05000US06037","Religious Studies","380201","Research Doctorate","17",16
+2013,"Los Angeles County, CA","05000US06037","Religious Studies","380201","Research Doctorate","17",18
+2014,"Los Angeles County, CA","05000US06037","Religious Studies","380201","Research Doctorate","17",14
+2015,"Los Angeles County, CA","05000US06037","Islamic Studies","380205","Research Doctorate","17",2
+2013,"Los Angeles County, CA","05000US06037","Islamic Studies","380205","Research Doctorate","17",1
+2014,"Los Angeles County, CA","05000US06037","Islamic Studies","380205","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","Other Religious Studies","380299","Research Doctorate","17",4
+2013,"Los Angeles County, CA","05000US06037","Other Religious Studies","380299","Research Doctorate","17",3
+2014,"Los Angeles County, CA","05000US06037","Other Religious Studies","380299","Research Doctorate","17",6
+2015,"Los Angeles County, CA","05000US06037","Missionary Studies & Missiology","390301","Research Doctorate","17",9
+2013,"Los Angeles County, CA","05000US06037","Missionary Studies & Missiology","390301","Research Doctorate","17",12
+2014,"Los Angeles County, CA","05000US06037","Missionary Studies & Missiology","390301","Research Doctorate","17",15
+2015,"Los Angeles County, CA","05000US06037","Religious Education","390401","Research Doctorate","17",7
+2013,"Los Angeles County, CA","05000US06037","Religious Education","390401","Research Doctorate","17",6
+2014,"Los Angeles County, CA","05000US06037","Religious Education","390401","Research Doctorate","17",17
+2015,"Los Angeles County, CA","05000US06037","Theological Studies","390601","Research Doctorate","17",16
+2013,"Los Angeles County, CA","05000US06037","Theological Studies","390601","Research Doctorate","17",14
+2014,"Los Angeles County, CA","05000US06037","Theological Studies","390601","Research Doctorate","17",12
+2013,"Los Angeles County, CA","05000US06037","Other Theology & Religious Vocations","399999","Research Doctorate","17",8
+2014,"Los Angeles County, CA","05000US06037","Other Theology & Religious Vocations","399999","Research Doctorate","17",9
+2015,"Los Angeles County, CA","05000US06037","Astronomy","400201","Research Doctorate","17",1
+2013,"Los Angeles County, CA","05000US06037","Astronomy","400201","Research Doctorate","17",4
+2014,"Los Angeles County, CA","05000US06037","Astronomy","400201","Research Doctorate","17",5
+2015,"Los Angeles County, CA","05000US06037","Astrophysics","400202","Research Doctorate","17",5
+2013,"Los Angeles County, CA","05000US06037","Astrophysics","400202","Research Doctorate","17",6
+2014,"Los Angeles County, CA","05000US06037","Astrophysics","400202","Research Doctorate","17",3
+2015,"Los Angeles County, CA","05000US06037","Planetary Astronomy & Science","400203","Research Doctorate","17",3
+2013,"Los Angeles County, CA","05000US06037","Planetary Astronomy & Science","400203","Research Doctorate","17",3
+2014,"Los Angeles County, CA","05000US06037","Planetary Astronomy & Science","400203","Research Doctorate","17",2
+2015,"Los Angeles County, CA","05000US06037","General Atmospheric Sciences & Meteorology","400401","Research Doctorate","17",7
+2013,"Los Angeles County, CA","05000US06037","General Atmospheric Sciences & Meteorology","400401","Research Doctorate","17",1
+2014,"Los Angeles County, CA","05000US06037","General Atmospheric Sciences & Meteorology","400401","Research Doctorate","17",3
+2015,"Los Angeles County, CA","05000US06037","General Chemistry","400501","Research Doctorate","17",98
+2013,"Los Angeles County, CA","05000US06037","General Chemistry","400501","Research Doctorate","17",79
+2014,"Los Angeles County, CA","05000US06037","General Chemistry","400501","Research Doctorate","17",103
+2013,"Los Angeles County, CA","05000US06037","Chemical Physics","400508","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","General Geology & Earch Science","400601","Research Doctorate","17",10
+2013,"Los Angeles County, CA","05000US06037","General Geology & Earch Science","400601","Research Doctorate","17",18
+2014,"Los Angeles County, CA","05000US06037","General Geology & Earch Science","400601","Research Doctorate","17",14
+2015,"Los Angeles County, CA","05000US06037","Geochemistry","400602","Research Doctorate","17",2
+2013,"Los Angeles County, CA","05000US06037","Geochemistry","400602","Research Doctorate","17",4
+2014,"Los Angeles County, CA","05000US06037","Geochemistry","400602","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","Geophysics & Seismology","400603","Research Doctorate","17",7
+2013,"Los Angeles County, CA","05000US06037","Geophysics & Seismology","400603","Research Doctorate","17",7
+2014,"Los Angeles County, CA","05000US06037","Geophysics & Seismology","400603","Research Doctorate","17",11
+2015,"Los Angeles County, CA","05000US06037","General Physics","400801","Research Doctorate","17",41
+2013,"Los Angeles County, CA","05000US06037","General Physics","400801","Research Doctorate","17",54
+2014,"Los Angeles County, CA","05000US06037","General Physics","400801","Research Doctorate","17",65
+2015,"Los Angeles County, CA","05000US06037","Materials Science","401001","Research Doctorate","17",7
+2013,"Los Angeles County, CA","05000US06037","Materials Science","401001","Research Doctorate","17",9
+2014,"Los Angeles County, CA","05000US06037","Materials Science","401001","Research Doctorate","17",3
+2015,"Los Angeles County, CA","05000US06037","General Psychology","420101","Research Doctorate","17",55
+2013,"Los Angeles County, CA","05000US06037","General Psychology","420101","Research Doctorate","17",61
+2014,"Los Angeles County, CA","05000US06037","General Psychology","420101","Research Doctorate","17",72
+2015,"Los Angeles County, CA","05000US06037","Clinical Psychology","422801","Research Doctorate","17",55
+2013,"Los Angeles County, CA","05000US06037","Clinical Psychology","422801","Research Doctorate","17",43
+2014,"Los Angeles County, CA","05000US06037","Clinical Psychology","422801","Research Doctorate","17",58
+2015,"Los Angeles County, CA","05000US06037","Counseling Psychology","422803","Research Doctorate","17",5
+2013,"Los Angeles County, CA","05000US06037","Counseling Psychology","422803","Research Doctorate","17",3
+2014,"Los Angeles County, CA","05000US06037","Counseling Psychology","422803","Research Doctorate","17",4
+2015,"Los Angeles County, CA","05000US06037","Industrial & Organizational Psychology","422804","Research Doctorate","17",21
+2015,"Los Angeles County, CA","05000US06037","Health & Medical Psychology","422810","Research Doctorate","17",19
+2015,"Los Angeles County, CA","05000US06037","Applied Behavior Analysis","422814","Research Doctorate","17",3
+2014,"Los Angeles County, CA","05000US06037","Applied Behavior Analysis","422814","Research Doctorate","17",3
+2015,"Los Angeles County, CA","05000US06037","Other Psychology","429999","Research Doctorate","17",52
+2013,"Los Angeles County, CA","05000US06037","Other Psychology","429999","Research Doctorate","17",38
+2014,"Los Angeles County, CA","05000US06037","Other Psychology","429999","Research Doctorate","17",40
+2015,"Los Angeles County, CA","05000US06037","Public Administration","440401","Research Doctorate","17",8
+2013,"Los Angeles County, CA","05000US06037","Public Administration","440401","Research Doctorate","17",8
+2014,"Los Angeles County, CA","05000US06037","Public Administration","440401","Research Doctorate","17",13
+2015,"Los Angeles County, CA","05000US06037","General Public Policy Analysis","440501","Research Doctorate","17",25
+2013,"Los Angeles County, CA","05000US06037","General Public Policy Analysis","440501","Research Doctorate","17",8
+2014,"Los Angeles County, CA","05000US06037","General Public Policy Analysis","440501","Research Doctorate","17",21
+2015,"Los Angeles County, CA","05000US06037","Social Work","440701","Research Doctorate","17",9
+2013,"Los Angeles County, CA","05000US06037","Social Work","440701","Research Doctorate","17",16
+2014,"Los Angeles County, CA","05000US06037","Social Work","440701","Research Doctorate","17",16
+2015,"Los Angeles County, CA","05000US06037","General Social Sciences","450101","Research Doctorate","17",7
+2013,"Los Angeles County, CA","05000US06037","General Social Sciences","450101","Research Doctorate","17",11
+2014,"Los Angeles County, CA","05000US06037","General Social Sciences","450101","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","Anthropology","450201","Research Doctorate","17",9
+2013,"Los Angeles County, CA","05000US06037","Anthropology","450201","Research Doctorate","17",8
+2014,"Los Angeles County, CA","05000US06037","Anthropology","450201","Research Doctorate","17",10
+2015,"Los Angeles County, CA","05000US06037","Archeology","450301","Research Doctorate","17",5
+2013,"Los Angeles County, CA","05000US06037","Archeology","450301","Research Doctorate","17",2
+2014,"Los Angeles County, CA","05000US06037","Archeology","450301","Research Doctorate","17",4
+2015,"Los Angeles County, CA","05000US06037","General Economics","450601","Research Doctorate","17",31
+2013,"Los Angeles County, CA","05000US06037","General Economics","450601","Research Doctorate","17",42
+2014,"Los Angeles County, CA","05000US06037","General Economics","450601","Research Doctorate","17",36
+2015,"Los Angeles County, CA","05000US06037","Geography","450701","Research Doctorate","17",10
+2013,"Los Angeles County, CA","05000US06037","Geography","450701","Research Doctorate","17",7
+2014,"Los Angeles County, CA","05000US06037","Geography","450701","Research Doctorate","17",9
+2015,"Los Angeles County, CA","05000US06037","International Relations & Affairs","450901","Research Doctorate","17",6
+2013,"Los Angeles County, CA","05000US06037","International Relations & Affairs","450901","Research Doctorate","17",8
+2014,"Los Angeles County, CA","05000US06037","International Relations & Affairs","450901","Research Doctorate","17",7
+2015,"Los Angeles County, CA","05000US06037","General Political Science & Government","451001","Research Doctorate","17",36
+2013,"Los Angeles County, CA","05000US06037","General Political Science & Government","451001","Research Doctorate","17",27
+2014,"Los Angeles County, CA","05000US06037","General Political Science & Government","451001","Research Doctorate","17",34
+2014,"Los Angeles County, CA","05000US06037","Political Economy","451004","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","Sociology","451101","Research Doctorate","17",24
+2013,"Los Angeles County, CA","05000US06037","Sociology","451101","Research Doctorate","17",16
+2014,"Los Angeles County, CA","05000US06037","Sociology","451101","Research Doctorate","17",17
+2015,"Los Angeles County, CA","05000US06037","Urban Studies","451201","Research Doctorate","17",7
+2013,"Los Angeles County, CA","05000US06037","Urban Studies","451201","Research Doctorate","17",7
+2014,"Los Angeles County, CA","05000US06037","Urban Studies","451201","Research Doctorate","17",11
+2015,"Los Angeles County, CA","05000US06037","General Drama & Theater Arts","500501","Research Doctorate","17",4
+2013,"Los Angeles County, CA","05000US06037","General Drama & Theater Arts","500501","Research Doctorate","17",3
+2014,"Los Angeles County, CA","05000US06037","General Drama & Theater Arts","500501","Research Doctorate","17",4
+2015,"Los Angeles County, CA","05000US06037","Film, Cinema, & Video Studies","500601","Research Doctorate","17",12
+2013,"Los Angeles County, CA","05000US06037","Film, Cinema, & Video Studies","500601","Research Doctorate","17",14
+2014,"Los Angeles County, CA","05000US06037","Film, Cinema, & Video Studies","500601","Research Doctorate","17",17
+2015,"Los Angeles County, CA","05000US06037","Art History, Criticism, & Conservation","500703","Research Doctorate","17",9
+2013,"Los Angeles County, CA","05000US06037","Art History, Criticism, & Conservation","500703","Research Doctorate","17",7
+2014,"Los Angeles County, CA","05000US06037","Art History, Criticism, & Conservation","500703","Research Doctorate","17",8
+2015,"Los Angeles County, CA","05000US06037","General Music","500901","Research Doctorate","17",14
+2013,"Los Angeles County, CA","05000US06037","General Music","500901","Research Doctorate","17",15
+2014,"Los Angeles County, CA","05000US06037","General Music","500901","Research Doctorate","17",13
+2015,"Los Angeles County, CA","05000US06037","General Music Performance","500903","Research Doctorate","17",6
+2013,"Los Angeles County, CA","05000US06037","General Music Performance","500903","Research Doctorate","17",5
+2014,"Los Angeles County, CA","05000US06037","General Music Performance","500903","Research Doctorate","17",4
+2015,"Los Angeles County, CA","05000US06037","Music Theory & Composition","500904","Research Doctorate","17",2
+2013,"Los Angeles County, CA","05000US06037","Music Theory & Composition","500904","Research Doctorate","17",3
+2014,"Los Angeles County, CA","05000US06037","Music Theory & Composition","500904","Research Doctorate","17",2
+2015,"Los Angeles County, CA","05000US06037","Musicology & Ethnomusicology","500905","Research Doctorate","17",13
+2013,"Los Angeles County, CA","05000US06037","Musicology & Ethnomusicology","500905","Research Doctorate","17",13
+2014,"Los Angeles County, CA","05000US06037","Musicology & Ethnomusicology","500905","Research Doctorate","17",8
+2015,"Los Angeles County, CA","05000US06037","Keyboard Instruments","500907","Research Doctorate","17",8
+2013,"Los Angeles County, CA","05000US06037","Keyboard Instruments","500907","Research Doctorate","17",9
+2014,"Los Angeles County, CA","05000US06037","Keyboard Instruments","500907","Research Doctorate","17",8
+2015,"Los Angeles County, CA","05000US06037","Voice & Opera","500908","Research Doctorate","17",9
+2013,"Los Angeles County, CA","05000US06037","Voice & Opera","500908","Research Doctorate","17",7
+2014,"Los Angeles County, CA","05000US06037","Voice & Opera","500908","Research Doctorate","17",7
+2015,"Los Angeles County, CA","05000US06037","Jazz & Jazz Studies","500910","Research Doctorate","17",1
+2013,"Los Angeles County, CA","05000US06037","Jazz & Jazz Studies","500910","Research Doctorate","17",3
+2014,"Los Angeles County, CA","05000US06037","Jazz & Jazz Studies","500910","Research Doctorate","17",2
+2015,"Los Angeles County, CA","05000US06037","Stringed Instruments","500911","Research Doctorate","17",7
+2013,"Los Angeles County, CA","05000US06037","Stringed Instruments","500911","Research Doctorate","17",3
+2014,"Los Angeles County, CA","05000US06037","Stringed Instruments","500911","Research Doctorate","17",3
+2015,"Los Angeles County, CA","05000US06037","Music Pedagogy","500912","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","Brass Instruments","500914","Research Doctorate","17",1
+2013,"Los Angeles County, CA","05000US06037","Brass Instruments","500914","Research Doctorate","17",8
+2015,"Los Angeles County, CA","05000US06037","Woodwind Instruments","500915","Research Doctorate","17",5
+2013,"Los Angeles County, CA","05000US06037","Woodwind Instruments","500915","Research Doctorate","17",4
+2014,"Los Angeles County, CA","05000US06037","Woodwind Instruments","500915","Research Doctorate","17",3
+2013,"Los Angeles County, CA","05000US06037","Percussion Instruments","500916","Research Doctorate","17",1
+2013,"Los Angeles County, CA","05000US06037","Other Music","500999","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","Oral Biology & Maxillofacial Pathology","510503","Research Doctorate","17",4
+2014,"Los Angeles County, CA","05000US06037","Oral Biology & Maxillofacial Pathology","510503","Research Doctorate","17",2
+2015,"Los Angeles County, CA","05000US06037","Other Graduate Dentistry & Oral Sciences","510599","Research Doctorate","17",5
+2014,"Los Angeles County, CA","05000US06037","Other Graduate Dentistry & Oral Sciences","510599","Research Doctorate","17",1
+2013,"Los Angeles County, CA","05000US06037","Health Care Administration & Management","510701","Research Doctorate","17",13
+2015,"Los Angeles County, CA","05000US06037","Pharmacoeconomics","512007","Research Doctorate","17",4
+2013,"Los Angeles County, CA","05000US06037","Pharmacoeconomics","512007","Research Doctorate","17",2
+2014,"Los Angeles County, CA","05000US06037","Pharmacoeconomics","512007","Research Doctorate","17",3
+2015,"Los Angeles County, CA","05000US06037","Pharmaceutical Sciences","512010","Research Doctorate","17",6
+2013,"Los Angeles County, CA","05000US06037","Pharmaceutical Sciences","512010","Research Doctorate","17",9
+2014,"Los Angeles County, CA","05000US06037","Pharmaceutical Sciences","512010","Research Doctorate","17",7
+2014,"Los Angeles County, CA","05000US06037","Other Pharmacy, Pharmaceutical Sciences, & Administration","512099","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","General Public Health","512201","Research Doctorate","17",2
+2015,"Los Angeles County, CA","05000US06037","Environmental Health","512202","Research Doctorate","17",1
+2013,"Los Angeles County, CA","05000US06037","Environmental Health","512202","Research Doctorate","17",1
+2014,"Los Angeles County, CA","05000US06037","Environmental Health","512202","Research Doctorate","17",3
+2014,"Los Angeles County, CA","05000US06037","Community Health & Preventative Medicine","512208","Research Doctorate","17",1
+2015,"Los Angeles County, CA","05000US06037","Health Services Administration","512211","Research Doctorate","17",4
+2013,"Los Angeles County, CA","05000US06037","Health Services Administration","512211","Research Doctorate","17",8
+2014,"Los Angeles County, CA","05000US06037","Health Services Administration","512211","Research Doctorate","17",4
+2015,"Los Angeles County, CA","05000US06037","Behavioral Aspects of Health","512212","Research Doctorate","17",1
+2013,"Los Angeles County, CA","05000US06037","Behavioral Aspects of Health","512212","Research Doctorate","17",2
+2014,"Los Angeles County, CA","05000US06037","Behavioral Aspects of Health","512212","Research Doctorate","17",5
+2015,"Los Angeles County, CA","05000US06037","Other Public Health","512299","Research Doctorate","17",16
+2013,"Los Angeles County, CA","05000US06037","Other Public Health","512299","Research Doctorate","17",20
+2014,"Los Angeles County, CA","05000US06037","Other Public Health","512299","Research Doctorate","17",18
+2015,"Los Angeles County, CA","05000US06037","Occupational Therapy","512306","Research Doctorate","17",2
+2013,"Los Angeles County, CA","05000US06037","Occupational Therapy","512306","Research Doctorate","17",4
+2014,"Los Angeles County, CA","05000US06037","Occupational Therapy","512306","Research Doctorate","17",2
+2015,"Los Angeles County, CA","05000US06037","Physical Therapy","512308","Research Doctorate","17",36
+2013,"Los Angeles County, CA","05000US06037","Physical Therapy","512308","Research Doctorate","17",7
+2014,"Los Angeles County, CA","05000US06037","Physical Therapy","512308","Research Doctorate","17",3
+2015,"Los Angeles County, CA","05000US06037","Registered Nursing","513801","Research Doctorate","17",5
+2013,"Los Angeles County, CA","05000US06037","Registered Nursing","513801","Research Doctorate","17",5
+2014,"Los Angeles County, CA","05000US06037","Registered Nursing","513801","Research Doctorate","17",7
+2015,"Los Angeles County, CA","05000US06037","Other Registered Nursing, Nursing Administration, Nursing Research, & Clinical Nursing","513899","Research Doctorate","17",8
+2013,"Los Angeles County, CA","05000US06037","Other Registered Nursing, Nursing Administration, Nursing Research, & Clinical Nursing","513899","Research Doctorate","17",4
+2014,"Los Angeles County, CA","05000US06037","Other Registered Nursing, Nursing Administration, Nursing Research, & Clinical Nursing","513899","Research Doctorate","17",6
+2015,"Los Angeles County, CA","05000US06037","General Business","520101","Research Doctorate","17",4
+2013,"Los Angeles County, CA","05000US06037","General Business","520101","Research Doctorate","17",5
+2014,"Los Angeles County, CA","05000US06037","General Business","520101","Research Doctorate","17",2
+2015,"Los Angeles County, CA","05000US06037","General Business Administration & Management","520201","Research Doctorate","17",46
+2013,"Los Angeles County, CA","05000US06037","General Business Administration & Management","520201","Research Doctorate","17",30
+2014,"Los Angeles County, CA","05000US06037","General Business Administration & Management","520201","Research Doctorate","17",40
+2013,"Los Angeles County, CA","05000US06037","Entrepreneurial Studies","520701","Research Doctorate","17",6
+2014,"Los Angeles County, CA","05000US06037","Other Finance & Financial Management Services","520899","Research Doctorate","17",1
+2013,"Los Angeles County, CA","05000US06037","Organizational Behavior Studies","521003","Research Doctorate","17",3
+2014,"Los Angeles County, CA","05000US06037","Organizational Behavior Studies","521003","Research Doctorate","17",6
+2015,"Los Angeles County, CA","05000US06037","General History","540101","Research Doctorate","17",37
+2013,"Los Angeles County, CA","05000US06037","General History","540101","Research Doctorate","17",49
+2014,"Los Angeles County, CA","05000US06037","General History","540101","Research Doctorate","17",36

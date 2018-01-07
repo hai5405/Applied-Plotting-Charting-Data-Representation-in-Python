@@ -1,0 +1,4 @@
+year,geo_name,geo,grads_asian,grads_black,grads_white,grads_hispanic,grads_hawaiian,grads_multi,grads_unknown,grads_native
+2015,"New York, NY","16000US3651000",17428,23482,49847,26989,299,2566,7483,497
+2014,"New York, NY","16000US3651000",17317,23553,52453,26164,279,2515,8737,336
+2013,"New York, NY","16000US3651000",16604,23737,54527,24277,275,1761,8590,352

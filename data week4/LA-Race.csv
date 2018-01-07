@@ -1,0 +1,4 @@
+year,geo_name,geo,grads_asian,grads_black,grads_white,grads_hispanic,grads_hawaiian,grads_multi,grads_unknown,grads_native
+2015,"Los Angeles County, CA","05000US06037",23837,11482,41935,54970,724,4723,9069,462
+2014,"Los Angeles County, CA","05000US06037",23121,11975,42890,53191,955,4564,11142,541
+2013,"Los Angeles County, CA","05000US06037",23413,12059,43335,51888,1235,3573,13208,641

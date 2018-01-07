@@ -1,0 +1,1044 @@
+year,geo_name,geo,cip_name,cip,degree_name,degree,grads_total
+2015,"New York, NY","16000US3651000","Environmental Studies","030103","Bachelor's Degree","5",94
+2013,"New York, NY","16000US3651000","Environmental Studies","030103","Bachelor's Degree","5",66
+2014,"New York, NY","16000US3651000","Environmental Studies","030103","Bachelor's Degree","5",87
+2015,"New York, NY","16000US3651000","Environmental Science","030104","Bachelor's Degree","5",44
+2013,"New York, NY","16000US3651000","Environmental Science","030104","Bachelor's Degree","5",45
+2014,"New York, NY","16000US3651000","Environmental Science","030104","Bachelor's Degree","5",38
+2015,"New York, NY","16000US3651000","Architecture","040201","Bachelor's Degree","5",210
+2013,"New York, NY","16000US3651000","Architecture","040201","Bachelor's Degree","5",216
+2014,"New York, NY","16000US3651000","Architecture","040201","Bachelor's Degree","5",217
+2015,"New York, NY","16000US3651000","Urban, Community, & Regional Planning","040301","Bachelor's Degree","5",5
+2014,"New York, NY","16000US3651000","Urban, Community, & Regional Planning","040301","Bachelor's Degree","5",4
+2013,"New York, NY","16000US3651000","Landscape Architecture","040601","Bachelor's Degree","5",1
+2014,"New York, NY","16000US3651000","Landscape Architecture","040601","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","Architectural Technology","040901","Bachelor's Degree","5",114
+2013,"New York, NY","16000US3651000","Architectural Technology","040901","Bachelor's Degree","5",77
+2014,"New York, NY","16000US3651000","Architectural Technology","040901","Bachelor's Degree","5",91
+2015,"New York, NY","16000US3651000","Other Architecture & Related Services","049999","Bachelor's Degree","5",20
+2013,"New York, NY","16000US3651000","Other Architecture & Related Services","049999","Bachelor's Degree","5",29
+2014,"New York, NY","16000US3651000","Other Architecture & Related Services","049999","Bachelor's Degree","5",27
+2015,"New York, NY","16000US3651000","African Studies","050101","Bachelor's Degree","5",4
+2013,"New York, NY","16000US3651000","African Studies","050101","Bachelor's Degree","5",7
+2014,"New York, NY","16000US3651000","African Studies","050101","Bachelor's Degree","5",9
+2015,"New York, NY","16000US3651000","American & U.S. Studies","050102","Bachelor's Degree","5",66
+2013,"New York, NY","16000US3651000","American & U.S. Studies","050102","Bachelor's Degree","5",54
+2014,"New York, NY","16000US3651000","American & U.S. Studies","050102","Bachelor's Degree","5",56
+2015,"New York, NY","16000US3651000","Asian Studies","050103","Bachelor's Degree","5",23
+2013,"New York, NY","16000US3651000","Asian Studies","050103","Bachelor's Degree","5",21
+2014,"New York, NY","16000US3651000","Asian Studies","050103","Bachelor's Degree","5",28
+2015,"New York, NY","16000US3651000","East Asian Studies","050104","Bachelor's Degree","5",47
+2013,"New York, NY","16000US3651000","East Asian Studies","050104","Bachelor's Degree","5",64
+2014,"New York, NY","16000US3651000","East Asian Studies","050104","Bachelor's Degree","5",59
+2015,"New York, NY","16000US3651000","European Studies","050106","Bachelor's Degree","5",8
+2013,"New York, NY","16000US3651000","European Studies","050106","Bachelor's Degree","5",5
+2014,"New York, NY","16000US3651000","European Studies","050106","Bachelor's Degree","5",7
+2015,"New York, NY","16000US3651000","Latin American Studies","050107","Bachelor's Degree","5",19
+2013,"New York, NY","16000US3651000","Latin American Studies","050107","Bachelor's Degree","5",33
+2014,"New York, NY","16000US3651000","Latin American Studies","050107","Bachelor's Degree","5",18
+2015,"New York, NY","16000US3651000","Near & Middle Eastern Studies","050108","Bachelor's Degree","5",34
+2013,"New York, NY","16000US3651000","Near & Middle Eastern Studies","050108","Bachelor's Degree","5",39
+2014,"New York, NY","16000US3651000","Near & Middle Eastern Studies","050108","Bachelor's Degree","5",35
+2015,"New York, NY","16000US3651000","Russian Studies","050110","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","Western European Studies","050114","Bachelor's Degree","5",9
+2013,"New York, NY","16000US3651000","Western European Studies","050114","Bachelor's Degree","5",11
+2014,"New York, NY","16000US3651000","Western European Studies","050114","Bachelor's Degree","5",15
+2013,"New York, NY","16000US3651000","Slavic Studies","050118","Bachelor's Degree","5",1
+2014,"New York, NY","16000US3651000","Slavic Studies","050118","Bachelor's Degree","5",2
+2013,"New York, NY","16000US3651000","French Studies","050124","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","Italian Studies","050126","Bachelor's Degree","5",2
+2015,"New York, NY","16000US3651000","Spanish & Iberian Studies","050130","Bachelor's Degree","5",1
+2014,"New York, NY","16000US3651000","Spanish & Iberian Studies","050130","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","Latin American & Caribbean Studies","050134","Bachelor's Degree","5",13
+2013,"New York, NY","16000US3651000","Latin American & Caribbean Studies","050134","Bachelor's Degree","5",13
+2014,"New York, NY","16000US3651000","Latin American & Caribbean Studies","050134","Bachelor's Degree","5",11
+2015,"New York, NY","16000US3651000","Other Area Studies","050199","Bachelor's Degree","5",2
+2013,"New York, NY","16000US3651000","Other Area Studies","050199","Bachelor's Degree","5",2
+2014,"New York, NY","16000US3651000","Other Area Studies","050199","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","Ethnic Studies","050200","Bachelor's Degree","5",20
+2013,"New York, NY","16000US3651000","Ethnic Studies","050200","Bachelor's Degree","5",39
+2014,"New York, NY","16000US3651000","Ethnic Studies","050200","Bachelor's Degree","5",16
+2015,"New York, NY","16000US3651000","African-American & Black Studies","050201","Bachelor's Degree","5",35
+2013,"New York, NY","16000US3651000","African-American & Black Studies","050201","Bachelor's Degree","5",42
+2014,"New York, NY","16000US3651000","African-American & Black Studies","050201","Bachelor's Degree","5",38
+2015,"New York, NY","16000US3651000","Hispanic-American, Puerto Rican, & Mexican-American Studies","050203","Bachelor's Degree","5",3
+2013,"New York, NY","16000US3651000","Hispanic-American, Puerto Rican, & Mexican-American Studies","050203","Bachelor's Degree","5",8
+2014,"New York, NY","16000US3651000","Hispanic-American, Puerto Rican, & Mexican-American Studies","050203","Bachelor's Degree","5",8
+2013,"New York, NY","16000US3651000","Asian-American Studies","050206","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","Women's Studies","050207","Bachelor's Degree","5",40
+2013,"New York, NY","16000US3651000","Women's Studies","050207","Bachelor's Degree","5",46
+2014,"New York, NY","16000US3651000","Women's Studies","050207","Bachelor's Degree","5",41
+2015,"New York, NY","16000US3651000","Disability Studies","050210","Bachelor's Degree","5",7
+2014,"New York, NY","16000US3651000","Disability Studies","050210","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","Other Ethnic, Minority, Gender, & Group Studies","050299","Bachelor's Degree","5",104
+2013,"New York, NY","16000US3651000","Other Ethnic, Minority, Gender, & Group Studies","050299","Bachelor's Degree","5",125
+2014,"New York, NY","16000US3651000","Other Ethnic, Minority, Gender, & Group Studies","050299","Bachelor's Degree","5",107
+2015,"New York, NY","16000US3651000","General Communication","090100","Bachelor's Degree","5",324
+2013,"New York, NY","16000US3651000","General Communication","090100","Bachelor's Degree","5",191
+2014,"New York, NY","16000US3651000","General Communication","090100","Bachelor's Degree","5",193
+2015,"New York, NY","16000US3651000","Speech Communication & Rhetoric","090101","Bachelor's Degree","5",579
+2013,"New York, NY","16000US3651000","Speech Communication & Rhetoric","090101","Bachelor's Degree","5",672
+2014,"New York, NY","16000US3651000","Speech Communication & Rhetoric","090101","Bachelor's Degree","5",672
+2015,"New York, NY","16000US3651000","Mass Communication & Media Studies","090102","Bachelor's Degree","5",481
+2013,"New York, NY","16000US3651000","Mass Communication & Media Studies","090102","Bachelor's Degree","5",420
+2014,"New York, NY","16000US3651000","Mass Communication & Media Studies","090102","Bachelor's Degree","5",489
+2015,"New York, NY","16000US3651000","Other Communication & Media Studies","090199","Bachelor's Degree","5",229
+2013,"New York, NY","16000US3651000","Other Communication & Media Studies","090199","Bachelor's Degree","5",244
+2014,"New York, NY","16000US3651000","Other Communication & Media Studies","090199","Bachelor's Degree","5",232
+2015,"New York, NY","16000US3651000","Journalism","090401","Bachelor's Degree","5",271
+2013,"New York, NY","16000US3651000","Journalism","090401","Bachelor's Degree","5",268
+2014,"New York, NY","16000US3651000","Journalism","090401","Bachelor's Degree","5",230
+2015,"New York, NY","16000US3651000","Broadcast Journalism","090402","Bachelor's Degree","5",20
+2013,"New York, NY","16000US3651000","Broadcast Journalism","090402","Bachelor's Degree","5",16
+2014,"New York, NY","16000US3651000","Broadcast Journalism","090402","Bachelor's Degree","5",17
+2015,"New York, NY","16000US3651000","Photojournalism","090404","Bachelor's Degree","5",2
+2013,"New York, NY","16000US3651000","Photojournalism","090404","Bachelor's Degree","5",4
+2014,"New York, NY","16000US3651000","Photojournalism","090404","Bachelor's Degree","5",1
+2013,"New York, NY","16000US3651000","Other Journalism","090499","Bachelor's Degree","5",17
+2014,"New York, NY","16000US3651000","Other Journalism","090499","Bachelor's Degree","5",21
+2015,"New York, NY","16000US3651000","Radio & Television","090701","Bachelor's Degree","5",72
+2013,"New York, NY","16000US3651000","Radio & Television","090701","Bachelor's Degree","5",87
+2014,"New York, NY","16000US3651000","Radio & Television","090701","Bachelor's Degree","5",72
+2015,"New York, NY","16000US3651000","Digital Communication & Multimedia","090702","Bachelor's Degree","5",36
+2013,"New York, NY","16000US3651000","Digital Communication & Multimedia","090702","Bachelor's Degree","5",23
+2014,"New York, NY","16000US3651000","Digital Communication & Multimedia","090702","Bachelor's Degree","5",13
+2015,"New York, NY","16000US3651000","Other Radio, Television, & Digital Communication","090799","Bachelor's Degree","5",13
+2013,"New York, NY","16000US3651000","Other Radio, Television, & Digital Communication","090799","Bachelor's Degree","5",37
+2014,"New York, NY","16000US3651000","Other Radio, Television, & Digital Communication","090799","Bachelor's Degree","5",23
+2015,"New York, NY","16000US3651000","Advertising","090903","Bachelor's Degree","5",392
+2013,"New York, NY","16000US3651000","Advertising","090903","Bachelor's Degree","5",405
+2014,"New York, NY","16000US3651000","Advertising","090903","Bachelor's Degree","5",438
+2015,"New York, NY","16000US3651000","Other Public Relations, Advertising, & Applied Communication","090999","Bachelor's Degree","5",57
+2013,"New York, NY","16000US3651000","Other Public Relations, Advertising, & Applied Communication","090999","Bachelor's Degree","5",62
+2014,"New York, NY","16000US3651000","Other Public Relations, Advertising, & Applied Communication","090999","Bachelor's Degree","5",50
+2015,"New York, NY","16000US3651000","Other Communication, Journalism, & Related Programs","099999","Bachelor's Degree","5",18
+2013,"New York, NY","16000US3651000","Other Communication, Journalism, & Related Programs","099999","Bachelor's Degree","5",20
+2014,"New York, NY","16000US3651000","Other Communication, Journalism, & Related Programs","099999","Bachelor's Degree","5",12
+2015,"New York, NY","16000US3651000","Communications Technology","100105","Bachelor's Degree","5",12
+2013,"New York, NY","16000US3651000","Communications Technology","100105","Bachelor's Degree","5",9
+2014,"New York, NY","16000US3651000","Communications Technology","100105","Bachelor's Degree","5",12
+2015,"New York, NY","16000US3651000","Photographic & Video Technology","100201","Bachelor's Degree","5",38
+2013,"New York, NY","16000US3651000","Photographic & Video Technology","100201","Bachelor's Degree","5",45
+2014,"New York, NY","16000US3651000","Photographic & Video Technology","100201","Bachelor's Degree","5",38
+2015,"New York, NY","16000US3651000","Radio & Television Broadcasting Technology","100202","Bachelor's Degree","5",11
+2013,"New York, NY","16000US3651000","Radio & Television Broadcasting Technology","100202","Bachelor's Degree","5",5
+2014,"New York, NY","16000US3651000","Radio & Television Broadcasting Technology","100202","Bachelor's Degree","5",9
+2013,"New York, NY","16000US3651000","Prepress Publising & Digital Imaging Design","100303","Bachelor's Degree","5",3
+2015,"New York, NY","16000US3651000","Animation, Interactive Technology, Video Graphics, & Special Effects","100304","Bachelor's Degree","5",80
+2013,"New York, NY","16000US3651000","Animation, Interactive Technology, Video Graphics, & Special Effects","100304","Bachelor's Degree","5",69
+2014,"New York, NY","16000US3651000","Animation, Interactive Technology, Video Graphics, & Special Effects","100304","Bachelor's Degree","5",59
+2015,"New York, NY","16000US3651000","General Computer & Information Sciences","110101","Bachelor's Degree","5",355
+2013,"New York, NY","16000US3651000","General Computer & Information Sciences","110101","Bachelor's Degree","5",232
+2014,"New York, NY","16000US3651000","General Computer & Information Sciences","110101","Bachelor's Degree","5",327
+2015,"New York, NY","16000US3651000","Information Technology","110103","Bachelor's Degree","5",89
+2014,"New York, NY","16000US3651000","Information Technology","110103","Bachelor's Degree","5",55
+2014,"New York, NY","16000US3651000","Other Computer & Information Sciences","110199","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","Information Science","110401","Bachelor's Degree","5",379
+2013,"New York, NY","16000US3651000","Information Science","110401","Bachelor's Degree","5",418
+2014,"New York, NY","16000US3651000","Information Science","110401","Bachelor's Degree","5",420
+2015,"New York, NY","16000US3651000","Computer Systems Analysis","110501","Bachelor's Degree","5",21
+2013,"New York, NY","16000US3651000","Computer Systems Analysis","110501","Bachelor's Degree","5",31
+2014,"New York, NY","16000US3651000","Computer Systems Analysis","110501","Bachelor's Degree","5",28
+2015,"New York, NY","16000US3651000","Computer Science","110701","Bachelor's Degree","5",441
+2013,"New York, NY","16000US3651000","Computer Science","110701","Bachelor's Degree","5",334
+2014,"New York, NY","16000US3651000","Computer Science","110701","Bachelor's Degree","5",385
+2015,"New York, NY","16000US3651000","Web Page, Digital, & Information Resource Design","110801","Bachelor's Degree","5",25
+2013,"New York, NY","16000US3651000","Web Page, Digital, & Information Resource Design","110801","Bachelor's Degree","5",8
+2014,"New York, NY","16000US3651000","Web Page, Digital, & Information Resource Design","110801","Bachelor's Degree","5",32
+2015,"New York, NY","16000US3651000","Computer Graphics","110803","Bachelor's Degree","5",73
+2013,"New York, NY","16000US3651000","Computer Graphics","110803","Bachelor's Degree","5",68
+2014,"New York, NY","16000US3651000","Computer Graphics","110803","Bachelor's Degree","5",84
+2013,"New York, NY","16000US3651000","Other Computer Software & Media Applications","110899","Bachelor's Degree","5",1
+2014,"New York, NY","16000US3651000","Other Computer Software & Media Applications","110899","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","Computer Systems Networking & Telecommunications","110901","Bachelor's Degree","5",29
+2013,"New York, NY","16000US3651000","Computer Systems Networking & Telecommunications","110901","Bachelor's Degree","5",27
+2014,"New York, NY","16000US3651000","Computer Systems Networking & Telecommunications","110901","Bachelor's Degree","5",26
+2015,"New York, NY","16000US3651000","Network & System Administration","111001","Bachelor's Degree","5",7
+2015,"New York, NY","16000US3651000","Computer & Information Systems Security","111003","Bachelor's Degree","5",50
+2013,"New York, NY","16000US3651000","Computer & Information Systems Security","111003","Bachelor's Degree","5",21
+2014,"New York, NY","16000US3651000","Computer & Information Systems Security","111003","Bachelor's Degree","5",30
+2015,"New York, NY","16000US3651000","Information Technology Project Management","111005","Bachelor's Degree","5",31
+2013,"New York, NY","16000US3651000","Information Technology Project Management","111005","Bachelor's Degree","5",22
+2014,"New York, NY","16000US3651000","Information Technology Project Management","111005","Bachelor's Degree","5",26
+2015,"New York, NY","16000US3651000","Other Computer & Information Technology Services Management","111099","Bachelor's Degree","5",28
+2013,"New York, NY","16000US3651000","Other Computer & Information Technology Services Management","111099","Bachelor's Degree","5",107
+2014,"New York, NY","16000US3651000","Other Computer & Information Technology Services Management","111099","Bachelor's Degree","5",45
+2015,"New York, NY","16000US3651000","Other Computer & Information Support Services","119999","Bachelor's Degree","5",9
+2013,"New York, NY","16000US3651000","Other Computer & Information Support Services","119999","Bachelor's Degree","5",31
+2014,"New York, NY","16000US3651000","Other Computer & Information Support Services","119999","Bachelor's Degree","5",30
+2015,"New York, NY","16000US3651000","General Funeral Service & Mortuary Science","120301","Bachelor's Degree","5",3
+2013,"New York, NY","16000US3651000","General Funeral Service & Mortuary Science","120301","Bachelor's Degree","5",2
+2014,"New York, NY","16000US3651000","General Funeral Service & Mortuary Science","120301","Bachelor's Degree","5",2
+2015,"New York, NY","16000US3651000","General Education","130101","Bachelor's Degree","5",3
+2013,"New York, NY","16000US3651000","General Education","130101","Bachelor's Degree","5",4
+2014,"New York, NY","16000US3651000","General Education","130101","Bachelor's Degree","5",6
+2015,"New York, NY","16000US3651000","Bilingual & Multilingual Education","130201","Bachelor's Degree","5",26
+2013,"New York, NY","16000US3651000","Bilingual & Multilingual Education","130201","Bachelor's Degree","5",16
+2014,"New York, NY","16000US3651000","Bilingual & Multilingual Education","130201","Bachelor's Degree","5",18
+2015,"New York, NY","16000US3651000","Social & Philosophical Foundations of Education","130901","Bachelor's Degree","5",6
+2013,"New York, NY","16000US3651000","Social & Philosophical Foundations of Education","130901","Bachelor's Degree","5",5
+2014,"New York, NY","16000US3651000","Social & Philosophical Foundations of Education","130901","Bachelor's Degree","5",11
+2015,"New York, NY","16000US3651000","General Special Education & Teaching","131001","Bachelor's Degree","5",267
+2013,"New York, NY","16000US3651000","General Special Education & Teaching","131001","Bachelor's Degree","5",355
+2014,"New York, NY","16000US3651000","General Special Education & Teaching","131001","Bachelor's Degree","5",275
+2015,"New York, NY","16000US3651000","Education of Individuals in Early Childhood Special Education Programs","131015","Bachelor's Degree","5",13
+2013,"New York, NY","16000US3651000","Education of Individuals in Early Childhood Special Education Programs","131015","Bachelor's Degree","5",18
+2014,"New York, NY","16000US3651000","Education of Individuals in Early Childhood Special Education Programs","131015","Bachelor's Degree","5",13
+2015,"New York, NY","16000US3651000","Education of Individuals in Elementary Special Education Programs","131017","Bachelor's Degree","5",11
+2013,"New York, NY","16000US3651000","Education of Individuals in Elementary Special Education Programs","131017","Bachelor's Degree","5",19
+2014,"New York, NY","16000US3651000","Education of Individuals in Elementary Special Education Programs","131017","Bachelor's Degree","5",18
+2015,"New York, NY","16000US3651000","Elementary Education & Teaching","131202","Bachelor's Degree","5",542
+2013,"New York, NY","16000US3651000","Elementary Education & Teaching","131202","Bachelor's Degree","5",681
+2014,"New York, NY","16000US3651000","Elementary Education & Teaching","131202","Bachelor's Degree","5",563
+2015,"New York, NY","16000US3651000","Secondary Education & Teaching","131205","Bachelor's Degree","5",10
+2013,"New York, NY","16000US3651000","Secondary Education & Teaching","131205","Bachelor's Degree","5",20
+2014,"New York, NY","16000US3651000","Secondary Education & Teaching","131205","Bachelor's Degree","5",15
+2015,"New York, NY","16000US3651000","Early Childhood Education & Teaching","131210","Bachelor's Degree","5",122
+2013,"New York, NY","16000US3651000","Early Childhood Education & Teaching","131210","Bachelor's Degree","5",168
+2014,"New York, NY","16000US3651000","Early Childhood Education & Teaching","131210","Bachelor's Degree","5",196
+2015,"New York, NY","16000US3651000","Art Teacher Education","131302","Bachelor's Degree","5",12
+2013,"New York, NY","16000US3651000","Art Teacher Education","131302","Bachelor's Degree","5",25
+2014,"New York, NY","16000US3651000","Art Teacher Education","131302","Bachelor's Degree","5",20
+2015,"New York, NY","16000US3651000","English & Language Arts Teacher Education","131305","Bachelor's Degree","5",115
+2013,"New York, NY","16000US3651000","English & Language Arts Teacher Education","131305","Bachelor's Degree","5",145
+2014,"New York, NY","16000US3651000","English & Language Arts Teacher Education","131305","Bachelor's Degree","5",107
+2015,"New York, NY","16000US3651000","Foreign Language Teacher Education","131306","Bachelor's Degree","5",2
+2013,"New York, NY","16000US3651000","Foreign Language Teacher Education","131306","Bachelor's Degree","5",7
+2014,"New York, NY","16000US3651000","Foreign Language Teacher Education","131306","Bachelor's Degree","5",7
+2015,"New York, NY","16000US3651000","Health Teacher Education","131307","Bachelor's Degree","5",4
+2013,"New York, NY","16000US3651000","Health Teacher Education","131307","Bachelor's Degree","5",7
+2014,"New York, NY","16000US3651000","Health Teacher Education","131307","Bachelor's Degree","5",8
+2015,"New York, NY","16000US3651000","Family & Consumer Sciences Teacher Education","131308","Bachelor's Degree","5",3
+2013,"New York, NY","16000US3651000","Family & Consumer Sciences Teacher Education","131308","Bachelor's Degree","5",8
+2014,"New York, NY","16000US3651000","Family & Consumer Sciences Teacher Education","131308","Bachelor's Degree","5",3
+2015,"New York, NY","16000US3651000","Technology & Industrial Arts Teacher Education","131309","Bachelor's Degree","5",7
+2013,"New York, NY","16000US3651000","Technology & Industrial Arts Teacher Education","131309","Bachelor's Degree","5",21
+2014,"New York, NY","16000US3651000","Technology & Industrial Arts Teacher Education","131309","Bachelor's Degree","5",6
+2015,"New York, NY","16000US3651000","Mathematics Teacher Education","131311","Bachelor's Degree","5",90
+2013,"New York, NY","16000US3651000","Mathematics Teacher Education","131311","Bachelor's Degree","5",145
+2014,"New York, NY","16000US3651000","Mathematics Teacher Education","131311","Bachelor's Degree","5",122
+2015,"New York, NY","16000US3651000","Music Teacher Education","131312","Bachelor's Degree","5",34
+2013,"New York, NY","16000US3651000","Music Teacher Education","131312","Bachelor's Degree","5",25
+2014,"New York, NY","16000US3651000","Music Teacher Education","131312","Bachelor's Degree","5",38
+2015,"New York, NY","16000US3651000","Physical Education Teaching & Coaching","131314","Bachelor's Degree","5",95
+2013,"New York, NY","16000US3651000","Physical Education Teaching & Coaching","131314","Bachelor's Degree","5",126
+2014,"New York, NY","16000US3651000","Physical Education Teaching & Coaching","131314","Bachelor's Degree","5",130
+2015,"New York, NY","16000US3651000","General Science Teacher Education","131316","Bachelor's Degree","5",2
+2013,"New York, NY","16000US3651000","General Science Teacher Education","131316","Bachelor's Degree","5",3
+2014,"New York, NY","16000US3651000","General Science Teacher Education","131316","Bachelor's Degree","5",2
+2015,"New York, NY","16000US3651000","Social Studies Teacher Education","131318","Bachelor's Degree","5",53
+2013,"New York, NY","16000US3651000","Social Studies Teacher Education","131318","Bachelor's Degree","5",122
+2014,"New York, NY","16000US3651000","Social Studies Teacher Education","131318","Bachelor's Degree","5",107
+2015,"New York, NY","16000US3651000","Biology Teacher Education","131322","Bachelor's Degree","5",15
+2013,"New York, NY","16000US3651000","Biology Teacher Education","131322","Bachelor's Degree","5",16
+2014,"New York, NY","16000US3651000","Biology Teacher Education","131322","Bachelor's Degree","5",15
+2013,"New York, NY","16000US3651000","Chemistry Teacher Education","131323","Bachelor's Degree","5",3
+2014,"New York, NY","16000US3651000","Chemistry Teacher Education","131323","Bachelor's Degree","5",5
+2015,"New York, NY","16000US3651000","Drama & Dance Teacher Education","131324","Bachelor's Degree","5",1
+2013,"New York, NY","16000US3651000","Drama & Dance Teacher Education","131324","Bachelor's Degree","5",1
+2014,"New York, NY","16000US3651000","Drama & Dance Teacher Education","131324","Bachelor's Degree","5",4
+2015,"New York, NY","16000US3651000","French Language Teacher Education","131325","Bachelor's Degree","5",1
+2014,"New York, NY","16000US3651000","French Language Teacher Education","131325","Bachelor's Degree","5",2
+2013,"New York, NY","16000US3651000","German Language Teacher Education","131326","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","History Teacher Education","131328","Bachelor's Degree","5",13
+2013,"New York, NY","16000US3651000","History Teacher Education","131328","Bachelor's Degree","5",10
+2014,"New York, NY","16000US3651000","History Teacher Education","131328","Bachelor's Degree","5",12
+2015,"New York, NY","16000US3651000","Physics Teacher Education","131329","Bachelor's Degree","5",2
+2013,"New York, NY","16000US3651000","Physics Teacher Education","131329","Bachelor's Degree","5",1
+2014,"New York, NY","16000US3651000","Physics Teacher Education","131329","Bachelor's Degree","5",2
+2015,"New York, NY","16000US3651000","Spanish Language Teacher Education","131330","Bachelor's Degree","5",20
+2013,"New York, NY","16000US3651000","Spanish Language Teacher Education","131330","Bachelor's Degree","5",31
+2014,"New York, NY","16000US3651000","Spanish Language Teacher Education","131330","Bachelor's Degree","5",34
+2015,"New York, NY","16000US3651000","Earth Science Teacher Education","131337","Bachelor's Degree","5",2
+2013,"New York, NY","16000US3651000","Earth Science Teacher Education","131337","Bachelor's Degree","5",6
+2014,"New York, NY","16000US3651000","Earth Science Teacher Education","131337","Bachelor's Degree","5",4
+2015,"New York, NY","16000US3651000","Teaching English as a Second or Foreign Language Instructor","131401","Bachelor's Degree","5",23
+2013,"New York, NY","16000US3651000","Teaching English as a Second or Foreign Language Instructor","131401","Bachelor's Degree","5",27
+2014,"New York, NY","16000US3651000","Teaching English as a Second or Foreign Language Instructor","131401","Bachelor's Degree","5",22
+2015,"New York, NY","16000US3651000","General Engineering","140101","Bachelor's Degree","5",35
+2013,"New York, NY","16000US3651000","General Engineering","140101","Bachelor's Degree","5",26
+2014,"New York, NY","16000US3651000","General Engineering","140101","Bachelor's Degree","5",29
+2015,"New York, NY","16000US3651000","Pre-Engineering","140102","Bachelor's Degree","5",4
+2013,"New York, NY","16000US3651000","Pre-Engineering","140102","Bachelor's Degree","5",4
+2015,"New York, NY","16000US3651000","Bioengineering & Biomedical Engineering","140501","Bachelor's Degree","5",66
+2013,"New York, NY","16000US3651000","Bioengineering & Biomedical Engineering","140501","Bachelor's Degree","5",74
+2014,"New York, NY","16000US3651000","Bioengineering & Biomedical Engineering","140501","Bachelor's Degree","5",64
+2015,"New York, NY","16000US3651000","Chemical Engineering","140701","Bachelor's Degree","5",186
+2013,"New York, NY","16000US3651000","Chemical Engineering","140701","Bachelor's Degree","5",141
+2014,"New York, NY","16000US3651000","Chemical Engineering","140701","Bachelor's Degree","5",178
+2015,"New York, NY","16000US3651000","General Civil Engineering","140801","Bachelor's Degree","5",255
+2013,"New York, NY","16000US3651000","General Civil Engineering","140801","Bachelor's Degree","5",228
+2014,"New York, NY","16000US3651000","General Civil Engineering","140801","Bachelor's Degree","5",236
+2015,"New York, NY","16000US3651000","General Computer Engineering","140901","Bachelor's Degree","5",79
+2013,"New York, NY","16000US3651000","General Computer Engineering","140901","Bachelor's Degree","5",73
+2014,"New York, NY","16000US3651000","General Computer Engineering","140901","Bachelor's Degree","5",80
+2015,"New York, NY","16000US3651000","Electrical & Electronics Engineering","141001","Bachelor's Degree","5",209
+2013,"New York, NY","16000US3651000","Electrical & Electronics Engineering","141001","Bachelor's Degree","5",217
+2014,"New York, NY","16000US3651000","Electrical & Electronics Engineering","141001","Bachelor's Degree","5",210
+2015,"New York, NY","16000US3651000","Engineering Mechanics","141101","Bachelor's Degree","5",1
+2013,"New York, NY","16000US3651000","Engineering Mechanics","141101","Bachelor's Degree","5",1
+2014,"New York, NY","16000US3651000","Engineering Mechanics","141101","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","Engineering Physics & Applied Physics","141201","Bachelor's Degree","5",26
+2013,"New York, NY","16000US3651000","Engineering Physics & Applied Physics","141201","Bachelor's Degree","5",21
+2014,"New York, NY","16000US3651000","Engineering Physics & Applied Physics","141201","Bachelor's Degree","5",21
+2015,"New York, NY","16000US3651000","Environmental Health Engineering","141401","Bachelor's Degree","5",41
+2013,"New York, NY","16000US3651000","Environmental Health Engineering","141401","Bachelor's Degree","5",32
+2014,"New York, NY","16000US3651000","Environmental Health Engineering","141401","Bachelor's Degree","5",34
+2015,"New York, NY","16000US3651000","Mechanical Engineering","141901","Bachelor's Degree","5",354
+2013,"New York, NY","16000US3651000","Mechanical Engineering","141901","Bachelor's Degree","5",276
+2014,"New York, NY","16000US3651000","Mechanical Engineering","141901","Bachelor's Degree","5",305
+2015,"New York, NY","16000US3651000","Naval Architecture & Marine Engineering","142201","Bachelor's Degree","5",25
+2013,"New York, NY","16000US3651000","Naval Architecture & Marine Engineering","142201","Bachelor's Degree","5",67
+2014,"New York, NY","16000US3651000","Naval Architecture & Marine Engineering","142201","Bachelor's Degree","5",73
+2015,"New York, NY","16000US3651000","Construction Engineering","143301","Bachelor's Degree","5",5
+2013,"New York, NY","16000US3651000","Construction Engineering","143301","Bachelor's Degree","5",7
+2014,"New York, NY","16000US3651000","Construction Engineering","143301","Bachelor's Degree","5",8
+2015,"New York, NY","16000US3651000","Industrial Engineering","143501","Bachelor's Degree","5",34
+2013,"New York, NY","16000US3651000","Industrial Engineering","143501","Bachelor's Degree","5",26
+2014,"New York, NY","16000US3651000","Industrial Engineering","143501","Bachelor's Degree","5",24
+2015,"New York, NY","16000US3651000","Operations Research","143701","Bachelor's Degree","5",86
+2013,"New York, NY","16000US3651000","Operations Research","143701","Bachelor's Degree","5",124
+2014,"New York, NY","16000US3651000","Operations Research","143701","Bachelor's Degree","5",125
+2015,"New York, NY","16000US3651000","Electrical, Electronic, & Communications Engineering Technology","150303","Bachelor's Degree","5",12
+2013,"New York, NY","16000US3651000","Electrical, Electronic, & Communications Engineering Technology","150303","Bachelor's Degree","5",7
+2014,"New York, NY","16000US3651000","Electrical, Electronic, & Communications Engineering Technology","150303","Bachelor's Degree","5",17
+2015,"New York, NY","16000US3651000","Telecommunications Technology","150305","Bachelor's Degree","5",53
+2013,"New York, NY","16000US3651000","Telecommunications Technology","150305","Bachelor's Degree","5",62
+2014,"New York, NY","16000US3651000","Telecommunications Technology","150305","Bachelor's Degree","5",48
+2015,"New York, NY","16000US3651000","Other Electrical Engineering Technology","150399","Bachelor's Degree","5",15
+2013,"New York, NY","16000US3651000","Other Electrical Engineering Technology","150399","Bachelor's Degree","5",20
+2014,"New York, NY","16000US3651000","Other Electrical Engineering Technology","150399","Bachelor's Degree","5",21
+2015,"New York, NY","16000US3651000","Biomedical Technology","150401","Bachelor's Degree","5",2
+2013,"New York, NY","16000US3651000","Biomedical Technology","150401","Bachelor's Degree","5",9
+2014,"New York, NY","16000US3651000","Biomedical Technology","150401","Bachelor's Degree","5",8
+2015,"New York, NY","16000US3651000","Mechanical Engineering Technology","150805","Bachelor's Degree","5",54
+2013,"New York, NY","16000US3651000","Mechanical Engineering Technology","150805","Bachelor's Degree","5",36
+2014,"New York, NY","16000US3651000","Mechanical Engineering Technology","150805","Bachelor's Degree","5",26
+2015,"New York, NY","16000US3651000","Construction Engineering Technology","151001","Bachelor's Degree","5",5
+2015,"New York, NY","16000US3651000","Computer Engineering Technology","151201","Bachelor's Degree","5",77
+2013,"New York, NY","16000US3651000","Computer Engineering Technology","151201","Bachelor's Degree","5",68
+2014,"New York, NY","16000US3651000","Computer Engineering Technology","151201","Bachelor's Degree","5",76
+2013,"New York, NY","16000US3651000","Engineering & Industrial Management","151501","Bachelor's Degree","5",28
+2015,"New York, NY","16000US3651000","General Foreign Languages & Literatures","160101","Bachelor's Degree","5",14
+2013,"New York, NY","16000US3651000","General Foreign Languages & Literatures","160101","Bachelor's Degree","5",33
+2014,"New York, NY","16000US3651000","General Foreign Languages & Literatures","160101","Bachelor's Degree","5",19
+2015,"New York, NY","16000US3651000","Linguistics","160102","Bachelor's Degree","5",58
+2013,"New York, NY","16000US3651000","Linguistics","160102","Bachelor's Degree","5",57
+2014,"New York, NY","16000US3651000","Linguistics","160102","Bachelor's Degree","5",59
+2015,"New York, NY","16000US3651000","Comparative Literature","160104","Bachelor's Degree","5",41
+2013,"New York, NY","16000US3651000","Comparative Literature","160104","Bachelor's Degree","5",74
+2014,"New York, NY","16000US3651000","Comparative Literature","160104","Bachelor's Degree","5",46
+2015,"New York, NY","16000US3651000","Chinese Language & Literature","160301","Bachelor's Degree","5",36
+2013,"New York, NY","16000US3651000","Chinese Language & Literature","160301","Bachelor's Degree","5",24
+2014,"New York, NY","16000US3651000","Chinese Language & Literature","160301","Bachelor's Degree","5",24
+2015,"New York, NY","16000US3651000","General Slavic Languages, Literatures, & Linguistics","160400","Bachelor's Degree","5",9
+2013,"New York, NY","16000US3651000","General Slavic Languages, Literatures, & Linguistics","160400","Bachelor's Degree","5",14
+2014,"New York, NY","16000US3651000","General Slavic Languages, Literatures, & Linguistics","160400","Bachelor's Degree","5",17
+2015,"New York, NY","16000US3651000","Russian Language & Literature","160402","Bachelor's Degree","5",10
+2013,"New York, NY","16000US3651000","Russian Language & Literature","160402","Bachelor's Degree","5",14
+2014,"New York, NY","16000US3651000","Russian Language & Literature","160402","Bachelor's Degree","5",11
+2014,"New York, NY","16000US3651000","General Germanic Languages, Literatures, & Linguistics","160500","Bachelor's Degree","5",2
+2015,"New York, NY","16000US3651000","German Language & Literature","160501","Bachelor's Degree","5",25
+2013,"New York, NY","16000US3651000","German Language & Literature","160501","Bachelor's Degree","5",15
+2014,"New York, NY","16000US3651000","German Language & Literature","160501","Bachelor's Degree","5",18
+2015,"New York, NY","16000US3651000","General Romance Languages, Literatures, & Linguistics","160900","Bachelor's Degree","5",42
+2013,"New York, NY","16000US3651000","General Romance Languages, Literatures, & Linguistics","160900","Bachelor's Degree","5",30
+2014,"New York, NY","16000US3651000","General Romance Languages, Literatures, & Linguistics","160900","Bachelor's Degree","5",30
+2015,"New York, NY","16000US3651000","French Language & Literature","160901","Bachelor's Degree","5",77
+2013,"New York, NY","16000US3651000","French Language & Literature","160901","Bachelor's Degree","5",134
+2014,"New York, NY","16000US3651000","French Language & Literature","160901","Bachelor's Degree","5",85
+2015,"New York, NY","16000US3651000","Italian Language & Literature","160902","Bachelor's Degree","5",24
+2013,"New York, NY","16000US3651000","Italian Language & Literature","160902","Bachelor's Degree","5",44
+2014,"New York, NY","16000US3651000","Italian Language & Literature","160902","Bachelor's Degree","5",42
+2013,"New York, NY","16000US3651000","Portuguese Language & Literature","160904","Bachelor's Degree","5",4
+2015,"New York, NY","16000US3651000","Spanish Language & Literature","160905","Bachelor's Degree","5",197
+2013,"New York, NY","16000US3651000","Spanish Language & Literature","160905","Bachelor's Degree","5",215
+2014,"New York, NY","16000US3651000","Spanish Language & Literature","160905","Bachelor's Degree","5",207
+2015,"New York, NY","16000US3651000","Hebrew Language & Literature","161102","Bachelor's Degree","5",2
+2013,"New York, NY","16000US3651000","Hebrew Language & Literature","161102","Bachelor's Degree","5",43
+2014,"New York, NY","16000US3651000","Hebrew Language & Literature","161102","Bachelor's Degree","5",46
+2015,"New York, NY","16000US3651000","Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics","161199","Bachelor's Degree","5",32
+2013,"New York, NY","16000US3651000","Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics","161199","Bachelor's Degree","5",25
+2014,"New York, NY","16000US3651000","Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics","161199","Bachelor's Degree","5",23
+2015,"New York, NY","16000US3651000","General Classical Language, Literature, & Linguistics","161200","Bachelor's Degree","5",40
+2013,"New York, NY","16000US3651000","General Classical Language, Literature, & Linguistics","161200","Bachelor's Degree","5",43
+2014,"New York, NY","16000US3651000","General Classical Language, Literature, & Linguistics","161200","Bachelor's Degree","5",36
+2015,"New York, NY","16000US3651000","Ancient/Classical Greek Language & Literature","161202","Bachelor's Degree","5",3
+2014,"New York, NY","16000US3651000","Ancient/Classical Greek Language & Literature","161202","Bachelor's Degree","5",3
+2015,"New York, NY","16000US3651000","Latin Language & Literature","161203","Bachelor's Degree","5",2
+2013,"New York, NY","16000US3651000","Latin Language & Literature","161203","Bachelor's Degree","5",1
+2014,"New York, NY","16000US3651000","Latin Language & Literature","161203","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","Other Classical Languages, Literature, & Linguistics","161299","Bachelor's Degree","5",1
+2013,"New York, NY","16000US3651000","Other Foreign Languages, Literatures, & Linguistics","169999","Bachelor's Degree","5",15
+2015,"New York, NY","16000US3651000","General Family & Consumer Sciences","190101","Bachelor's Degree","5",31
+2013,"New York, NY","16000US3651000","General Family & Consumer Sciences","190101","Bachelor's Degree","5",72
+2014,"New York, NY","16000US3651000","General Family & Consumer Sciences","190101","Bachelor's Degree","5",48
+2015,"New York, NY","16000US3651000","General Food, Nutrition, & Wellness Studies","190501","Bachelor's Degree","5",67
+2013,"New York, NY","16000US3651000","General Food, Nutrition, & Wellness Studies","190501","Bachelor's Degree","5",68
+2014,"New York, NY","16000US3651000","General Food, Nutrition, & Wellness Studies","190501","Bachelor's Degree","5",86
+2015,"New York, NY","16000US3651000","Facilities Planning & Management","190604","Bachelor's Degree","5",28
+2013,"New York, NY","16000US3651000","Facilities Planning & Management","190604","Bachelor's Degree","5",31
+2014,"New York, NY","16000US3651000","Facilities Planning & Management","190604","Bachelor's Degree","5",28
+2015,"New York, NY","16000US3651000","General Human Development & Family Studies","190701","Bachelor's Degree","5",15
+2013,"New York, NY","16000US3651000","General Human Development & Family Studies","190701","Bachelor's Degree","5",11
+2014,"New York, NY","16000US3651000","General Human Development & Family Studies","190701","Bachelor's Degree","5",20
+2015,"New York, NY","16000US3651000","Apparel & Textile Manufacture","190902","Bachelor's Degree","5",53
+2013,"New York, NY","16000US3651000","Apparel & Textile Manufacture","190902","Bachelor's Degree","5",66
+2014,"New York, NY","16000US3651000","Apparel & Textile Manufacture","190902","Bachelor's Degree","5",49
+2015,"New York, NY","16000US3651000","General Legal Studies","220000","Bachelor's Degree","5",168
+2013,"New York, NY","16000US3651000","General Legal Studies","220000","Bachelor's Degree","5",191
+2014,"New York, NY","16000US3651000","General Legal Studies","220000","Bachelor's Degree","5",195
+2015,"New York, NY","16000US3651000","Pre-Law Studies","220001","Bachelor's Degree","5",16
+2013,"New York, NY","16000US3651000","Pre-Law Studies","220001","Bachelor's Degree","5",6
+2014,"New York, NY","16000US3651000","Pre-Law Studies","220001","Bachelor's Degree","5",10
+2015,"New York, NY","16000US3651000","Paralegal","220302","Bachelor's Degree","5",43
+2013,"New York, NY","16000US3651000","Paralegal","220302","Bachelor's Degree","5",50
+2014,"New York, NY","16000US3651000","Paralegal","220302","Bachelor's Degree","5",44
+2015,"New York, NY","16000US3651000","Other Legal Professions & Studies","229999","Bachelor's Degree","5",25
+2013,"New York, NY","16000US3651000","Other Legal Professions & Studies","229999","Bachelor's Degree","5",7
+2014,"New York, NY","16000US3651000","Other Legal Professions & Studies","229999","Bachelor's Degree","5",13
+2015,"New York, NY","16000US3651000","General English Language & Literature","230101","Bachelor's Degree","5",1379
+2013,"New York, NY","16000US3651000","General English Language & Literature","230101","Bachelor's Degree","5",1591
+2014,"New York, NY","16000US3651000","General English Language & Literature","230101","Bachelor's Degree","5",1439
+2015,"New York, NY","16000US3651000","Creative Writing","231302","Bachelor's Degree","5",99
+2013,"New York, NY","16000US3651000","Creative Writing","231302","Bachelor's Degree","5",98
+2014,"New York, NY","16000US3651000","Creative Writing","231302","Bachelor's Degree","5",100
+2015,"New York, NY","16000US3651000","Professional, Technical, Business, & Scientific Writing","231303","Bachelor's Degree","5",10
+2013,"New York, NY","16000US3651000","Professional, Technical, Business, & Scientific Writing","231303","Bachelor's Degree","5",12
+2014,"New York, NY","16000US3651000","Professional, Technical, Business, & Scientific Writing","231303","Bachelor's Degree","5",15
+2015,"New York, NY","16000US3651000","Rhetoric & Composition","231304","Bachelor's Degree","5",100
+2013,"New York, NY","16000US3651000","Rhetoric & Composition","231304","Bachelor's Degree","5",88
+2014,"New York, NY","16000US3651000","Rhetoric & Composition","231304","Bachelor's Degree","5",102
+2015,"New York, NY","16000US3651000","General Literature","231401","Bachelor's Degree","5",87
+2013,"New York, NY","16000US3651000","General Literature","231401","Bachelor's Degree","5",74
+2014,"New York, NY","16000US3651000","General Literature","231401","Bachelor's Degree","5",81
+2015,"New York, NY","16000US3651000","British & Commonwealth English Literature","231404","Bachelor's Degree","5",150
+2013,"New York, NY","16000US3651000","British & Commonwealth English Literature","231404","Bachelor's Degree","5",201
+2014,"New York, NY","16000US3651000","British & Commonwealth English Literature","231404","Bachelor's Degree","5",141
+2015,"New York, NY","16000US3651000","Liberal Arts & Sciences","240101","Bachelor's Degree","5",1077
+2013,"New York, NY","16000US3651000","Liberal Arts & Sciences","240101","Bachelor's Degree","5",1498
+2014,"New York, NY","16000US3651000","Liberal Arts & Sciences","240101","Bachelor's Degree","5",1157
+2015,"New York, NY","16000US3651000","General Studies","240102","Bachelor's Degree","5",12
+2013,"New York, NY","16000US3651000","General Studies","240102","Bachelor's Degree","5",3
+2014,"New York, NY","16000US3651000","General Studies","240102","Bachelor's Degree","5",25
+2015,"New York, NY","16000US3651000","Humanistic Studies","240103","Bachelor's Degree","5",125
+2013,"New York, NY","16000US3651000","Humanistic Studies","240103","Bachelor's Degree","5",123
+2014,"New York, NY","16000US3651000","Humanistic Studies","240103","Bachelor's Degree","5",156
+2015,"New York, NY","16000US3651000","Other Liberal Arts & Sciences, General Studies, & Humanities","240199","Bachelor's Degree","5",59
+2013,"New York, NY","16000US3651000","Other Liberal Arts & Sciences, General Studies, & Humanities","240199","Bachelor's Degree","5",37
+2014,"New York, NY","16000US3651000","Other Liberal Arts & Sciences, General Studies, & Humanities","240199","Bachelor's Degree","5",38
+2015,"New York, NY","16000US3651000","General Biological Sciences","260101","Bachelor's Degree","5",1449
+2013,"New York, NY","16000US3651000","General Biological Sciences","260101","Bachelor's Degree","5",1300
+2014,"New York, NY","16000US3651000","General Biological Sciences","260101","Bachelor's Degree","5",1334
+2015,"New York, NY","16000US3651000","General Biomedical Sciences","260102","Bachelor's Degree","5",50
+2013,"New York, NY","16000US3651000","General Biomedical Sciences","260102","Bachelor's Degree","5",55
+2014,"New York, NY","16000US3651000","General Biomedical Sciences","260102","Bachelor's Degree","5",53
+2015,"New York, NY","16000US3651000","Biochemistry","260202","Bachelor's Degree","5",80
+2013,"New York, NY","16000US3651000","Biochemistry","260202","Bachelor's Degree","5",77
+2014,"New York, NY","16000US3651000","Biochemistry","260202","Bachelor's Degree","5",103
+2015,"New York, NY","16000US3651000","Biophysics","260203","Bachelor's Degree","5",6
+2013,"New York, NY","16000US3651000","Biophysics","260203","Bachelor's Degree","5",5
+2014,"New York, NY","16000US3651000","Biophysics","260203","Bachelor's Degree","5",2
+2015,"New York, NY","16000US3651000","Molecular Biology","260204","Bachelor's Degree","5",7
+2013,"New York, NY","16000US3651000","Molecular Biology","260204","Bachelor's Degree","5",4
+2014,"New York, NY","16000US3651000","Molecular Biology","260204","Bachelor's Degree","5",4
+2015,"New York, NY","16000US3651000","Biochemistry & Molecular Biology","260210","Bachelor's Degree","5",30
+2013,"New York, NY","16000US3651000","Biochemistry & Molecular Biology","260210","Bachelor's Degree","5",25
+2014,"New York, NY","16000US3651000","Biochemistry & Molecular Biology","260210","Bachelor's Degree","5",18
+2015,"New York, NY","16000US3651000","General Microbiology","260502","Bachelor's Degree","5",10
+2013,"New York, NY","16000US3651000","General Microbiology","260502","Bachelor's Degree","5",10
+2014,"New York, NY","16000US3651000","General Microbiology","260502","Bachelor's Degree","5",7
+2015,"New York, NY","16000US3651000","Pharmacology","261001","Bachelor's Degree","5",17
+2013,"New York, NY","16000US3651000","Pharmacology","261001","Bachelor's Degree","5",7
+2014,"New York, NY","16000US3651000","Pharmacology","261001","Bachelor's Degree","5",7
+2015,"New York, NY","16000US3651000","Toxicology","261004","Bachelor's Degree","5",8
+2013,"New York, NY","16000US3651000","Toxicology","261004","Bachelor's Degree","5",14
+2014,"New York, NY","16000US3651000","Toxicology","261004","Bachelor's Degree","5",9
+2015,"New York, NY","16000US3651000","Bioinformatics","261103","Bachelor's Degree","5",5
+2015,"New York, NY","16000US3651000","Biotechnology","261201","Bachelor's Degree","5",11
+2013,"New York, NY","16000US3651000","Biotechnology","261201","Bachelor's Degree","5",9
+2014,"New York, NY","16000US3651000","Biotechnology","261201","Bachelor's Degree","5",4
+2015,"New York, NY","16000US3651000","Ecology","261301","Bachelor's Degree","5",47
+2013,"New York, NY","16000US3651000","Ecology","261301","Bachelor's Degree","5",53
+2014,"New York, NY","16000US3651000","Ecology","261301","Bachelor's Degree","5",49
+2015,"New York, NY","16000US3651000","Environmental Biology","261305","Bachelor's Degree","5",4
+2013,"New York, NY","16000US3651000","Environmental Biology","261305","Bachelor's Degree","5",2
+2014,"New York, NY","16000US3651000","Environmental Biology","261305","Bachelor's Degree","5",4
+2015,"New York, NY","16000US3651000","Neuroscience","261501","Bachelor's Degree","5",137
+2013,"New York, NY","16000US3651000","Neuroscience","261501","Bachelor's Degree","5",123
+2014,"New York, NY","16000US3651000","Neuroscience","261501","Bachelor's Degree","5",122
+2015,"New York, NY","16000US3651000","General Mathematics","270101","Bachelor's Degree","5",495
+2013,"New York, NY","16000US3651000","General Mathematics","270101","Bachelor's Degree","5",497
+2014,"New York, NY","16000US3651000","General Mathematics","270101","Bachelor's Degree","5",509
+2015,"New York, NY","16000US3651000","Other Mathematics","270199","Bachelor's Degree","5",1
+2014,"New York, NY","16000US3651000","Other Mathematics","270199","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","General Applied Mathematics","270301","Bachelor's Degree","5",67
+2013,"New York, NY","16000US3651000","General Applied Mathematics","270301","Bachelor's Degree","5",83
+2014,"New York, NY","16000US3651000","General Applied Mathematics","270301","Bachelor's Degree","5",68
+2015,"New York, NY","16000US3651000","Computational & Applied Mathematics","270304","Bachelor's Degree","5",4
+2013,"New York, NY","16000US3651000","Computational & Applied Mathematics","270304","Bachelor's Degree","5",4
+2014,"New York, NY","16000US3651000","Computational & Applied Mathematics","270304","Bachelor's Degree","5",5
+2015,"New York, NY","16000US3651000","Financial Mathematics","270305","Bachelor's Degree","5",2
+2013,"New York, NY","16000US3651000","Financial Mathematics","270305","Bachelor's Degree","5",4
+2014,"New York, NY","16000US3651000","Financial Mathematics","270305","Bachelor's Degree","5",2
+2015,"New York, NY","16000US3651000","General Statistics","270501","Bachelor's Degree","5",48
+2013,"New York, NY","16000US3651000","General Statistics","270501","Bachelor's Degree","5",26
+2014,"New York, NY","16000US3651000","General Statistics","270501","Bachelor's Degree","5",36
+2015,"New York, NY","16000US3651000","Other Mathematics & Statistics","279999","Bachelor's Degree","5",63
+2013,"New York, NY","16000US3651000","Other Mathematics & Statistics","279999","Bachelor's Degree","5",27
+2014,"New York, NY","16000US3651000","Other Mathematics & Statistics","279999","Bachelor's Degree","5",38
+2015,"New York, NY","16000US3651000","General Interdisciplinary Studies","300000","Bachelor's Degree","5",276
+2013,"New York, NY","16000US3651000","General Interdisciplinary Studies","300000","Bachelor's Degree","5",28
+2014,"New York, NY","16000US3651000","General Interdisciplinary Studies","300000","Bachelor's Degree","5",328
+2015,"New York, NY","16000US3651000","Biological & Physical Sciences","300101","Bachelor's Degree","5",113
+2013,"New York, NY","16000US3651000","Biological & Physical Sciences","300101","Bachelor's Degree","5",49
+2014,"New York, NY","16000US3651000","Biological & Physical Sciences","300101","Bachelor's Degree","5",47
+2015,"New York, NY","16000US3651000","Peace Studies & Conflict Resolution","300501","Bachelor's Degree","5",3
+2013,"New York, NY","16000US3651000","Peace Studies & Conflict Resolution","300501","Bachelor's Degree","5",3
+2014,"New York, NY","16000US3651000","Peace Studies & Conflict Resolution","300501","Bachelor's Degree","5",2
+2015,"New York, NY","16000US3651000","Mathematics & Computer Science","300801","Bachelor's Degree","5",12
+2013,"New York, NY","16000US3651000","Mathematics & Computer Science","300801","Bachelor's Degree","5",5
+2014,"New York, NY","16000US3651000","Mathematics & Computer Science","300801","Bachelor's Degree","5",5
+2015,"New York, NY","16000US3651000","Biopsychology","301001","Bachelor's Degree","5",13
+2013,"New York, NY","16000US3651000","Biopsychology","301001","Bachelor's Degree","5",5
+2014,"New York, NY","16000US3651000","Biopsychology","301001","Bachelor's Degree","5",18
+2015,"New York, NY","16000US3651000","Gerontology","301101","Bachelor's Degree","5",6
+2013,"New York, NY","16000US3651000","Gerontology","301101","Bachelor's Degree","5",8
+2014,"New York, NY","16000US3651000","Gerontology","301101","Bachelor's Degree","5",6
+2015,"New York, NY","16000US3651000","Medieval & Renaissance Studies","301301","Bachelor's Degree","5",5
+2013,"New York, NY","16000US3651000","Medieval & Renaissance Studies","301301","Bachelor's Degree","5",1
+2014,"New York, NY","16000US3651000","Medieval & Renaissance Studies","301301","Bachelor's Degree","5",1
+2014,"New York, NY","16000US3651000","Natural Sciences","301801","Bachelor's Degree","5",1
+2014,"New York, NY","16000US3651000","Nutrition Sciences","301901","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","International & Global Studies","302001","Bachelor's Degree","5",46
+2013,"New York, NY","16000US3651000","International & Global Studies","302001","Bachelor's Degree","5",8
+2014,"New York, NY","16000US3651000","International & Global Studies","302001","Bachelor's Degree","5",37
+2015,"New York, NY","16000US3651000","Ancient Civilization Studies","302201","Bachelor's Degree","5",2
+2013,"New York, NY","16000US3651000","Ancient Civilization Studies","302201","Bachelor's Degree","5",2
+2014,"New York, NY","16000US3651000","Ancient Civilization Studies","302201","Bachelor's Degree","5",4
+2015,"New York, NY","16000US3651000","Cultural Studies, Critical Theory, & Analysis","302601","Bachelor's Degree","5",11
+2013,"New York, NY","16000US3651000","Cultural Studies, Critical Theory, & Analysis","302601","Bachelor's Degree","5",9
+2014,"New York, NY","16000US3651000","Cultural Studies, Critical Theory, & Analysis","302601","Bachelor's Degree","5",9
+2015,"New York, NY","16000US3651000","Sustainability Studies","303301","Bachelor's Degree","5",53
+2013,"New York, NY","16000US3651000","Sustainability Studies","303301","Bachelor's Degree","5",1
+2014,"New York, NY","16000US3651000","Sustainability Studies","303301","Bachelor's Degree","5",52
+2015,"New York, NY","16000US3651000","Other Multidisciplinary Studies","309999","Bachelor's Degree","5",106
+2013,"New York, NY","16000US3651000","Other Multidisciplinary Studies","309999","Bachelor's Degree","5",126
+2014,"New York, NY","16000US3651000","Other Multidisciplinary Studies","309999","Bachelor's Degree","5",112
+2015,"New York, NY","16000US3651000","Parks, Recreation, & Leisure Studies","310101","Bachelor's Degree","5",8
+2013,"New York, NY","16000US3651000","Parks, Recreation, & Leisure Studies","310101","Bachelor's Degree","5",12
+2014,"New York, NY","16000US3651000","Parks, Recreation, & Leisure Studies","310101","Bachelor's Degree","5",7
+2015,"New York, NY","16000US3651000","General Parks, Recreation, & Leisure Facilities Management","310301","Bachelor's Degree","5",35
+2013,"New York, NY","16000US3651000","General Parks, Recreation, & Leisure Facilities Management","310301","Bachelor's Degree","5",20
+2014,"New York, NY","16000US3651000","General Parks, Recreation, & Leisure Facilities Management","310301","Bachelor's Degree","5",39
+2015,"New York, NY","16000US3651000","General Health & Physical Education","310501","Bachelor's Degree","5",3
+2013,"New York, NY","16000US3651000","General Health & Physical Education","310501","Bachelor's Degree","5",17
+2014,"New York, NY","16000US3651000","General Health & Physical Education","310501","Bachelor's Degree","5",18
+2015,"New York, NY","16000US3651000","Sport & Fitness Management","310504","Bachelor's Degree","5",103
+2013,"New York, NY","16000US3651000","Sport & Fitness Management","310504","Bachelor's Degree","5",122
+2014,"New York, NY","16000US3651000","Sport & Fitness Management","310504","Bachelor's Degree","5",119
+2015,"New York, NY","16000US3651000","Kinesiology & Exercise Science","310505","Bachelor's Degree","5",118
+2013,"New York, NY","16000US3651000","Kinesiology & Exercise Science","310505","Bachelor's Degree","5",102
+2014,"New York, NY","16000US3651000","Kinesiology & Exercise Science","310505","Bachelor's Degree","5",122
+2015,"New York, NY","16000US3651000","General Philosophy & Religious Studies","380001","Bachelor's Degree","5",9
+2013,"New York, NY","16000US3651000","General Philosophy & Religious Studies","380001","Bachelor's Degree","5",9
+2014,"New York, NY","16000US3651000","General Philosophy & Religious Studies","380001","Bachelor's Degree","5",12
+2015,"New York, NY","16000US3651000","Philosophy","380101","Bachelor's Degree","5",307
+2013,"New York, NY","16000US3651000","Philosophy","380101","Bachelor's Degree","5",355
+2014,"New York, NY","16000US3651000","Philosophy","380101","Bachelor's Degree","5",291
+2015,"New York, NY","16000US3651000","Other Philosophy","380199","Bachelor's Degree","5",3
+2013,"New York, NY","16000US3651000","Other Philosophy","380199","Bachelor's Degree","5",3
+2014,"New York, NY","16000US3651000","Other Philosophy","380199","Bachelor's Degree","5",4
+2015,"New York, NY","16000US3651000","Religious Studies","380201","Bachelor's Degree","5",75
+2013,"New York, NY","16000US3651000","Religious Studies","380201","Bachelor's Degree","5",74
+2014,"New York, NY","16000US3651000","Religious Studies","380201","Bachelor's Degree","5",105
+2015,"New York, NY","16000US3651000","Judaic Studies","380206","Bachelor's Degree","5",62
+2013,"New York, NY","16000US3651000","Judaic Studies","380206","Bachelor's Degree","5",57
+2014,"New York, NY","16000US3651000","Judaic Studies","380206","Bachelor's Degree","5",56
+2015,"New York, NY","16000US3651000","Other Philosophy & Religious Studies","389999","Bachelor's Degree","5",15
+2013,"New York, NY","16000US3651000","Other Philosophy & Religious Studies","389999","Bachelor's Degree","5",26
+2014,"New York, NY","16000US3651000","Other Philosophy & Religious Studies","389999","Bachelor's Degree","5",23
+2015,"New York, NY","16000US3651000","Religious Education","390401","Bachelor's Degree","5",17
+2013,"New York, NY","16000US3651000","Religious Education","390401","Bachelor's Degree","5",33
+2014,"New York, NY","16000US3651000","Religious Education","390401","Bachelor's Degree","5",26
+2015,"New York, NY","16000US3651000","Theological Studies","390601","Bachelor's Degree","5",84
+2013,"New York, NY","16000US3651000","Theological Studies","390601","Bachelor's Degree","5",85
+2014,"New York, NY","16000US3651000","Theological Studies","390601","Bachelor's Degree","5",85
+2015,"New York, NY","16000US3651000","Talmudic Studies","390606","Bachelor's Degree","5",772
+2013,"New York, NY","16000US3651000","Talmudic Studies","390606","Bachelor's Degree","5",572
+2014,"New York, NY","16000US3651000","Talmudic Studies","390606","Bachelor's Degree","5",689
+2015,"New York, NY","16000US3651000","Physical Sciences","400101","Bachelor's Degree","5",71
+2013,"New York, NY","16000US3651000","Physical Sciences","400101","Bachelor's Degree","5",59
+2014,"New York, NY","16000US3651000","Physical Sciences","400101","Bachelor's Degree","5",76
+2015,"New York, NY","16000US3651000","Astronomy","400201","Bachelor's Degree","5",1
+2013,"New York, NY","16000US3651000","Astronomy","400201","Bachelor's Degree","5",3
+2014,"New York, NY","16000US3651000","Astronomy","400201","Bachelor's Degree","5",4
+2015,"New York, NY","16000US3651000","Astrophysics","400202","Bachelor's Degree","5",10
+2013,"New York, NY","16000US3651000","Astrophysics","400202","Bachelor's Degree","5",4
+2014,"New York, NY","16000US3651000","Astrophysics","400202","Bachelor's Degree","5",3
+2015,"New York, NY","16000US3651000","General Atmospheric Sciences & Meteorology","400401","Bachelor's Degree","5",11
+2013,"New York, NY","16000US3651000","General Atmospheric Sciences & Meteorology","400401","Bachelor's Degree","5",19
+2014,"New York, NY","16000US3651000","General Atmospheric Sciences & Meteorology","400401","Bachelor's Degree","5",15
+2015,"New York, NY","16000US3651000","General Chemistry","400501","Bachelor's Degree","5",355
+2013,"New York, NY","16000US3651000","General Chemistry","400501","Bachelor's Degree","5",300
+2014,"New York, NY","16000US3651000","General Chemistry","400501","Bachelor's Degree","5",322
+2015,"New York, NY","16000US3651000","General Geology & Earch Science","400601","Bachelor's Degree","5",75
+2013,"New York, NY","16000US3651000","General Geology & Earch Science","400601","Bachelor's Degree","5",62
+2014,"New York, NY","16000US3651000","General Geology & Earch Science","400601","Bachelor's Degree","5",71
+2015,"New York, NY","16000US3651000","General Physics","400801","Bachelor's Degree","5",127
+2013,"New York, NY","16000US3651000","General Physics","400801","Bachelor's Degree","5",119
+2014,"New York, NY","16000US3651000","General Physics","400801","Bachelor's Degree","5",122
+2015,"New York, NY","16000US3651000","Materials Science","401001","Bachelor's Degree","5",5
+2013,"New York, NY","16000US3651000","Materials Science","401001","Bachelor's Degree","5",9
+2014,"New York, NY","16000US3651000","Materials Science","401001","Bachelor's Degree","5",5
+2015,"New York, NY","16000US3651000","Other Physical Sciences","409999","Bachelor's Degree","5",11
+2013,"New York, NY","16000US3651000","Other Physical Sciences","409999","Bachelor's Degree","5",68
+2014,"New York, NY","16000US3651000","Other Physical Sciences","409999","Bachelor's Degree","5",90
+2015,"New York, NY","16000US3651000","General Psychology","420101","Bachelor's Degree","5",4495
+2013,"New York, NY","16000US3651000","General Psychology","420101","Bachelor's Degree","5",4231
+2014,"New York, NY","16000US3651000","General Psychology","420101","Bachelor's Degree","5",4207
+2015,"New York, NY","16000US3651000","Personality Psychology","422705","Bachelor's Degree","5",3
+2013,"New York, NY","16000US3651000","Personality Psychology","422705","Bachelor's Degree","5",1
+2014,"New York, NY","16000US3651000","Personality Psychology","422705","Bachelor's Degree","5",2
+2015,"New York, NY","16000US3651000","Physiological Psychology & Psychobiology","422706","Bachelor's Degree","5",5
+2013,"New York, NY","16000US3651000","Physiological Psychology & Psychobiology","422706","Bachelor's Degree","5",6
+2014,"New York, NY","16000US3651000","Physiological Psychology & Psychobiology","422706","Bachelor's Degree","5",3
+2015,"New York, NY","16000US3651000","Other Research & Experimental Psychology","422799","Bachelor's Degree","5",133
+2013,"New York, NY","16000US3651000","Other Research & Experimental Psychology","422799","Bachelor's Degree","5",134
+2014,"New York, NY","16000US3651000","Other Research & Experimental Psychology","422799","Bachelor's Degree","5",133
+2015,"New York, NY","16000US3651000","Clinical Psychology","422801","Bachelor's Degree","5",5
+2015,"New York, NY","16000US3651000","Industrial & Organizational Psychology","422804","Bachelor's Degree","5",20
+2013,"New York, NY","16000US3651000","Industrial & Organizational Psychology","422804","Bachelor's Degree","5",18
+2014,"New York, NY","16000US3651000","Industrial & Organizational Psychology","422804","Bachelor's Degree","5",27
+2015,"New York, NY","16000US3651000","Forensic Psychology","422812","Bachelor's Degree","5",465
+2013,"New York, NY","16000US3651000","Forensic Psychology","422812","Bachelor's Degree","5",401
+2014,"New York, NY","16000US3651000","Forensic Psychology","422812","Bachelor's Degree","5",440
+2015,"New York, NY","16000US3651000","Applied Psychology","422813","Bachelor's Degree","5",117
+2013,"New York, NY","16000US3651000","Applied Psychology","422813","Bachelor's Degree","5",69
+2014,"New York, NY","16000US3651000","Applied Psychology","422813","Bachelor's Degree","5",146
+2015,"New York, NY","16000US3651000","Corrections","430102","Bachelor's Degree","5",1
+2013,"New York, NY","16000US3651000","Corrections","430102","Bachelor's Degree","5",6
+2014,"New York, NY","16000US3651000","Corrections","430102","Bachelor's Degree","5",7
+2015,"New York, NY","16000US3651000","Criminal Justice - Law Enforcement Administration","430103","Bachelor's Degree","5",1877
+2013,"New York, NY","16000US3651000","Criminal Justice - Law Enforcement Administration","430103","Bachelor's Degree","5",1712
+2014,"New York, NY","16000US3651000","Criminal Justice - Law Enforcement Administration","430103","Bachelor's Degree","5",1865
+2015,"New York, NY","16000US3651000","Criminal Justice - Safety Studies","430104","Bachelor's Degree","5",22
+2013,"New York, NY","16000US3651000","Criminal Justice - Safety Studies","430104","Bachelor's Degree","5",20
+2014,"New York, NY","16000US3651000","Criminal Justice - Safety Studies","430104","Bachelor's Degree","5",38
+2015,"New York, NY","16000US3651000","Forensic Science & Technology","430106","Bachelor's Degree","5",54
+2013,"New York, NY","16000US3651000","Forensic Science & Technology","430106","Bachelor's Degree","5",40
+2014,"New York, NY","16000US3651000","Forensic Science & Technology","430106","Bachelor's Degree","5",62
+2015,"New York, NY","16000US3651000","Securities Services Management","430112","Bachelor's Degree","5",77
+2013,"New York, NY","16000US3651000","Securities Services Management","430112","Bachelor's Degree","5",61
+2014,"New York, NY","16000US3651000","Securities Services Management","430112","Bachelor's Degree","5",65
+2015,"New York, NY","16000US3651000","Other Corrections & Criminal Justice","430199","Bachelor's Degree","5",111
+2013,"New York, NY","16000US3651000","Other Corrections & Criminal Justice","430199","Bachelor's Degree","5",113
+2014,"New York, NY","16000US3651000","Other Corrections & Criminal Justice","430199","Bachelor's Degree","5",124
+2015,"New York, NY","16000US3651000","Fire Services Administration","430202","Bachelor's Degree","5",18
+2013,"New York, NY","16000US3651000","Fire Services Administration","430202","Bachelor's Degree","5",16
+2014,"New York, NY","16000US3651000","Fire Services Administration","430202","Bachelor's Degree","5",20
+2015,"New York, NY","16000US3651000","Fire Science & Fire-Fighting","430203","Bachelor's Degree","5",5
+2013,"New York, NY","16000US3651000","Fire Science & Fire-Fighting","430203","Bachelor's Degree","5",10
+2014,"New York, NY","16000US3651000","Fire Science & Fire-Fighting","430203","Bachelor's Degree","5",5
+2015,"New York, NY","16000US3651000","General Human Services","440000","Bachelor's Degree","5",280
+2013,"New York, NY","16000US3651000","General Human Services","440000","Bachelor's Degree","5",98
+2014,"New York, NY","16000US3651000","General Human Services","440000","Bachelor's Degree","5",237
+2015,"New York, NY","16000US3651000","Community Organization & Advocacy","440201","Bachelor's Degree","5",103
+2013,"New York, NY","16000US3651000","Community Organization & Advocacy","440201","Bachelor's Degree","5",342
+2014,"New York, NY","16000US3651000","Community Organization & Advocacy","440201","Bachelor's Degree","5",85
+2015,"New York, NY","16000US3651000","Public Administration","440401","Bachelor's Degree","5",147
+2013,"New York, NY","16000US3651000","Public Administration","440401","Bachelor's Degree","5",127
+2014,"New York, NY","16000US3651000","Public Administration","440401","Bachelor's Degree","5",119
+2015,"New York, NY","16000US3651000","General Public Policy Analysis","440501","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","Social Work","440701","Bachelor's Degree","5",342
+2013,"New York, NY","16000US3651000","Social Work","440701","Bachelor's Degree","5",348
+2014,"New York, NY","16000US3651000","Social Work","440701","Bachelor's Degree","5",343
+2015,"New York, NY","16000US3651000","Other Public Administration & Social Service Professions","449999","Bachelor's Degree","5",8
+2013,"New York, NY","16000US3651000","Other Public Administration & Social Service Professions","449999","Bachelor's Degree","5",6
+2014,"New York, NY","16000US3651000","Other Public Administration & Social Service Professions","449999","Bachelor's Degree","5",4
+2015,"New York, NY","16000US3651000","General Social Sciences","450101","Bachelor's Degree","5",159
+2013,"New York, NY","16000US3651000","General Social Sciences","450101","Bachelor's Degree","5",129
+2014,"New York, NY","16000US3651000","General Social Sciences","450101","Bachelor's Degree","5",180
+2015,"New York, NY","16000US3651000","Anthropology","450201","Bachelor's Degree","5",336
+2013,"New York, NY","16000US3651000","Anthropology","450201","Bachelor's Degree","5",395
+2014,"New York, NY","16000US3651000","Anthropology","450201","Bachelor's Degree","5",372
+2015,"New York, NY","16000US3651000","Archeology","450301","Bachelor's Degree","5",11
+2013,"New York, NY","16000US3651000","Archeology","450301","Bachelor's Degree","5",10
+2014,"New York, NY","16000US3651000","Archeology","450301","Bachelor's Degree","5",11
+2015,"New York, NY","16000US3651000","Criminology","450401","Bachelor's Degree","5",204
+2013,"New York, NY","16000US3651000","Criminology","450401","Bachelor's Degree","5",139
+2014,"New York, NY","16000US3651000","Criminology","450401","Bachelor's Degree","5",167
+2015,"New York, NY","16000US3651000","General Economics","450601","Bachelor's Degree","5",1924
+2013,"New York, NY","16000US3651000","General Economics","450601","Bachelor's Degree","5",1738
+2014,"New York, NY","16000US3651000","General Economics","450601","Bachelor's Degree","5",1831
+2015,"New York, NY","16000US3651000","Econometrics & Quantitative Economics","450603","Bachelor's Degree","5",7
+2013,"New York, NY","16000US3651000","Econometrics & Quantitative Economics","450603","Bachelor's Degree","5",6
+2014,"New York, NY","16000US3651000","Econometrics & Quantitative Economics","450603","Bachelor's Degree","5",7
+2013,"New York, NY","16000US3651000","Developmental Economics & International Development","450604","Bachelor's Degree","5",32
+2015,"New York, NY","16000US3651000","Other Economics","450699","Bachelor's Degree","5",9
+2013,"New York, NY","16000US3651000","Other Economics","450699","Bachelor's Degree","5",1
+2014,"New York, NY","16000US3651000","Other Economics","450699","Bachelor's Degree","5",10
+2015,"New York, NY","16000US3651000","Geography","450701","Bachelor's Degree","5",21
+2013,"New York, NY","16000US3651000","Geography","450701","Bachelor's Degree","5",36
+2014,"New York, NY","16000US3651000","Geography","450701","Bachelor's Degree","5",31
+2015,"New York, NY","16000US3651000","International Relations & Affairs","450901","Bachelor's Degree","5",191
+2013,"New York, NY","16000US3651000","International Relations & Affairs","450901","Bachelor's Degree","5",178
+2014,"New York, NY","16000US3651000","International Relations & Affairs","450901","Bachelor's Degree","5",190
+2015,"New York, NY","16000US3651000","General Political Science & Government","451001","Bachelor's Degree","5",1369
+2013,"New York, NY","16000US3651000","General Political Science & Government","451001","Bachelor's Degree","5",1415
+2014,"New York, NY","16000US3651000","General Political Science & Government","451001","Bachelor's Degree","5",1401
+2015,"New York, NY","16000US3651000","Sociology","451101","Bachelor's Degree","5",1169
+2013,"New York, NY","16000US3651000","Sociology","451101","Bachelor's Degree","5",1212
+2014,"New York, NY","16000US3651000","Sociology","451101","Bachelor's Degree","5",1164
+2015,"New York, NY","16000US3651000","Urban Studies","451201","Bachelor's Degree","5",184
+2013,"New York, NY","16000US3651000","Urban Studies","451201","Bachelor's Degree","5",243
+2014,"New York, NY","16000US3651000","Urban Studies","451201","Bachelor's Degree","5",184
+2015,"New York, NY","16000US3651000","Sociology & Anthropology","451301","Bachelor's Degree","5",84
+2013,"New York, NY","16000US3651000","Sociology & Anthropology","451301","Bachelor's Degree","5",134
+2014,"New York, NY","16000US3651000","Sociology & Anthropology","451301","Bachelor's Degree","5",103
+2015,"New York, NY","16000US3651000","Other Social Sciences","459999","Bachelor's Degree","5",104
+2013,"New York, NY","16000US3651000","Other Social Sciences","459999","Bachelor's Degree","5",196
+2014,"New York, NY","16000US3651000","Other Social Sciences","459999","Bachelor's Degree","5",101
+2015,"New York, NY","16000US3651000","Airframe Mechanics & Aircraft Maintenance Technology","470607","Bachelor's Degree","5",5
+2013,"New York, NY","16000US3651000","Airframe Mechanics & Aircraft Maintenance Technology","470607","Bachelor's Degree","5",2
+2014,"New York, NY","16000US3651000","Airframe Mechanics & Aircraft Maintenance Technology","470607","Bachelor's Degree","5",5
+2015,"New York, NY","16000US3651000","Airway Management & Operations","490104","Bachelor's Degree","5",78
+2013,"New York, NY","16000US3651000","Airway Management & Operations","490104","Bachelor's Degree","5",121
+2014,"New York, NY","16000US3651000","Airway Management & Operations","490104","Bachelor's Degree","5",98
+2015,"New York, NY","16000US3651000","Marine Science & Merchant Marine Officer","490309","Bachelor's Degree","5",125
+2015,"New York, NY","16000US3651000","General Visual & Performing Arts","500101","Bachelor's Degree","5",8
+2013,"New York, NY","16000US3651000","Digital Arts","500102","Bachelor's Degree","5",7
+2014,"New York, NY","16000US3651000","Digital Arts","500102","Bachelor's Degree","5",20
+2015,"New York, NY","16000US3651000","General Dance","500301","Bachelor's Degree","5",136
+2013,"New York, NY","16000US3651000","General Dance","500301","Bachelor's Degree","5",151
+2014,"New York, NY","16000US3651000","General Dance","500301","Bachelor's Degree","5",134
+2015,"New York, NY","16000US3651000","Ballet","500302","Bachelor's Degree","5",11
+2014,"New York, NY","16000US3651000","Ballet","500302","Bachelor's Degree","5",14
+2015,"New York, NY","16000US3651000","Other Dance","500399","Bachelor's Degree","5",8
+2014,"New York, NY","16000US3651000","Other Dance","500399","Bachelor's Degree","5",6
+2015,"New York, NY","16000US3651000","General Design & Visual Communications","500401","Bachelor's Degree","5",216
+2013,"New York, NY","16000US3651000","General Design & Visual Communications","500401","Bachelor's Degree","5",382
+2014,"New York, NY","16000US3651000","General Design & Visual Communications","500401","Bachelor's Degree","5",350
+2015,"New York, NY","16000US3651000","Commercial & Advertising Art","500402","Bachelor's Degree","5",99
+2013,"New York, NY","16000US3651000","Commercial & Advertising Art","500402","Bachelor's Degree","5",83
+2014,"New York, NY","16000US3651000","Commercial & Advertising Art","500402","Bachelor's Degree","5",73
+2015,"New York, NY","16000US3651000","Industrial & Product Design","500404","Bachelor's Degree","5",144
+2013,"New York, NY","16000US3651000","Industrial & Product Design","500404","Bachelor's Degree","5",137
+2014,"New York, NY","16000US3651000","Industrial & Product Design","500404","Bachelor's Degree","5",149
+2015,"New York, NY","16000US3651000","Commercial Photography","500406","Bachelor's Degree","5",31
+2013,"New York, NY","16000US3651000","Commercial Photography","500406","Bachelor's Degree","5",38
+2014,"New York, NY","16000US3651000","Commercial Photography","500406","Bachelor's Degree","5",36
+2015,"New York, NY","16000US3651000","Fashion & Apparel Design","500407","Bachelor's Degree","5",568
+2013,"New York, NY","16000US3651000","Fashion & Apparel Design","500407","Bachelor's Degree","5",507
+2014,"New York, NY","16000US3651000","Fashion & Apparel Design","500407","Bachelor's Degree","5",559
+2015,"New York, NY","16000US3651000","Interior Design","500408","Bachelor's Degree","5",201
+2013,"New York, NY","16000US3651000","Interior Design","500408","Bachelor's Degree","5",163
+2014,"New York, NY","16000US3651000","Interior Design","500408","Bachelor's Degree","5",201
+2015,"New York, NY","16000US3651000","Graphic Design","500409","Bachelor's Degree","5",509
+2013,"New York, NY","16000US3651000","Graphic Design","500409","Bachelor's Degree","5",309
+2014,"New York, NY","16000US3651000","Graphic Design","500409","Bachelor's Degree","5",451
+2015,"New York, NY","16000US3651000","Illustration","500410","Bachelor's Degree","5",283
+2013,"New York, NY","16000US3651000","Illustration","500410","Bachelor's Degree","5",264
+2014,"New York, NY","16000US3651000","Illustration","500410","Bachelor's Degree","5",251
+2015,"New York, NY","16000US3651000","Other Design & Applied Arts","500499","Bachelor's Degree","5",31
+2013,"New York, NY","16000US3651000","Other Design & Applied Arts","500499","Bachelor's Degree","5",161
+2014,"New York, NY","16000US3651000","Other Design & Applied Arts","500499","Bachelor's Degree","5",23
+2015,"New York, NY","16000US3651000","General Drama & Theater Arts","500501","Bachelor's Degree","5",579
+2013,"New York, NY","16000US3651000","General Drama & Theater Arts","500501","Bachelor's Degree","5",760
+2014,"New York, NY","16000US3651000","General Drama & Theater Arts","500501","Bachelor's Degree","5",631
+2015,"New York, NY","16000US3651000","Technical Theatre Design & Technology","500502","Bachelor's Degree","5",29
+2013,"New York, NY","16000US3651000","Technical Theatre Design & Technology","500502","Bachelor's Degree","5",8
+2014,"New York, NY","16000US3651000","Technical Theatre Design & Technology","500502","Bachelor's Degree","5",19
+2015,"New York, NY","16000US3651000","Playwriting & Screenwriting","500504","Bachelor's Degree","5",56
+2014,"New York, NY","16000US3651000","Playwriting & Screenwriting","500504","Bachelor's Degree","5",63
+2015,"New York, NY","16000US3651000","Theatre Literature, History, & Criticism","500505","Bachelor's Degree","5",2
+2014,"New York, NY","16000US3651000","Theatre Literature, History, & Criticism","500505","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","Acting","500506","Bachelor's Degree","5",88
+2013,"New York, NY","16000US3651000","Acting","500506","Bachelor's Degree","5",46
+2014,"New York, NY","16000US3651000","Acting","500506","Bachelor's Degree","5",108
+2015,"New York, NY","16000US3651000","Directing & Theatrical Production","500507","Bachelor's Degree","5",1
+2014,"New York, NY","16000US3651000","Directing & Theatrical Production","500507","Bachelor's Degree","5",3
+2015,"New York, NY","16000US3651000","Musical Theatre","500509","Bachelor's Degree","5",39
+2013,"New York, NY","16000US3651000","Musical Theatre","500509","Bachelor's Degree","5",14
+2014,"New York, NY","16000US3651000","Musical Theatre","500509","Bachelor's Degree","5",35
+2015,"New York, NY","16000US3651000","Costume Design","500510","Bachelor's Degree","5",2
+2014,"New York, NY","16000US3651000","Costume Design","500510","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","Other Dramatic Arts & Stagecraft","500599","Bachelor's Degree","5",179
+2013,"New York, NY","16000US3651000","Other Dramatic Arts & Stagecraft","500599","Bachelor's Degree","5",163
+2014,"New York, NY","16000US3651000","Other Dramatic Arts & Stagecraft","500599","Bachelor's Degree","5",161
+2015,"New York, NY","16000US3651000","Film, Cinema, & Video Studies","500601","Bachelor's Degree","5",117
+2013,"New York, NY","16000US3651000","Film, Cinema, & Video Studies","500601","Bachelor's Degree","5",108
+2014,"New York, NY","16000US3651000","Film, Cinema, & Video Studies","500601","Bachelor's Degree","5",97
+2015,"New York, NY","16000US3651000","Cinematography & Film Production","500602","Bachelor's Degree","5",457
+2013,"New York, NY","16000US3651000","Cinematography & Film Production","500602","Bachelor's Degree","5",498
+2014,"New York, NY","16000US3651000","Cinematography & Film Production","500602","Bachelor's Degree","5",500
+2015,"New York, NY","16000US3651000","Photography","500605","Bachelor's Degree","5",248
+2013,"New York, NY","16000US3651000","Photography","500605","Bachelor's Degree","5",251
+2014,"New York, NY","16000US3651000","Photography","500605","Bachelor's Degree","5",237
+2015,"New York, NY","16000US3651000","Other Film & Photographic Arts","500699","Bachelor's Degree","5",88
+2013,"New York, NY","16000US3651000","Other Film & Photographic Arts","500699","Bachelor's Degree","5",106
+2014,"New York, NY","16000US3651000","Other Film & Photographic Arts","500699","Bachelor's Degree","5",98
+2015,"New York, NY","16000US3651000","General Art Studies","500701","Bachelor's Degree","5",32
+2013,"New York, NY","16000US3651000","General Art Studies","500701","Bachelor's Degree","5",24
+2014,"New York, NY","16000US3651000","General Art Studies","500701","Bachelor's Degree","5",33
+2015,"New York, NY","16000US3651000","General Fine Studio Arts","500702","Bachelor's Degree","5",565
+2013,"New York, NY","16000US3651000","General Fine Studio Arts","500702","Bachelor's Degree","5",727
+2014,"New York, NY","16000US3651000","General Fine Studio Arts","500702","Bachelor's Degree","5",686
+2015,"New York, NY","16000US3651000","Art History, Criticism, & Conservation","500703","Bachelor's Degree","5",273
+2013,"New York, NY","16000US3651000","Art History, Criticism, & Conservation","500703","Bachelor's Degree","5",224
+2014,"New York, NY","16000US3651000","Art History, Criticism, & Conservation","500703","Bachelor's Degree","5",264
+2015,"New York, NY","16000US3651000","Drawing","500705","Bachelor's Degree","5",7
+2015,"New York, NY","16000US3651000","Painting","500708","Bachelor's Degree","5",31
+2015,"New York, NY","16000US3651000","Sculpture","500709","Bachelor's Degree","5",19
+2013,"New York, NY","16000US3651000","Sculpture","500709","Bachelor's Degree","5",9
+2014,"New York, NY","16000US3651000","Sculpture","500709","Bachelor's Degree","5",14
+2015,"New York, NY","16000US3651000","Printmaking","500710","Bachelor's Degree","5",6
+2015,"New York, NY","16000US3651000","Ceramic Arts & Ceramics","500711","Bachelor's Degree","5",2
+2015,"New York, NY","16000US3651000","Other Fine Arts & Art Studies","500799","Bachelor's Degree","5",35
+2013,"New York, NY","16000US3651000","Other Fine Arts & Art Studies","500799","Bachelor's Degree","5",99
+2014,"New York, NY","16000US3651000","Other Fine Arts & Art Studies","500799","Bachelor's Degree","5",46
+2015,"New York, NY","16000US3651000","General Music","500901","Bachelor's Degree","5",117
+2013,"New York, NY","16000US3651000","General Music","500901","Bachelor's Degree","5",117
+2014,"New York, NY","16000US3651000","General Music","500901","Bachelor's Degree","5",137
+2015,"New York, NY","16000US3651000","Music History, Literature, & Theory","500902","Bachelor's Degree","5",9
+2014,"New York, NY","16000US3651000","Music History, Literature, & Theory","500902","Bachelor's Degree","5",8
+2015,"New York, NY","16000US3651000","General Music Performance","500903","Bachelor's Degree","5",270
+2013,"New York, NY","16000US3651000","General Music Performance","500903","Bachelor's Degree","5",259
+2014,"New York, NY","16000US3651000","General Music Performance","500903","Bachelor's Degree","5",248
+2015,"New York, NY","16000US3651000","Music Theory & Composition","500904","Bachelor's Degree","5",23
+2013,"New York, NY","16000US3651000","Music Theory & Composition","500904","Bachelor's Degree","5",11
+2014,"New York, NY","16000US3651000","Music Theory & Composition","500904","Bachelor's Degree","5",25
+2015,"New York, NY","16000US3651000","Keyboard Instruments","500907","Bachelor's Degree","5",21
+2013,"New York, NY","16000US3651000","Keyboard Instruments","500907","Bachelor's Degree","5",19
+2014,"New York, NY","16000US3651000","Keyboard Instruments","500907","Bachelor's Degree","5",26
+2015,"New York, NY","16000US3651000","Voice & Opera","500908","Bachelor's Degree","5",13
+2013,"New York, NY","16000US3651000","Voice & Opera","500908","Bachelor's Degree","5",14
+2014,"New York, NY","16000US3651000","Voice & Opera","500908","Bachelor's Degree","5",17
+2015,"New York, NY","16000US3651000","Jazz & Jazz Studies","500910","Bachelor's Degree","5",73
+2013,"New York, NY","16000US3651000","Jazz & Jazz Studies","500910","Bachelor's Degree","5",57
+2014,"New York, NY","16000US3651000","Jazz & Jazz Studies","500910","Bachelor's Degree","5",77
+2015,"New York, NY","16000US3651000","Stringed Instruments","500911","Bachelor's Degree","5",38
+2013,"New York, NY","16000US3651000","Stringed Instruments","500911","Bachelor's Degree","5",34
+2014,"New York, NY","16000US3651000","Stringed Instruments","500911","Bachelor's Degree","5",41
+2015,"New York, NY","16000US3651000","Music Technology","500913","Bachelor's Degree","5",34
+2014,"New York, NY","16000US3651000","Music Technology","500913","Bachelor's Degree","5",24
+2015,"New York, NY","16000US3651000","Brass Instruments","500914","Bachelor's Degree","5",7
+2014,"New York, NY","16000US3651000","Brass Instruments","500914","Bachelor's Degree","5",4
+2015,"New York, NY","16000US3651000","Woodwind Instruments","500915","Bachelor's Degree","5",7
+2013,"New York, NY","16000US3651000","Woodwind Instruments","500915","Bachelor's Degree","5",22
+2014,"New York, NY","16000US3651000","Woodwind Instruments","500915","Bachelor's Degree","5",5
+2014,"New York, NY","16000US3651000","Percussion Instruments","500916","Bachelor's Degree","5",4
+2015,"New York, NY","16000US3651000","Fine & Studio Arts Management","501002","Bachelor's Degree","5",183
+2013,"New York, NY","16000US3651000","Fine & Studio Arts Management","501002","Bachelor's Degree","5",46
+2014,"New York, NY","16000US3651000","Fine & Studio Arts Management","501002","Bachelor's Degree","5",250
+2015,"New York, NY","16000US3651000","Theatre Arts Management","501004","Bachelor's Degree","5",49
+2013,"New York, NY","16000US3651000","Theatre Arts Management","501004","Bachelor's Degree","5",26
+2014,"New York, NY","16000US3651000","Theatre Arts Management","501004","Bachelor's Degree","5",45
+2015,"New York, NY","16000US3651000","Other Visual & Performing Arts","509999","Bachelor's Degree","5",109
+2013,"New York, NY","16000US3651000","Other Visual & Performing Arts","509999","Bachelor's Degree","5",125
+2014,"New York, NY","16000US3651000","Other Visual & Performing Arts","509999","Bachelor's Degree","5",103
+2015,"New York, NY","16000US3651000","General Health Services","510000","Bachelor's Degree","5",293
+2013,"New York, NY","16000US3651000","General Health Services","510000","Bachelor's Degree","5",34
+2014,"New York, NY","16000US3651000","General Health Services","510000","Bachelor's Degree","5",265
+2015,"New York, NY","16000US3651000","General Communication Sciences & Disorders","510201","Bachelor's Degree","5",115
+2013,"New York, NY","16000US3651000","General Communication Sciences & Disorders","510201","Bachelor's Degree","5",107
+2014,"New York, NY","16000US3651000","General Communication Sciences & Disorders","510201","Bachelor's Degree","5",96
+2013,"New York, NY","16000US3651000","Audiology","510202","Bachelor's Degree","5",1
+2013,"New York, NY","16000US3651000","Speech-Language Pathology","510203","Bachelor's Degree","5",15
+2015,"New York, NY","16000US3651000","Audiology & Speech-Language Pathology","510204","Bachelor's Degree","5",276
+2013,"New York, NY","16000US3651000","Audiology & Speech-Language Pathology","510204","Bachelor's Degree","5",227
+2014,"New York, NY","16000US3651000","Audiology & Speech-Language Pathology","510204","Bachelor's Degree","5",297
+2015,"New York, NY","16000US3651000","Dental Hygiene","510602","Bachelor's Degree","5",14
+2013,"New York, NY","16000US3651000","Dental Hygiene","510602","Bachelor's Degree","5",8
+2014,"New York, NY","16000US3651000","Dental Hygiene","510602","Bachelor's Degree","5",11
+2015,"New York, NY","16000US3651000","Health Care Administration & Management","510701","Bachelor's Degree","5",108
+2013,"New York, NY","16000US3651000","Health Care Administration & Management","510701","Bachelor's Degree","5",125
+2014,"New York, NY","16000US3651000","Health Care Administration & Management","510701","Bachelor's Degree","5",112
+2015,"New York, NY","16000US3651000","Hospital & Health Care Facilities Management","510702","Bachelor's Degree","5",253
+2013,"New York, NY","16000US3651000","Hospital & Health Care Facilities Management","510702","Bachelor's Degree","5",194
+2014,"New York, NY","16000US3651000","Hospital & Health Care Facilities Management","510702","Bachelor's Degree","5",208
+2015,"New York, NY","16000US3651000","Health Information & Medical Records Administration","510706","Bachelor's Degree","5",20
+2013,"New York, NY","16000US3651000","Health Information & Medical Records Administration","510706","Bachelor's Degree","5",15
+2014,"New York, NY","16000US3651000","Health Information & Medical Records Administration","510706","Bachelor's Degree","5",41
+2015,"New York, NY","16000US3651000","Health Information & Medical Records Technology","510707","Bachelor's Degree","5",3
+2013,"New York, NY","16000US3651000","Health Information & Medical Records Technology","510707","Bachelor's Degree","5",3
+2014,"New York, NY","16000US3651000","Health Information & Medical Records Technology","510707","Bachelor's Degree","5",5
+2015,"New York, NY","16000US3651000","Other Allied Health & Medical Assisting Services","510899","Bachelor's Degree","5",7
+2013,"New York, NY","16000US3651000","Other Allied Health & Medical Assisting Services","510899","Bachelor's Degree","5",10
+2014,"New York, NY","16000US3651000","Other Allied Health & Medical Assisting Services","510899","Bachelor's Degree","5",9
+2015,"New York, NY","16000US3651000","Nuclear Medical Technologist","510905","Bachelor's Degree","5",4
+2013,"New York, NY","16000US3651000","Nuclear Medical Technologist","510905","Bachelor's Degree","5",6
+2014,"New York, NY","16000US3651000","Nuclear Medical Technologist","510905","Bachelor's Degree","5",6
+2015,"New York, NY","16000US3651000","Radiation Therapist","510907","Bachelor's Degree","5",42
+2013,"New York, NY","16000US3651000","Radiation Therapist","510907","Bachelor's Degree","5",35
+2014,"New York, NY","16000US3651000","Radiation Therapist","510907","Bachelor's Degree","5",66
+2015,"New York, NY","16000US3651000","Respiratory Care Therapist","510908","Bachelor's Degree","5",23
+2013,"New York, NY","16000US3651000","Respiratory Care Therapist","510908","Bachelor's Degree","5",20
+2014,"New York, NY","16000US3651000","Respiratory Care Therapist","510908","Bachelor's Degree","5",20
+2015,"New York, NY","16000US3651000","Diagnostic Medical Sonography & Ultrasound Technician","510910","Bachelor's Degree","5",7
+2014,"New York, NY","16000US3651000","Diagnostic Medical Sonography & Ultrasound Technician","510910","Bachelor's Degree","5",2
+2015,"New York, NY","16000US3651000","Radiographer","510911","Bachelor's Degree","5",31
+2013,"New York, NY","16000US3651000","Radiographer","510911","Bachelor's Degree","5",27
+2014,"New York, NY","16000US3651000","Radiographer","510911","Bachelor's Degree","5",19
+2015,"New York, NY","16000US3651000","Physician Assistant","510912","Bachelor's Degree","5",196
+2013,"New York, NY","16000US3651000","Physician Assistant","510912","Bachelor's Degree","5",206
+2014,"New York, NY","16000US3651000","Physician Assistant","510912","Bachelor's Degree","5",168
+2015,"New York, NY","16000US3651000","Athletic Trainer","510913","Bachelor's Degree","5",6
+2013,"New York, NY","16000US3651000","Athletic Trainer","510913","Bachelor's Degree","5",4
+2015,"New York, NY","16000US3651000","Clinical Laboratory Technologist","511005","Bachelor's Degree","5",121
+2013,"New York, NY","16000US3651000","Clinical Laboratory Technologist","511005","Bachelor's Degree","5",116
+2014,"New York, NY","16000US3651000","Clinical Laboratory Technologist","511005","Bachelor's Degree","5",134
+2015,"New York, NY","16000US3651000","General Public Health","512201","Bachelor's Degree","5",94
+2014,"New York, NY","16000US3651000","General Public Health","512201","Bachelor's Degree","5",125
+2015,"New York, NY","16000US3651000","Environmental Health","512202","Bachelor's Degree","5",2
+2014,"New York, NY","16000US3651000","Environmental Health","512202","Bachelor's Degree","5",7
+2015,"New York, NY","16000US3651000","Public Health Education & Promotion","512207","Bachelor's Degree","5",113
+2013,"New York, NY","16000US3651000","Public Health Education & Promotion","512207","Bachelor's Degree","5",89
+2014,"New York, NY","16000US3651000","Public Health Education & Promotion","512207","Bachelor's Degree","5",114
+2013,"New York, NY","16000US3651000","Community Health & Preventative Medicine","512208","Bachelor's Degree","5",73
+2015,"New York, NY","16000US3651000","Health Services Administration","512211","Bachelor's Degree","5",168
+2013,"New York, NY","16000US3651000","Health Services Administration","512211","Bachelor's Degree","5",136
+2014,"New York, NY","16000US3651000","Health Services Administration","512211","Bachelor's Degree","5",133
+2015,"New York, NY","16000US3651000","Occupational Therapy","512306","Bachelor's Degree","5",56
+2013,"New York, NY","16000US3651000","Occupational Therapy","512306","Bachelor's Degree","5",17
+2015,"New York, NY","16000US3651000","Physical Therapy","512308","Bachelor's Degree","5",3
+2013,"New York, NY","16000US3651000","Physical Therapy","512308","Bachelor's Degree","5",4
+2015,"New York, NY","16000US3651000","Therapeutic Recreation Therapy","512309","Bachelor's Degree","5",26
+2013,"New York, NY","16000US3651000","Therapeutic Recreation Therapy","512309","Bachelor's Degree","5",22
+2014,"New York, NY","16000US3651000","Therapeutic Recreation Therapy","512309","Bachelor's Degree","5",16
+2015,"New York, NY","16000US3651000","Dietetics","513101","Bachelor's Degree","5",145
+2013,"New York, NY","16000US3651000","Dietetics","513101","Bachelor's Degree","5",49
+2014,"New York, NY","16000US3651000","Dietetics","513101","Bachelor's Degree","5",96
+2015,"New York, NY","16000US3651000","Others Dietetics & Clinical Nutrition Services","513199","Bachelor's Degree","5",26
+2015,"New York, NY","16000US3651000","Movement Therapy & Movement Education","513601","Bachelor's Degree","5",19
+2013,"New York, NY","16000US3651000","Movement Therapy & Movement Education","513601","Bachelor's Degree","5",12
+2014,"New York, NY","16000US3651000","Movement Therapy & Movement Education","513601","Bachelor's Degree","5",30
+2015,"New York, NY","16000US3651000","Registered Nursing","513801","Bachelor's Degree","5",2259
+2013,"New York, NY","16000US3651000","Registered Nursing","513801","Bachelor's Degree","5",1887
+2014,"New York, NY","16000US3651000","Registered Nursing","513801","Bachelor's Degree","5",2180
+2015,"New York, NY","16000US3651000","Adult Health Nurse","513803","Bachelor's Degree","5",1
+2013,"New York, NY","16000US3651000","Nurse Education","513817","Bachelor's Degree","5",53
+2014,"New York, NY","16000US3651000","Nurse Education","513817","Bachelor's Degree","5",25
+2015,"New York, NY","16000US3651000","Other Registered Nursing, Nursing Administration, Nursing Research, & Clinical Nursing","513899","Bachelor's Degree","5",26
+2015,"New York, NY","16000US3651000","Other Practical Nursing, Vocational Nursing, & Nursing Assistants","513999","Bachelor's Degree","5",65
+2013,"New York, NY","16000US3651000","Other Practical Nursing, Vocational Nursing, & Nursing Assistants","513999","Bachelor's Degree","5",48
+2014,"New York, NY","16000US3651000","Other Practical Nursing, Vocational Nursing, & Nursing Assistants","513999","Bachelor's Degree","5",67
+2015,"New York, NY","16000US3651000","Other Health Professions & Related Clinical Sciences","519999","Bachelor's Degree","5",277
+2013,"New York, NY","16000US3651000","Other Health Professions & Related Clinical Sciences","519999","Bachelor's Degree","5",473
+2014,"New York, NY","16000US3651000","Other Health Professions & Related Clinical Sciences","519999","Bachelor's Degree","5",254
+2015,"New York, NY","16000US3651000","General Business","520101","Bachelor's Degree","5",1007
+2013,"New York, NY","16000US3651000","General Business","520101","Bachelor's Degree","5",512
+2014,"New York, NY","16000US3651000","General Business","520101","Bachelor's Degree","5",467
+2015,"New York, NY","16000US3651000","General Business Administration & Management","520201","Bachelor's Degree","5",2658
+2013,"New York, NY","16000US3651000","General Business Administration & Management","520201","Bachelor's Degree","5",2347
+2014,"New York, NY","16000US3651000","General Business Administration & Management","520201","Bachelor's Degree","5",2705
+2015,"New York, NY","16000US3651000","Non-Profit, Public, & Organizational Management","520206","Bachelor's Degree","5",6
+2014,"New York, NY","16000US3651000","Non-Profit, Public, & Organizational Management","520206","Bachelor's Degree","5",5
+2013,"New York, NY","16000US3651000","Transportation Management","520209","Bachelor's Degree","5",117
+2014,"New York, NY","16000US3651000","Transportation Management","520209","Bachelor's Degree","5",104
+2015,"New York, NY","16000US3651000","Organizational Leadership","520213","Bachelor's Degree","5",44
+2013,"New York, NY","16000US3651000","Organizational Leadership","520213","Bachelor's Degree","5",23
+2014,"New York, NY","16000US3651000","Organizational Leadership","520213","Bachelor's Degree","5",11
+2015,"New York, NY","16000US3651000","Other Business Administration, Management, & Operations","520299","Bachelor's Degree","5",66
+2013,"New York, NY","16000US3651000","Other Business Administration, Management, & Operations","520299","Bachelor's Degree","5",74
+2014,"New York, NY","16000US3651000","Other Business Administration, Management, & Operations","520299","Bachelor's Degree","5",83
+2015,"New York, NY","16000US3651000","Accounting","520301","Bachelor's Degree","5",2544
+2013,"New York, NY","16000US3651000","Accounting","520301","Bachelor's Degree","5",2762
+2014,"New York, NY","16000US3651000","Accounting","520301","Bachelor's Degree","5",2659
+2015,"New York, NY","16000US3651000","Accounting & Finance","520304","Bachelor's Degree","5",36
+2013,"New York, NY","16000US3651000","Accounting & Finance","520304","Bachelor's Degree","5",25
+2014,"New York, NY","16000US3651000","Accounting & Finance","520304","Bachelor's Degree","5",30
+2015,"New York, NY","16000US3651000","Business & Corporate Communications","520501","Bachelor's Degree","5",281
+2013,"New York, NY","16000US3651000","Business & Corporate Communications","520501","Bachelor's Degree","5",242
+2014,"New York, NY","16000US3651000","Business & Corporate Communications","520501","Bachelor's Degree","5",246
+2015,"New York, NY","16000US3651000","Business & Managerial Economics","520601","Bachelor's Degree","5",100
+2013,"New York, NY","16000US3651000","Business & Managerial Economics","520601","Bachelor's Degree","5",208
+2014,"New York, NY","16000US3651000","Business & Managerial Economics","520601","Bachelor's Degree","5",216
+2015,"New York, NY","16000US3651000","Entrepreneurial Studies","520701","Bachelor's Degree","5",130
+2013,"New York, NY","16000US3651000","Entrepreneurial Studies","520701","Bachelor's Degree","5",140
+2014,"New York, NY","16000US3651000","Entrepreneurial Studies","520701","Bachelor's Degree","5",120
+2015,"New York, NY","16000US3651000","Other Small Business & Entrepreneurial Operations","520799","Bachelor's Degree","5",17
+2013,"New York, NY","16000US3651000","Other Small Business & Entrepreneurial Operations","520799","Bachelor's Degree","5",8
+2014,"New York, NY","16000US3651000","Other Small Business & Entrepreneurial Operations","520799","Bachelor's Degree","5",10
+2015,"New York, NY","16000US3651000","General Finance","520801","Bachelor's Degree","5",1251
+2013,"New York, NY","16000US3651000","General Finance","520801","Bachelor's Degree","5",1739
+2014,"New York, NY","16000US3651000","General Finance","520801","Bachelor's Degree","5",1671
+2015,"New York, NY","16000US3651000","Financial Planning & Services","520804","Bachelor's Degree","5",25
+2013,"New York, NY","16000US3651000","Financial Planning & Services","520804","Bachelor's Degree","5",23
+2014,"New York, NY","16000US3651000","Financial Planning & Services","520804","Bachelor's Degree","5",16
+2014,"New York, NY","16000US3651000","Investments & Securities","520807","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","General Hospitality Management","520901","Bachelor's Degree","5",322
+2013,"New York, NY","16000US3651000","General Hospitality Management","520901","Bachelor's Degree","5",302
+2014,"New York, NY","16000US3651000","General Hospitality Management","520901","Bachelor's Degree","5",283
+2015,"New York, NY","16000US3651000","Hotel Administration & Management","520904","Bachelor's Degree","5",84
+2013,"New York, NY","16000US3651000","Hotel Administration & Management","520904","Bachelor's Degree","5",64
+2014,"New York, NY","16000US3651000","Hotel Administration & Management","520904","Bachelor's Degree","5",65
+2015,"New York, NY","16000US3651000","General Human Resources Management & Personnel Administration","521001","Bachelor's Degree","5",22
+2013,"New York, NY","16000US3651000","General Human Resources Management & Personnel Administration","521001","Bachelor's Degree","5",11
+2014,"New York, NY","16000US3651000","General Human Resources Management & Personnel Administration","521001","Bachelor's Degree","5",19
+2015,"New York, NY","16000US3651000","Labor & Industrial Relations","521002","Bachelor's Degree","5",1
+2013,"New York, NY","16000US3651000","Labor & Industrial Relations","521002","Bachelor's Degree","5",53
+2014,"New York, NY","16000US3651000","Labor & Industrial Relations","521002","Bachelor's Degree","5",53
+2015,"New York, NY","16000US3651000","Organizational Behavior Studies","521003","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","Labor Studies","521004","Bachelor's Degree","5",13
+2013,"New York, NY","16000US3651000","Labor Studies","521004","Bachelor's Degree","5",8
+2014,"New York, NY","16000US3651000","Labor Studies","521004","Bachelor's Degree","5",7
+2015,"New York, NY","16000US3651000","International Business, Trade, & Commerce","521101","Bachelor's Degree","5",157
+2013,"New York, NY","16000US3651000","International Business, Trade, & Commerce","521101","Bachelor's Degree","5",259
+2014,"New York, NY","16000US3651000","International Business, Trade, & Commerce","521101","Bachelor's Degree","5",229
+2015,"New York, NY","16000US3651000","General Management Information Systems","521201","Bachelor's Degree","5",22
+2013,"New York, NY","16000US3651000","General Management Information Systems","521201","Bachelor's Degree","5",162
+2014,"New York, NY","16000US3651000","General Management Information Systems","521201","Bachelor's Degree","5",38
+2015,"New York, NY","16000US3651000","Other Management Information Systems & Services","521299","Bachelor's Degree","5",5
+2014,"New York, NY","16000US3651000","Other Management Information Systems & Services","521299","Bachelor's Degree","5",3
+2015,"New York, NY","16000US3651000","Business Statistics","521302","Bachelor's Degree","5",35
+2013,"New York, NY","16000US3651000","Business Statistics","521302","Bachelor's Degree","5",20
+2014,"New York, NY","16000US3651000","Business Statistics","521302","Bachelor's Degree","5",15
+2015,"New York, NY","16000US3651000","Actuarial Science","521304","Bachelor's Degree","5",76
+2013,"New York, NY","16000US3651000","Actuarial Science","521304","Bachelor's Degree","5",64
+2014,"New York, NY","16000US3651000","Actuarial Science","521304","Bachelor's Degree","5",77
+2015,"New York, NY","16000US3651000","Other Management Sciences & Quantitative Methods","521399","Bachelor's Degree","5",7
+2013,"New York, NY","16000US3651000","Other Management Sciences & Quantitative Methods","521399","Bachelor's Degree","5",4
+2014,"New York, NY","16000US3651000","Other Management Sciences & Quantitative Methods","521399","Bachelor's Degree","5",3
+2015,"New York, NY","16000US3651000","General Marketing & Marketing Management","521401","Bachelor's Degree","5",335
+2013,"New York, NY","16000US3651000","General Marketing & Marketing Management","521401","Bachelor's Degree","5",317
+2014,"New York, NY","16000US3651000","General Marketing & Marketing Management","521401","Bachelor's Degree","5",300
+2015,"New York, NY","16000US3651000","Marketing Research","521402","Bachelor's Degree","5",17
+2013,"New York, NY","16000US3651000","Marketing Research","521402","Bachelor's Degree","5",23
+2014,"New York, NY","16000US3651000","Marketing Research","521402","Bachelor's Degree","5",19
+2015,"New York, NY","16000US3651000","International Marketing","521403","Bachelor's Degree","5",178
+2013,"New York, NY","16000US3651000","International Marketing","521403","Bachelor's Degree","5",138
+2014,"New York, NY","16000US3651000","International Marketing","521403","Bachelor's Degree","5",137
+2015,"New York, NY","16000US3651000","Other Marketing","521499","Bachelor's Degree","5",1
+2013,"New York, NY","16000US3651000","Other Marketing","521499","Bachelor's Degree","5",5
+2014,"New York, NY","16000US3651000","Other Marketing","521499","Bachelor's Degree","5",1
+2015,"New York, NY","16000US3651000","Real Estate","521501","Bachelor's Degree","5",51
+2013,"New York, NY","16000US3651000","Real Estate","521501","Bachelor's Degree","5",43
+2014,"New York, NY","16000US3651000","Real Estate","521501","Bachelor's Degree","5",57
+2015,"New York, NY","16000US3651000","Insurance","521701","Bachelor's Degree","5",35
+2013,"New York, NY","16000US3651000","Insurance","521701","Bachelor's Degree","5",26
+2014,"New York, NY","16000US3651000","Insurance","521701","Bachelor's Degree","5",27
+2015,"New York, NY","16000US3651000","General Sales, Distribution, & Marketing Operations","521801","Bachelor's Degree","5",489
+2013,"New York, NY","16000US3651000","General Sales, Distribution, & Marketing Operations","521801","Bachelor's Degree","5",544
+2014,"New York, NY","16000US3651000","General Sales, Distribution, & Marketing Operations","521801","Bachelor's Degree","5",563
+2015,"New York, NY","16000US3651000","Fashion Merchandising","521902","Bachelor's Degree","5",725
+2013,"New York, NY","16000US3651000","Fashion Merchandising","521902","Bachelor's Degree","5",661
+2014,"New York, NY","16000US3651000","Fashion Merchandising","521902","Bachelor's Degree","5",701
+2015,"New York, NY","16000US3651000","Special Products Marketing Operations","521909","Bachelor's Degree","5",19
+2013,"New York, NY","16000US3651000","Special Products Marketing Operations","521909","Bachelor's Degree","5",22
+2014,"New York, NY","16000US3651000","Special Products Marketing Operations","521909","Bachelor's Degree","5",22
+2015,"New York, NY","16000US3651000","Other Specialized Merchandising, Sales, & Marketing Operations","521999","Bachelor's Degree","5",27
+2013,"New York, NY","16000US3651000","Other Specialized Merchandising, Sales, & Marketing Operations","521999","Bachelor's Degree","5",18
+2014,"New York, NY","16000US3651000","Other Specialized Merchandising, Sales, & Marketing Operations","521999","Bachelor's Degree","5",19
+2015,"New York, NY","16000US3651000","Construction Management","522001","Bachelor's Degree","5",13
+2013,"New York, NY","16000US3651000","Construction Management","522001","Bachelor's Degree","5",9
+2014,"New York, NY","16000US3651000","Construction Management","522001","Bachelor's Degree","5",17
+2015,"New York, NY","16000US3651000","Other Business, Management, Marketing, & Related Support Services","529999","Bachelor's Degree","5",185
+2013,"New York, NY","16000US3651000","Other Business, Management, Marketing, & Related Support Services","529999","Bachelor's Degree","5",147
+2014,"New York, NY","16000US3651000","Other Business, Management, Marketing, & Related Support Services","529999","Bachelor's Degree","5",180
+2015,"New York, NY","16000US3651000","General History","540101","Bachelor's Degree","5",774
+2013,"New York, NY","16000US3651000","General History","540101","Bachelor's Degree","5",927
+2014,"New York, NY","16000US3651000","General History","540101","Bachelor's Degree","5",825
+2015,"New York, NY","16000US3651000","History & Philosophy of Science & Technology","540104","Bachelor's Degree","5",3
+2013,"New York, NY","16000US3651000","History & Philosophy of Science & Technology","540104","Bachelor's Degree","5",1
+2014,"New York, NY","16000US3651000","History & Philosophy of Science & Technology","540104","Bachelor's Degree","5",2

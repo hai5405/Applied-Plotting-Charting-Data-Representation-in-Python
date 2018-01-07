@@ -1,0 +1,662 @@
+year,geo_name,geo,university_name,university,grads_men,grads_women
+2013,"Los Angeles County, CA","05000US06037","American Academy of Dramatic Arts-Los Angeles","108852",42,54
+2013,"Los Angeles County, CA","05000US06037","American Film Institute Conservatory","108870",77,44
+2013,"Los Angeles County, CA","05000US06037","American Beauty College","108977",11,26
+2013,"Los Angeles County, CA","05000US06037","American Career College-Los Angeles","109040",249,775
+2013,"Los Angeles County, CA","05000US06037","Antelope Valley College","109350",595,914
+2013,"Los Angeles County, CA","05000US06037","Art Center College of Design","109651",202,181
+2013,"Los Angeles County, CA","05000US06037","Associated Technical College-Los Angeles","109721",121,141
+2013,"Los Angeles County, CA","05000US06037","Azusa Pacific University","109785",907,1874
+2013,"Los Angeles County, CA","05000US06037","Biola University","110097",626,708
+2013,"Los Angeles County, CA","05000US06037","Bryan University","110219",112,144
+2013,"Los Angeles County, CA","05000US06037","Phillips Graduate Institute","110307",12,109
+2013,"Los Angeles County, CA","05000US06037","California Institute of Technology","110404",395,195
+2013,"Los Angeles County, CA","05000US06037","California State Polytechnic University-Pomona","110529",2473,2204
+2013,"Los Angeles County, CA","05000US06037","California State University-Dominguez Hills","110547",1110,2195
+2013,"Los Angeles County, CA","05000US06037","California State University-Long Beach","110583",3498,5473
+2013,"Los Angeles County, CA","05000US06037","California State University-Los Angeles","110592",1892,2935
+2013,"Los Angeles County, CA","05000US06037","California State University-Northridge","110608",3558,5369
+2013,"Los Angeles County, CA","05000US06037","University of California-Los Angeles","110662",5641,6416
+2013,"Los Angeles County, CA","05000US06037","California Institute of the Arts","111081",162,170
+2013,"Los Angeles County, CA","05000US06037","College of the Canyons","111461",564,832
+2013,"Los Angeles County, CA","05000US06037","Casa Loma College-Van Nuys","111638",41,243
+2013,"Los Angeles County, CA","05000US06037","Cerritos College","111887",725,1203
+2013,"Los Angeles County, CA","05000US06037","Charles R Drew University of Medicine and Science","111966",58,161
+2013,"Los Angeles County, CA","05000US06037","Citrus College","112172",773,1120
+2013,"Los Angeles County, CA","05000US06037","Claremont Graduate University","112251",337,360
+2013,"Los Angeles County, CA","05000US06037","Claremont McKenna College","112260",191,147
+2013,"Los Angeles County, CA","05000US06037","Western University of Health Sciences","112525",353,599
+2013,"Los Angeles County, CA","05000US06037","Columbia College-Hollywood","112570",46,22
+2013,"Los Angeles County, CA","05000US06037","El Camino College-Compton Center","112686",125,252
+2013,"Los Angeles County, CA","05000US06037","Western Beauty Institute","112783",92,157
+2013,"Los Angeles County, CA","05000US06037","East Los Angeles College","113856",1595,2278
+2013,"Los Angeles County, CA","05000US06037","El Camino Community College District","113980",1156,1448
+2013,"Los Angeles County, CA","05000US06037","Elegance International","114044",4,63
+2013,"Los Angeles County, CA","05000US06037","Marinello Schools of Beauty-Burbank","114071",8,267
+2013,"Los Angeles County, CA","05000US06037","Emperor's College of Traditional Oriental Medicine","114114",10,40
+2013,"Los Angeles County, CA","05000US06037","Fashion Institute of Design & Merchandising-Los Angeles","114354",228,1762
+2013,"Los Angeles County, CA","05000US06037","Fuller Theological Seminary in California","114840",541,279
+2013,"Los Angeles County, CA","05000US06037","Glendale Community College","115001",210,493
+2013,"Los Angeles County, CA","05000US06037","Glendale Career College","115010",72,132
+2013,"Los Angeles County, CA","05000US06037","Harvey Mudd College","115409",122,70
+2013,"Los Angeles County, CA","05000US06037","Toni & Guy Hairdressing Academy-Santa Monica","116350",19,154
+2013,"Los Angeles County, CA","05000US06037","ITT Technical Institute-San Dimas","116475",198,39
+2013,"Los Angeles County, CA","05000US06037","Joe Blasco Makeup Artist Training Center","116660",4,65
+2013,"Los Angeles County, CA","05000US06037","American Jewish University","116846",24,40
+2013,"Los Angeles County, CA","05000US06037","Life Pacific College","117104",49,45
+2013,"Los Angeles County, CA","05000US06037","University of La Verne","117140",923,1451
+2013,"Los Angeles County, CA","05000US06037","Lancaster Beauty School","117238",8,50
+2013,"Los Angeles County, CA","05000US06037","Long Beach City College","117645",1663,2002
+2013,"Los Angeles County, CA","05000US06037","Southern California University of Health Sciences","117672",70,52
+2013,"Los Angeles County, CA","05000US06037","Los Angeles Harbor College","117690",232,381
+2013,"Los Angeles County, CA","05000US06037","Los Angeles Pierce College","117706",682,967
+2013,"Los Angeles County, CA","05000US06037","Los Angeles Southwest College","117715",71,243
+2013,"Los Angeles County, CA","05000US06037","Los Angeles Trade Technical College","117724",855,617
+2013,"Los Angeles County, CA","05000US06037","Los Angeles Valley College","117733",504,913
+2013,"Los Angeles County, CA","05000US06037","The Master's College and Seminary","117751",216,156
+2013,"Los Angeles County, CA","05000US06037","Los Angeles City College","117788",350,624
+2013,"Los Angeles County, CA","05000US06037","Los Angeles County College of Nursing and Allied Health","117803",23,71
+2013,"Los Angeles County, CA","05000US06037","Los Angeles Mission College","117867",296,715
+2013,"Los Angeles County, CA","05000US06037","Loyola Marymount University","117946",1122,1637
+2013,"Los Angeles County, CA","05000US06037","Marinello Schools of Beauty-Los Angeles","118356",102,1468
+2013,"Los Angeles County, CA","05000US06037","Marymount California University","118541",52,71
+2013,"Los Angeles County, CA","05000US06037","Kaplan College-North Hollywood","118967",260,356
+2013,"Los Angeles County, CA","05000US06037","Mt San Antonio College","119164",1294,1504
+2013,"Los Angeles County, CA","05000US06037","Mount St Mary's College","119173",81,726
+2013,"Los Angeles County, CA","05000US06037","Musicians Institute","119270",672,159
+2013,"Los Angeles County, CA","05000US06037","Everest College-Reseda","119359",116,361
+2013,"Los Angeles County, CA","05000US06037","Everest College-LA Wilshire","119368",41,127
+2013,"Los Angeles County, CA","05000US06037","Everest College-Gardena","119456",55,288
+2013,"Los Angeles County, CA","05000US06037","Everest College-Alhambra","119465",108,334
+2013,"Los Angeles County, CA","05000US06037","Newberry School of Beauty","119845",4,137
+2013,"Los Angeles County, CA","05000US06037","North-West College-Pomona","120069",33,145
+2013,"Los Angeles County, CA","05000US06037","North-West College-West Covina","120078",71,301
+2013,"Los Angeles County, CA","05000US06037","North-West College-Pasadena","120087",14,111
+2013,"Los Angeles County, CA","05000US06037","Occidental College","120254",255,359
+2013,"Los Angeles County, CA","05000US06037","Otis College of Art and Design","120403",96,215
+2013,"Los Angeles County, CA","05000US06037","Pacific Oaks College","120768",22,233
+2013,"Los Angeles County, CA","05000US06037","Pacific States University","120838",40,51
+2013,"Los Angeles County, CA","05000US06037","Pasadena City College","121044",892,1364
+2013,"Los Angeles County, CA","05000US06037","Pepperdine University","121150",1084,1538
+2013,"Los Angeles County, CA","05000US06037","Pitzer College","121257",114,192
+2013,"Los Angeles County, CA","05000US06037","Pomona College","121345",222,214
+2013,"Los Angeles County, CA","05000US06037","Westwood College-South Bay","121381",80,104
+2013,"Los Angeles County, CA","05000US06037","Professional Institute of Beauty","121433",5,74
+2013,"Los Angeles County, CA","05000US06037","Pardee RAND Graduate School","121628",17,7
+2013,"Los Angeles County, CA","05000US06037","Rio Hondo College","121886",534,621
+2013,"Los Angeles County, CA","05000US06037","Rosemead Beauty School","121992",32,157
+2013,"Los Angeles County, CA","05000US06037","Dongguk University-Los Angeles","122117",29,41
+2013,"Los Angeles County, CA","05000US06037","Westwood College-Los Angeles","122843",441,474
+2013,"Los Angeles County, CA","05000US06037","Santa Monica College","122977",1035,1545
+2013,"Los Angeles County, CA","05000US06037","Scripps College","123165",2,260
+2013,"Los Angeles County, CA","05000US06037","Pinnacle College","123581",172,12
+2013,"Los Angeles County, CA","05000US06037","Southern California Institute of Architecture","123952",83,46
+2013,"Los Angeles County, CA","05000US06037","University of Southern California","123961",6462,6980
+2013,"Los Angeles County, CA","05000US06037","Southwestern Law School","123970",151,167
+2013,"Los Angeles County, CA","05000US06037","Claremont School of Theology","124283",26,27
+2013,"Los Angeles County, CA","05000US06037","United Education Institute-Huntington Park Campus","124681",1117,2861
+2013,"Los Angeles County, CA","05000US06037","Universal College of Beauty Inc-Los Angeles 1","124779",1,8
+2013,"Los Angeles County, CA","05000US06037","Concorde Career College-North Hollywood","124937",130,301
+2013,"Los Angeles County, CA","05000US06037","West Los Angeles College","125471",271,547
+2013,"Los Angeles County, CA","05000US06037","Whittier College","125763",283,320
+2013,"Los Angeles County, CA","05000US06037","Woodbury University","125897",190,237
+2013,"Los Angeles County, CA","05000US06037","Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary","126076",20,0
+2013,"Los Angeles County, CA","05000US06037","ITT Technical Institute-Sylmar","244011",236,61
+2013,"Los Angeles County, CA","05000US06037","Antioch University-Los Angeles","245838",88,258
+2013,"Los Angeles County, CA","05000US06037","Platt College-Los Angeles","260789",90,171
+2013,"Los Angeles County, CA","05000US06037","Hypnosis Motivation Institute","368771",35,72
+2013,"Los Angeles County, CA","05000US06037","Los Angeles ORT College-Los Angeles Campus","368780",69,162
+2013,"Los Angeles County, CA","05000US06037","Everest College-West Los Angeles","368805",63,133
+2013,"Los Angeles County, CA","05000US06037","Downey Adult School","371690",151,488
+2013,"Los Angeles County, CA","05000US06037","Thuy Princess Beauty College","372000",6,62
+2013,"Los Angeles County, CA","05000US06037","North-West College-Glendale","372028",12,74
+2013,"Los Angeles County, CA","05000US06037","Everest College-City of Industry","372037",159,454
+2013,"Los Angeles County, CA","05000US06037","Fremont College","372073",88,124
+2013,"Los Angeles County, CA","05000US06037","Pomona Unified School District Adult and Career Education","372082",39,89
+2013,"Los Angeles County, CA","05000US06037","Universal College of Beauty Inc-Los Angeles 2","372240",1,24
+2013,"Los Angeles County, CA","05000US06037","Capstone College","377759",40,5
+2013,"Los Angeles County, CA","05000US06037","ITT Technical Institute-Torrance","378406",181,57
+2013,"Los Angeles County, CA","05000US06037","Los Angeles ORT College-Van Nuys Campus","381945",71,155
+2013,"Los Angeles County, CA","05000US06037","Hacienda La Puente Adult Education","383084",232,459
+2013,"Los Angeles County, CA","05000US06037","Alhambra Beauty College","393524",4,118
+2013,"Los Angeles County, CA","05000US06037","American Auto Institute","393649",442,1300
+2013,"Los Angeles County, CA","05000US06037","Diversified Vocational College","395690",367,704
+2013,"Los Angeles County, CA","05000US06037","Mt Sierra College","398130",45,16
+2013,"Los Angeles County, CA","05000US06037","Wyotech-Long Beach","398574",946,107
+2013,"Los Angeles County, CA","05000US06037","Career Colleges of America","400637",128,522
+2013,"Los Angeles County, CA","05000US06037","World Mission University","401223",28,25
+2013,"Los Angeles County, CA","05000US06037","Yo San University of Traditional Chinese Medicine","401250",9,26
+2013,"Los Angeles County, CA","05000US06037","Coast Career Institute","401339",221,170
+2013,"Los Angeles County, CA","05000US06037","The Art Institute of California-Argosy University Hollywood","410502",98,182
+2013,"Los Angeles County, CA","05000US06037","Marian Health Careers Center-Los Angeles Campus","411684",11,19
+2013,"Los Angeles County, CA","05000US06037","Crimson Technical College","413680",238,6
+2013,"Los Angeles County, CA","05000US06037","East San Gabriel Valley Regional Occupational Program","413802",280,346
+2013,"Los Angeles County, CA","05000US06037","Premiere Career College","416458",76,213
+2013,"Los Angeles County, CA","05000US06037","Baldwin Park Adult & Community Education","417105",100,146
+2013,"Los Angeles County, CA","05000US06037","Le Cordon Bleu College of Culinary Arts-Pasadena","423980",789,915
+2013,"Los Angeles County, CA","05000US06037","John Wesley International Barber and Beauty College","428125",39,19
+2013,"Los Angeles County, CA","05000US06037","Everest College-Torrance","430980",33,117
+2013,"Los Angeles County, CA","05000US06037","Virginia Sewing Machines and School Center","431956",4,29
+2013,"Los Angeles County, CA","05000US06037","The Art Institute of California-Argosy University Los Angeles","432533",264,188
+2013,"Los Angeles County, CA","05000US06037","American University of Health Sciences","433004",10,32
+2013,"Los Angeles County, CA","05000US06037","Charter College-Canyon Country","434317",240,831
+2013,"Los Angeles County, CA","05000US06037","Los Angeles Film School","436429",896,148
+2013,"Los Angeles County, CA","05000US06037","ICDC College","437662",646,1138
+2013,"Los Angeles County, CA","05000US06037","InterCoast Colleges-Burbank","437884",60,22
+2013,"Los Angeles County, CA","05000US06037","CBD College","439367",50,97
+2013,"Los Angeles County, CA","05000US06037","King's University","439701",68,29
+2013,"Los Angeles County, CA","05000US06037","PCI College","439871",12,26
+2013,"Los Angeles County, CA","05000US06037","American Career College at St Francis","439905",7,50
+2013,"Los Angeles County, CA","05000US06037","Keck Graduate Institute","440031",59,45
+2013,"Los Angeles County, CA","05000US06037","West Coast Ultrasound Institute","441229",213,252
+2013,"Los Angeles County, CA","05000US06037","Irell & Manella Graduate School of Biological Sciences at City of Hope","441238",5,9
+2013,"Los Angeles County, CA","05000US06037","David's Academy of Beauty","442204",114,265
+2013,"Los Angeles County, CA","05000US06037","University of Antelope Valley","442930",218,318
+2013,"Los Angeles County, CA","05000US06037","California Healing Arts College","442985",41,35
+2013,"Los Angeles County, CA","05000US06037","NTMA Training Centers of Southern California","443207",628,12
+2013,"Los Angeles County, CA","05000US06037","West Coast University-Los Angeles","443331",75,266
+2013,"Los Angeles County, CA","05000US06037","InterCoast Colleges-West Covina","443571",92,50
+2013,"Los Angeles County, CA","05000US06037","ATI College-Norwalk","444325",7,26
+2013,"Los Angeles County, CA","05000US06037","Advanced College","444343",9,84
+2013,"Los Angeles County, CA","05000US06037","CES College","444510",5,35
+2013,"Los Angeles County, CA","05000US06037","Career Care Institute","446118",61,285
+2013,"Los Angeles County, CA","05000US06037","Los Angeles Music Academy","446385",65,11
+2013,"Los Angeles County, CA","05000US06037","Argosy University-Los Angeles","447272",25,61
+2013,"Los Angeles County, CA","05000US06037","California Career College","447713",7,27
+2013,"Los Angeles County, CA","05000US06037","Palladium Technical Academy","447722",11,61
+2013,"Los Angeles County, CA","05000US06037","Palace Beauty College","447731",4,169
+2013,"Los Angeles County, CA","05000US06037","National Polytechnic College","447759",28,98
+2013,"Los Angeles County, CA","05000US06037","Make-up Designory","449366",30,581
+2013,"Los Angeles County, CA","05000US06037","Video Symphony EnterTraining Inc","449375",132,37
+2013,"Los Angeles County, CA","05000US06037","Gnomon School of Visual Effects","449384",23,11
+2013,"Los Angeles County, CA","05000US06037","Valley College of Medical Careers","449445",16,26
+2013,"Los Angeles County, CA","05000US06037","University of the West","449870",28,16
+2013,"Los Angeles County, CA","05000US06037","Paul Mitchell the School-Sherman Oaks","449986",13,136
+2013,"Los Angeles County, CA","05000US06037","InterCoast Colleges-Carson","450669",46,55
+2013,"Los Angeles County, CA","05000US06037","InfoTech Career College","450960",7,116
+2013,"Los Angeles County, CA","05000US06037","Career College Consultants","451006",40,87
+2013,"Los Angeles County, CA","05000US06037","Academy of Esthetics and Cosmetology","454722",0,27
+2013,"Los Angeles County, CA","05000US06037","Borner's Barber College","454759",5,0
+2013,"Los Angeles County, CA","05000US06037","Paul Mitchell the School-Pasadena","454768",3,90
+2013,"Los Angeles County, CA","05000US06037","Career Development Institute","454801",7,29
+2013,"Los Angeles County, CA","05000US06037","California InterContinental University","455451",34,15
+2013,"Los Angeles County, CA","05000US06037","The Chicago School of Professional Psychology at Los Angeles","455664",16,85
+2013,"Los Angeles County, CA","05000US06037","The Chicago School of Professional Psychology at Westwood","455682",11,47
+2013,"Los Angeles County, CA","05000US06037","Central Nursing College","455743",7,19
+2013,"Los Angeles County, CA","05000US06037","RWM Fiber Optics","455752",50,0
+2013,"Los Angeles County, CA","05000US06037","Providence Christian College","455770",3,17
+2013,"Los Angeles County, CA","05000US06037","National Career College","455868",23,22
+2013,"Los Angeles County, CA","05000US06037","Homestead Schools","457086",14,68
+2013,"Los Angeles County, CA","05000US06037","Beyond 21st Century Beauty Academy","457253",2,27
+2013,"Los Angeles County, CA","05000US06037","Academy for Jewish Religion-California","457271",3,8
+2013,"Los Angeles County, CA","05000US06037","Angeles College","457299",7,44
+2013,"Los Angeles County, CA","05000US06037","Angeles Institute","457314",31,65
+2013,"Los Angeles County, CA","05000US06037","Preferred College of Nursing-Los Angeles","459152",41,93
+2013,"Los Angeles County, CA","05000US06037","Trinity Vocational Center","459161",113,299
+2013,"Los Angeles County, CA","05000US06037","Southern California University SOMA","459222",30,28
+2013,"Los Angeles County, CA","05000US06037","ITT Technical Institute-West Covina","459684",98,43
+2013,"Los Angeles County, CA","05000US06037","ITT Technical Institute-Culver City","459693",75,26
+2013,"Los Angeles County, CA","05000US06037","Western Beauty Institute","460686",29,113
+2013,"Los Angeles County, CA","05000US06037","New York Film Academy","461148",472,371
+2013,"Los Angeles County, CA","05000US06037","Galaxy Medical College","461254",15,52
+2013,"Los Angeles County, CA","05000US06037","American Medical Sciences Center","461263",47,100
+2013,"Los Angeles County, CA","05000US06037","Southern California Health Institute","461856",114,155
+2013,"Los Angeles County, CA","05000US06037","Academy for Salon Professionals","462062",1,60
+2013,"Los Angeles County, CA","05000US06037","International College of Beauty Arts & Sciences","462336",0,14
+2013,"Los Angeles County, CA","05000US06037","Carrington College California-Pomona","467368",7,70
+2013,"Los Angeles County, CA","05000US06037","Aveda Institute-Los Angeles","469957",9,88
+2013,"Los Angeles County, CA","05000US06037","Azusa Pacific Online University","474863",6,15
+2013,"Los Angeles County, CA","05000US06037","Marian Health Careers Center-Van Nuys Campus","475282",7,22
+2013,"Los Angeles County, CA","05000US06037","Academy of Couture Art","475635",1,5
+2013,"Los Angeles County, CA","05000US06037","Preferred College of Nursing-Van Nuys","475680",48,108
+2013,"Los Angeles County, CA","05000US06037","Annenberg School of Nursing","475705",0,0
+2013,"Los Angeles County, CA","05000US06037","Flair Beauty College","476513",1,48
+2013,"Los Angeles County, CA","05000US06037","Medical Allied Career Center","476595",12,28
+2013,"Los Angeles County, CA","05000US06037","Diamond Beauty College","476780",40,204
+2013,"Los Angeles County, CA","05000US06037","SAE Institute of Technology-Los Angeles","476911",78,7
+2013,"Los Angeles County, CA","05000US06037","Brand College","479992",13,2
+2013,"Los Angeles County, CA","05000US06037","Abraham Lincoln University","480444",7,12
+2013,"Los Angeles County, CA","05000US06037","Advanced Computing Institute","481234",21,15
+2013,"Los Angeles County, CA","05000US06037","San Joaquin Valley College-Lancaster","481775",0,2
+2013,"Los Angeles County, CA","05000US06037","American Career College-Long Beach","481854",0,2
+2013,"Los Angeles County, CA","05000US06037","DeVry University-California","482431",1497,966
+2013,"Los Angeles County, CA","05000US06037","American College of Healthcare","483009",0,0
+2014,"Los Angeles County, CA","05000US06037","American Academy of Dramatic Arts-Los Angeles","108852",48,61
+2014,"Los Angeles County, CA","05000US06037","American Film Institute Conservatory","108870",84,48
+2014,"Los Angeles County, CA","05000US06037","American Beauty College","108977",24,20
+2014,"Los Angeles County, CA","05000US06037","American Career College-Los Angeles","109040",253,912
+2014,"Los Angeles County, CA","05000US06037","Antelope Valley College","109350",787,1051
+2014,"Los Angeles County, CA","05000US06037","Art Center College of Design","109651",233,213
+2014,"Los Angeles County, CA","05000US06037","Associated Technical College-Los Angeles","109721",116,166
+2014,"Los Angeles County, CA","05000US06037","Azusa Pacific University","109785",993,1977
+2014,"Los Angeles County, CA","05000US06037","Biola University","110097",588,742
+2014,"Los Angeles County, CA","05000US06037","Bryan University","110219",79,130
+2014,"Los Angeles County, CA","05000US06037","Phillips Graduate Institute","110307",14,56
+2014,"Los Angeles County, CA","05000US06037","California Institute of Technology","110404",347,179
+2014,"Los Angeles County, CA","05000US06037","California State Polytechnic University-Pomona","110529",2499,2053
+2014,"Los Angeles County, CA","05000US06037","California State University-Dominguez Hills","110547",1149,2268
+2014,"Los Angeles County, CA","05000US06037","California State University-Long Beach","110583",3764,5466
+2014,"Los Angeles County, CA","05000US06037","California State University-Los Angeles","110592",1803,2899
+2014,"Los Angeles County, CA","05000US06037","California State University-Northridge","110608",3766,5441
+2014,"Los Angeles County, CA","05000US06037","University of California-Los Angeles","110662",5658,6409
+2014,"Los Angeles County, CA","05000US06037","California Institute of the Arts","111081",203,208
+2014,"Los Angeles County, CA","05000US06037","College of the Canyons","111461",917,1258
+2014,"Los Angeles County, CA","05000US06037","Casa Loma College-Van Nuys","111638",37,115
+2014,"Los Angeles County, CA","05000US06037","Cerritos College","111887",665,1147
+2014,"Los Angeles County, CA","05000US06037","Charles R Drew University of Medicine and Science","111966",67,161
+2014,"Los Angeles County, CA","05000US06037","Citrus College","112172",974,1405
+2014,"Los Angeles County, CA","05000US06037","Claremont Graduate University","112251",289,341
+2014,"Los Angeles County, CA","05000US06037","Claremont McKenna College","112260",202,190
+2014,"Los Angeles County, CA","05000US06037","Western University of Health Sciences","112525",326,630
+2014,"Los Angeles County, CA","05000US06037","Columbia College-Hollywood","112570",52,22
+2014,"Los Angeles County, CA","05000US06037","El Camino College-Compton Center","112686",118,240
+2014,"Los Angeles County, CA","05000US06037","East Los Angeles College","113856",1611,2129
+2014,"Los Angeles County, CA","05000US06037","El Camino Community College District","113980",1092,1351
+2014,"Los Angeles County, CA","05000US06037","Elegance International","114044",6,83
+2014,"Los Angeles County, CA","05000US06037","Marinello Schools of Beauty-Burbank","114071",11,264
+2014,"Los Angeles County, CA","05000US06037","Emperor's College of Traditional Oriental Medicine","114114",12,35
+2014,"Los Angeles County, CA","05000US06037","Fashion Institute of Design & Merchandising-Los Angeles","114354",162,1592
+2014,"Los Angeles County, CA","05000US06037","Redondo Beach Beauty College","114637",9,54
+2014,"Los Angeles County, CA","05000US06037","Fuller Theological Seminary in California","114840",430,272
+2014,"Los Angeles County, CA","05000US06037","Glendale Community College","115001",223,539
+2014,"Los Angeles County, CA","05000US06037","Glendale Career College","115010",44,146
+2014,"Los Angeles County, CA","05000US06037","Harvey Mudd College","115409",101,90
+2014,"Los Angeles County, CA","05000US06037","Toni & Guy Hairdressing Academy-Santa Monica","116350",21,165
+2014,"Los Angeles County, CA","05000US06037","ITT Technical Institute-San Dimas","116475",153,31
+2014,"Los Angeles County, CA","05000US06037","American Jewish University","116846",33,26
+2014,"Los Angeles County, CA","05000US06037","Life Pacific College","117104",65,71
+2014,"Los Angeles County, CA","05000US06037","University of La Verne","117140",1035,1714
+2014,"Los Angeles County, CA","05000US06037","Lancaster Beauty School","117238",23,83
+2014,"Los Angeles County, CA","05000US06037","Long Beach City College","117645",981,1171
+2014,"Los Angeles County, CA","05000US06037","Southern California University of Health Sciences","117672",89,78
+2014,"Los Angeles County, CA","05000US06037","Los Angeles Harbor College","117690",305,531
+2014,"Los Angeles County, CA","05000US06037","Los Angeles Pierce College","117706",709,1118
+2014,"Los Angeles County, CA","05000US06037","Los Angeles Southwest College","117715",176,453
+2014,"Los Angeles County, CA","05000US06037","Los Angeles Trade Technical College","117724",954,670
+2014,"Los Angeles County, CA","05000US06037","Los Angeles Valley College","117733",592,1085
+2014,"Los Angeles County, CA","05000US06037","The Master's College and Seminary","117751",218,151
+2014,"Los Angeles County, CA","05000US06037","Los Angeles City College","117788",498,777
+2014,"Los Angeles County, CA","05000US06037","Los Angeles County College of Nursing and Allied Health","117803",17,64
+2014,"Los Angeles County, CA","05000US06037","Los Angeles Mission College","117867",352,935
+2014,"Los Angeles County, CA","05000US06037","Loyola Marymount University","117946",1155,1857
+2014,"Los Angeles County, CA","05000US06037","Marinello Schools of Beauty-Los Angeles","118356",106,1295
+2014,"Los Angeles County, CA","05000US06037","Marymount California University","118541",48,57
+2014,"Los Angeles County, CA","05000US06037","Kaplan College-North Hollywood","118967",222,278
+2014,"Los Angeles County, CA","05000US06037","Mt San Antonio College","119164",1533,1769
+2014,"Los Angeles County, CA","05000US06037","Mount St Mary's College","119173",93,854
+2014,"Los Angeles County, CA","05000US06037","Musicians Institute","119270",543,135
+2014,"Los Angeles County, CA","05000US06037","Everest College-Reseda","119359",116,367
+2014,"Los Angeles County, CA","05000US06037","Everest College-Gardena","119456",55,282
+2014,"Los Angeles County, CA","05000US06037","Everest College-Alhambra","119465",94,332
+2014,"Los Angeles County, CA","05000US06037","Newberry School of Beauty","119845",2,121
+2014,"Los Angeles County, CA","05000US06037","North-West College-Pomona","120069",20,88
+2014,"Los Angeles County, CA","05000US06037","North-West College-West Covina","120078",35,233
+2014,"Los Angeles County, CA","05000US06037","North-West College-Pasadena","120087",16,101
+2014,"Los Angeles County, CA","05000US06037","Occidental College","120254",239,320
+2014,"Los Angeles County, CA","05000US06037","Otis College of Art and Design","120403",76,159
+2014,"Los Angeles County, CA","05000US06037","Pacific Oaks College","120768",24,376
+2014,"Los Angeles County, CA","05000US06037","Pacific States University","120838",37,38
+2014,"Los Angeles County, CA","05000US06037","Pasadena City College","121044",1364,1880
+2014,"Los Angeles County, CA","05000US06037","Pepperdine University","121150",994,1362
+2014,"Los Angeles County, CA","05000US06037","Pitzer College","121257",111,221
+2014,"Los Angeles County, CA","05000US06037","Pomona College","121345",208,236
+2014,"Los Angeles County, CA","05000US06037","Westwood College-South Bay","121381",100,158
+2014,"Los Angeles County, CA","05000US06037","Professional Institute of Beauty","121433",5,59
+2014,"Los Angeles County, CA","05000US06037","Pardee RAND Graduate School","121628",23,20
+2014,"Los Angeles County, CA","05000US06037","Rio Hondo College","121886",533,727
+2014,"Los Angeles County, CA","05000US06037","Rosemead Beauty School","121992",31,113
+2014,"Los Angeles County, CA","05000US06037","Dongguk University-Los Angeles","122117",33,39
+2014,"Los Angeles County, CA","05000US06037","Westwood College-Los Angeles","122843",425,444
+2014,"Los Angeles County, CA","05000US06037","Santa Monica College","122977",1219,1743
+2014,"Los Angeles County, CA","05000US06037","Scripps College","123165",6,286
+2014,"Los Angeles County, CA","05000US06037","Pinnacle College","123581",76,5
+2014,"Los Angeles County, CA","05000US06037","Southern California Institute of Architecture","123952",92,47
+2014,"Los Angeles County, CA","05000US06037","University of Southern California","123961",6622,7812
+2014,"Los Angeles County, CA","05000US06037","Southwestern Law School","123970",165,167
+2014,"Los Angeles County, CA","05000US06037","Claremont School of Theology","124283",28,32
+2014,"Los Angeles County, CA","05000US06037","United Education Institute-Huntington Park Campus","124681",691,1252
+2014,"Los Angeles County, CA","05000US06037","Universal College of Beauty Inc-Los Angeles 1","124779",2,15
+2014,"Los Angeles County, CA","05000US06037","Concorde Career College-North Hollywood","124937",138,374
+2014,"Los Angeles County, CA","05000US06037","West Los Angeles College","125471",282,473
+2014,"Los Angeles County, CA","05000US06037","Whittier College","125763",278,349
+2014,"Los Angeles County, CA","05000US06037","Woodbury University","125897",197,234
+2014,"Los Angeles County, CA","05000US06037","Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary","126076",20,0
+2014,"Los Angeles County, CA","05000US06037","ITT Technical Institute-Sylmar","244011",192,40
+2014,"Los Angeles County, CA","05000US06037","Antioch University-Los Angeles","245838",80,210
+2014,"Los Angeles County, CA","05000US06037","Platt College-Los Angeles","260789",111,260
+2014,"Los Angeles County, CA","05000US06037","Hypnosis Motivation Institute","368771",29,72
+2014,"Los Angeles County, CA","05000US06037","Los Angeles ORT College-Los Angeles Campus","368780",26,67
+2014,"Los Angeles County, CA","05000US06037","Everest College-West Los Angeles","368805",47,172
+2014,"Los Angeles County, CA","05000US06037","Downey Adult School","371690",117,607
+2014,"Los Angeles County, CA","05000US06037","Thuy Princess Beauty College","372000",6,70
+2014,"Los Angeles County, CA","05000US06037","North-West College-Glendale","372028",16,93
+2014,"Los Angeles County, CA","05000US06037","Everest College-City of Industry","372037",173,405
+2014,"Los Angeles County, CA","05000US06037","Fremont College","372073",55,78
+2014,"Los Angeles County, CA","05000US06037","Pomona Unified School District Adult and Career Education","372082",30,117
+2014,"Los Angeles County, CA","05000US06037","Universal College of Beauty Inc-Los Angeles 2","372240",1,8
+2014,"Los Angeles County, CA","05000US06037","Capstone College","377759",48,4
+2014,"Los Angeles County, CA","05000US06037","ITT Technical Institute-Torrance","378406",156,35
+2014,"Los Angeles County, CA","05000US06037","Los Angeles ORT College-Van Nuys Campus","381945",25,57
+2014,"Los Angeles County, CA","05000US06037","Hacienda La Puente Adult Education","383084",277,485
+2014,"Los Angeles County, CA","05000US06037","Alhambra Beauty College","393524",75,155
+2014,"Los Angeles County, CA","05000US06037","American Auto Institute","393649",282,752
+2014,"Los Angeles County, CA","05000US06037","Diversified Vocational College","395690",273,539
+2014,"Los Angeles County, CA","05000US06037","Mt Sierra College","398130",50,20
+2014,"Los Angeles County, CA","05000US06037","Wyotech-Long Beach","398574",859,95
+2014,"Los Angeles County, CA","05000US06037","World Mission University","401223",21,29
+2014,"Los Angeles County, CA","05000US06037","Yo San University of Traditional Chinese Medicine","401250",8,25
+2014,"Los Angeles County, CA","05000US06037","Coast Career Institute","401339",81,79
+2014,"Los Angeles County, CA","05000US06037","The Art Institute of California-Argosy University Hollywood","410502",148,193
+2014,"Los Angeles County, CA","05000US06037","Marian Health Careers Center-Los Angeles Campus","411684",18,32
+2014,"Los Angeles County, CA","05000US06037","Crimson Technical College","413680",198,8
+2014,"Los Angeles County, CA","05000US06037","East San Gabriel Valley Regional Occupational Program","413802",336,430
+2014,"Los Angeles County, CA","05000US06037","Premiere Career College","416458",92,257
+2014,"Los Angeles County, CA","05000US06037","Baldwin Park Adult & Community Education","417105",89,143
+2014,"Los Angeles County, CA","05000US06037","Le Cordon Bleu College of Culinary Arts-Pasadena","423980",311,327
+2014,"Los Angeles County, CA","05000US06037","John Wesley International Barber and Beauty College","428125",27,26
+2014,"Los Angeles County, CA","05000US06037","Everest College-Torrance","430980",30,103
+2014,"Los Angeles County, CA","05000US06037","Virginia Sewing Machines and School Center","431956",7,31
+2014,"Los Angeles County, CA","05000US06037","The Art Institute of California-Argosy University Los Angeles","432533",198,173
+2014,"Los Angeles County, CA","05000US06037","American University of Health Sciences","433004",14,46
+2014,"Los Angeles County, CA","05000US06037","Charter College-Canyon Country","434317",181,702
+2014,"Los Angeles County, CA","05000US06037","Los Angeles Film School","436429",954,168
+2014,"Los Angeles County, CA","05000US06037","ICDC College","437662",553,1248
+2014,"Los Angeles County, CA","05000US06037","InterCoast Colleges-Burbank","437884",34,8
+2014,"Los Angeles County, CA","05000US06037","CBD College","439367",26,59
+2014,"Los Angeles County, CA","05000US06037","King's University","439701",41,38
+2014,"Los Angeles County, CA","05000US06037","PCI College","439871",4,53
+2014,"Los Angeles County, CA","05000US06037","American Career College at St Francis","439905",0,0
+2014,"Los Angeles County, CA","05000US06037","Keck Graduate Institute","440031",66,77
+2014,"Los Angeles County, CA","05000US06037","West Coast Ultrasound Institute","441229",280,325
+2014,"Los Angeles County, CA","05000US06037","Irell & Manella Graduate School of Biological Sciences at City of Hope","441238",6,8
+2014,"Los Angeles County, CA","05000US06037","David's Academy of Beauty","442204",74,171
+2014,"Los Angeles County, CA","05000US06037","University of Antelope Valley","442930",238,335
+2014,"Los Angeles County, CA","05000US06037","California Healing Arts College","442985",21,47
+2014,"Los Angeles County, CA","05000US06037","NTMA Training Centers of Southern California","443207",544,16
+2014,"Los Angeles County, CA","05000US06037","West Coast University-Los Angeles","443331",97,317
+2014,"Los Angeles County, CA","05000US06037","InterCoast Colleges-West Covina","443571",92,38
+2014,"Los Angeles County, CA","05000US06037","ATI College-Norwalk","444325",9,61
+2014,"Los Angeles County, CA","05000US06037","Advanced College","444343",15,66
+2014,"Los Angeles County, CA","05000US06037","CES College","444510",6,52
+2014,"Los Angeles County, CA","05000US06037","Career Care Institute","446118",44,257
+2014,"Los Angeles County, CA","05000US06037","Los Angeles Music Academy","446385",35,11
+2014,"Los Angeles County, CA","05000US06037","Argosy University-Los Angeles","447272",36,82
+2014,"Los Angeles County, CA","05000US06037","California Career College","447713",3,21
+2014,"Los Angeles County, CA","05000US06037","Palladium Technical Academy","447722",13,72
+2014,"Los Angeles County, CA","05000US06037","Palace Beauty College","447731",2,136
+2014,"Los Angeles County, CA","05000US06037","National Polytechnic College","447759",33,70
+2014,"Los Angeles County, CA","05000US06037","Make-up Designory","449366",20,698
+2014,"Los Angeles County, CA","05000US06037","Video Symphony EnterTraining Inc","449375",96,41
+2014,"Los Angeles County, CA","05000US06037","Gnomon School of Visual Effects","449384",76,20
+2014,"Los Angeles County, CA","05000US06037","Valley College of Medical Careers","449445",10,36
+2014,"Los Angeles County, CA","05000US06037","University of the West","449870",24,33
+2014,"Los Angeles County, CA","05000US06037","Paul Mitchell the School-Sherman Oaks","449986",13,125
+2014,"Los Angeles County, CA","05000US06037","InterCoast Colleges-Carson","450669",35,32
+2014,"Los Angeles County, CA","05000US06037","InfoTech Career College","450960",11,74
+2014,"Los Angeles County, CA","05000US06037","Career College Consultants","451006",22,77
+2014,"Los Angeles County, CA","05000US06037","Academy of Esthetics and Cosmetology","454722",0,28
+2014,"Los Angeles County, CA","05000US06037","Borner's Barber College","454759",6,2
+2014,"Los Angeles County, CA","05000US06037","Paul Mitchell the School-Pasadena","454768",9,91
+2014,"Los Angeles County, CA","05000US06037","Career Development Institute","454801",1,8
+2014,"Los Angeles County, CA","05000US06037","The Chicago School of Professional Psychology at Los Angeles","455664",113,494
+2014,"Los Angeles County, CA","05000US06037","The Chicago School of Professional Psychology at Westwood","455682",12,40
+2014,"Los Angeles County, CA","05000US06037","Central Nursing College","455743",5,12
+2014,"Los Angeles County, CA","05000US06037","RWM Fiber Optics","455752",62,0
+2014,"Los Angeles County, CA","05000US06037","Providence Christian College","455770",5,7
+2014,"Los Angeles County, CA","05000US06037","National Career College","455868",20,39
+2014,"Los Angeles County, CA","05000US06037","Homestead Schools","457086",14,57
+2014,"Los Angeles County, CA","05000US06037","Beyond 21st Century Beauty Academy","457253",0,22
+2014,"Los Angeles County, CA","05000US06037","Academy for Jewish Religion-California","457271",4,7
+2014,"Los Angeles County, CA","05000US06037","Angeles College","457299",25,97
+2014,"Los Angeles County, CA","05000US06037","Angeles Institute","457314",24,76
+2014,"Los Angeles County, CA","05000US06037","Preferred College of Nursing-Los Angeles","459152",34,105
+2014,"Los Angeles County, CA","05000US06037","Trinity Vocational Center","459161",109,296
+2014,"Los Angeles County, CA","05000US06037","Southern California University SOMA","459222",10,10
+2014,"Los Angeles County, CA","05000US06037","ITT Technical Institute-West Covina","459684",98,22
+2014,"Los Angeles County, CA","05000US06037","ITT Technical Institute-Culver City","459693",96,19
+2014,"Los Angeles County, CA","05000US06037","New York Film Academy","461148",536,375
+2014,"Los Angeles County, CA","05000US06037","Galaxy Medical College","461254",27,85
+2014,"Los Angeles County, CA","05000US06037","American Medical Sciences Center","461263",16,42
+2014,"Los Angeles County, CA","05000US06037","Southern California Health Institute","461856",99,143
+2014,"Los Angeles County, CA","05000US06037","Academy for Salon Professionals","462062",0,81
+2014,"Los Angeles County, CA","05000US06037","International College of Beauty Arts & Sciences","462336",1,33
+2014,"Los Angeles County, CA","05000US06037","Carrington College California-Pomona","467368",12,95
+2014,"Los Angeles County, CA","05000US06037","Aveda Institute-Los Angeles","469957",5,79
+2014,"Los Angeles County, CA","05000US06037","Azusa Pacific Online University","474863",31,88
+2014,"Los Angeles County, CA","05000US06037","Marian Health Careers Center-Van Nuys Campus","475282",11,31
+2014,"Los Angeles County, CA","05000US06037","Academy of Couture Art","475635",0,3
+2014,"Los Angeles County, CA","05000US06037","Preferred College of Nursing-Van Nuys","475680",33,96
+2014,"Los Angeles County, CA","05000US06037","Annenberg School of Nursing","475705",3,9
+2014,"Los Angeles County, CA","05000US06037","Flair Beauty College","476513",2,40
+2014,"Los Angeles County, CA","05000US06037","Medical Allied Career Center","476595",15,40
+2014,"Los Angeles County, CA","05000US06037","Diamond Beauty College","476780",33,136
+2014,"Los Angeles County, CA","05000US06037","SAE Institute of Technology-Los Angeles","476911",86,10
+2014,"Los Angeles County, CA","05000US06037","Brand College","479992",52,0
+2014,"Los Angeles County, CA","05000US06037","Advanced Computing Institute","481234",173,202
+2014,"Los Angeles County, CA","05000US06037","American Career College-Long Beach","481854",32,200
+2014,"Los Angeles County, CA","05000US06037","DeVry University-California","482431",1452,919
+2014,"Los Angeles County, CA","05000US06037","American College of Healthcare","483009",6,42
+2014,"Los Angeles County, CA","05000US06037","Learnet Academy Inc","483221",279,455
+2014,"Los Angeles County, CA","05000US06037","Integrity College of Health","483373",5,14
+2014,"Los Angeles County, CA","05000US06037","High Desert Medical College","484002",7,87
+2014,"Los Angeles County, CA","05000US06037","North-West College-Long Beach","484376",0,0
+2014,"Los Angeles County, CA","05000US06037","Minerva Schools at Keck Graduate Institute","484844",0,0
+2015,"Los Angeles County, CA","05000US06037","American Academy of Dramatic Arts-Los Angeles","108852",57,78
+2015,"Los Angeles County, CA","05000US06037","American Film Institute Conservatory","108870",77,52
+2015,"Los Angeles County, CA","05000US06037","American Beauty College","108977",25,29
+2015,"Los Angeles County, CA","05000US06037","American Career College-Los Angeles","109040",239,807
+2015,"Los Angeles County, CA","05000US06037","Antelope Valley College","109350",893,1300
+2015,"Los Angeles County, CA","05000US06037","Art Center College of Design","109651",240,223
+2015,"Los Angeles County, CA","05000US06037","Associated Technical College-Los Angeles","109721",114,147
+2015,"Los Angeles County, CA","05000US06037","Azusa Pacific University","109785",1038,2319
+2015,"Los Angeles County, CA","05000US06037","Biola University","110097",570,729
+2015,"Los Angeles County, CA","05000US06037","Bryan University","110219",74,103
+2015,"Los Angeles County, CA","05000US06037","Phillips Graduate Institute","110307",15,91
+2015,"Los Angeles County, CA","05000US06037","California Institute of Technology","110404",363,171
+2015,"Los Angeles County, CA","05000US06037","California State Polytechnic University-Pomona","110529",2491,2163
+2015,"Los Angeles County, CA","05000US06037","California State University-Dominguez Hills","110547",1096,2281
+2015,"Los Angeles County, CA","05000US06037","California State University-Long Beach","110583",3902,5624
+2015,"Los Angeles County, CA","05000US06037","California State University-Los Angeles","110592",1920,2973
+2015,"Los Angeles County, CA","05000US06037","California State University-Northridge","110608",3697,5571
+2015,"Los Angeles County, CA","05000US06037","University of California-Los Angeles","110662",6037,6713
+2015,"Los Angeles County, CA","05000US06037","California Institute of the Arts","111081",174,163
+2015,"Los Angeles County, CA","05000US06037","College of the Canyons","111461",857,1165
+2015,"Los Angeles County, CA","05000US06037","Casa Loma College-Van Nuys","111638",59,166
+2015,"Los Angeles County, CA","05000US06037","Cerritos College","111887",907,1190
+2015,"Los Angeles County, CA","05000US06037","Charles R Drew University of Medicine and Science","111966",60,144
+2015,"Los Angeles County, CA","05000US06037","Citrus College","112172",1486,2219
+2015,"Los Angeles County, CA","05000US06037","Claremont Graduate University","112251",294,348
+2015,"Los Angeles County, CA","05000US06037","Claremont McKenna College","112260",210,157
+2015,"Los Angeles County, CA","05000US06037","Western University of Health Sciences","112525",388,711
+2015,"Los Angeles County, CA","05000US06037","Columbia College-Hollywood","112570",31,28
+2015,"Los Angeles County, CA","05000US06037","El Camino College-Compton Center","112686",148,272
+2015,"Los Angeles County, CA","05000US06037","East Los Angeles College","113856",1679,2583
+2015,"Los Angeles County, CA","05000US06037","El Camino Community College District","113980",1012,1375
+2015,"Los Angeles County, CA","05000US06037","Elegance International","114044",20,202
+2015,"Los Angeles County, CA","05000US06037","Marinello Schools of Beauty-Burbank","114071",5,283
+2015,"Los Angeles County, CA","05000US06037","Emperor's College of Traditional Oriental Medicine","114114",13,29
+2015,"Los Angeles County, CA","05000US06037","Fashion Institute of Design & Merchandising-Los Angeles","114354",156,1570
+2015,"Los Angeles County, CA","05000US06037","Redondo Beach Beauty College","114637",5,46
+2015,"Los Angeles County, CA","05000US06037","Fuller Theological Seminary in California","114840",478,292
+2015,"Los Angeles County, CA","05000US06037","Glendale Community College","115001",283,620
+2015,"Los Angeles County, CA","05000US06037","Glendale Career College","115010",54,160
+2015,"Los Angeles County, CA","05000US06037","Harvey Mudd College","115409",112,80
+2015,"Los Angeles County, CA","05000US06037","Toni & Guy Hairdressing Academy-Santa Monica","116350",16,155
+2015,"Los Angeles County, CA","05000US06037","ITT Technical Institute-San Dimas","116475",161,40
+2015,"Los Angeles County, CA","05000US06037","American Jewish University","116846",34,36
+2015,"Los Angeles County, CA","05000US06037","Life Pacific College","117104",62,53
+2015,"Los Angeles County, CA","05000US06037","University of La Verne","117140",1040,1721
+2015,"Los Angeles County, CA","05000US06037","Lancaster Beauty School","117238",25,73
+2015,"Los Angeles County, CA","05000US06037","Long Beach City College","117645",642,948
+2015,"Los Angeles County, CA","05000US06037","Southern California University of Health Sciences","117672",115,87
+2015,"Los Angeles County, CA","05000US06037","Los Angeles Harbor College","117690",273,438
+2015,"Los Angeles County, CA","05000US06037","Los Angeles Pierce College","117706",785,1143
+2015,"Los Angeles County, CA","05000US06037","Los Angeles Southwest College","117715",166,564
+2015,"Los Angeles County, CA","05000US06037","Los Angeles Trade Technical College","117724",1051,691
+2015,"Los Angeles County, CA","05000US06037","Los Angeles Valley College","117733",557,1106
+2015,"Los Angeles County, CA","05000US06037","The Master's College and Seminary","117751",233,149
+2015,"Los Angeles County, CA","05000US06037","Los Angeles City College","117788",487,866
+2015,"Los Angeles County, CA","05000US06037","Los Angeles County College of Nursing and Allied Health","117803",20,67
+2015,"Los Angeles County, CA","05000US06037","Los Angeles Mission College","117867",342,760
+2015,"Los Angeles County, CA","05000US06037","Loyola Marymount University","117946",1141,1658
+2015,"Los Angeles County, CA","05000US06037","Marinello Schools of Beauty-Los Angeles","118356",171,1234
+2015,"Los Angeles County, CA","05000US06037","Marymount California University","118541",74,95
+2015,"Los Angeles County, CA","05000US06037","Kaplan College-North Hollywood","118967",213,291
+2015,"Los Angeles County, CA","05000US06037","Mt San Antonio College","119164",1608,1847
+2015,"Los Angeles County, CA","05000US06037","Mount St Mary's College","119173",86,883
+2015,"Los Angeles County, CA","05000US06037","Musicians Institute","119270",496,125
+2015,"Los Angeles County, CA","05000US06037","Newberry School of Beauty","119845",2,87
+2015,"Los Angeles County, CA","05000US06037","North-West College-Pomona","120069",23,184
+2015,"Los Angeles County, CA","05000US06037","North-West College-West Covina","120078",54,254
+2015,"Los Angeles County, CA","05000US06037","North-West College-Pasadena","120087",23,84
+2015,"Los Angeles County, CA","05000US06037","Occidental College","120254",243,298
+2015,"Los Angeles County, CA","05000US06037","Otis College of Art and Design","120403",99,173
+2015,"Los Angeles County, CA","05000US06037","Pacific Oaks College","120768",28,382
+2015,"Los Angeles County, CA","05000US06037","Pacific States University","120838",33,36
+2015,"Los Angeles County, CA","05000US06037","Pasadena City College","121044",1648,2251
+2015,"Los Angeles County, CA","05000US06037","Pepperdine University","121150",946,1460
+2015,"Los Angeles County, CA","05000US06037","Pitzer College","121257",117,184
+2015,"Los Angeles County, CA","05000US06037","Pomona College","121345",206,236
+2015,"Los Angeles County, CA","05000US06037","Westwood College-South Bay","121381",113,138
+2015,"Los Angeles County, CA","05000US06037","Professional Institute of Beauty","121433",2,43
+2015,"Los Angeles County, CA","05000US06037","Pardee RAND Graduate School","121628",26,17
+2015,"Los Angeles County, CA","05000US06037","Rio Hondo College","121886",661,757
+2015,"Los Angeles County, CA","05000US06037","Rosemead Beauty School","121992",42,135
+2015,"Los Angeles County, CA","05000US06037","Dongguk University-Los Angeles","122117",56,63
+2015,"Los Angeles County, CA","05000US06037","Westwood College-Los Angeles","122843",357,468
+2015,"Los Angeles County, CA","05000US06037","Santa Monica College","122977",1517,2219
+2015,"Los Angeles County, CA","05000US06037","Scripps College","123165",5,294
+2015,"Los Angeles County, CA","05000US06037","Pinnacle College","123581",63,8
+2015,"Los Angeles County, CA","05000US06037","Southern California Institute of Architecture","123952",90,52
+2015,"Los Angeles County, CA","05000US06037","University of Southern California","123961",7264,8067
+2015,"Los Angeles County, CA","05000US06037","Southwestern Law School","123970",152,192
+2015,"Los Angeles County, CA","05000US06037","Claremont School of Theology","124283",36,33
+2015,"Los Angeles County, CA","05000US06037","United Education Institute-Huntington Park Campus","124681",109,253
+2015,"Los Angeles County, CA","05000US06037","Universal College of Beauty Inc-Los Angeles 1","124779",2,8
+2015,"Los Angeles County, CA","05000US06037","Concorde Career College-North Hollywood","124937",129,288
+2015,"Los Angeles County, CA","05000US06037","West Los Angeles College","125471",270,405
+2015,"Los Angeles County, CA","05000US06037","Whittier College","125763",274,365
+2015,"Los Angeles County, CA","05000US06037","Woodbury University","125897",198,247
+2015,"Los Angeles County, CA","05000US06037","Yeshiva Ohr Elchonon Chabad West Coast Talmudical Seminary","126076",35,0
+2015,"Los Angeles County, CA","05000US06037","ITT Technical Institute-Sylmar","244011",148,41
+2015,"Los Angeles County, CA","05000US06037","Antioch University-Los Angeles","245838",82,246
+2015,"Los Angeles County, CA","05000US06037","Platt College-Los Angeles","260789",149,343
+2015,"Los Angeles County, CA","05000US06037","Hypnosis Motivation Institute","368771",29,86
+2015,"Los Angeles County, CA","05000US06037","Los Angeles ORT College-Los Angeles Campus","368780",31,73
+2015,"Los Angeles County, CA","05000US06037","Downey Adult School","371690",208,904
+2015,"Los Angeles County, CA","05000US06037","Thuy Princess Beauty College","372000",2,64
+2015,"Los Angeles County, CA","05000US06037","North-West College-Glendale","372028",8,126
+2015,"Los Angeles County, CA","05000US06037","Fremont College","372073",70,118
+2015,"Los Angeles County, CA","05000US06037","Pomona Unified School District Adult and Career Education","372082",54,61
+2015,"Los Angeles County, CA","05000US06037","Universal College of Beauty Inc-Los Angeles 2","372240",2,11
+2015,"Los Angeles County, CA","05000US06037","Capstone College","377759",45,3
+2015,"Los Angeles County, CA","05000US06037","ITT Technical Institute-Torrance","378406",131,46
+2015,"Los Angeles County, CA","05000US06037","Los Angeles ORT College-Van Nuys Campus","381945",68,172
+2015,"Los Angeles County, CA","05000US06037","Hacienda La Puente Adult Education","383084",272,489
+2015,"Los Angeles County, CA","05000US06037","United Education Institute-Encino","384245",153,216
+2015,"Los Angeles County, CA","05000US06037","Alhambra Beauty College","393524",0,76
+2015,"Los Angeles County, CA","05000US06037","American Auto Institute","393649",213,353
+2015,"Los Angeles County, CA","05000US06037","Diversified Vocational College","395690",175,331
+2015,"Los Angeles County, CA","05000US06037","Mt Sierra College","398130",65,21
+2015,"Los Angeles County, CA","05000US06037","World Mission University","401223",22,30
+2015,"Los Angeles County, CA","05000US06037","Yo San University of Traditional Chinese Medicine","401250",9,33
+2015,"Los Angeles County, CA","05000US06037","Coast Career Institute","401339",107,73
+2015,"Los Angeles County, CA","05000US06037","The Art Institute of California-Argosy University Hollywood","410502",159,214
+2015,"Los Angeles County, CA","05000US06037","Marian Health Careers Center-Los Angeles Campus","411684",14,15
+2015,"Los Angeles County, CA","05000US06037","Crimson Technical College","413680",213,12
+2015,"Los Angeles County, CA","05000US06037","East San Gabriel Valley Regional Occupational Program","413802",214,321
+2015,"Los Angeles County, CA","05000US06037","Premiere Career College","416458",71,173
+2015,"Los Angeles County, CA","05000US06037","Baldwin Park Adult & Community Education","417105",75,115
+2015,"Los Angeles County, CA","05000US06037","Le Cordon Bleu College of Culinary Arts-Pasadena","423980",308,374
+2015,"Los Angeles County, CA","05000US06037","John Wesley International Barber and Beauty College","428125",21,17
+2015,"Los Angeles County, CA","05000US06037","Virginia Sewing Machines and School Center","431956",14,71
+2015,"Los Angeles County, CA","05000US06037","The Art Institute of California-Argosy University Los Angeles","432533",221,171
+2015,"Los Angeles County, CA","05000US06037","American University of Health Sciences","433004",10,41
+2015,"Los Angeles County, CA","05000US06037","Charter College-Canyon Country","434317",111,497
+2015,"Los Angeles County, CA","05000US06037","Los Angeles Film School","436429",692,128
+2015,"Los Angeles County, CA","05000US06037","ICDC College","437662",328,943
+2015,"Los Angeles County, CA","05000US06037","CBD College","439367",51,107
+2015,"Los Angeles County, CA","05000US06037","King's University","439701",53,29
+2015,"Los Angeles County, CA","05000US06037","PCI College","439871",3,34
+2015,"Los Angeles County, CA","05000US06037","American Career College at St Francis","439905",8,90
+2015,"Los Angeles County, CA","05000US06037","Keck Graduate Institute","440031",80,101
+2015,"Los Angeles County, CA","05000US06037","West Coast Ultrasound Institute","441229",206,312
+2015,"Los Angeles County, CA","05000US06037","Irell & Manella Graduate School of Biological Sciences at City of Hope","441238",5,5
+2015,"Los Angeles County, CA","05000US06037","David's Academy of Beauty","442204",20,63
+2015,"Los Angeles County, CA","05000US06037","University of Antelope Valley","442930",195,326
+2015,"Los Angeles County, CA","05000US06037","California Healing Arts College","442985",33,47
+2015,"Los Angeles County, CA","05000US06037","NTMA Training Centers of Southern California","443207",499,13
+2015,"Los Angeles County, CA","05000US06037","West Coast University-Los Angeles","443331",92,344
+2015,"Los Angeles County, CA","05000US06037","InterCoast Colleges-West Covina","443571",73,23
+2015,"Los Angeles County, CA","05000US06037","ATI College-Norwalk","444325",8,58
+2015,"Los Angeles County, CA","05000US06037","Advanced College","444343",5,42
+2015,"Los Angeles County, CA","05000US06037","CES College","444510",19,110
+2015,"Los Angeles County, CA","05000US06037","Career Care Institute","446118",44,296
+2015,"Los Angeles County, CA","05000US06037","Los Angeles Music Academy","446385",52,24
+2015,"Los Angeles County, CA","05000US06037","Argosy University-Los Angeles","447272",49,83
+2015,"Los Angeles County, CA","05000US06037","United Education Institute-El Monte","447616",98,181
+2015,"Los Angeles County, CA","05000US06037","California Career College","447713",5,12
+2015,"Los Angeles County, CA","05000US06037","Palladium Technical Academy","447722",13,42
+2015,"Los Angeles County, CA","05000US06037","Palace Beauty College","447731",6,146
+2015,"Los Angeles County, CA","05000US06037","National Polytechnic College","447759",39,75
+2015,"Los Angeles County, CA","05000US06037","Make-up Designory","449366",22,601
+2015,"Los Angeles County, CA","05000US06037","Gnomon School of Visual Effects","449384",31,10
+2015,"Los Angeles County, CA","05000US06037","Valley College of Medical Careers","449445",12,46
+2015,"Los Angeles County, CA","05000US06037","University of the West","449870",41,26
+2015,"Los Angeles County, CA","05000US06037","Paul Mitchell the School-Sherman Oaks","449986",13,130
+2015,"Los Angeles County, CA","05000US06037","InterCoast Colleges-Carson","450669",51,32
+2015,"Los Angeles County, CA","05000US06037","InfoTech Career College","450960",10,107
+2015,"Los Angeles County, CA","05000US06037","Career College Consultants","451006",27,63
+2015,"Los Angeles County, CA","05000US06037","Academy of Esthetics and Cosmetology","454722",0,16
+2015,"Los Angeles County, CA","05000US06037","Borner's Barber College","454759",5,0
+2015,"Los Angeles County, CA","05000US06037","Paul Mitchell the School-Pasadena","454768",2,80
+2015,"Los Angeles County, CA","05000US06037","Career Development Institute","454801",2,33
+2015,"Los Angeles County, CA","05000US06037","The Chicago School of Professional Psychology at Los Angeles","455664",114,487
+2015,"Los Angeles County, CA","05000US06037","RWM Fiber Optics","455752",33,4
+2015,"Los Angeles County, CA","05000US06037","Providence Christian College","455770",7,7
+2015,"Los Angeles County, CA","05000US06037","National Career College","455868",18,72
+2015,"Los Angeles County, CA","05000US06037","Homestead Schools","457086",13,51
+2015,"Los Angeles County, CA","05000US06037","Beyond 21st Century Beauty Academy","457253",1,14
+2015,"Los Angeles County, CA","05000US06037","Academy for Jewish Religion-California","457271",3,27
+2015,"Los Angeles County, CA","05000US06037","Angeles College","457299",23,91
+2015,"Los Angeles County, CA","05000US06037","Angeles Institute","457314",19,63
+2015,"Los Angeles County, CA","05000US06037","Trinity Vocational Center","459161",51,141
+2015,"Los Angeles County, CA","05000US06037","Southern California University SOMA","459222",5,6
+2015,"Los Angeles County, CA","05000US06037","New York Film Academy","461148",416,390
+2015,"Los Angeles County, CA","05000US06037","Galaxy Medical College","461254",11,45
+2015,"Los Angeles County, CA","05000US06037","American Medical Sciences Center","461263",12,32
+2015,"Los Angeles County, CA","05000US06037","Southern California Health Institute","461856",143,146
+2015,"Los Angeles County, CA","05000US06037","Academy for Salon Professionals","462062",1,60
+2015,"Los Angeles County, CA","05000US06037","International College of Beauty Arts & Sciences","462336",1,30
+2015,"Los Angeles County, CA","05000US06037","Carrington College California-Pomona","467368",23,140
+2015,"Los Angeles County, CA","05000US06037","Aveda Institute-Los Angeles","469957",8,86
+2015,"Los Angeles County, CA","05000US06037","Azusa Pacific Online University","474863",24,87
+2015,"Los Angeles County, CA","05000US06037","Marian Health Careers Center-Van Nuys Campus","475282",6,25
+2015,"Los Angeles County, CA","05000US06037","Academy of Couture Art","475635",0,5
+2015,"Los Angeles County, CA","05000US06037","Preferred College of Nursing-Van Nuys","475680",20,61
+2015,"Los Angeles County, CA","05000US06037","Annenberg School of Nursing","475705",2,13
+2015,"Los Angeles County, CA","05000US06037","Flair Beauty College","476513",0,36
+2015,"Los Angeles County, CA","05000US06037","Medical Allied Career Center","476595",13,67
+2015,"Los Angeles County, CA","05000US06037","Diamond Beauty College","476780",46,212
+2015,"Los Angeles County, CA","05000US06037","SAE Institute of Technology-Los Angeles","476911",148,18
+2015,"Los Angeles County, CA","05000US06037","Brand College","479992",68,7
+2015,"Los Angeles County, CA","05000US06037","Advanced Computing Institute","481234",121,125
+2015,"Los Angeles County, CA","05000US06037","American Career College-Long Beach","481854",63,358
+2015,"Los Angeles County, CA","05000US06037","DeVry University-California","482431",1259,810
+2015,"Los Angeles County, CA","05000US06037","American College of Healthcare","483009",14,83
+2015,"Los Angeles County, CA","05000US06037","Learnet Academy Inc","483221",96,135
+2015,"Los Angeles County, CA","05000US06037","Integrity College of Health","483373",4,13
+2015,"Los Angeles County, CA","05000US06037","High Desert Medical College","484002",15,148
+2015,"Los Angeles County, CA","05000US06037","North-West College-Long Beach","484376",6,37
+2015,"Los Angeles County, CA","05000US06037","Minerva Schools at Keck Graduate Institute","484844",0,0
+2015,"Los Angeles County, CA","05000US06037","ABCO Technology","485500",69,3
+2015,"Los Angeles County, CA","05000US06037","United Healthcare Careers College","485573",2,28
+2015,"Los Angeles County, CA","05000US06037","GDS Institute","486099",67,61
+2015,"Los Angeles County, CA","05000US06037","Theatre of Arts","486123",23,20
+2015,"Los Angeles County, CA","05000US06037","Westchester College of Nursing & Allied Health","486141",0,11
+2015,"Los Angeles County, CA","05000US06037","ZMS The Academy","486248",12,72
+2015,"Los Angeles County, CA","05000US06037","Saint Joseph's School of Nursing","486600",1,30
+2015,"Los Angeles County, CA","05000US06037","Hussian College-Relativity Campus California","486965",0,0
+2015,"Los Angeles County, CA","05000US06037","Universal Technical Institute-Southern California","487597",0,0
+2015,"Los Angeles County, CA","05000US06037","California Institute of Advanced Management","487649",6,2
+2015,"Los Angeles County, CA","05000US06037","Shepherd University","487667",26,36

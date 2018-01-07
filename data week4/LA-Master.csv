@@ -1,0 +1,957 @@
+year,geo_name,geo,cip_name,cip,degree_name,degree,grads_total
+2015,"Los Angeles County, CA","05000US06037","General Agriculture","010000","Master's Degree","7",12
+2013,"Los Angeles County, CA","05000US06037","General Agriculture","010000","Master's Degree","7",13
+2014,"Los Angeles County, CA","05000US06037","General Agriculture","010000","Master's Degree","7",9
+2015,"Los Angeles County, CA","05000US06037","Environmental Studies","030103","Master's Degree","7",4
+2013,"Los Angeles County, CA","05000US06037","Environmental Studies","030103","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Environmental Studies","030103","Master's Degree","7",6
+2015,"Los Angeles County, CA","05000US06037","Environmental Science","030104","Master's Degree","7",12
+2013,"Los Angeles County, CA","05000US06037","Environmental Science","030104","Master's Degree","7",10
+2014,"Los Angeles County, CA","05000US06037","Environmental Science","030104","Master's Degree","7",14
+2015,"Los Angeles County, CA","05000US06037","Other Conservation & Natural Resource Research","030199","Master's Degree","7",12
+2013,"Los Angeles County, CA","05000US06037","Other Conservation & Natural Resource Research","030199","Master's Degree","7",11
+2014,"Los Angeles County, CA","05000US06037","Other Conservation & Natural Resource Research","030199","Master's Degree","7",9
+2015,"Los Angeles County, CA","05000US06037","Architecture","040201","Master's Degree","7",258
+2013,"Los Angeles County, CA","05000US06037","Architecture","040201","Master's Degree","7",201
+2014,"Los Angeles County, CA","05000US06037","Architecture","040201","Master's Degree","7",304
+2015,"Los Angeles County, CA","05000US06037","Urban, Community, & Regional Planning","040301","Master's Degree","7",155
+2013,"Los Angeles County, CA","05000US06037","Urban, Community, & Regional Planning","040301","Master's Degree","7",177
+2014,"Los Angeles County, CA","05000US06037","Urban, Community, & Regional Planning","040301","Master's Degree","7",167
+2015,"Los Angeles County, CA","05000US06037","Interior Architecture","040501","Master's Degree","7",44
+2013,"Los Angeles County, CA","05000US06037","Interior Architecture","040501","Master's Degree","7",40
+2014,"Los Angeles County, CA","05000US06037","Interior Architecture","040501","Master's Degree","7",39
+2015,"Los Angeles County, CA","05000US06037","Landscape Architecture","040601","Master's Degree","7",33
+2013,"Los Angeles County, CA","05000US06037","Landscape Architecture","040601","Master's Degree","7",38
+2014,"Los Angeles County, CA","05000US06037","Landscape Architecture","040601","Master's Degree","7",34
+2015,"Los Angeles County, CA","05000US06037","Architectural & Building Sciences & Technology","040902","Master's Degree","7",22
+2013,"Los Angeles County, CA","05000US06037","Architectural & Building Sciences & Technology","040902","Master's Degree","7",9
+2014,"Los Angeles County, CA","05000US06037","Architectural & Building Sciences & Technology","040902","Master's Degree","7",12
+2015,"Los Angeles County, CA","05000US06037","Real Estate Development","041001","Master's Degree","7",51
+2013,"Los Angeles County, CA","05000US06037","Real Estate Development","041001","Master's Degree","7",47
+2014,"Los Angeles County, CA","05000US06037","Real Estate Development","041001","Master's Degree","7",51
+2015,"Los Angeles County, CA","05000US06037","African Studies","050101","Master's Degree","7",4
+2013,"Los Angeles County, CA","05000US06037","African Studies","050101","Master's Degree","7",8
+2014,"Los Angeles County, CA","05000US06037","African Studies","050101","Master's Degree","7",6
+2015,"Los Angeles County, CA","05000US06037","American & U.S. Studies","050102","Master's Degree","7",12
+2013,"Los Angeles County, CA","05000US06037","American & U.S. Studies","050102","Master's Degree","7",11
+2014,"Los Angeles County, CA","05000US06037","American & U.S. Studies","050102","Master's Degree","7",16
+2015,"Los Angeles County, CA","05000US06037","Asian Studies","050103","Master's Degree","7",1
+2013,"Los Angeles County, CA","05000US06037","Asian Studies","050103","Master's Degree","7",6
+2014,"Los Angeles County, CA","05000US06037","Asian Studies","050103","Master's Degree","7",5
+2015,"Los Angeles County, CA","05000US06037","East Asian Studies","050104","Master's Degree","7",11
+2013,"Los Angeles County, CA","05000US06037","East Asian Studies","050104","Master's Degree","7",14
+2014,"Los Angeles County, CA","05000US06037","East Asian Studies","050104","Master's Degree","7",11
+2015,"Los Angeles County, CA","05000US06037","Latin American Studies","050107","Master's Degree","7",17
+2013,"Los Angeles County, CA","05000US06037","Latin American Studies","050107","Master's Degree","7",23
+2014,"Los Angeles County, CA","05000US06037","Latin American Studies","050107","Master's Degree","7",12
+2015,"Los Angeles County, CA","05000US06037","African-American & Black Studies","050201","Master's Degree","7",4
+2013,"Los Angeles County, CA","05000US06037","African-American & Black Studies","050201","Master's Degree","7",10
+2014,"Los Angeles County, CA","05000US06037","African-American & Black Studies","050201","Master's Degree","7",5
+2015,"Los Angeles County, CA","05000US06037","Native American Studies","050202","Master's Degree","7",5
+2013,"Los Angeles County, CA","05000US06037","Native American Studies","050202","Master's Degree","7",5
+2014,"Los Angeles County, CA","05000US06037","Native American Studies","050202","Master's Degree","7",6
+2015,"Los Angeles County, CA","05000US06037","Hispanic-American, Puerto Rican, & Mexican-American Studies","050203","Master's Degree","7",14
+2013,"Los Angeles County, CA","05000US06037","Hispanic-American, Puerto Rican, & Mexican-American Studies","050203","Master's Degree","7",12
+2014,"Los Angeles County, CA","05000US06037","Hispanic-American, Puerto Rican, & Mexican-American Studies","050203","Master's Degree","7",14
+2015,"Los Angeles County, CA","05000US06037","Asian-American Studies","050206","Master's Degree","7",3
+2013,"Los Angeles County, CA","05000US06037","Asian-American Studies","050206","Master's Degree","7",12
+2014,"Los Angeles County, CA","05000US06037","Asian-American Studies","050206","Master's Degree","7",7
+2015,"Los Angeles County, CA","05000US06037","Women's Studies","050207","Master's Degree","7",8
+2013,"Los Angeles County, CA","05000US06037","Women's Studies","050207","Master's Degree","7",3
+2014,"Los Angeles County, CA","05000US06037","Women's Studies","050207","Master's Degree","7",8
+2015,"Los Angeles County, CA","05000US06037","Other Ethnic, Minority, Gender, & Group Studies","050299","Master's Degree","7",10
+2013,"Los Angeles County, CA","05000US06037","Other Ethnic, Minority, Gender, & Group Studies","050299","Master's Degree","7",6
+2014,"Los Angeles County, CA","05000US06037","Other Ethnic, Minority, Gender, & Group Studies","050299","Master's Degree","7",6
+2015,"Los Angeles County, CA","05000US06037","General Communication","090100","Master's Degree","7",4
+2013,"Los Angeles County, CA","05000US06037","General Communication","090100","Master's Degree","7",10
+2014,"Los Angeles County, CA","05000US06037","General Communication","090100","Master's Degree","7",4
+2015,"Los Angeles County, CA","05000US06037","Speech Communication & Rhetoric","090101","Master's Degree","7",87
+2013,"Los Angeles County, CA","05000US06037","Speech Communication & Rhetoric","090101","Master's Degree","7",55
+2014,"Los Angeles County, CA","05000US06037","Speech Communication & Rhetoric","090101","Master's Degree","7",53
+2015,"Los Angeles County, CA","05000US06037","Other Communication & Media Studies","090199","Master's Degree","7",202
+2013,"Los Angeles County, CA","05000US06037","Other Communication & Media Studies","090199","Master's Degree","7",140
+2014,"Los Angeles County, CA","05000US06037","Other Communication & Media Studies","090199","Master's Degree","7",232
+2015,"Los Angeles County, CA","05000US06037","Journalism","090401","Master's Degree","7",91
+2013,"Los Angeles County, CA","05000US06037","Journalism","090401","Master's Degree","7",48
+2014,"Los Angeles County, CA","05000US06037","Journalism","090401","Master's Degree","7",68
+2013,"Los Angeles County, CA","05000US06037","Broadcast Journalism","090402","Master's Degree","7",8
+2015,"Los Angeles County, CA","05000US06037","Radio & Television","090701","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Radio & Television","090701","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","Digital Communication & Multimedia","090702","Master's Degree","7",8
+2015,"Los Angeles County, CA","05000US06037","Public Relations & Image Management","090902","Master's Degree","7",69
+2013,"Los Angeles County, CA","05000US06037","Public Relations & Image Management","090902","Master's Degree","7",68
+2014,"Los Angeles County, CA","05000US06037","Public Relations & Image Management","090902","Master's Degree","7",55
+2015,"Los Angeles County, CA","05000US06037","International & Intercultural Communication","090907","Master's Degree","7",44
+2013,"Los Angeles County, CA","05000US06037","International & Intercultural Communication","090907","Master's Degree","7",20
+2014,"Los Angeles County, CA","05000US06037","International & Intercultural Communication","090907","Master's Degree","7",36
+2015,"Los Angeles County, CA","05000US06037","General Computer & Information Sciences","110101","Master's Degree","7",21
+2013,"Los Angeles County, CA","05000US06037","General Computer & Information Sciences","110101","Master's Degree","7",6
+2014,"Los Angeles County, CA","05000US06037","General Computer & Information Sciences","110101","Master's Degree","7",30
+2015,"Los Angeles County, CA","05000US06037","Artificial Intelligence","110102","Master's Degree","7",12
+2013,"Los Angeles County, CA","05000US06037","Artificial Intelligence","110102","Master's Degree","7",3
+2014,"Los Angeles County, CA","05000US06037","Artificial Intelligence","110102","Master's Degree","7",6
+2015,"Los Angeles County, CA","05000US06037","Information Technology","110103","Master's Degree","7",12
+2013,"Los Angeles County, CA","05000US06037","Information Technology","110103","Master's Degree","7",10
+2014,"Los Angeles County, CA","05000US06037","Information Technology","110103","Master's Degree","7",16
+2015,"Los Angeles County, CA","05000US06037","Information Science","110401","Master's Degree","7",26
+2013,"Los Angeles County, CA","05000US06037","Information Science","110401","Master's Degree","7",21
+2014,"Los Angeles County, CA","05000US06037","Information Science","110401","Master's Degree","7",27
+2015,"Los Angeles County, CA","05000US06037","Computer Science","110701","Master's Degree","7",835
+2013,"Los Angeles County, CA","05000US06037","Computer Science","110701","Master's Degree","7",646
+2014,"Los Angeles County, CA","05000US06037","Computer Science","110701","Master's Degree","7",638
+2015,"Los Angeles County, CA","05000US06037","Data Modeling, Warehouse, & Database Administration","110802","Master's Degree","7",6
+2014,"Los Angeles County, CA","05000US06037","Data Modeling, Warehouse, & Database Administration","110802","Master's Degree","7",3
+2015,"Los Angeles County, CA","05000US06037","Modeling, Virtual Environments, & Simulation","110804","Master's Degree","7",21
+2013,"Los Angeles County, CA","05000US06037","Modeling, Virtual Environments, & Simulation","110804","Master's Degree","7",25
+2014,"Los Angeles County, CA","05000US06037","Modeling, Virtual Environments, & Simulation","110804","Master's Degree","7",23
+2015,"Los Angeles County, CA","05000US06037","Other Computer Software & Media Applications","110899","Master's Degree","7",19
+2015,"Los Angeles County, CA","05000US06037","Computer Systems Networking & Telecommunications","110901","Master's Degree","7",24
+2013,"Los Angeles County, CA","05000US06037","Computer Systems Networking & Telecommunications","110901","Master's Degree","7",18
+2014,"Los Angeles County, CA","05000US06037","Computer Systems Networking & Telecommunications","110901","Master's Degree","7",23
+2015,"Los Angeles County, CA","05000US06037","Computer & Information Systems Security","111003","Master's Degree","7",19
+2013,"Los Angeles County, CA","05000US06037","Computer & Information Systems Security","111003","Master's Degree","7",5
+2015,"Los Angeles County, CA","05000US06037","General Education","130101","Master's Degree","7",1490
+2013,"Los Angeles County, CA","05000US06037","General Education","130101","Master's Degree","7",1607
+2014,"Los Angeles County, CA","05000US06037","General Education","130101","Master's Degree","7",1426
+2015,"Los Angeles County, CA","05000US06037","Bilingual & Multilingual Education","130201","Master's Degree","7",17
+2013,"Los Angeles County, CA","05000US06037","Bilingual & Multilingual Education","130201","Master's Degree","7",9
+2014,"Los Angeles County, CA","05000US06037","Bilingual & Multilingual Education","130201","Master's Degree","7",16
+2015,"Los Angeles County, CA","05000US06037","Multicultural Education","130202","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","Curriculum & Instruction","130301","Master's Degree","7",2
+2013,"Los Angeles County, CA","05000US06037","Curriculum & Instruction","130301","Master's Degree","7",3
+2014,"Los Angeles County, CA","05000US06037","Curriculum & Instruction","130301","Master's Degree","7",4
+2015,"Los Angeles County, CA","05000US06037","General Educational Leadership & Administration","130401","Master's Degree","7",228
+2013,"Los Angeles County, CA","05000US06037","General Educational Leadership & Administration","130401","Master's Degree","7",254
+2014,"Los Angeles County, CA","05000US06037","General Educational Leadership & Administration","130401","Master's Degree","7",237
+2015,"Los Angeles County, CA","05000US06037","Educational, Instructional, & Curriculum Supervision","130404","Master's Degree","7",10
+2013,"Los Angeles County, CA","05000US06037","Educational, Instructional, & Curriculum Supervision","130404","Master's Degree","7",12
+2014,"Los Angeles County, CA","05000US06037","Educational, Instructional, & Curriculum Supervision","130404","Master's Degree","7",8
+2015,"Los Angeles County, CA","05000US06037","Higher Education & Administration","130406","Master's Degree","7",43
+2013,"Los Angeles County, CA","05000US06037","Higher Education & Administration","130406","Master's Degree","7",40
+2014,"Los Angeles County, CA","05000US06037","Higher Education & Administration","130406","Master's Degree","7",55
+2015,"Los Angeles County, CA","05000US06037","Urban Education & Leadership","130410","Master's Degree","7",125
+2013,"Los Angeles County, CA","05000US06037","Urban Education & Leadership","130410","Master's Degree","7",73
+2014,"Los Angeles County, CA","05000US06037","Urban Education & Leadership","130410","Master's Degree","7",167
+2015,"Los Angeles County, CA","05000US06037","Other Educational Administration & Supervision","130499","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","Educational & Instructional Technology","130501","Master's Degree","7",14
+2013,"Los Angeles County, CA","05000US06037","Educational & Instructional Technology","130501","Master's Degree","7",20
+2014,"Los Angeles County, CA","05000US06037","Educational & Instructional Technology","130501","Master's Degree","7",19
+2015,"Los Angeles County, CA","05000US06037","Other Educational Assessment, Evaluation, & Research","130699","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","General Special Education & Teaching","131001","Master's Degree","7",258
+2013,"Los Angeles County, CA","05000US06037","General Special Education & Teaching","131001","Master's Degree","7",257
+2014,"Los Angeles County, CA","05000US06037","General Special Education & Teaching","131001","Master's Degree","7",241
+2015,"Los Angeles County, CA","05000US06037","Education of Individuals with Hearing Impairments","131003","Master's Degree","7",14
+2014,"Los Angeles County, CA","05000US06037","Education of Individuals with Hearing Impairments","131003","Master's Degree","7",8
+2015,"Los Angeles County, CA","05000US06037","Education of Individuals with Specific Learning Disabilities","131011","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Education of Individuals with Specific Learning Disabilities","131011","Master's Degree","7",4
+2015,"Los Angeles County, CA","05000US06037","School Counseling & Guidance Services","131101","Master's Degree","7",415
+2013,"Los Angeles County, CA","05000US06037","School Counseling & Guidance Services","131101","Master's Degree","7",448
+2014,"Los Angeles County, CA","05000US06037","School Counseling & Guidance Services","131101","Master's Degree","7",453
+2015,"Los Angeles County, CA","05000US06037","College Student Counseling & Personal Services","131102","Master's Degree","7",21
+2013,"Los Angeles County, CA","05000US06037","College Student Counseling & Personal Services","131102","Master's Degree","7",10
+2014,"Los Angeles County, CA","05000US06037","College Student Counseling & Personal Services","131102","Master's Degree","7",17
+2015,"Los Angeles County, CA","05000US06037","Elementary Education & Teaching","131202","Master's Degree","7",57
+2013,"Los Angeles County, CA","05000US06037","Elementary Education & Teaching","131202","Master's Degree","7",52
+2014,"Los Angeles County, CA","05000US06037","Elementary Education & Teaching","131202","Master's Degree","7",52
+2015,"Los Angeles County, CA","05000US06037","Secondary Education & Teaching","131205","Master's Degree","7",48
+2013,"Los Angeles County, CA","05000US06037","Secondary Education & Teaching","131205","Master's Degree","7",56
+2014,"Los Angeles County, CA","05000US06037","Secondary Education & Teaching","131205","Master's Degree","7",44
+2015,"Los Angeles County, CA","05000US06037","Teacher Education","131206","Master's Degree","7",63
+2013,"Los Angeles County, CA","05000US06037","Teacher Education","131206","Master's Degree","7",40
+2014,"Los Angeles County, CA","05000US06037","Teacher Education","131206","Master's Degree","7",41
+2015,"Los Angeles County, CA","05000US06037","Early Childhood Education & Teaching","131210","Master's Degree","7",52
+2013,"Los Angeles County, CA","05000US06037","Early Childhood Education & Teaching","131210","Master's Degree","7",42
+2014,"Los Angeles County, CA","05000US06037","Early Childhood Education & Teaching","131210","Master's Degree","7",80
+2015,"Los Angeles County, CA","05000US06037","Teacher Education & Professional Development","131299","Master's Degree","7",77
+2013,"Los Angeles County, CA","05000US06037","Teacher Education & Professional Development","131299","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Teacher Education & Professional Development","131299","Master's Degree","7",95
+2015,"Los Angeles County, CA","05000US06037","Technology & Industrial Arts Teacher Education","131309","Master's Degree","7",1
+2013,"Los Angeles County, CA","05000US06037","Technology & Industrial Arts Teacher Education","131309","Master's Degree","7",6
+2014,"Los Angeles County, CA","05000US06037","Technology & Industrial Arts Teacher Education","131309","Master's Degree","7",4
+2015,"Los Angeles County, CA","05000US06037","Mathematics Teacher Education","131311","Master's Degree","7",3
+2013,"Los Angeles County, CA","05000US06037","Mathematics Teacher Education","131311","Master's Degree","7",10
+2014,"Los Angeles County, CA","05000US06037","Mathematics Teacher Education","131311","Master's Degree","7",6
+2015,"Los Angeles County, CA","05000US06037","Music Teacher Education","131312","Master's Degree","7",1
+2013,"Los Angeles County, CA","05000US06037","Music Teacher Education","131312","Master's Degree","7",13
+2014,"Los Angeles County, CA","05000US06037","Music Teacher Education","131312","Master's Degree","7",14
+2015,"Los Angeles County, CA","05000US06037","Reading Teacher Education","131315","Master's Degree","7",30
+2013,"Los Angeles County, CA","05000US06037","Reading Teacher Education","131315","Master's Degree","7",64
+2014,"Los Angeles County, CA","05000US06037","Reading Teacher Education","131315","Master's Degree","7",44
+2015,"Los Angeles County, CA","05000US06037","General Science Teacher Education","131316","Master's Degree","7",5
+2013,"Los Angeles County, CA","05000US06037","General Science Teacher Education","131316","Master's Degree","7",12
+2014,"Los Angeles County, CA","05000US06037","General Science Teacher Education","131316","Master's Degree","7",10
+2014,"Los Angeles County, CA","05000US06037","Trade & Industrial Teacher Education","131320","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","School Librarian & Library Media Specialist","131334","Master's Degree","7",7
+2014,"Los Angeles County, CA","05000US06037","School Librarian & Library Media Specialist","131334","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","Other Teacher Education & Professional Development","131399","Master's Degree","7",293
+2013,"Los Angeles County, CA","05000US06037","Other Teacher Education & Professional Development","131399","Master's Degree","7",559
+2014,"Los Angeles County, CA","05000US06037","Other Teacher Education & Professional Development","131399","Master's Degree","7",428
+2015,"Los Angeles County, CA","05000US06037","Teaching English as a Second or Foreign Language Instructor","131401","Master's Degree","7",235
+2013,"Los Angeles County, CA","05000US06037","Teaching English as a Second or Foreign Language Instructor","131401","Master's Degree","7",204
+2014,"Los Angeles County, CA","05000US06037","Teaching English as a Second or Foreign Language Instructor","131401","Master's Degree","7",226
+2015,"Los Angeles County, CA","05000US06037","Other Education","139999","Master's Degree","7",100
+2013,"Los Angeles County, CA","05000US06037","Other Education","139999","Master's Degree","7",95
+2014,"Los Angeles County, CA","05000US06037","Other Education","139999","Master's Degree","7",121
+2015,"Los Angeles County, CA","05000US06037","General Engineering","140101","Master's Degree","7",79
+2013,"Los Angeles County, CA","05000US06037","General Engineering","140101","Master's Degree","7",100
+2014,"Los Angeles County, CA","05000US06037","General Engineering","140101","Master's Degree","7",117
+2015,"Los Angeles County, CA","05000US06037","Aerospace, Aeronautical, & Astronautical Engineering","140201","Master's Degree","7",128
+2013,"Los Angeles County, CA","05000US06037","Aerospace, Aeronautical, & Astronautical Engineering","140201","Master's Degree","7",131
+2014,"Los Angeles County, CA","05000US06037","Aerospace, Aeronautical, & Astronautical Engineering","140201","Master's Degree","7",146
+2015,"Los Angeles County, CA","05000US06037","Bioengineering & Biomedical Engineering","140501","Master's Degree","7",116
+2013,"Los Angeles County, CA","05000US06037","Bioengineering & Biomedical Engineering","140501","Master's Degree","7",111
+2014,"Los Angeles County, CA","05000US06037","Bioengineering & Biomedical Engineering","140501","Master's Degree","7",119
+2015,"Los Angeles County, CA","05000US06037","Chemical Engineering","140701","Master's Degree","7",68
+2013,"Los Angeles County, CA","05000US06037","Chemical Engineering","140701","Master's Degree","7",70
+2014,"Los Angeles County, CA","05000US06037","Chemical Engineering","140701","Master's Degree","7",58
+2015,"Los Angeles County, CA","05000US06037","General Civil Engineering","140801","Master's Degree","7",130
+2013,"Los Angeles County, CA","05000US06037","General Civil Engineering","140801","Master's Degree","7",154
+2014,"Los Angeles County, CA","05000US06037","General Civil Engineering","140801","Master's Degree","7",212
+2015,"Los Angeles County, CA","05000US06037","Structural Engineering","140803","Master's Degree","7",76
+2013,"Los Angeles County, CA","05000US06037","Structural Engineering","140803","Master's Degree","7",125
+2014,"Los Angeles County, CA","05000US06037","Structural Engineering","140803","Master's Degree","7",76
+2015,"Los Angeles County, CA","05000US06037","Transportation & Highway Engineering","140804","Master's Degree","7",10
+2013,"Los Angeles County, CA","05000US06037","Transportation & Highway Engineering","140804","Master's Degree","7",9
+2014,"Los Angeles County, CA","05000US06037","Transportation & Highway Engineering","140804","Master's Degree","7",12
+2015,"Los Angeles County, CA","05000US06037","Water Resources Engineering","140805","Master's Degree","7",2
+2013,"Los Angeles County, CA","05000US06037","Water Resources Engineering","140805","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Water Resources Engineering","140805","Master's Degree","7",5
+2015,"Los Angeles County, CA","05000US06037","General Computer Engineering","140901","Master's Degree","7",12
+2013,"Los Angeles County, CA","05000US06037","General Computer Engineering","140901","Master's Degree","7",10
+2014,"Los Angeles County, CA","05000US06037","General Computer Engineering","140901","Master's Degree","7",10
+2015,"Los Angeles County, CA","05000US06037","Computer Software Engineering","140903","Master's Degree","7",6
+2013,"Los Angeles County, CA","05000US06037","Computer Software Engineering","140903","Master's Degree","7",5
+2014,"Los Angeles County, CA","05000US06037","Computer Software Engineering","140903","Master's Degree","7",3
+2015,"Los Angeles County, CA","05000US06037","Electrical & Electronics Engineering","141001","Master's Degree","7",1019
+2013,"Los Angeles County, CA","05000US06037","Electrical & Electronics Engineering","141001","Master's Degree","7",766
+2014,"Los Angeles County, CA","05000US06037","Electrical & Electronics Engineering","141001","Master's Degree","7",852
+2013,"Los Angeles County, CA","05000US06037","Telecommunications Engineering","141004","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Telecommunications Engineering","141004","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","Other Electrical, Electronics, & Communications Engineering","141099","Master's Degree","7",6
+2014,"Los Angeles County, CA","05000US06037","Other Electrical, Electronics, & Communications Engineering","141099","Master's Degree","7",3
+2013,"Los Angeles County, CA","05000US06037","Engineering Mechanics","141101","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Engineering Mechanics","141101","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","Engineering Physics & Applied Physics","141201","Master's Degree","7",6
+2013,"Los Angeles County, CA","05000US06037","Engineering Physics & Applied Physics","141201","Master's Degree","7",5
+2014,"Los Angeles County, CA","05000US06037","Engineering Physics & Applied Physics","141201","Master's Degree","7",6
+2015,"Los Angeles County, CA","05000US06037","Environmental Health Engineering","141401","Master's Degree","7",27
+2013,"Los Angeles County, CA","05000US06037","Environmental Health Engineering","141401","Master's Degree","7",38
+2014,"Los Angeles County, CA","05000US06037","Environmental Health Engineering","141401","Master's Degree","7",39
+2015,"Los Angeles County, CA","05000US06037","Materials Engineering","141801","Master's Degree","7",79
+2013,"Los Angeles County, CA","05000US06037","Materials Engineering","141801","Master's Degree","7",51
+2014,"Los Angeles County, CA","05000US06037","Materials Engineering","141801","Master's Degree","7",44
+2015,"Los Angeles County, CA","05000US06037","Mechanical Engineering","141901","Master's Degree","7",338
+2013,"Los Angeles County, CA","05000US06037","Mechanical Engineering","141901","Master's Degree","7",277
+2014,"Los Angeles County, CA","05000US06037","Mechanical Engineering","141901","Master's Degree","7",300
+2015,"Los Angeles County, CA","05000US06037","Petroleum Engineering","142501","Master's Degree","7",87
+2013,"Los Angeles County, CA","05000US06037","Petroleum Engineering","142501","Master's Degree","7",47
+2014,"Los Angeles County, CA","05000US06037","Petroleum Engineering","142501","Master's Degree","7",66
+2015,"Los Angeles County, CA","05000US06037","Systems Engineering","142701","Master's Degree","7",66
+2013,"Los Angeles County, CA","05000US06037","Systems Engineering","142701","Master's Degree","7",65
+2014,"Los Angeles County, CA","05000US06037","Systems Engineering","142701","Master's Degree","7",53
+2015,"Los Angeles County, CA","05000US06037","Industrial Engineering","143501","Master's Degree","7",65
+2013,"Los Angeles County, CA","05000US06037","Industrial Engineering","143501","Master's Degree","7",69
+2014,"Los Angeles County, CA","05000US06037","Industrial Engineering","143501","Master's Degree","7",45
+2015,"Los Angeles County, CA","05000US06037","Manufacturing Engineering","143601","Master's Degree","7",22
+2013,"Los Angeles County, CA","05000US06037","Manufacturing Engineering","143601","Master's Degree","7",19
+2014,"Los Angeles County, CA","05000US06037","Manufacturing Engineering","143601","Master's Degree","7",25
+2015,"Los Angeles County, CA","05000US06037","Operations Research","143701","Master's Degree","7",7
+2013,"Los Angeles County, CA","05000US06037","Operations Research","143701","Master's Degree","7",6
+2014,"Los Angeles County, CA","05000US06037","Operations Research","143701","Master's Degree","7",6
+2015,"Los Angeles County, CA","05000US06037","Other Engineering","149999","Master's Degree","7",165
+2013,"Los Angeles County, CA","05000US06037","Other Engineering","149999","Master's Degree","7",148
+2014,"Los Angeles County, CA","05000US06037","Other Engineering","149999","Master's Degree","7",178
+2015,"Los Angeles County, CA","05000US06037","Quality Control Technology","150702","Master's Degree","7",33
+2013,"Los Angeles County, CA","05000US06037","Quality Control Technology","150702","Master's Degree","7",24
+2014,"Los Angeles County, CA","05000US06037","Quality Control Technology","150702","Master's Degree","7",36
+2015,"Los Angeles County, CA","05000US06037","Engineering & Industrial Management","151501","Master's Degree","7",85
+2013,"Los Angeles County, CA","05000US06037","Engineering & Industrial Management","151501","Master's Degree","7",95
+2014,"Los Angeles County, CA","05000US06037","Engineering & Industrial Management","151501","Master's Degree","7",74
+2015,"Los Angeles County, CA","05000US06037","Other Engineering-Related Fields","151599","Master's Degree","7",12
+2015,"Los Angeles County, CA","05000US06037","Linguistics","160102","Master's Degree","7",40
+2013,"Los Angeles County, CA","05000US06037","Linguistics","160102","Master's Degree","7",38
+2014,"Los Angeles County, CA","05000US06037","Linguistics","160102","Master's Degree","7",51
+2015,"Los Angeles County, CA","05000US06037","Language Interpretation & Translation","160103","Master's Degree","7",3
+2013,"Los Angeles County, CA","05000US06037","Language Interpretation & Translation","160103","Master's Degree","7",3
+2014,"Los Angeles County, CA","05000US06037","Language Interpretation & Translation","160103","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","Comparative Literature","160104","Master's Degree","7",9
+2013,"Los Angeles County, CA","05000US06037","Comparative Literature","160104","Master's Degree","7",3
+2014,"Los Angeles County, CA","05000US06037","Comparative Literature","160104","Master's Degree","7",5
+2015,"Los Angeles County, CA","05000US06037","Applied Linguistics","160105","Master's Degree","7",2
+2013,"Los Angeles County, CA","05000US06037","Applied Linguistics","160105","Master's Degree","7",3
+2014,"Los Angeles County, CA","05000US06037","Applied Linguistics","160105","Master's Degree","7",3
+2015,"Los Angeles County, CA","05000US06037","General East Asian Languages, Literatures, & Linguistics","160300","Master's Degree","7",5
+2013,"Los Angeles County, CA","05000US06037","General East Asian Languages, Literatures, & Linguistics","160300","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","General East Asian Languages, Literatures, & Linguistics","160300","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","Other East Asian Languages, Literatures, & Linguistics","160399","Master's Degree","7",2
+2013,"Los Angeles County, CA","05000US06037","Other East Asian Languages, Literatures, & Linguistics","160399","Master's Degree","7",2
+2014,"Los Angeles County, CA","05000US06037","Other East Asian Languages, Literatures, & Linguistics","160399","Master's Degree","7",3
+2015,"Los Angeles County, CA","05000US06037","General Slavic Languages, Literatures, & Linguistics","160400","Master's Degree","7",2
+2013,"Los Angeles County, CA","05000US06037","General Slavic Languages, Literatures, & Linguistics","160400","Master's Degree","7",5
+2014,"Los Angeles County, CA","05000US06037","General Slavic Languages, Literatures, & Linguistics","160400","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","General Germanic Languages, Literatures, & Linguistics","160500","Master's Degree","7",1
+2013,"Los Angeles County, CA","05000US06037","General Germanic Languages, Literatures, & Linguistics","160500","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","General Germanic Languages, Literatures, & Linguistics","160500","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","German Language & Literature","160501","Master's Degree","7",8
+2013,"Los Angeles County, CA","05000US06037","German Language & Literature","160501","Master's Degree","7",6
+2014,"Los Angeles County, CA","05000US06037","German Language & Literature","160501","Master's Degree","7",6
+2013,"Los Angeles County, CA","05000US06037","Scandanavian Languages, Literatures, & Linguistics","160502","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Scandanavian Languages, Literatures, & Linguistics","160502","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","French Language & Literature","160901","Master's Degree","7",2
+2013,"Los Angeles County, CA","05000US06037","French Language & Literature","160901","Master's Degree","7",13
+2014,"Los Angeles County, CA","05000US06037","French Language & Literature","160901","Master's Degree","7",6
+2015,"Los Angeles County, CA","05000US06037","Italian Language & Literature","160902","Master's Degree","7",3
+2013,"Los Angeles County, CA","05000US06037","Italian Language & Literature","160902","Master's Degree","7",4
+2013,"Los Angeles County, CA","05000US06037","Portuguese Language & Literature","160904","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Portuguese Language & Literature","160904","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","Spanish Language & Literature","160905","Master's Degree","7",25
+2013,"Los Angeles County, CA","05000US06037","Spanish Language & Literature","160905","Master's Degree","7",19
+2014,"Los Angeles County, CA","05000US06037","Spanish Language & Literature","160905","Master's Degree","7",27
+2015,"Los Angeles County, CA","05000US06037","Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics","161199","Master's Degree","7",5
+2013,"Los Angeles County, CA","05000US06037","Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics","161199","Master's Degree","7",7
+2014,"Los Angeles County, CA","05000US06037","Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics","161199","Master's Degree","7",8
+2015,"Los Angeles County, CA","05000US06037","General Classical Language, Literature, & Linguistics","161200","Master's Degree","7",6
+2013,"Los Angeles County, CA","05000US06037","General Classical Language, Literature, & Linguistics","161200","Master's Degree","7",6
+2014,"Los Angeles County, CA","05000US06037","General Classical Language, Literature, & Linguistics","161200","Master's Degree","7",7
+2015,"Los Angeles County, CA","05000US06037","General Family & Consumer Sciences","190101","Master's Degree","7",59
+2013,"Los Angeles County, CA","05000US06037","General Family & Consumer Sciences","190101","Master's Degree","7",41
+2014,"Los Angeles County, CA","05000US06037","General Family & Consumer Sciences","190101","Master's Degree","7",51
+2015,"Los Angeles County, CA","05000US06037","General Human Development & Family Studies","190701","Master's Degree","7",107
+2013,"Los Angeles County, CA","05000US06037","General Human Development & Family Studies","190701","Master's Degree","7",101
+2014,"Los Angeles County, CA","05000US06037","General Human Development & Family Studies","190701","Master's Degree","7",79
+2015,"Los Angeles County, CA","05000US06037","Child Development","190706","Master's Degree","7",13
+2013,"Los Angeles County, CA","05000US06037","Child Development","190706","Master's Degree","7",17
+2014,"Los Angeles County, CA","05000US06037","Child Development","190706","Master's Degree","7",15
+2015,"Los Angeles County, CA","05000US06037","Child Care & Support Services Management","190708","Master's Degree","7",19
+2013,"Los Angeles County, CA","05000US06037","Child Care & Support Services Management","190708","Master's Degree","7",14
+2014,"Los Angeles County, CA","05000US06037","Child Care & Support Services Management","190708","Master's Degree","7",12
+2015,"Los Angeles County, CA","05000US06037","General Advanced Legal Studies","220201","Master's Degree","7",158
+2013,"Los Angeles County, CA","05000US06037","General Advanced Legal Studies","220201","Master's Degree","7",92
+2014,"Los Angeles County, CA","05000US06037","General Advanced Legal Studies","220201","Master's Degree","7",125
+2015,"Los Angeles County, CA","05000US06037","Programs for Foreign Lawyers","220202","Master's Degree","7",197
+2013,"Los Angeles County, CA","05000US06037","Programs for Foreign Lawyers","220202","Master's Degree","7",169
+2014,"Los Angeles County, CA","05000US06037","Programs for Foreign Lawyers","220202","Master's Degree","7",167
+2014,"Los Angeles County, CA","05000US06037","Legal Studies & Jurisprudence","220203","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","Comparative Law","220206","Master's Degree","7",3
+2013,"Los Angeles County, CA","05000US06037","Comparative Law","220206","Master's Degree","7",2
+2014,"Los Angeles County, CA","05000US06037","Comparative Law","220206","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","Other Legal Professions & Studies","229999","Master's Degree","7",28
+2013,"Los Angeles County, CA","05000US06037","Other Legal Professions & Studies","229999","Master's Degree","7",19
+2014,"Los Angeles County, CA","05000US06037","Other Legal Professions & Studies","229999","Master's Degree","7",24
+2015,"Los Angeles County, CA","05000US06037","General English Language & Literature","230101","Master's Degree","7",188
+2013,"Los Angeles County, CA","05000US06037","General English Language & Literature","230101","Master's Degree","7",172
+2014,"Los Angeles County, CA","05000US06037","General English Language & Literature","230101","Master's Degree","7",194
+2015,"Los Angeles County, CA","05000US06037","Creative Writing","231302","Master's Degree","7",137
+2013,"Los Angeles County, CA","05000US06037","Creative Writing","231302","Master's Degree","7",98
+2014,"Los Angeles County, CA","05000US06037","Creative Writing","231302","Master's Degree","7",91
+2013,"Los Angeles County, CA","05000US06037","Rhetoric & Composition","231304","Master's Degree","7",40
+2014,"Los Angeles County, CA","05000US06037","Rhetoric & Composition","231304","Master's Degree","7",40
+2015,"Los Angeles County, CA","05000US06037","Other English Language & Literature","239999","Master's Degree","7",2
+2013,"Los Angeles County, CA","05000US06037","Other English Language & Literature","239999","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Other English Language & Literature","239999","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","Liberal Arts & Sciences","240101","Master's Degree","7",6
+2013,"Los Angeles County, CA","05000US06037","Liberal Arts & Sciences","240101","Master's Degree","7",3
+2014,"Los Angeles County, CA","05000US06037","Liberal Arts & Sciences","240101","Master's Degree","7",9
+2015,"Los Angeles County, CA","05000US06037","Humanistic Studies","240103","Master's Degree","7",60
+2013,"Los Angeles County, CA","05000US06037","Humanistic Studies","240103","Master's Degree","7",99
+2014,"Los Angeles County, CA","05000US06037","Humanistic Studies","240103","Master's Degree","7",87
+2015,"Los Angeles County, CA","05000US06037","Library & Information Science","250101","Master's Degree","7",16
+2015,"Los Angeles County, CA","05000US06037","Other Library Science","259999","Master's Degree","7",40
+2013,"Los Angeles County, CA","05000US06037","Other Library Science","259999","Master's Degree","7",80
+2014,"Los Angeles County, CA","05000US06037","Other Library Science","259999","Master's Degree","7",40
+2015,"Los Angeles County, CA","05000US06037","General Biological Sciences","260101","Master's Degree","7",86
+2013,"Los Angeles County, CA","05000US06037","General Biological Sciences","260101","Master's Degree","7",108
+2014,"Los Angeles County, CA","05000US06037","General Biological Sciences","260101","Master's Degree","7",114
+2015,"Los Angeles County, CA","05000US06037","General Biomedical Sciences","260102","Master's Degree","7",5
+2015,"Los Angeles County, CA","05000US06037","Biochemistry","260202","Master's Degree","7",8
+2013,"Los Angeles County, CA","05000US06037","Biochemistry","260202","Master's Degree","7",16
+2014,"Los Angeles County, CA","05000US06037","Biochemistry","260202","Master's Degree","7",13
+2015,"Los Angeles County, CA","05000US06037","Biophysics","260203","Master's Degree","7",6
+2013,"Los Angeles County, CA","05000US06037","Biophysics","260203","Master's Degree","7",2
+2014,"Los Angeles County, CA","05000US06037","Biophysics","260203","Master's Degree","7",4
+2015,"Los Angeles County, CA","05000US06037","Molecular Biochemistry","260205","Master's Degree","7",4
+2013,"Los Angeles County, CA","05000US06037","Molecular Biochemistry","260205","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Molecular Biochemistry","260205","Master's Degree","7",8
+2015,"Los Angeles County, CA","05000US06037","Biochemistry & Molecular Biology","260210","Master's Degree","7",6
+2013,"Los Angeles County, CA","05000US06037","Biochemistry & Molecular Biology","260210","Master's Degree","7",12
+2014,"Los Angeles County, CA","05000US06037","Biochemistry & Molecular Biology","260210","Master's Degree","7",24
+2015,"Los Angeles County, CA","05000US06037","Botany & Plant Biology","260301","Master's Degree","7",4
+2013,"Los Angeles County, CA","05000US06037","Cellular & Molecular Biology","260406","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","Other Cellular Biology & Anatomical Sciences","260499","Master's Degree","7",22
+2015,"Los Angeles County, CA","05000US06037","General Microbiology","260502","Master's Degree","7",1
+2013,"Los Angeles County, CA","05000US06037","General Microbiology","260502","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","General Microbiology","260502","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","Microbiology & Immunology","260508","Master's Degree","7",15
+2013,"Los Angeles County, CA","05000US06037","Microbiology & Immunology","260508","Master's Degree","7",11
+2014,"Los Angeles County, CA","05000US06037","Microbiology & Immunology","260508","Master's Degree","7",7
+2015,"Los Angeles County, CA","05000US06037","Other Microbiological Science & Immunology","260599","Master's Degree","7",1
+2013,"Los Angeles County, CA","05000US06037","Other Microbiological Science & Immunology","260599","Master's Degree","7",3
+2014,"Los Angeles County, CA","05000US06037","Other Microbiological Science & Immunology","260599","Master's Degree","7",5
+2015,"Los Angeles County, CA","05000US06037","Molecular Genetics","260802","Master's Degree","7",4
+2014,"Los Angeles County, CA","05000US06037","Molecular Genetics","260802","Master's Degree","7",4
+2014,"Los Angeles County, CA","05000US06037","Human & Medical Genetics","260806","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","General Physiology","260901","Master's Degree","7",16
+2013,"Los Angeles County, CA","05000US06037","General Physiology","260901","Master's Degree","7",10
+2014,"Los Angeles County, CA","05000US06037","General Physiology","260901","Master's Degree","7",8
+2015,"Los Angeles County, CA","05000US06037","Pathology & Experimental Pathology","260910","Master's Degree","7",3
+2013,"Los Angeles County, CA","05000US06037","Pathology & Experimental Pathology","260910","Master's Degree","7",5
+2014,"Los Angeles County, CA","05000US06037","Pathology & Experimental Pathology","260910","Master's Degree","7",4
+2015,"Los Angeles County, CA","05000US06037","Molecular Pharmacology","261002","Master's Degree","7",3
+2013,"Los Angeles County, CA","05000US06037","Molecular Pharmacology","261002","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Molecular Pharmacology","261002","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","Biostatistics","261102","Master's Degree","7",25
+2013,"Los Angeles County, CA","05000US06037","Biostatistics","261102","Master's Degree","7",19
+2014,"Los Angeles County, CA","05000US06037","Biostatistics","261102","Master's Degree","7",14
+2015,"Los Angeles County, CA","05000US06037","Other Biomathematics, Bioinformatics, & Computational Biology","261199","Master's Degree","7",11
+2013,"Los Angeles County, CA","05000US06037","Other Biomathematics, Bioinformatics, & Computational Biology","261199","Master's Degree","7",6
+2014,"Los Angeles County, CA","05000US06037","Other Biomathematics, Bioinformatics, & Computational Biology","261199","Master's Degree","7",4
+2015,"Los Angeles County, CA","05000US06037","Biotechnology","261201","Master's Degree","7",2
+2013,"Los Angeles County, CA","05000US06037","Biotechnology","261201","Master's Degree","7",8
+2014,"Los Angeles County, CA","05000US06037","Biotechnology","261201","Master's Degree","7",9
+2015,"Los Angeles County, CA","05000US06037","Marine Biology & Biological Oceonography","261302","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Marine Biology & Biological Oceonography","261302","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","Epidemiology","261309","Master's Degree","7",1
+2013,"Los Angeles County, CA","05000US06037","Epidemiology","261309","Master's Degree","7",3
+2014,"Los Angeles County, CA","05000US06037","Epidemiology","261309","Master's Degree","7",5
+2015,"Los Angeles County, CA","05000US06037","Molecular Medicine","261401","Master's Degree","7",2
+2013,"Los Angeles County, CA","05000US06037","Molecular Medicine","261401","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","Neuroscience","261501","Master's Degree","7",1
+2013,"Los Angeles County, CA","05000US06037","Neuroscience","261501","Master's Degree","7",5
+2014,"Los Angeles County, CA","05000US06037","Neuroscience","261501","Master's Degree","7",6
+2014,"Los Angeles County, CA","05000US06037","Other Biological & Biomedical Sciences","269999","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","General Mathematics","270101","Master's Degree","7",134
+2013,"Los Angeles County, CA","05000US06037","General Mathematics","270101","Master's Degree","7",109
+2014,"Los Angeles County, CA","05000US06037","General Mathematics","270101","Master's Degree","7",130
+2015,"Los Angeles County, CA","05000US06037","General Applied Mathematics","270301","Master's Degree","7",12
+2013,"Los Angeles County, CA","05000US06037","General Applied Mathematics","270301","Master's Degree","7",2
+2014,"Los Angeles County, CA","05000US06037","General Applied Mathematics","270301","Master's Degree","7",7
+2014,"Los Angeles County, CA","05000US06037","Computational Mathematics","270303","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","Financial Mathematics","270305","Master's Degree","7",133
+2013,"Los Angeles County, CA","05000US06037","Financial Mathematics","270305","Master's Degree","7",98
+2014,"Los Angeles County, CA","05000US06037","Financial Mathematics","270305","Master's Degree","7",104
+2015,"Los Angeles County, CA","05000US06037","General Statistics","270501","Master's Degree","7",21
+2013,"Los Angeles County, CA","05000US06037","General Statistics","270501","Master's Degree","7",45
+2014,"Los Angeles County, CA","05000US06037","General Statistics","270501","Master's Degree","7",29
+2015,"Los Angeles County, CA","05000US06037","Other Statistics","270599","Master's Degree","7",15
+2013,"Los Angeles County, CA","05000US06037","Other Statistics","270599","Master's Degree","7",18
+2014,"Los Angeles County, CA","05000US06037","Other Statistics","270599","Master's Degree","7",28
+2015,"Los Angeles County, CA","05000US06037","Biological & Physical Sciences","300101","Master's Degree","7",64
+2013,"Los Angeles County, CA","05000US06037","Biological & Physical Sciences","300101","Master's Degree","7",75
+2014,"Los Angeles County, CA","05000US06037","Biological & Physical Sciences","300101","Master's Degree","7",75
+2015,"Los Angeles County, CA","05000US06037","Peace Studies & Conflict Resolution","300501","Master's Degree","7",56
+2013,"Los Angeles County, CA","05000US06037","Peace Studies & Conflict Resolution","300501","Master's Degree","7",71
+2014,"Los Angeles County, CA","05000US06037","Peace Studies & Conflict Resolution","300501","Master's Degree","7",40
+2015,"Los Angeles County, CA","05000US06037","Gerontology","301101","Master's Degree","7",95
+2013,"Los Angeles County, CA","05000US06037","Gerontology","301101","Master's Degree","7",71
+2014,"Los Angeles County, CA","05000US06037","Gerontology","301101","Master's Degree","7",93
+2015,"Los Angeles County, CA","05000US06037","Historic Preservation & Conservation","301201","Master's Degree","7",6
+2013,"Los Angeles County, CA","05000US06037","Historic Preservation & Conservation","301201","Master's Degree","7",7
+2014,"Los Angeles County, CA","05000US06037","Historic Preservation & Conservation","301201","Master's Degree","7",7
+2013,"Los Angeles County, CA","05000US06037","Behavioral Sciences","301701","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","International & Global Studies","302001","Master's Degree","7",19
+2013,"Los Angeles County, CA","05000US06037","International & Global Studies","302001","Master's Degree","7",27
+2014,"Los Angeles County, CA","05000US06037","International & Global Studies","302001","Master's Degree","7",28
+2015,"Los Angeles County, CA","05000US06037","Intercultural, Multicultural, & Diversity Studies","302301","Master's Degree","7",14
+2013,"Los Angeles County, CA","05000US06037","Intercultural, Multicultural, & Diversity Studies","302301","Master's Degree","7",10
+2014,"Los Angeles County, CA","05000US06037","Intercultural, Multicultural, & Diversity Studies","302301","Master's Degree","7",6
+2015,"Los Angeles County, CA","05000US06037","Dispute Resolution","302801","Master's Degree","7",60
+2013,"Los Angeles County, CA","05000US06037","Dispute Resolution","302801","Master's Degree","7",56
+2014,"Los Angeles County, CA","05000US06037","Dispute Resolution","302801","Master's Degree","7",53
+2014,"Los Angeles County, CA","05000US06037","Maritime Sciences","303201","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","Sustainability Studies","303301","Master's Degree","7",10
+2013,"Los Angeles County, CA","05000US06037","Sustainability Studies","303301","Master's Degree","7",8
+2014,"Los Angeles County, CA","05000US06037","Sustainability Studies","303301","Master's Degree","7",3
+2015,"Los Angeles County, CA","05000US06037","Other Multidisciplinary Studies","309999","Master's Degree","7",15
+2013,"Los Angeles County, CA","05000US06037","Other Multidisciplinary Studies","309999","Master's Degree","7",15
+2014,"Los Angeles County, CA","05000US06037","Other Multidisciplinary Studies","309999","Master's Degree","7",14
+2015,"Los Angeles County, CA","05000US06037","Parks, Recreation, & Leisure Studies","310101","Master's Degree","7",5
+2013,"Los Angeles County, CA","05000US06037","Parks, Recreation, & Leisure Studies","310101","Master's Degree","7",5
+2014,"Los Angeles County, CA","05000US06037","Parks, Recreation, & Leisure Studies","310101","Master's Degree","7",8
+2015,"Los Angeles County, CA","05000US06037","General Health & Physical Education","310501","Master's Degree","7",104
+2013,"Los Angeles County, CA","05000US06037","General Health & Physical Education","310501","Master's Degree","7",116
+2014,"Los Angeles County, CA","05000US06037","General Health & Physical Education","310501","Master's Degree","7",118
+2015,"Los Angeles County, CA","05000US06037","General Philosophy & Religious Studies","380001","Master's Degree","7",1
+2013,"Los Angeles County, CA","05000US06037","General Philosophy & Religious Studies","380001","Master's Degree","7",9
+2014,"Los Angeles County, CA","05000US06037","General Philosophy & Religious Studies","380001","Master's Degree","7",6
+2015,"Los Angeles County, CA","05000US06037","Philosophy","380101","Master's Degree","7",27
+2013,"Los Angeles County, CA","05000US06037","Philosophy","380101","Master's Degree","7",43
+2014,"Los Angeles County, CA","05000US06037","Philosophy","380101","Master's Degree","7",51
+2015,"Los Angeles County, CA","05000US06037","Religious Studies","380201","Master's Degree","7",36
+2013,"Los Angeles County, CA","05000US06037","Religious Studies","380201","Master's Degree","7",34
+2014,"Los Angeles County, CA","05000US06037","Religious Studies","380201","Master's Degree","7",40
+2015,"Los Angeles County, CA","05000US06037","Islamic Studies","380205","Master's Degree","7",7
+2013,"Los Angeles County, CA","05000US06037","Islamic Studies","380205","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Islamic Studies","380205","Master's Degree","7",3
+2015,"Los Angeles County, CA","05000US06037","Other Religious Studies","380299","Master's Degree","7",23
+2014,"Los Angeles County, CA","05000US06037","Other Religious Studies","380299","Master's Degree","7",13
+2015,"Los Angeles County, CA","05000US06037","Other Philosophy & Religious Studies","389999","Master's Degree","7",79
+2013,"Los Angeles County, CA","05000US06037","Other Philosophy & Religious Studies","389999","Master's Degree","7",75
+2014,"Los Angeles County, CA","05000US06037","Other Philosophy & Religious Studies","389999","Master's Degree","7",71
+2015,"Los Angeles County, CA","05000US06037","Biblical Studies","390201","Master's Degree","7",36
+2013,"Los Angeles County, CA","05000US06037","Biblical Studies","390201","Master's Degree","7",40
+2014,"Los Angeles County, CA","05000US06037","Biblical Studies","390201","Master's Degree","7",38
+2015,"Los Angeles County, CA","05000US06037","Missionary Studies & Missiology","390301","Master's Degree","7",96
+2013,"Los Angeles County, CA","05000US06037","Missionary Studies & Missiology","390301","Master's Degree","7",127
+2014,"Los Angeles County, CA","05000US06037","Missionary Studies & Missiology","390301","Master's Degree","7",116
+2015,"Los Angeles County, CA","05000US06037","Religious Education","390401","Master's Degree","7",29
+2013,"Los Angeles County, CA","05000US06037","Religious Education","390401","Master's Degree","7",32
+2014,"Los Angeles County, CA","05000US06037","Religious Education","390401","Master's Degree","7",31
+2015,"Los Angeles County, CA","05000US06037","Religious & Sacred Music","390501","Master's Degree","7",4
+2013,"Los Angeles County, CA","05000US06037","Religious & Sacred Music","390501","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Religious & Sacred Music","390501","Master's Degree","7",6
+2015,"Los Angeles County, CA","05000US06037","Theological Studies","390601","Master's Degree","7",157
+2013,"Los Angeles County, CA","05000US06037","Theological Studies","390601","Master's Degree","7",202
+2014,"Los Angeles County, CA","05000US06037","Theological Studies","390601","Master's Degree","7",182
+2015,"Los Angeles County, CA","05000US06037","Divinity & Ministry","390602","Master's Degree","7",392
+2013,"Los Angeles County, CA","05000US06037","Divinity & Ministry","390602","Master's Degree","7",409
+2014,"Los Angeles County, CA","05000US06037","Divinity & Ministry","390602","Master's Degree","7",345
+2015,"Los Angeles County, CA","05000US06037","Rabbinical Studies","390605","Master's Degree","7",19
+2013,"Los Angeles County, CA","05000US06037","Rabbinical Studies","390605","Master's Degree","7",16
+2014,"Los Angeles County, CA","05000US06037","Rabbinical Studies","390605","Master's Degree","7",18
+2015,"Los Angeles County, CA","05000US06037","Other Theological & Ministerial Studies","390699","Master's Degree","7",56
+2013,"Los Angeles County, CA","05000US06037","Other Theological & Ministerial Studies","390699","Master's Degree","7",66
+2014,"Los Angeles County, CA","05000US06037","Other Theological & Ministerial Studies","390699","Master's Degree","7",45
+2015,"Los Angeles County, CA","05000US06037","Pastoral Studies & Counseling","390701","Master's Degree","7",51
+2013,"Los Angeles County, CA","05000US06037","Pastoral Studies & Counseling","390701","Master's Degree","7",74
+2014,"Los Angeles County, CA","05000US06037","Pastoral Studies & Counseling","390701","Master's Degree","7",41
+2015,"Los Angeles County, CA","05000US06037","Other Pastoral Counseling & Specialized Ministries","390799","Master's Degree","7",9
+2014,"Los Angeles County, CA","05000US06037","Other Pastoral Counseling & Specialized Ministries","390799","Master's Degree","7",3
+2015,"Los Angeles County, CA","05000US06037","Other Theology & Religious Vocations","399999","Master's Degree","7",46
+2013,"Los Angeles County, CA","05000US06037","Other Theology & Religious Vocations","399999","Master's Degree","7",37
+2014,"Los Angeles County, CA","05000US06037","Other Theology & Religious Vocations","399999","Master's Degree","7",35
+2013,"Los Angeles County, CA","05000US06037","Astronomy","400201","Master's Degree","7",4
+2014,"Los Angeles County, CA","05000US06037","Astronomy","400201","Master's Degree","7",7
+2015,"Los Angeles County, CA","05000US06037","Astrophysics","400202","Master's Degree","7",3
+2013,"Los Angeles County, CA","05000US06037","Astrophysics","400202","Master's Degree","7",5
+2014,"Los Angeles County, CA","05000US06037","Astrophysics","400202","Master's Degree","7",6
+2015,"Los Angeles County, CA","05000US06037","Planetary Astronomy & Science","400203","Master's Degree","7",7
+2013,"Los Angeles County, CA","05000US06037","Planetary Astronomy & Science","400203","Master's Degree","7",2
+2014,"Los Angeles County, CA","05000US06037","Planetary Astronomy & Science","400203","Master's Degree","7",9
+2015,"Los Angeles County, CA","05000US06037","General Atmospheric Sciences & Meteorology","400401","Master's Degree","7",6
+2013,"Los Angeles County, CA","05000US06037","General Atmospheric Sciences & Meteorology","400401","Master's Degree","7",8
+2014,"Los Angeles County, CA","05000US06037","General Atmospheric Sciences & Meteorology","400401","Master's Degree","7",9
+2015,"Los Angeles County, CA","05000US06037","General Chemistry","400501","Master's Degree","7",55
+2013,"Los Angeles County, CA","05000US06037","General Chemistry","400501","Master's Degree","7",58
+2014,"Los Angeles County, CA","05000US06037","General Chemistry","400501","Master's Degree","7",76
+2015,"Los Angeles County, CA","05000US06037","General Geology & Earch Science","400601","Master's Degree","7",32
+2013,"Los Angeles County, CA","05000US06037","General Geology & Earch Science","400601","Master's Degree","7",23
+2014,"Los Angeles County, CA","05000US06037","General Geology & Earch Science","400601","Master's Degree","7",39
+2015,"Los Angeles County, CA","05000US06037","Geochemistry","400602","Master's Degree","7",2
+2013,"Los Angeles County, CA","05000US06037","Geochemistry","400602","Master's Degree","7",5
+2014,"Los Angeles County, CA","05000US06037","Geochemistry","400602","Master's Degree","7",5
+2015,"Los Angeles County, CA","05000US06037","Geophysics & Seismology","400603","Master's Degree","7",11
+2013,"Los Angeles County, CA","05000US06037","Geophysics & Seismology","400603","Master's Degree","7",2
+2014,"Los Angeles County, CA","05000US06037","Geophysics & Seismology","400603","Master's Degree","7",8
+2015,"Los Angeles County, CA","05000US06037","General Physics","400801","Master's Degree","7",66
+2013,"Los Angeles County, CA","05000US06037","General Physics","400801","Master's Degree","7",53
+2014,"Los Angeles County, CA","05000US06037","General Physics","400801","Master's Degree","7",42
+2015,"Los Angeles County, CA","05000US06037","Materials Science","401001","Master's Degree","7",5
+2013,"Los Angeles County, CA","05000US06037","Materials Science","401001","Master's Degree","7",5
+2014,"Los Angeles County, CA","05000US06037","Materials Science","401001","Master's Degree","7",10
+2015,"Los Angeles County, CA","05000US06037","General Psychology","420101","Master's Degree","7",528
+2013,"Los Angeles County, CA","05000US06037","General Psychology","420101","Master's Degree","7",366
+2014,"Los Angeles County, CA","05000US06037","General Psychology","420101","Master's Degree","7",604
+2015,"Los Angeles County, CA","05000US06037","Clinical Psychology","422801","Master's Degree","7",388
+2013,"Los Angeles County, CA","05000US06037","Clinical Psychology","422801","Master's Degree","7",505
+2014,"Los Angeles County, CA","05000US06037","Clinical Psychology","422801","Master's Degree","7",463
+2015,"Los Angeles County, CA","05000US06037","Counseling Psychology","422803","Master's Degree","7",108
+2013,"Los Angeles County, CA","05000US06037","Counseling Psychology","422803","Master's Degree","7",136
+2014,"Los Angeles County, CA","05000US06037","Counseling Psychology","422803","Master's Degree","7",97
+2015,"Los Angeles County, CA","05000US06037","Industrial & Organizational Psychology","422804","Master's Degree","7",81
+2013,"Los Angeles County, CA","05000US06037","Industrial & Organizational Psychology","422804","Master's Degree","7",14
+2014,"Los Angeles County, CA","05000US06037","Industrial & Organizational Psychology","422804","Master's Degree","7",62
+2015,"Los Angeles County, CA","05000US06037","School Psychology","422805","Master's Degree","7",24
+2013,"Los Angeles County, CA","05000US06037","School Psychology","422805","Master's Degree","7",15
+2014,"Los Angeles County, CA","05000US06037","School Psychology","422805","Master's Degree","7",12
+2015,"Los Angeles County, CA","05000US06037","Educational Psychology","422806","Master's Degree","7",17
+2013,"Los Angeles County, CA","05000US06037","Educational Psychology","422806","Master's Degree","7",20
+2014,"Los Angeles County, CA","05000US06037","Educational Psychology","422806","Master's Degree","7",30
+2013,"Los Angeles County, CA","05000US06037","Health & Medical Psychology","422810","Master's Degree","7",31
+2014,"Los Angeles County, CA","05000US06037","Health & Medical Psychology","422810","Master's Degree","7",5
+2015,"Los Angeles County, CA","05000US06037","Forensic Psychology","422812","Master's Degree","7",109
+2014,"Los Angeles County, CA","05000US06037","Forensic Psychology","422812","Master's Degree","7",104
+2015,"Los Angeles County, CA","05000US06037","Applied Psychology","422813","Master's Degree","7",32
+2013,"Los Angeles County, CA","05000US06037","Applied Psychology","422813","Master's Degree","7",16
+2014,"Los Angeles County, CA","05000US06037","Applied Psychology","422813","Master's Degree","7",43
+2015,"Los Angeles County, CA","05000US06037","Applied Behavior Analysis","422814","Master's Degree","7",29
+2013,"Los Angeles County, CA","05000US06037","Applied Behavior Analysis","422814","Master's Degree","7",25
+2014,"Los Angeles County, CA","05000US06037","Applied Behavior Analysis","422814","Master's Degree","7",23
+2013,"Los Angeles County, CA","05000US06037","Other Clinical, Counseling, & Applied Psychology","422899","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Other Clinical, Counseling, & Applied Psychology","422899","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","Other Psychology","429999","Master's Degree","7",127
+2013,"Los Angeles County, CA","05000US06037","Other Psychology","429999","Master's Degree","7",101
+2014,"Los Angeles County, CA","05000US06037","Other Psychology","429999","Master's Degree","7",95
+2015,"Los Angeles County, CA","05000US06037","Criminal Justice - Law Enforcement Administration","430103","Master's Degree","7",6
+2013,"Los Angeles County, CA","05000US06037","Criminal Justice - Law Enforcement Administration","430103","Master's Degree","7",3
+2014,"Los Angeles County, CA","05000US06037","Criminal Justice - Law Enforcement Administration","430103","Master's Degree","7",7
+2015,"Los Angeles County, CA","05000US06037","Criminal Justice - Safety Studies","430104","Master's Degree","7",7
+2013,"Los Angeles County, CA","05000US06037","Criminal Justice - Safety Studies","430104","Master's Degree","7",10
+2014,"Los Angeles County, CA","05000US06037","Criminal Justice - Safety Studies","430104","Master's Degree","7",9
+2015,"Los Angeles County, CA","05000US06037","Forensic Science & Technology","430106","Master's Degree","7",5
+2013,"Los Angeles County, CA","05000US06037","Forensic Science & Technology","430106","Master's Degree","7",14
+2014,"Los Angeles County, CA","05000US06037","Forensic Science & Technology","430106","Master's Degree","7",18
+2015,"Los Angeles County, CA","05000US06037","Other Homeland Security, Law Enforcement, Firefighting, & Related Protective Services","439999","Master's Degree","7",16
+2013,"Los Angeles County, CA","05000US06037","Other Homeland Security, Law Enforcement, Firefighting, & Related Protective Services","439999","Master's Degree","7",11
+2014,"Los Angeles County, CA","05000US06037","Other Homeland Security, Law Enforcement, Firefighting, & Related Protective Services","439999","Master's Degree","7",20
+2015,"Los Angeles County, CA","05000US06037","Public Administration","440401","Master's Degree","7",685
+2013,"Los Angeles County, CA","05000US06037","Public Administration","440401","Master's Degree","7",659
+2014,"Los Angeles County, CA","05000US06037","Public Administration","440401","Master's Degree","7",767
+2015,"Los Angeles County, CA","05000US06037","General Public Policy Analysis","440501","Master's Degree","7",229
+2013,"Los Angeles County, CA","05000US06037","General Public Policy Analysis","440501","Master's Degree","7",210
+2014,"Los Angeles County, CA","05000US06037","General Public Policy Analysis","440501","Master's Degree","7",232
+2015,"Los Angeles County, CA","05000US06037","Other Public Policy Analysis","440599","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","Social Work","440701","Master's Degree","7",2135
+2013,"Los Angeles County, CA","05000US06037","Social Work","440701","Master's Degree","7",1459
+2014,"Los Angeles County, CA","05000US06037","Social Work","440701","Master's Degree","7",1944
+2015,"Los Angeles County, CA","05000US06037","Other Public Administration & Social Service Professions","449999","Master's Degree","7",24
+2013,"Los Angeles County, CA","05000US06037","Other Public Administration & Social Service Professions","449999","Master's Degree","7",28
+2014,"Los Angeles County, CA","05000US06037","Other Public Administration & Social Service Professions","449999","Master's Degree","7",24
+2015,"Los Angeles County, CA","05000US06037","General Social Sciences","450101","Master's Degree","7",4
+2013,"Los Angeles County, CA","05000US06037","General Social Sciences","450101","Master's Degree","7",5
+2014,"Los Angeles County, CA","05000US06037","General Social Sciences","450101","Master's Degree","7",7
+2015,"Los Angeles County, CA","05000US06037","Anthropology","450201","Master's Degree","7",47
+2013,"Los Angeles County, CA","05000US06037","Anthropology","450201","Master's Degree","7",44
+2014,"Los Angeles County, CA","05000US06037","Anthropology","450201","Master's Degree","7",62
+2015,"Los Angeles County, CA","05000US06037","Archeology","450301","Master's Degree","7",2
+2013,"Los Angeles County, CA","05000US06037","Archeology","450301","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Archeology","450301","Master's Degree","7",11
+2015,"Los Angeles County, CA","05000US06037","Demography & Population Studies","450501","Master's Degree","7",4
+2013,"Los Angeles County, CA","05000US06037","Demography & Population Studies","450501","Master's Degree","7",4
+2014,"Los Angeles County, CA","05000US06037","Demography & Population Studies","450501","Master's Degree","7",6
+2015,"Los Angeles County, CA","05000US06037","General Economics","450601","Master's Degree","7",161
+2013,"Los Angeles County, CA","05000US06037","General Economics","450601","Master's Degree","7",111
+2014,"Los Angeles County, CA","05000US06037","General Economics","450601","Master's Degree","7",117
+2015,"Los Angeles County, CA","05000US06037","Developmental Economics & International Development","450604","Master's Degree","7",7
+2013,"Los Angeles County, CA","05000US06037","Developmental Economics & International Development","450604","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Developmental Economics & International Development","450604","Master's Degree","7",1
+2013,"Los Angeles County, CA","05000US06037","International Economics","450605","Master's Degree","7",3
+2015,"Los Angeles County, CA","05000US06037","Geography","450701","Master's Degree","7",29
+2013,"Los Angeles County, CA","05000US06037","Geography","450701","Master's Degree","7",21
+2014,"Los Angeles County, CA","05000US06037","Geography","450701","Master's Degree","7",29
+2015,"Los Angeles County, CA","05000US06037","Geographic Information Science & Cartography","450702","Master's Degree","7",63
+2013,"Los Angeles County, CA","05000US06037","Geographic Information Science & Cartography","450702","Master's Degree","7",20
+2014,"Los Angeles County, CA","05000US06037","Geographic Information Science & Cartography","450702","Master's Degree","7",21
+2015,"Los Angeles County, CA","05000US06037","International Relations & Affairs","450901","Master's Degree","7",6
+2013,"Los Angeles County, CA","05000US06037","International Relations & Affairs","450901","Master's Degree","7",8
+2014,"Los Angeles County, CA","05000US06037","International Relations & Affairs","450901","Master's Degree","7",13
+2015,"Los Angeles County, CA","05000US06037","General Political Science & Government","451001","Master's Degree","7",30
+2013,"Los Angeles County, CA","05000US06037","General Political Science & Government","451001","Master's Degree","7",57
+2014,"Los Angeles County, CA","05000US06037","General Political Science & Government","451001","Master's Degree","7",46
+2013,"Los Angeles County, CA","05000US06037","Political Economy","451004","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","Sociology","451101","Master's Degree","7",55
+2013,"Los Angeles County, CA","05000US06037","Sociology","451101","Master's Degree","7",62
+2014,"Los Angeles County, CA","05000US06037","Sociology","451101","Master's Degree","7",45
+2015,"Los Angeles County, CA","05000US06037","Other Social Sciences","459999","Master's Degree","7",81
+2013,"Los Angeles County, CA","05000US06037","Other Social Sciences","459999","Master's Degree","7",71
+2014,"Los Angeles County, CA","05000US06037","Other Social Sciences","459999","Master's Degree","7",80
+2015,"Los Angeles County, CA","05000US06037","General Visual & Performing Arts","500101","Master's Degree","7",10
+2013,"Los Angeles County, CA","05000US06037","General Visual & Performing Arts","500101","Master's Degree","7",21
+2014,"Los Angeles County, CA","05000US06037","General Visual & Performing Arts","500101","Master's Degree","7",20
+2015,"Los Angeles County, CA","05000US06037","Digital Arts","500102","Master's Degree","7",17
+2013,"Los Angeles County, CA","05000US06037","Digital Arts","500102","Master's Degree","7",15
+2014,"Los Angeles County, CA","05000US06037","Digital Arts","500102","Master's Degree","7",20
+2015,"Los Angeles County, CA","05000US06037","General Dance","500301","Master's Degree","7",6
+2013,"Los Angeles County, CA","05000US06037","General Dance","500301","Master's Degree","7",10
+2014,"Los Angeles County, CA","05000US06037","General Dance","500301","Master's Degree","7",22
+2013,"Los Angeles County, CA","05000US06037","General Design & Visual Communications","500401","Master's Degree","7",12
+2013,"Los Angeles County, CA","05000US06037","Industrial & Product Design","500404","Master's Degree","7",15
+2014,"Los Angeles County, CA","05000US06037","Industrial & Product Design","500404","Master's Degree","7",14
+2014,"Los Angeles County, CA","05000US06037","Interior Design","500408","Master's Degree","7",10
+2015,"Los Angeles County, CA","05000US06037","Graphic Design","500409","Master's Degree","7",9
+2013,"Los Angeles County, CA","05000US06037","Graphic Design","500409","Master's Degree","7",11
+2014,"Los Angeles County, CA","05000US06037","Graphic Design","500409","Master's Degree","7",21
+2015,"Los Angeles County, CA","05000US06037","Game & Interactive Media Design","500411","Master's Degree","7",12
+2013,"Los Angeles County, CA","05000US06037","Game & Interactive Media Design","500411","Master's Degree","7",6
+2014,"Los Angeles County, CA","05000US06037","Game & Interactive Media Design","500411","Master's Degree","7",20
+2015,"Los Angeles County, CA","05000US06037","Other Design & Applied Arts","500499","Master's Degree","7",11
+2013,"Los Angeles County, CA","05000US06037","Other Design & Applied Arts","500499","Master's Degree","7",25
+2014,"Los Angeles County, CA","05000US06037","Other Design & Applied Arts","500499","Master's Degree","7",9
+2015,"Los Angeles County, CA","05000US06037","General Drama & Theater Arts","500501","Master's Degree","7",20
+2013,"Los Angeles County, CA","05000US06037","General Drama & Theater Arts","500501","Master's Degree","7",43
+2014,"Los Angeles County, CA","05000US06037","General Drama & Theater Arts","500501","Master's Degree","7",26
+2015,"Los Angeles County, CA","05000US06037","Technical Theatre Design & Technology","500502","Master's Degree","7",10
+2013,"Los Angeles County, CA","05000US06037","Technical Theatre Design & Technology","500502","Master's Degree","7",30
+2014,"Los Angeles County, CA","05000US06037","Technical Theatre Design & Technology","500502","Master's Degree","7",10
+2015,"Los Angeles County, CA","05000US06037","Playwriting & Screenwriting","500504","Master's Degree","7",91
+2013,"Los Angeles County, CA","05000US06037","Playwriting & Screenwriting","500504","Master's Degree","7",86
+2014,"Los Angeles County, CA","05000US06037","Playwriting & Screenwriting","500504","Master's Degree","7",51
+2015,"Los Angeles County, CA","05000US06037","Acting","500506","Master's Degree","7",107
+2013,"Los Angeles County, CA","05000US06037","Acting","500506","Master's Degree","7",74
+2014,"Los Angeles County, CA","05000US06037","Acting","500506","Master's Degree","7",99
+2015,"Los Angeles County, CA","05000US06037","Directing & Theatrical Production","500507","Master's Degree","7",3
+2013,"Los Angeles County, CA","05000US06037","Directing & Theatrical Production","500507","Master's Degree","7",4
+2014,"Los Angeles County, CA","05000US06037","Directing & Theatrical Production","500507","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","Costume Design","500510","Master's Degree","7",2
+2014,"Los Angeles County, CA","05000US06037","Costume Design","500510","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","Other Dramatic Arts & Stagecraft","500599","Master's Degree","7",3
+2013,"Los Angeles County, CA","05000US06037","Other Dramatic Arts & Stagecraft","500599","Master's Degree","7",10
+2014,"Los Angeles County, CA","05000US06037","Other Dramatic Arts & Stagecraft","500599","Master's Degree","7",9
+2015,"Los Angeles County, CA","05000US06037","Film, Cinema, & Video Studies","500601","Master's Degree","7",235
+2013,"Los Angeles County, CA","05000US06037","Film, Cinema, & Video Studies","500601","Master's Degree","7",267
+2014,"Los Angeles County, CA","05000US06037","Film, Cinema, & Video Studies","500601","Master's Degree","7",216
+2015,"Los Angeles County, CA","05000US06037","Cinematography & Film Production","500602","Master's Degree","7",305
+2013,"Los Angeles County, CA","05000US06037","Cinematography & Film Production","500602","Master's Degree","7",236
+2014,"Los Angeles County, CA","05000US06037","Cinematography & Film Production","500602","Master's Degree","7",243
+2015,"Los Angeles County, CA","05000US06037","Photography","500605","Master's Degree","7",21
+2013,"Los Angeles County, CA","05000US06037","Photography","500605","Master's Degree","7",9
+2014,"Los Angeles County, CA","05000US06037","Photography","500605","Master's Degree","7",12
+2015,"Los Angeles County, CA","05000US06037","Other Film & Photographic Arts","500699","Master's Degree","7",8
+2013,"Los Angeles County, CA","05000US06037","Other Film & Photographic Arts","500699","Master's Degree","7",118
+2014,"Los Angeles County, CA","05000US06037","Other Film & Photographic Arts","500699","Master's Degree","7",120
+2015,"Los Angeles County, CA","05000US06037","General Art Studies","500701","Master's Degree","7",64
+2013,"Los Angeles County, CA","05000US06037","General Art Studies","500701","Master's Degree","7",68
+2014,"Los Angeles County, CA","05000US06037","General Art Studies","500701","Master's Degree","7",49
+2015,"Los Angeles County, CA","05000US06037","General Fine Studio Arts","500702","Master's Degree","7",106
+2013,"Los Angeles County, CA","05000US06037","General Fine Studio Arts","500702","Master's Degree","7",96
+2014,"Los Angeles County, CA","05000US06037","General Fine Studio Arts","500702","Master's Degree","7",96
+2015,"Los Angeles County, CA","05000US06037","Art History, Criticism, & Conservation","500703","Master's Degree","7",3
+2013,"Los Angeles County, CA","05000US06037","Art History, Criticism, & Conservation","500703","Master's Degree","7",8
+2014,"Los Angeles County, CA","05000US06037","Art History, Criticism, & Conservation","500703","Master's Degree","7",9
+2014,"Los Angeles County, CA","05000US06037","Multimedia","500706","Master's Degree","7",17
+2015,"Los Angeles County, CA","05000US06037","Other Fine Arts & Art Studies","500799","Master's Degree","7",14
+2013,"Los Angeles County, CA","05000US06037","Other Fine Arts & Art Studies","500799","Master's Degree","7",18
+2014,"Los Angeles County, CA","05000US06037","Other Fine Arts & Art Studies","500799","Master's Degree","7",14
+2015,"Los Angeles County, CA","05000US06037","General Music","500901","Master's Degree","7",44
+2013,"Los Angeles County, CA","05000US06037","General Music","500901","Master's Degree","7",60
+2014,"Los Angeles County, CA","05000US06037","General Music","500901","Master's Degree","7",59
+2015,"Los Angeles County, CA","05000US06037","Music History, Literature, & Theory","500902","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Music History, Literature, & Theory","500902","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","General Music Performance","500903","Master's Degree","7",69
+2013,"Los Angeles County, CA","05000US06037","General Music Performance","500903","Master's Degree","7",75
+2014,"Los Angeles County, CA","05000US06037","General Music Performance","500903","Master's Degree","7",89
+2015,"Los Angeles County, CA","05000US06037","Music Theory & Composition","500904","Master's Degree","7",12
+2013,"Los Angeles County, CA","05000US06037","Music Theory & Composition","500904","Master's Degree","7",18
+2014,"Los Angeles County, CA","05000US06037","Music Theory & Composition","500904","Master's Degree","7",19
+2015,"Los Angeles County, CA","05000US06037","Musicology & Ethnomusicology","500905","Master's Degree","7",5
+2013,"Los Angeles County, CA","05000US06037","Musicology & Ethnomusicology","500905","Master's Degree","7",14
+2014,"Los Angeles County, CA","05000US06037","Musicology & Ethnomusicology","500905","Master's Degree","7",9
+2013,"Los Angeles County, CA","05000US06037","Conducting","500906","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","Keyboard Instruments","500907","Master's Degree","7",7
+2013,"Los Angeles County, CA","05000US06037","Keyboard Instruments","500907","Master's Degree","7",4
+2014,"Los Angeles County, CA","05000US06037","Keyboard Instruments","500907","Master's Degree","7",12
+2015,"Los Angeles County, CA","05000US06037","Voice & Opera","500908","Master's Degree","7",10
+2013,"Los Angeles County, CA","05000US06037","Voice & Opera","500908","Master's Degree","7",15
+2014,"Los Angeles County, CA","05000US06037","Voice & Opera","500908","Master's Degree","7",14
+2015,"Los Angeles County, CA","05000US06037","Jazz & Jazz Studies","500910","Master's Degree","7",15
+2013,"Los Angeles County, CA","05000US06037","Jazz & Jazz Studies","500910","Master's Degree","7",11
+2014,"Los Angeles County, CA","05000US06037","Jazz & Jazz Studies","500910","Master's Degree","7",12
+2015,"Los Angeles County, CA","05000US06037","Stringed Instruments","500911","Master's Degree","7",12
+2013,"Los Angeles County, CA","05000US06037","Stringed Instruments","500911","Master's Degree","7",15
+2014,"Los Angeles County, CA","05000US06037","Stringed Instruments","500911","Master's Degree","7",9
+2015,"Los Angeles County, CA","05000US06037","Music Pedagogy","500912","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Music Pedagogy","500912","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","Music Technology","500913","Master's Degree","7",3
+2013,"Los Angeles County, CA","05000US06037","Music Technology","500913","Master's Degree","7",3
+2014,"Los Angeles County, CA","05000US06037","Music Technology","500913","Master's Degree","7",6
+2015,"Los Angeles County, CA","05000US06037","Brass Instruments","500914","Master's Degree","7",8
+2013,"Los Angeles County, CA","05000US06037","Brass Instruments","500914","Master's Degree","7",9
+2014,"Los Angeles County, CA","05000US06037","Brass Instruments","500914","Master's Degree","7",3
+2015,"Los Angeles County, CA","05000US06037","Woodwind Instruments","500915","Master's Degree","7",9
+2013,"Los Angeles County, CA","05000US06037","Woodwind Instruments","500915","Master's Degree","7",13
+2014,"Los Angeles County, CA","05000US06037","Woodwind Instruments","500915","Master's Degree","7",10
+2015,"Los Angeles County, CA","05000US06037","Percussion Instruments","500916","Master's Degree","7",1
+2013,"Los Angeles County, CA","05000US06037","Percussion Instruments","500916","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Percussion Instruments","500916","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","Other Music","500999","Master's Degree","7",20
+2014,"Los Angeles County, CA","05000US06037","Other Music","500999","Master's Degree","7",24
+2015,"Los Angeles County, CA","05000US06037","Fine & Studio Arts Management","501002","Master's Degree","7",11
+2013,"Los Angeles County, CA","05000US06037","Fine & Studio Arts Management","501002","Master's Degree","7",32
+2014,"Los Angeles County, CA","05000US06037","Fine & Studio Arts Management","501002","Master's Degree","7",17
+2015,"Los Angeles County, CA","05000US06037","Theatre Arts Management","501004","Master's Degree","7",9
+2013,"Los Angeles County, CA","05000US06037","Theatre Arts Management","501004","Master's Degree","7",3
+2014,"Los Angeles County, CA","05000US06037","Theatre Arts Management","501004","Master's Degree","7",10
+2015,"Los Angeles County, CA","05000US06037","Other Visual & Performing Arts","509999","Master's Degree","7",2
+2013,"Los Angeles County, CA","05000US06037","Other Visual & Performing Arts","509999","Master's Degree","7",21
+2014,"Los Angeles County, CA","05000US06037","Other Visual & Performing Arts","509999","Master's Degree","7",3
+2015,"Los Angeles County, CA","05000US06037","General Health Services","510000","Master's Degree","7",22
+2013,"Los Angeles County, CA","05000US06037","General Health Services","510000","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","General Health Services","510000","Master's Degree","7",16
+2015,"Los Angeles County, CA","05000US06037","General Communication Sciences & Disorders","510201","Master's Degree","7",111
+2013,"Los Angeles County, CA","05000US06037","General Communication Sciences & Disorders","510201","Master's Degree","7",147
+2014,"Los Angeles County, CA","05000US06037","General Communication Sciences & Disorders","510201","Master's Degree","7",114
+2015,"Los Angeles County, CA","05000US06037","Speech-Language Pathology","510203","Master's Degree","7",37
+2014,"Los Angeles County, CA","05000US06037","Speech-Language Pathology","510203","Master's Degree","7",12
+2015,"Los Angeles County, CA","05000US06037","Oral Biology & Maxillofacial Pathology","510503","Master's Degree","7",16
+2013,"Los Angeles County, CA","05000US06037","Oral Biology & Maxillofacial Pathology","510503","Master's Degree","7",19
+2014,"Los Angeles County, CA","05000US06037","Oral Biology & Maxillofacial Pathology","510503","Master's Degree","7",16
+2015,"Los Angeles County, CA","05000US06037","Other Graduate Dentistry & Oral Sciences","510599","Master's Degree","7",10
+2013,"Los Angeles County, CA","05000US06037","Other Graduate Dentistry & Oral Sciences","510599","Master's Degree","7",10
+2014,"Los Angeles County, CA","05000US06037","Other Graduate Dentistry & Oral Sciences","510599","Master's Degree","7",11
+2015,"Los Angeles County, CA","05000US06037","Dental Hygiene","510602","Master's Degree","7",5
+2015,"Los Angeles County, CA","05000US06037","Health Care Administration & Management","510701","Master's Degree","7",283
+2013,"Los Angeles County, CA","05000US06037","Health Care Administration & Management","510701","Master's Degree","7",240
+2014,"Los Angeles County, CA","05000US06037","Health Care Administration & Management","510701","Master's Degree","7",217
+2013,"Los Angeles County, CA","05000US06037","Hospital & Health Care Facilities Management","510702","Master's Degree","7",7
+2014,"Los Angeles County, CA","05000US06037","Long Term Care Management","510718","Master's Degree","7",2
+2013,"Los Angeles County, CA","05000US06037","Clinical Research Coordinator","510719","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Clinical Research Coordinator","510719","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","Physician Assistant","510912","Master's Degree","7",145
+2013,"Los Angeles County, CA","05000US06037","Physician Assistant","510912","Master's Degree","7",147
+2014,"Los Angeles County, CA","05000US06037","Physician Assistant","510912","Master's Degree","7",145
+2015,"Los Angeles County, CA","05000US06037","Other Health Preparatory Programs","511199","Master's Degree","7",33
+2013,"Los Angeles County, CA","05000US06037","Other Health Preparatory Programs","511199","Master's Degree","7",36
+2014,"Los Angeles County, CA","05000US06037","Other Health Preparatory Programs","511199","Master's Degree","7",29
+2015,"Los Angeles County, CA","05000US06037","Medical Scientist","511401","Master's Degree","7",17
+2013,"Los Angeles County, CA","05000US06037","Medical Scientist","511401","Master's Degree","7",12
+2014,"Los Angeles County, CA","05000US06037","Medical Scientist","511401","Master's Degree","7",21
+2015,"Los Angeles County, CA","05000US06037","Marriage & Family Therapy","511505","Master's Degree","7",261
+2013,"Los Angeles County, CA","05000US06037","Marriage & Family Therapy","511505","Master's Degree","7",202
+2014,"Los Angeles County, CA","05000US06037","Marriage & Family Therapy","511505","Master's Degree","7",221
+2013,"Los Angeles County, CA","05000US06037","Mental Health Counseling","511508","Master's Degree","7",18
+2014,"Los Angeles County, CA","05000US06037","Mental Health Counseling","511508","Master's Degree","7",29
+2015,"Los Angeles County, CA","05000US06037","Pharmacy Administration & Pharmacy Policy","512002","Master's Degree","7",38
+2013,"Los Angeles County, CA","05000US06037","Pharmacy Administration & Pharmacy Policy","512002","Master's Degree","7",34
+2014,"Los Angeles County, CA","05000US06037","Pharmacy Administration & Pharmacy Policy","512002","Master's Degree","7",36
+2015,"Los Angeles County, CA","05000US06037","Clinical & Industrial Drug Development","512006","Master's Degree","7",8
+2013,"Los Angeles County, CA","05000US06037","Clinical & Industrial Drug Development","512006","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Clinical & Industrial Drug Development","512006","Master's Degree","7",5
+2015,"Los Angeles County, CA","05000US06037","Pharmacoeconomics","512007","Master's Degree","7",3
+2014,"Los Angeles County, CA","05000US06037","Pharmacoeconomics","512007","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","Pharmaceutical Sciences","512010","Master's Degree","7",9
+2013,"Los Angeles County, CA","05000US06037","Pharmaceutical Sciences","512010","Master's Degree","7",13
+2014,"Los Angeles County, CA","05000US06037","Pharmaceutical Sciences","512010","Master's Degree","7",16
+2015,"Los Angeles County, CA","05000US06037","General Public Health","512201","Master's Degree","7",214
+2013,"Los Angeles County, CA","05000US06037","General Public Health","512201","Master's Degree","7",153
+2014,"Los Angeles County, CA","05000US06037","General Public Health","512201","Master's Degree","7",183
+2015,"Los Angeles County, CA","05000US06037","Environmental Health","512202","Master's Degree","7",14
+2013,"Los Angeles County, CA","05000US06037","Environmental Health","512202","Master's Degree","7",27
+2014,"Los Angeles County, CA","05000US06037","Environmental Health","512202","Master's Degree","7",17
+2013,"Los Angeles County, CA","05000US06037","Public Health Education & Promotion","512207","Master's Degree","7",20
+2015,"Los Angeles County, CA","05000US06037","Community Health & Preventative Medicine","512208","Master's Degree","7",3
+2015,"Los Angeles County, CA","05000US06037","International Public Health","512210","Master's Degree","7",73
+2013,"Los Angeles County, CA","05000US06037","International Public Health","512210","Master's Degree","7",82
+2014,"Los Angeles County, CA","05000US06037","International Public Health","512210","Master's Degree","7",106
+2015,"Los Angeles County, CA","05000US06037","Health Services Administration","512211","Master's Degree","7",2
+2013,"Los Angeles County, CA","05000US06037","Health Services Administration","512211","Master's Degree","7",9
+2014,"Los Angeles County, CA","05000US06037","Health Services Administration","512211","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","Other Public Health","512299","Master's Degree","7",168
+2013,"Los Angeles County, CA","05000US06037","Other Public Health","512299","Master's Degree","7",163
+2014,"Los Angeles County, CA","05000US06037","Other Public Health","512299","Master's Degree","7",166
+2015,"Los Angeles County, CA","05000US06037","Art Therapy","512301","Master's Degree","7",15
+2015,"Los Angeles County, CA","05000US06037","Occupational Therapy","512306","Master's Degree","7",179
+2013,"Los Angeles County, CA","05000US06037","Occupational Therapy","512306","Master's Degree","7",174
+2014,"Los Angeles County, CA","05000US06037","Occupational Therapy","512306","Master's Degree","7",183
+2015,"Los Angeles County, CA","05000US06037","Physical Therapy","512308","Master's Degree","7",22
+2013,"Los Angeles County, CA","05000US06037","Physical Therapy","512308","Master's Degree","7",66
+2014,"Los Angeles County, CA","05000US06037","Physical Therapy","512308","Master's Degree","7",57
+2014,"Los Angeles County, CA","05000US06037","Augmentative Technology & Rehabilitation Engineering","512312","Master's Degree","7",10
+2015,"Los Angeles County, CA","05000US06037","Rehabilitation Science","512314","Master's Degree","7",26
+2013,"Los Angeles County, CA","05000US06037","Rehabilitation Science","512314","Master's Degree","7",13
+2015,"Los Angeles County, CA","05000US06037","Dietetics","513101","Master's Degree","7",40
+2013,"Los Angeles County, CA","05000US06037","Dietetics","513101","Master's Degree","7",71
+2014,"Los Angeles County, CA","05000US06037","Dietetics","513101","Master's Degree","7",62
+2015,"Los Angeles County, CA","05000US06037","Bioethics & Medical Ethics","513201","Master's Degree","7",2
+2013,"Los Angeles County, CA","05000US06037","Bioethics & Medical Ethics","513201","Master's Degree","7",6
+2014,"Los Angeles County, CA","05000US06037","Bioethics & Medical Ethics","513201","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","Acupuncture & Oriental Medicine","513301","Master's Degree","7",108
+2013,"Los Angeles County, CA","05000US06037","Acupuncture & Oriental Medicine","513301","Master's Degree","7",162
+2014,"Los Angeles County, CA","05000US06037","Acupuncture & Oriental Medicine","513301","Master's Degree","7",117
+2015,"Los Angeles County, CA","05000US06037","Traditional Chinese Medicine & Chinese Herbology","513302","Master's Degree","7",66
+2013,"Los Angeles County, CA","05000US06037","Traditional Chinese Medicine & Chinese Herbology","513302","Master's Degree","7",71
+2014,"Los Angeles County, CA","05000US06037","Traditional Chinese Medicine & Chinese Herbology","513302","Master's Degree","7",63
+2015,"Los Angeles County, CA","05000US06037","Yoga Teacher Training","513602","Master's Degree","7",9
+2015,"Los Angeles County, CA","05000US06037","Registered Nursing","513801","Master's Degree","7",515
+2013,"Los Angeles County, CA","05000US06037","Registered Nursing","513801","Master's Degree","7",434
+2014,"Los Angeles County, CA","05000US06037","Registered Nursing","513801","Master's Degree","7",484
+2015,"Los Angeles County, CA","05000US06037","Nursing Administration","513802","Master's Degree","7",33
+2013,"Los Angeles County, CA","05000US06037","Nursing Administration","513802","Master's Degree","7",58
+2014,"Los Angeles County, CA","05000US06037","Nursing Administration","513802","Master's Degree","7",6
+2015,"Los Angeles County, CA","05000US06037","Nurse Anesthetist","513804","Master's Degree","7",16
+2013,"Los Angeles County, CA","05000US06037","Nurse Anesthetist","513804","Master's Degree","7",16
+2014,"Los Angeles County, CA","05000US06037","Nurse Anesthetist","513804","Master's Degree","7",15
+2015,"Los Angeles County, CA","05000US06037","Family Practice Nurse","513805","Master's Degree","7",93
+2014,"Los Angeles County, CA","05000US06037","Family Practice Nurse","513805","Master's Degree","7",118
+2015,"Los Angeles County, CA","05000US06037","Public Health Nurse","513811","Master's Degree","7",11
+2013,"Los Angeles County, CA","05000US06037","Public Health Nurse","513811","Master's Degree","7",7
+2014,"Los Angeles County, CA","05000US06037","Public Health Nurse","513811","Master's Degree","7",9
+2015,"Los Angeles County, CA","05000US06037","Clinical Nurse Specialist","513813","Master's Degree","7",5
+2013,"Los Angeles County, CA","05000US06037","Clinical Nurse Specialist","513813","Master's Degree","7",7
+2014,"Los Angeles County, CA","05000US06037","Clinical Nurse Specialist","513813","Master's Degree","7",7
+2015,"Los Angeles County, CA","05000US06037","Nurse Education","513817","Master's Degree","7",5
+2013,"Los Angeles County, CA","05000US06037","Nurse Education","513817","Master's Degree","7",9
+2014,"Los Angeles County, CA","05000US06037","Nurse Education","513817","Master's Degree","7",8
+2013,"Los Angeles County, CA","05000US06037","Nursing Practice","513818","Master's Degree","7",128
+2015,"Los Angeles County, CA","05000US06037","Clinical Nurse Leader","513820","Master's Degree","7",49
+2014,"Los Angeles County, CA","05000US06037","Clinical Nurse Leader","513820","Master's Degree","7",56
+2015,"Los Angeles County, CA","05000US06037","Other Registered Nursing, Nursing Administration, Nursing Research, & Clinical Nursing","513899","Master's Degree","7",178
+2013,"Los Angeles County, CA","05000US06037","Other Registered Nursing, Nursing Administration, Nursing Research, & Clinical Nursing","513899","Master's Degree","7",150
+2014,"Los Angeles County, CA","05000US06037","Other Registered Nursing, Nursing Administration, Nursing Research, & Clinical Nursing","513899","Master's Degree","7",164
+2015,"Los Angeles County, CA","05000US06037","Other Health Professions & Related Clinical Sciences","519999","Master's Degree","7",16
+2013,"Los Angeles County, CA","05000US06037","Other Health Professions & Related Clinical Sciences","519999","Master's Degree","7",18
+2014,"Los Angeles County, CA","05000US06037","Other Health Professions & Related Clinical Sciences","519999","Master's Degree","7",26
+2015,"Los Angeles County, CA","05000US06037","General Business","520101","Master's Degree","7",166
+2013,"Los Angeles County, CA","05000US06037","General Business","520101","Master's Degree","7",180
+2014,"Los Angeles County, CA","05000US06037","General Business","520101","Master's Degree","7",162
+2015,"Los Angeles County, CA","05000US06037","General Business Administration & Management","520201","Master's Degree","7",3548
+2013,"Los Angeles County, CA","05000US06037","General Business Administration & Management","520201","Master's Degree","7",3584
+2014,"Los Angeles County, CA","05000US06037","General Business Administration & Management","520201","Master's Degree","7",3461
+2013,"Los Angeles County, CA","05000US06037","Logistics, Materials, & Supply Chain Management","520203","Master's Degree","7",2
+2014,"Los Angeles County, CA","05000US06037","Logistics, Materials, & Supply Chain Management","520203","Master's Degree","7",16
+2015,"Los Angeles County, CA","05000US06037","Non-Profit, Public, & Organizational Management","520206","Master's Degree","7",36
+2013,"Los Angeles County, CA","05000US06037","Non-Profit, Public, & Organizational Management","520206","Master's Degree","7",32
+2014,"Los Angeles County, CA","05000US06037","Non-Profit, Public, & Organizational Management","520206","Master's Degree","7",34
+2013,"Los Angeles County, CA","05000US06037","Project Management","520211","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","Organizational Leadership","520213","Master's Degree","7",77
+2013,"Los Angeles County, CA","05000US06037","Organizational Leadership","520213","Master's Degree","7",109
+2014,"Los Angeles County, CA","05000US06037","Organizational Leadership","520213","Master's Degree","7",94
+2015,"Los Angeles County, CA","05000US06037","Other Business Administration, Management, & Operations","520299","Master's Degree","7",98
+2013,"Los Angeles County, CA","05000US06037","Other Business Administration, Management, & Operations","520299","Master's Degree","7",87
+2014,"Los Angeles County, CA","05000US06037","Other Business Administration, Management, & Operations","520299","Master's Degree","7",89
+2015,"Los Angeles County, CA","05000US06037","Accounting","520301","Master's Degree","7",219
+2013,"Los Angeles County, CA","05000US06037","Accounting","520301","Master's Degree","7",184
+2014,"Los Angeles County, CA","05000US06037","Accounting","520301","Master's Degree","7",184
+2015,"Los Angeles County, CA","05000US06037","Accounting & Finance","520304","Master's Degree","7",75
+2013,"Los Angeles County, CA","05000US06037","Accounting & Finance","520304","Master's Degree","7",86
+2014,"Los Angeles County, CA","05000US06037","Accounting & Finance","520304","Master's Degree","7",96
+2015,"Los Angeles County, CA","05000US06037","Entrepreneurial Studies","520701","Master's Degree","7",7
+2013,"Los Angeles County, CA","05000US06037","Entrepreneurial Studies","520701","Master's Degree","7",1
+2014,"Los Angeles County, CA","05000US06037","Entrepreneurial Studies","520701","Master's Degree","7",5
+2015,"Los Angeles County, CA","05000US06037","Other Small Business & Entrepreneurial Operations","520799","Master's Degree","7",22
+2015,"Los Angeles County, CA","05000US06037","General Finance","520801","Master's Degree","7",79
+2013,"Los Angeles County, CA","05000US06037","General Finance","520801","Master's Degree","7",45
+2014,"Los Angeles County, CA","05000US06037","General Finance","520801","Master's Degree","7",30
+2015,"Los Angeles County, CA","05000US06037","Other Finance & Financial Management Services","520899","Master's Degree","7",20
+2013,"Los Angeles County, CA","05000US06037","Other Finance & Financial Management Services","520899","Master's Degree","7",32
+2014,"Los Angeles County, CA","05000US06037","Other Finance & Financial Management Services","520899","Master's Degree","7",30
+2015,"Los Angeles County, CA","05000US06037","General Hospitality Management","520901","Master's Degree","7",13
+2013,"Los Angeles County, CA","05000US06037","General Hospitality Management","520901","Master's Degree","7",5
+2014,"Los Angeles County, CA","05000US06037","General Hospitality Management","520901","Master's Degree","7",7
+2015,"Los Angeles County, CA","05000US06037","Other Hospitality Administration & Management","520999","Master's Degree","7",17
+2013,"Los Angeles County, CA","05000US06037","Other Hospitality Administration & Management","520999","Master's Degree","7",18
+2014,"Los Angeles County, CA","05000US06037","Other Hospitality Administration & Management","520999","Master's Degree","7",10
+2015,"Los Angeles County, CA","05000US06037","General Human Resources Management & Personnel Administration","521001","Master's Degree","7",30
+2013,"Los Angeles County, CA","05000US06037","General Human Resources Management & Personnel Administration","521001","Master's Degree","7",47
+2014,"Los Angeles County, CA","05000US06037","General Human Resources Management & Personnel Administration","521001","Master's Degree","7",45
+2015,"Los Angeles County, CA","05000US06037","Organizational Behavior Studies","521003","Master's Degree","7",147
+2013,"Los Angeles County, CA","05000US06037","Organizational Behavior Studies","521003","Master's Degree","7",183
+2014,"Los Angeles County, CA","05000US06037","Organizational Behavior Studies","521003","Master's Degree","7",147
+2015,"Los Angeles County, CA","05000US06037","Human Resource Development","521005","Master's Degree","7",30
+2013,"Los Angeles County, CA","05000US06037","Human Resource Development","521005","Master's Degree","7",25
+2014,"Los Angeles County, CA","05000US06037","Human Resource Development","521005","Master's Degree","7",31
+2015,"Los Angeles County, CA","05000US06037","Other Human Resources Management & Services","521099","Master's Degree","7",7
+2013,"Los Angeles County, CA","05000US06037","Other Human Resources Management & Services","521099","Master's Degree","7",12
+2014,"Los Angeles County, CA","05000US06037","Other Human Resources Management & Services","521099","Master's Degree","7",9
+2015,"Los Angeles County, CA","05000US06037","International Business, Trade, & Commerce","521101","Master's Degree","7",105
+2013,"Los Angeles County, CA","05000US06037","International Business, Trade, & Commerce","521101","Master's Degree","7",109
+2014,"Los Angeles County, CA","05000US06037","International Business, Trade, & Commerce","521101","Master's Degree","7",99
+2015,"Los Angeles County, CA","05000US06037","General Management Information Systems","521201","Master's Degree","7",46
+2013,"Los Angeles County, CA","05000US06037","General Management Information Systems","521201","Master's Degree","7",45
+2014,"Los Angeles County, CA","05000US06037","General Management Information Systems","521201","Master's Degree","7",42
+2013,"Los Angeles County, CA","05000US06037","Knowledge Management","521207","Master's Degree","7",1
+2015,"Los Angeles County, CA","05000US06037","Management Science","521301","Master's Degree","7",35
+2015,"Los Angeles County, CA","05000US06037","Actuarial Science","521304","Master's Degree","7",43
+2013,"Los Angeles County, CA","05000US06037","Actuarial Science","521304","Master's Degree","7",30
+2014,"Los Angeles County, CA","05000US06037","Actuarial Science","521304","Master's Degree","7",35
+2013,"Los Angeles County, CA","05000US06037","General Marketing & Marketing Management","521401","Master's Degree","7",2
+2015,"Los Angeles County, CA","05000US06037","Taxation","521601","Master's Degree","7",91
+2013,"Los Angeles County, CA","05000US06037","Taxation","521601","Master's Degree","7",97
+2014,"Los Angeles County, CA","05000US06037","Taxation","521601","Master's Degree","7",108
+2015,"Los Angeles County, CA","05000US06037","Construction Management","522001","Master's Degree","7",9
+2013,"Los Angeles County, CA","05000US06037","Construction Management","522001","Master's Degree","7",16
+2014,"Los Angeles County, CA","05000US06037","Construction Management","522001","Master's Degree","7",20
+2015,"Los Angeles County, CA","05000US06037","Other Business, Management, Marketing, & Related Support Services","529999","Master's Degree","7",11
+2013,"Los Angeles County, CA","05000US06037","Other Business, Management, Marketing, & Related Support Services","529999","Master's Degree","7",18
+2014,"Los Angeles County, CA","05000US06037","Other Business, Management, Marketing, & Related Support Services","529999","Master's Degree","7",15
+2015,"Los Angeles County, CA","05000US06037","General History","540101","Master's Degree","7",73
+2013,"Los Angeles County, CA","05000US06037","General History","540101","Master's Degree","7",89
+2014,"Los Angeles County, CA","05000US06037","General History","540101","Master's Degree","7",91

@@ -1,0 +1,504 @@
+year,geo_name,geo,cip_name,cip,degree_name,degree,grads_total
+2015,"New York, NY","16000US3651000","Architecture","040201","Research Doctorate","17",5
+2013,"New York, NY","16000US3651000","Architecture","040201","Research Doctorate","17",3
+2014,"New York, NY","16000US3651000","Architecture","040201","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","Urban, Community, & Regional Planning","040301","Research Doctorate","17",4
+2013,"New York, NY","16000US3651000","Urban, Community, & Regional Planning","040301","Research Doctorate","17",3
+2014,"New York, NY","16000US3651000","Urban, Community, & Regional Planning","040301","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","American & U.S. Studies","050102","Research Doctorate","17",5
+2013,"New York, NY","16000US3651000","American & U.S. Studies","050102","Research Doctorate","17",3
+2014,"New York, NY","16000US3651000","American & U.S. Studies","050102","Research Doctorate","17",5
+2015,"New York, NY","16000US3651000","East Asian Studies","050104","Research Doctorate","17",2
+2014,"New York, NY","16000US3651000","East Asian Studies","050104","Research Doctorate","17",2
+2015,"New York, NY","16000US3651000","Near & Middle Eastern Studies","050108","Research Doctorate","17",1
+2014,"New York, NY","16000US3651000","Near & Middle Eastern Studies","050108","Research Doctorate","17",3
+2013,"New York, NY","16000US3651000","Western European Studies","050114","Research Doctorate","17",4
+2015,"New York, NY","16000US3651000","French Studies","050124","Research Doctorate","17",2
+2014,"New York, NY","16000US3651000","French Studies","050124","Research Doctorate","17",6
+2015,"New York, NY","16000US3651000","Speech Communication & Rhetoric","090101","Research Doctorate","17",2
+2013,"New York, NY","16000US3651000","Speech Communication & Rhetoric","090101","Research Doctorate","17",6
+2014,"New York, NY","16000US3651000","Speech Communication & Rhetoric","090101","Research Doctorate","17",4
+2015,"New York, NY","16000US3651000","Other Communication & Media Studies","090199","Research Doctorate","17",12
+2013,"New York, NY","16000US3651000","Other Communication & Media Studies","090199","Research Doctorate","17",12
+2014,"New York, NY","16000US3651000","Other Communication & Media Studies","090199","Research Doctorate","17",7
+2014,"New York, NY","16000US3651000","Communications Technology","100105","Research Doctorate","17",3
+2015,"New York, NY","16000US3651000","General Computer & Information Sciences","110101","Research Doctorate","17",30
+2013,"New York, NY","16000US3651000","General Computer & Information Sciences","110101","Research Doctorate","17",26
+2014,"New York, NY","16000US3651000","General Computer & Information Sciences","110101","Research Doctorate","17",23
+2015,"New York, NY","16000US3651000","Computer Science","110701","Research Doctorate","17",26
+2013,"New York, NY","16000US3651000","Computer Science","110701","Research Doctorate","17",24
+2014,"New York, NY","16000US3651000","Computer Science","110701","Research Doctorate","17",29
+2015,"New York, NY","16000US3651000","General Education","130101","Research Doctorate","17",1
+2014,"New York, NY","16000US3651000","General Education","130101","Research Doctorate","17",3
+2015,"New York, NY","16000US3651000","Curriculum & Instruction","130301","Research Doctorate","17",48
+2013,"New York, NY","16000US3651000","Curriculum & Instruction","130301","Research Doctorate","17",41
+2014,"New York, NY","16000US3651000","Curriculum & Instruction","130301","Research Doctorate","17",43
+2015,"New York, NY","16000US3651000","General Educational Leadership & Administration","130401","Research Doctorate","17",55
+2013,"New York, NY","16000US3651000","General Educational Leadership & Administration","130401","Research Doctorate","17",62
+2014,"New York, NY","16000US3651000","General Educational Leadership & Administration","130401","Research Doctorate","17",48
+2015,"New York, NY","16000US3651000","Higher Education & Administration","130406","Research Doctorate","17",7
+2013,"New York, NY","16000US3651000","Higher Education & Administration","130406","Research Doctorate","17",4
+2014,"New York, NY","16000US3651000","Higher Education & Administration","130406","Research Doctorate","17",11
+2015,"New York, NY","16000US3651000","Urban Education & Leadership","130410","Research Doctorate","17",15
+2013,"New York, NY","16000US3651000","Urban Education & Leadership","130410","Research Doctorate","17",12
+2014,"New York, NY","16000US3651000","Urban Education & Leadership","130410","Research Doctorate","17",11
+2015,"New York, NY","16000US3651000","Educational & Instructional Technology","130501","Research Doctorate","17",6
+2013,"New York, NY","16000US3651000","Educational & Instructional Technology","130501","Research Doctorate","17",8
+2014,"New York, NY","16000US3651000","Educational & Instructional Technology","130501","Research Doctorate","17",3
+2013,"New York, NY","16000US3651000","Educational Statistics & Research Methods","130603","Research Doctorate","17",9
+2014,"New York, NY","16000US3651000","Educational Statistics & Research Methods","130603","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","International & Comparative Education","130701","Research Doctorate","17",10
+2013,"New York, NY","16000US3651000","International & Comparative Education","130701","Research Doctorate","17",12
+2014,"New York, NY","16000US3651000","International & Comparative Education","130701","Research Doctorate","17",15
+2015,"New York, NY","16000US3651000","Social & Philosophical Foundations of Education","130901","Research Doctorate","17",11
+2013,"New York, NY","16000US3651000","Social & Philosophical Foundations of Education","130901","Research Doctorate","17",5
+2014,"New York, NY","16000US3651000","Social & Philosophical Foundations of Education","130901","Research Doctorate","17",21
+2015,"New York, NY","16000US3651000","General Special Education & Teaching","131001","Research Doctorate","17",1
+2014,"New York, NY","16000US3651000","Education of the Gifted & Talented","131004","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","Education of Individuals with Emotional Disturbances","131005","Research Doctorate","17",9
+2013,"New York, NY","16000US3651000","Education of Individuals with Emotional Disturbances","131005","Research Doctorate","17",13
+2014,"New York, NY","16000US3651000","Education of Individuals with Emotional Disturbances","131005","Research Doctorate","17",11
+2015,"New York, NY","16000US3651000","Education of Individuals with Mental Retardation","131006","Research Doctorate","17",3
+2013,"New York, NY","16000US3651000","Education of Individuals with Mental Retardation","131006","Research Doctorate","17",6
+2014,"New York, NY","16000US3651000","Education of Individuals with Mental Retardation","131006","Research Doctorate","17",3
+2013,"New York, NY","16000US3651000","Education of Individuals with Orthopedic & Other Physical Health Impairments","131008","Research Doctorate","17",6
+2015,"New York, NY","16000US3651000","School Counseling & Guidance Services","131101","Research Doctorate","17",15
+2013,"New York, NY","16000US3651000","School Counseling & Guidance Services","131101","Research Doctorate","17",15
+2014,"New York, NY","16000US3651000","School Counseling & Guidance Services","131101","Research Doctorate","17",11
+2015,"New York, NY","16000US3651000","Adult & Continuing Education","131201","Research Doctorate","17",17
+2013,"New York, NY","16000US3651000","Adult & Continuing Education","131201","Research Doctorate","17",6
+2014,"New York, NY","16000US3651000","Adult & Continuing Education","131201","Research Doctorate","17",16
+2013,"New York, NY","16000US3651000","Elementary Education & Teaching","131202","Research Doctorate","17",2
+2015,"New York, NY","16000US3651000","Early Childhood Education & Teaching","131210","Research Doctorate","17",1
+2013,"New York, NY","16000US3651000","Early Childhood Education & Teaching","131210","Research Doctorate","17",1
+2014,"New York, NY","16000US3651000","Early Childhood Education & Teaching","131210","Research Doctorate","17",2
+2015,"New York, NY","16000US3651000","Art Teacher Education","131302","Research Doctorate","17",5
+2013,"New York, NY","16000US3651000","Art Teacher Education","131302","Research Doctorate","17",5
+2014,"New York, NY","16000US3651000","Art Teacher Education","131302","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","English & Language Arts Teacher Education","131305","Research Doctorate","17",8
+2013,"New York, NY","16000US3651000","English & Language Arts Teacher Education","131305","Research Doctorate","17",7
+2014,"New York, NY","16000US3651000","English & Language Arts Teacher Education","131305","Research Doctorate","17",3
+2015,"New York, NY","16000US3651000","Health Teacher Education","131307","Research Doctorate","17",17
+2013,"New York, NY","16000US3651000","Health Teacher Education","131307","Research Doctorate","17",16
+2014,"New York, NY","16000US3651000","Health Teacher Education","131307","Research Doctorate","17",10
+2013,"New York, NY","16000US3651000","Family & Consumer Sciences Teacher Education","131308","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","Mathematics Teacher Education","131311","Research Doctorate","17",22
+2013,"New York, NY","16000US3651000","Mathematics Teacher Education","131311","Research Doctorate","17",22
+2014,"New York, NY","16000US3651000","Mathematics Teacher Education","131311","Research Doctorate","17",26
+2015,"New York, NY","16000US3651000","Music Teacher Education","131312","Research Doctorate","17",10
+2013,"New York, NY","16000US3651000","Music Teacher Education","131312","Research Doctorate","17",15
+2014,"New York, NY","16000US3651000","Music Teacher Education","131312","Research Doctorate","17",12
+2015,"New York, NY","16000US3651000","Physical Education Teaching & Coaching","131314","Research Doctorate","17",6
+2013,"New York, NY","16000US3651000","Physical Education Teaching & Coaching","131314","Research Doctorate","17",4
+2014,"New York, NY","16000US3651000","Physical Education Teaching & Coaching","131314","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","Reading Teacher Education","131315","Research Doctorate","17",2
+2013,"New York, NY","16000US3651000","Reading Teacher Education","131315","Research Doctorate","17",4
+2014,"New York, NY","16000US3651000","Reading Teacher Education","131315","Research Doctorate","17",3
+2015,"New York, NY","16000US3651000","General Science Teacher Education","131316","Research Doctorate","17",17
+2013,"New York, NY","16000US3651000","General Science Teacher Education","131316","Research Doctorate","17",7
+2014,"New York, NY","16000US3651000","General Science Teacher Education","131316","Research Doctorate","17",17
+2015,"New York, NY","16000US3651000","Social Studies Teacher Education","131318","Research Doctorate","17",2
+2013,"New York, NY","16000US3651000","Social Studies Teacher Education","131318","Research Doctorate","17",5
+2014,"New York, NY","16000US3651000","Social Studies Teacher Education","131318","Research Doctorate","17",3
+2015,"New York, NY","16000US3651000","Teaching English as a Second or Foreign Language Instructor","131401","Research Doctorate","17",4
+2013,"New York, NY","16000US3651000","Teaching English as a Second or Foreign Language Instructor","131401","Research Doctorate","17",3
+2014,"New York, NY","16000US3651000","Teaching English as a Second or Foreign Language Instructor","131401","Research Doctorate","17",3
+2015,"New York, NY","16000US3651000","Other Education","139999","Research Doctorate","17",10
+2013,"New York, NY","16000US3651000","Other Education","139999","Research Doctorate","17",17
+2014,"New York, NY","16000US3651000","Other Education","139999","Research Doctorate","17",14
+2015,"New York, NY","16000US3651000","Bioengineering & Biomedical Engineering","140501","Research Doctorate","17",29
+2013,"New York, NY","16000US3651000","Bioengineering & Biomedical Engineering","140501","Research Doctorate","17",26
+2014,"New York, NY","16000US3651000","Bioengineering & Biomedical Engineering","140501","Research Doctorate","17",26
+2015,"New York, NY","16000US3651000","Chemical Engineering","140701","Research Doctorate","17",13
+2013,"New York, NY","16000US3651000","Chemical Engineering","140701","Research Doctorate","17",20
+2014,"New York, NY","16000US3651000","Chemical Engineering","140701","Research Doctorate","17",15
+2015,"New York, NY","16000US3651000","Chemical & Biomolecular Engineering","140702","Research Doctorate","17",4
+2013,"New York, NY","16000US3651000","Chemical & Biomolecular Engineering","140702","Research Doctorate","17",2
+2014,"New York, NY","16000US3651000","Chemical & Biomolecular Engineering","140702","Research Doctorate","17",2
+2015,"New York, NY","16000US3651000","General Civil Engineering","140801","Research Doctorate","17",14
+2013,"New York, NY","16000US3651000","General Civil Engineering","140801","Research Doctorate","17",15
+2014,"New York, NY","16000US3651000","General Civil Engineering","140801","Research Doctorate","17",17
+2015,"New York, NY","16000US3651000","Transportation & Highway Engineering","140804","Research Doctorate","17",1
+2014,"New York, NY","16000US3651000","Transportation & Highway Engineering","140804","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","Electrical & Electronics Engineering","141001","Research Doctorate","17",42
+2013,"New York, NY","16000US3651000","Electrical & Electronics Engineering","141001","Research Doctorate","17",38
+2014,"New York, NY","16000US3651000","Electrical & Electronics Engineering","141001","Research Doctorate","17",47
+2015,"New York, NY","16000US3651000","Engineering Physics & Applied Physics","141201","Research Doctorate","17",4
+2013,"New York, NY","16000US3651000","Engineering Physics & Applied Physics","141201","Research Doctorate","17",4
+2014,"New York, NY","16000US3651000","Engineering Physics & Applied Physics","141201","Research Doctorate","17",4
+2015,"New York, NY","16000US3651000","Environmental Health Engineering","141401","Research Doctorate","17",9
+2013,"New York, NY","16000US3651000","Environmental Health Engineering","141401","Research Doctorate","17",4
+2014,"New York, NY","16000US3651000","Environmental Health Engineering","141401","Research Doctorate","17",10
+2013,"New York, NY","16000US3651000","Materials Engineering","141801","Research Doctorate","17",4
+2015,"New York, NY","16000US3651000","Mechanical Engineering","141901","Research Doctorate","17",19
+2013,"New York, NY","16000US3651000","Mechanical Engineering","141901","Research Doctorate","17",19
+2014,"New York, NY","16000US3651000","Mechanical Engineering","141901","Research Doctorate","17",20
+2015,"New York, NY","16000US3651000","Industrial Engineering","143501","Research Doctorate","17",1
+2014,"New York, NY","16000US3651000","Industrial Engineering","143501","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","Manufacturing Engineering","143601","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","Operations Research","143701","Research Doctorate","17",8
+2013,"New York, NY","16000US3651000","Operations Research","143701","Research Doctorate","17",10
+2014,"New York, NY","16000US3651000","Operations Research","143701","Research Doctorate","17",13
+2015,"New York, NY","16000US3651000","General Foreign Languages & Literatures","160101","Research Doctorate","17",2
+2013,"New York, NY","16000US3651000","General Foreign Languages & Literatures","160101","Research Doctorate","17",2
+2015,"New York, NY","16000US3651000","Linguistics","160102","Research Doctorate","17",17
+2013,"New York, NY","16000US3651000","Linguistics","160102","Research Doctorate","17",9
+2014,"New York, NY","16000US3651000","Linguistics","160102","Research Doctorate","17",12
+2015,"New York, NY","16000US3651000","Comparative Literature","160104","Research Doctorate","17",11
+2013,"New York, NY","16000US3651000","Comparative Literature","160104","Research Doctorate","17",19
+2014,"New York, NY","16000US3651000","Comparative Literature","160104","Research Doctorate","17",3
+2015,"New York, NY","16000US3651000","General East Asian Languages, Literatures, & Linguistics","160300","Research Doctorate","17",11
+2013,"New York, NY","16000US3651000","General East Asian Languages, Literatures, & Linguistics","160300","Research Doctorate","17",11
+2014,"New York, NY","16000US3651000","General East Asian Languages, Literatures, & Linguistics","160300","Research Doctorate","17",12
+2015,"New York, NY","16000US3651000","General Slavic Languages, Literatures, & Linguistics","160400","Research Doctorate","17",1
+2013,"New York, NY","16000US3651000","General Slavic Languages, Literatures, & Linguistics","160400","Research Doctorate","17",5
+2014,"New York, NY","16000US3651000","General Slavic Languages, Literatures, & Linguistics","160400","Research Doctorate","17",6
+2015,"New York, NY","16000US3651000","German Language & Literature","160501","Research Doctorate","17",3
+2013,"New York, NY","16000US3651000","German Language & Literature","160501","Research Doctorate","17",4
+2014,"New York, NY","16000US3651000","German Language & Literature","160501","Research Doctorate","17",8
+2015,"New York, NY","16000US3651000","French Language & Literature","160901","Research Doctorate","17",13
+2013,"New York, NY","16000US3651000","French Language & Literature","160901","Research Doctorate","17",17
+2014,"New York, NY","16000US3651000","French Language & Literature","160901","Research Doctorate","17",27
+2015,"New York, NY","16000US3651000","Italian Language & Literature","160902","Research Doctorate","17",5
+2013,"New York, NY","16000US3651000","Italian Language & Literature","160902","Research Doctorate","17",9
+2014,"New York, NY","16000US3651000","Italian Language & Literature","160902","Research Doctorate","17",4
+2015,"New York, NY","16000US3651000","Spanish Language & Literature","160905","Research Doctorate","17",20
+2013,"New York, NY","16000US3651000","Spanish Language & Literature","160905","Research Doctorate","17",17
+2014,"New York, NY","16000US3651000","Spanish Language & Literature","160905","Research Doctorate","17",20
+2015,"New York, NY","16000US3651000","Hebrew Language & Literature","161102","Research Doctorate","17",5
+2013,"New York, NY","16000US3651000","Hebrew Language & Literature","161102","Research Doctorate","17",8
+2014,"New York, NY","16000US3651000","Hebrew Language & Literature","161102","Research Doctorate","17",7
+2015,"New York, NY","16000US3651000","Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics","161199","Research Doctorate","17",2
+2013,"New York, NY","16000US3651000","Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics","161199","Research Doctorate","17",11
+2014,"New York, NY","16000US3651000","Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics","161199","Research Doctorate","17",7
+2015,"New York, NY","16000US3651000","General Classical Language, Literature, & Linguistics","161200","Research Doctorate","17",7
+2013,"New York, NY","16000US3651000","General Classical Language, Literature, & Linguistics","161200","Research Doctorate","17",5
+2014,"New York, NY","16000US3651000","General Classical Language, Literature, & Linguistics","161200","Research Doctorate","17",6
+2015,"New York, NY","16000US3651000","General Food, Nutrition, & Wellness Studies","190501","Research Doctorate","17",4
+2013,"New York, NY","16000US3651000","General Food, Nutrition, & Wellness Studies","190501","Research Doctorate","17",9
+2014,"New York, NY","16000US3651000","General Food, Nutrition, & Wellness Studies","190501","Research Doctorate","17",6
+2013,"New York, NY","16000US3651000","General Advanced Legal Studies","220201","Research Doctorate","17",5
+2014,"New York, NY","16000US3651000","General Advanced Legal Studies","220201","Research Doctorate","17",2
+2015,"New York, NY","16000US3651000","Other Legal Professions & Studies","229999","Research Doctorate","17",3
+2013,"New York, NY","16000US3651000","Other Legal Professions & Studies","229999","Research Doctorate","17",5
+2014,"New York, NY","16000US3651000","Other Legal Professions & Studies","229999","Research Doctorate","17",6
+2015,"New York, NY","16000US3651000","General English Language & Literature","230101","Research Doctorate","17",70
+2013,"New York, NY","16000US3651000","General English Language & Literature","230101","Research Doctorate","17",57
+2014,"New York, NY","16000US3651000","General English Language & Literature","230101","Research Doctorate","17",74
+2015,"New York, NY","16000US3651000","British & Commonwealth English Literature","231404","Research Doctorate","17",7
+2013,"New York, NY","16000US3651000","British & Commonwealth English Literature","231404","Research Doctorate","17",8
+2014,"New York, NY","16000US3651000","British & Commonwealth English Literature","231404","Research Doctorate","17",10
+2015,"New York, NY","16000US3651000","Other Liberal Arts & Sciences, General Studies, & Humanities","240199","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","General Biological Sciences","260101","Research Doctorate","17",47
+2013,"New York, NY","16000US3651000","General Biological Sciences","260101","Research Doctorate","17",66
+2014,"New York, NY","16000US3651000","General Biological Sciences","260101","Research Doctorate","17",75
+2015,"New York, NY","16000US3651000","General Biomedical Sciences","260102","Research Doctorate","17",55
+2013,"New York, NY","16000US3651000","General Biomedical Sciences","260102","Research Doctorate","17",49
+2014,"New York, NY","16000US3651000","General Biomedical Sciences","260102","Research Doctorate","17",68
+2015,"New York, NY","16000US3651000","Biochemistry","260202","Research Doctorate","17",19
+2013,"New York, NY","16000US3651000","Biochemistry","260202","Research Doctorate","17",27
+2014,"New York, NY","16000US3651000","Biochemistry","260202","Research Doctorate","17",23
+2015,"New York, NY","16000US3651000","Molecular Biology","260204","Research Doctorate","17",8
+2013,"New York, NY","16000US3651000","Molecular Biology","260204","Research Doctorate","17",20
+2014,"New York, NY","16000US3651000","Molecular Biology","260204","Research Doctorate","17",16
+2015,"New York, NY","16000US3651000","Structural Biology","260207","Research Doctorate","17",3
+2013,"New York, NY","16000US3651000","Structural Biology","260207","Research Doctorate","17",7
+2014,"New York, NY","16000US3651000","Structural Biology","260207","Research Doctorate","17",2
+2015,"New York, NY","16000US3651000","Cellular Biology & Histology","260401","Research Doctorate","17",17
+2013,"New York, NY","16000US3651000","Cellular Biology & Histology","260401","Research Doctorate","17",23
+2014,"New York, NY","16000US3651000","Cellular Biology & Histology","260401","Research Doctorate","17",15
+2015,"New York, NY","16000US3651000","Cellular & Molecular Biology","260406","Research Doctorate","17",9
+2013,"New York, NY","16000US3651000","Cellular & Molecular Biology","260406","Research Doctorate","17",15
+2014,"New York, NY","16000US3651000","Cellular & Molecular Biology","260406","Research Doctorate","17",11
+2015,"New York, NY","16000US3651000","Cell Biology & Anatomy","260407","Research Doctorate","17",9
+2013,"New York, NY","16000US3651000","Cell Biology & Anatomy","260407","Research Doctorate","17",9
+2014,"New York, NY","16000US3651000","Cell Biology & Anatomy","260407","Research Doctorate","17",16
+2015,"New York, NY","16000US3651000","Other Cellular Biology & Anatomical Sciences","260499","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","General Microbiology","260502","Research Doctorate","17",4
+2013,"New York, NY","16000US3651000","General Microbiology","260502","Research Doctorate","17",12
+2014,"New York, NY","16000US3651000","General Microbiology","260502","Research Doctorate","17",7
+2015,"New York, NY","16000US3651000","Immunology","260507","Research Doctorate","17",8
+2013,"New York, NY","16000US3651000","Immunology","260507","Research Doctorate","17",11
+2014,"New York, NY","16000US3651000","Immunology","260507","Research Doctorate","17",14
+2015,"New York, NY","16000US3651000","Microbiology & Immunology","260508","Research Doctorate","17",8
+2013,"New York, NY","16000US3651000","Microbiology & Immunology","260508","Research Doctorate","17",9
+2014,"New York, NY","16000US3651000","Microbiology & Immunology","260508","Research Doctorate","17",9
+2015,"New York, NY","16000US3651000","General Genetics","260801","Research Doctorate","17",2
+2013,"New York, NY","16000US3651000","General Genetics","260801","Research Doctorate","17",7
+2014,"New York, NY","16000US3651000","General Genetics","260801","Research Doctorate","17",10
+2013,"New York, NY","16000US3651000","Molecular Genetics","260802","Research Doctorate","17",6
+2014,"New York, NY","16000US3651000","Molecular Genetics","260802","Research Doctorate","17",7
+2015,"New York, NY","16000US3651000","General Physiology","260901","Research Doctorate","17",25
+2013,"New York, NY","16000US3651000","General Physiology","260901","Research Doctorate","17",19
+2014,"New York, NY","16000US3651000","General Physiology","260901","Research Doctorate","17",15
+2015,"New York, NY","16000US3651000","Pathology & Experimental Pathology","260910","Research Doctorate","17",18
+2013,"New York, NY","16000US3651000","Pathology & Experimental Pathology","260910","Research Doctorate","17",12
+2014,"New York, NY","16000US3651000","Pathology & Experimental Pathology","260910","Research Doctorate","17",16
+2013,"New York, NY","16000US3651000","Oncology & Cancer Biology","260911","Research Doctorate","17",6
+2015,"New York, NY","16000US3651000","Pharmacology","261001","Research Doctorate","17",20
+2013,"New York, NY","16000US3651000","Pharmacology","261001","Research Doctorate","17",23
+2014,"New York, NY","16000US3651000","Pharmacology","261001","Research Doctorate","17",17
+2013,"New York, NY","16000US3651000","Molecular Pharmacology","261002","Research Doctorate","17",5
+2014,"New York, NY","16000US3651000","Molecular Pharmacology","261002","Research Doctorate","17",1
+2014,"New York, NY","16000US3651000","Biometrics","261101","Research Doctorate","17",3
+2015,"New York, NY","16000US3651000","Biostatistics","261102","Research Doctorate","17",5
+2013,"New York, NY","16000US3651000","Biostatistics","261102","Research Doctorate","17",3
+2014,"New York, NY","16000US3651000","Biostatistics","261102","Research Doctorate","17",4
+2015,"New York, NY","16000US3651000","Bioinformatics","261103","Research Doctorate","17",6
+2013,"New York, NY","16000US3651000","Bioinformatics","261103","Research Doctorate","17",3
+2014,"New York, NY","16000US3651000","Bioinformatics","261103","Research Doctorate","17",3
+2015,"New York, NY","16000US3651000","Ecology","261301","Research Doctorate","17",5
+2013,"New York, NY","16000US3651000","Ecology","261301","Research Doctorate","17",5
+2014,"New York, NY","16000US3651000","Ecology","261301","Research Doctorate","17",2
+2015,"New York, NY","16000US3651000","Epidemiology","261309","Research Doctorate","17",10
+2013,"New York, NY","16000US3651000","Epidemiology","261309","Research Doctorate","17",7
+2014,"New York, NY","16000US3651000","Epidemiology","261309","Research Doctorate","17",3
+2015,"New York, NY","16000US3651000","Neuroscience","261501","Research Doctorate","17",35
+2013,"New York, NY","16000US3651000","Neuroscience","261501","Research Doctorate","17",49
+2014,"New York, NY","16000US3651000","Neuroscience","261501","Research Doctorate","17",34
+2015,"New York, NY","16000US3651000","Other Biological & Biomedical Sciences","269999","Research Doctorate","17",6
+2013,"New York, NY","16000US3651000","Other Biological & Biomedical Sciences","269999","Research Doctorate","17",9
+2014,"New York, NY","16000US3651000","Other Biological & Biomedical Sciences","269999","Research Doctorate","17",8
+2015,"New York, NY","16000US3651000","General Mathematics","270101","Research Doctorate","17",38
+2013,"New York, NY","16000US3651000","General Mathematics","270101","Research Doctorate","17",34
+2014,"New York, NY","16000US3651000","General Mathematics","270101","Research Doctorate","17",51
+2015,"New York, NY","16000US3651000","General Applied Mathematics","270301","Research Doctorate","17",5
+2013,"New York, NY","16000US3651000","General Applied Mathematics","270301","Research Doctorate","17",4
+2014,"New York, NY","16000US3651000","General Applied Mathematics","270301","Research Doctorate","17",4
+2015,"New York, NY","16000US3651000","General Statistics","270501","Research Doctorate","17",5
+2013,"New York, NY","16000US3651000","General Statistics","270501","Research Doctorate","17",9
+2014,"New York, NY","16000US3651000","General Statistics","270501","Research Doctorate","17",8
+2014,"New York, NY","16000US3651000","Other Mathematics & Statistics","279999","Research Doctorate","17",3
+2015,"New York, NY","16000US3651000","Biopsychology","301001","Research Doctorate","17",5
+2013,"New York, NY","16000US3651000","Biopsychology","301001","Research Doctorate","17",3
+2014,"New York, NY","16000US3651000","Biopsychology","301001","Research Doctorate","17",4
+2015,"New York, NY","16000US3651000","Behavioral Sciences","301701","Research Doctorate","17",3
+2013,"New York, NY","16000US3651000","Behavioral Sciences","301701","Research Doctorate","17",6
+2014,"New York, NY","16000US3651000","Behavioral Sciences","301701","Research Doctorate","17",2
+2015,"New York, NY","16000US3651000","Nutrition Sciences","301901","Research Doctorate","17",6
+2013,"New York, NY","16000US3651000","Nutrition Sciences","301901","Research Doctorate","17",2
+2014,"New York, NY","16000US3651000","Nutrition Sciences","301901","Research Doctorate","17",3
+2015,"New York, NY","16000US3651000","Sustainability Studies","303301","Research Doctorate","17",9
+2014,"New York, NY","16000US3651000","Sustainability Studies","303301","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","Other Multidisciplinary Studies","309999","Research Doctorate","17",5
+2013,"New York, NY","16000US3651000","Other Multidisciplinary Studies","309999","Research Doctorate","17",6
+2014,"New York, NY","16000US3651000","Other Multidisciplinary Studies","309999","Research Doctorate","17",7
+2015,"New York, NY","16000US3651000","General Parks, Recreation, & Leisure Facilities Management","310301","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","Kinesiology & Exercise Science","310505","Research Doctorate","17",1
+2013,"New York, NY","16000US3651000","Kinesiology & Exercise Science","310505","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","Philosophy","380101","Research Doctorate","17",32
+2013,"New York, NY","16000US3651000","Philosophy","380101","Research Doctorate","17",51
+2014,"New York, NY","16000US3651000","Philosophy","380101","Research Doctorate","17",37
+2015,"New York, NY","16000US3651000","Religious Studies","380201","Research Doctorate","17",19
+2013,"New York, NY","16000US3651000","Religious Studies","380201","Research Doctorate","17",23
+2014,"New York, NY","16000US3651000","Religious Studies","380201","Research Doctorate","17",12
+2015,"New York, NY","16000US3651000","Judaic Studies","380206","Research Doctorate","17",9
+2013,"New York, NY","16000US3651000","Judaic Studies","380206","Research Doctorate","17",11
+2014,"New York, NY","16000US3651000","Judaic Studies","380206","Research Doctorate","17",7
+2015,"New York, NY","16000US3651000","Religious Education","390401","Research Doctorate","17",2
+2013,"New York, NY","16000US3651000","Religious Education","390401","Research Doctorate","17",4
+2015,"New York, NY","16000US3651000","Theological Studies","390601","Research Doctorate","17",13
+2013,"New York, NY","16000US3651000","Theological Studies","390601","Research Doctorate","17",14
+2014,"New York, NY","16000US3651000","Theological Studies","390601","Research Doctorate","17",12
+2015,"New York, NY","16000US3651000","Rabbinical Studies","390605","Research Doctorate","17",2
+2015,"New York, NY","16000US3651000","Talmudic Studies","390606","Research Doctorate","17",22
+2013,"New York, NY","16000US3651000","Talmudic Studies","390606","Research Doctorate","17",23
+2014,"New York, NY","16000US3651000","Talmudic Studies","390606","Research Doctorate","17",14
+2015,"New York, NY","16000US3651000","Astronomy","400201","Research Doctorate","17",5
+2013,"New York, NY","16000US3651000","Astronomy","400201","Research Doctorate","17",5
+2014,"New York, NY","16000US3651000","Astronomy","400201","Research Doctorate","17",5
+2015,"New York, NY","16000US3651000","General Chemistry","400501","Research Doctorate","17",52
+2013,"New York, NY","16000US3651000","General Chemistry","400501","Research Doctorate","17",52
+2014,"New York, NY","16000US3651000","General Chemistry","400501","Research Doctorate","17",50
+2015,"New York, NY","16000US3651000","Polymer Chemistry","400507","Research Doctorate","17",6
+2014,"New York, NY","16000US3651000","Polymer Chemistry","400507","Research Doctorate","17",5
+2015,"New York, NY","16000US3651000","General Geology & Earch Science","400601","Research Doctorate","17",22
+2013,"New York, NY","16000US3651000","General Geology & Earch Science","400601","Research Doctorate","17",23
+2014,"New York, NY","16000US3651000","General Geology & Earch Science","400601","Research Doctorate","17",17
+2015,"New York, NY","16000US3651000","General Physics","400801","Research Doctorate","17",47
+2013,"New York, NY","16000US3651000","General Physics","400801","Research Doctorate","17",44
+2014,"New York, NY","16000US3651000","General Physics","400801","Research Doctorate","17",48
+2015,"New York, NY","16000US3651000","Materials Science","401001","Research Doctorate","17",1
+2013,"New York, NY","16000US3651000","Materials Science","401001","Research Doctorate","17",3
+2014,"New York, NY","16000US3651000","Materials Science","401001","Research Doctorate","17",2
+2015,"New York, NY","16000US3651000","Other Physical Sciences","409999","Research Doctorate","17",4
+2013,"New York, NY","16000US3651000","Other Physical Sciences","409999","Research Doctorate","17",3
+2014,"New York, NY","16000US3651000","Other Physical Sciences","409999","Research Doctorate","17",4
+2015,"New York, NY","16000US3651000","General Psychology","420101","Research Doctorate","17",1
+2013,"New York, NY","16000US3651000","General Psychology","420101","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","Developmental & Child Psychology","422703","Research Doctorate","17",17
+2013,"New York, NY","16000US3651000","Developmental & Child Psychology","422703","Research Doctorate","17",14
+2014,"New York, NY","16000US3651000","Developmental & Child Psychology","422703","Research Doctorate","17",20
+2015,"New York, NY","16000US3651000","Experimental Psychology","422704","Research Doctorate","17",19
+2013,"New York, NY","16000US3651000","Experimental Psychology","422704","Research Doctorate","17",17
+2014,"New York, NY","16000US3651000","Experimental Psychology","422704","Research Doctorate","17",19
+2015,"New York, NY","16000US3651000","Social Psychology","422707","Research Doctorate","17",12
+2013,"New York, NY","16000US3651000","Social Psychology","422707","Research Doctorate","17",18
+2014,"New York, NY","16000US3651000","Social Psychology","422707","Research Doctorate","17",13
+2015,"New York, NY","16000US3651000","Psychometrics & Quantitative Psychology","422708","Research Doctorate","17",2
+2013,"New York, NY","16000US3651000","Psychometrics & Quantitative Psychology","422708","Research Doctorate","17",8
+2014,"New York, NY","16000US3651000","Psychometrics & Quantitative Psychology","422708","Research Doctorate","17",2
+2015,"New York, NY","16000US3651000","Other Research & Experimental Psychology","422799","Research Doctorate","17",12
+2013,"New York, NY","16000US3651000","Other Research & Experimental Psychology","422799","Research Doctorate","17",6
+2014,"New York, NY","16000US3651000","Other Research & Experimental Psychology","422799","Research Doctorate","17",20
+2015,"New York, NY","16000US3651000","Clinical Psychology","422801","Research Doctorate","17",117
+2013,"New York, NY","16000US3651000","Clinical Psychology","422801","Research Doctorate","17",101
+2014,"New York, NY","16000US3651000","Clinical Psychology","422801","Research Doctorate","17",87
+2014,"New York, NY","16000US3651000","Community Psychology","422802","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","Counseling Psychology","422803","Research Doctorate","17",31
+2013,"New York, NY","16000US3651000","Counseling Psychology","422803","Research Doctorate","17",26
+2014,"New York, NY","16000US3651000","Counseling Psychology","422803","Research Doctorate","17",30
+2015,"New York, NY","16000US3651000","Industrial & Organizational Psychology","422804","Research Doctorate","17",9
+2013,"New York, NY","16000US3651000","Industrial & Organizational Psychology","422804","Research Doctorate","17",6
+2014,"New York, NY","16000US3651000","Industrial & Organizational Psychology","422804","Research Doctorate","17",2
+2015,"New York, NY","16000US3651000","School Psychology","422805","Research Doctorate","17",45
+2013,"New York, NY","16000US3651000","School Psychology","422805","Research Doctorate","17",35
+2014,"New York, NY","16000US3651000","School Psychology","422805","Research Doctorate","17",54
+2015,"New York, NY","16000US3651000","Educational Psychology","422806","Research Doctorate","17",24
+2013,"New York, NY","16000US3651000","Educational Psychology","422806","Research Doctorate","17",33
+2014,"New York, NY","16000US3651000","Educational Psychology","422806","Research Doctorate","17",43
+2015,"New York, NY","16000US3651000","Clinical Child Psychology","422807","Research Doctorate","17",9
+2013,"New York, NY","16000US3651000","Clinical Child Psychology","422807","Research Doctorate","17",6
+2014,"New York, NY","16000US3651000","Clinical Child Psychology","422807","Research Doctorate","17",4
+2015,"New York, NY","16000US3651000","Environmental Psychology","422808","Research Doctorate","17",2
+2013,"New York, NY","16000US3651000","Environmental Psychology","422808","Research Doctorate","17",5
+2014,"New York, NY","16000US3651000","Environmental Psychology","422808","Research Doctorate","17",13
+2015,"New York, NY","16000US3651000","Forensic Psychology","422812","Research Doctorate","17",14
+2013,"New York, NY","16000US3651000","Forensic Psychology","422812","Research Doctorate","17",6
+2014,"New York, NY","16000US3651000","Forensic Psychology","422812","Research Doctorate","17",10
+2013,"New York, NY","16000US3651000","Other Clinical, Counseling, & Applied Psychology","422899","Research Doctorate","17",12
+2014,"New York, NY","16000US3651000","Other Clinical, Counseling, & Applied Psychology","422899","Research Doctorate","17",18
+2015,"New York, NY","16000US3651000","Other Psychology","429999","Research Doctorate","17",10
+2013,"New York, NY","16000US3651000","Other Psychology","429999","Research Doctorate","17",24
+2014,"New York, NY","16000US3651000","Other Psychology","429999","Research Doctorate","17",18
+2015,"New York, NY","16000US3651000","Criminal Justice - Law Enforcement Administration","430103","Research Doctorate","17",14
+2013,"New York, NY","16000US3651000","Criminal Justice - Law Enforcement Administration","430103","Research Doctorate","17",11
+2014,"New York, NY","16000US3651000","Criminal Justice - Law Enforcement Administration","430103","Research Doctorate","17",8
+2015,"New York, NY","16000US3651000","Public Administration","440401","Research Doctorate","17",4
+2013,"New York, NY","16000US3651000","Public Administration","440401","Research Doctorate","17",7
+2014,"New York, NY","16000US3651000","Public Administration","440401","Research Doctorate","17",3
+2013,"New York, NY","16000US3651000","General Public Policy Analysis","440501","Research Doctorate","17",3
+2014,"New York, NY","16000US3651000","Education Policy Analysis","440502","Research Doctorate","17",3
+2015,"New York, NY","16000US3651000","Other Public Policy Analysis","440599","Research Doctorate","17",4
+2014,"New York, NY","16000US3651000","Other Public Policy Analysis","440599","Research Doctorate","17",6
+2015,"New York, NY","16000US3651000","Social Work","440701","Research Doctorate","17",31
+2013,"New York, NY","16000US3651000","Social Work","440701","Research Doctorate","17",50
+2014,"New York, NY","16000US3651000","Social Work","440701","Research Doctorate","17",37
+2015,"New York, NY","16000US3651000","General Social Sciences","450101","Research Doctorate","17",8
+2013,"New York, NY","16000US3651000","General Social Sciences","450101","Research Doctorate","17",10
+2014,"New York, NY","16000US3651000","General Social Sciences","450101","Research Doctorate","17",11
+2015,"New York, NY","16000US3651000","Anthropology","450201","Research Doctorate","17",35
+2013,"New York, NY","16000US3651000","Anthropology","450201","Research Doctorate","17",31
+2014,"New York, NY","16000US3651000","Anthropology","450201","Research Doctorate","17",50
+2015,"New York, NY","16000US3651000","Cultural Anthropology","450204","Research Doctorate","17",6
+2014,"New York, NY","16000US3651000","Cultural Anthropology","450204","Research Doctorate","17",4
+2015,"New York, NY","16000US3651000","Other Anthropology","450299","Research Doctorate","17",4
+2013,"New York, NY","16000US3651000","Other Anthropology","450299","Research Doctorate","17",7
+2014,"New York, NY","16000US3651000","Other Anthropology","450299","Research Doctorate","17",14
+2015,"New York, NY","16000US3651000","General Economics","450601","Research Doctorate","17",74
+2013,"New York, NY","16000US3651000","General Economics","450601","Research Doctorate","17",83
+2014,"New York, NY","16000US3651000","General Economics","450601","Research Doctorate","17",65
+2015,"New York, NY","16000US3651000","Econometrics & Quantitative Economics","450603","Research Doctorate","17",1
+2013,"New York, NY","16000US3651000","Developmental Economics & International Development","450604","Research Doctorate","17",5
+2015,"New York, NY","16000US3651000","Other Economics","450699","Research Doctorate","17",4
+2013,"New York, NY","16000US3651000","Other Economics","450699","Research Doctorate","17",10
+2014,"New York, NY","16000US3651000","Other Economics","450699","Research Doctorate","17",6
+2015,"New York, NY","16000US3651000","General Political Science & Government","451001","Research Doctorate","17",58
+2013,"New York, NY","16000US3651000","General Political Science & Government","451001","Research Doctorate","17",48
+2014,"New York, NY","16000US3651000","General Political Science & Government","451001","Research Doctorate","17",60
+2015,"New York, NY","16000US3651000","Other Political Science & Government","451099","Research Doctorate","17",1
+2013,"New York, NY","16000US3651000","Other Political Science & Government","451099","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","Sociology","451101","Research Doctorate","17",52
+2013,"New York, NY","16000US3651000","Sociology","451101","Research Doctorate","17",45
+2014,"New York, NY","16000US3651000","Sociology","451101","Research Doctorate","17",60
+2015,"New York, NY","16000US3651000","Other Social Sciences","459999","Research Doctorate","17",5
+2013,"New York, NY","16000US3651000","Other Social Sciences","459999","Research Doctorate","17",1
+2014,"New York, NY","16000US3651000","Other Social Sciences","459999","Research Doctorate","17",5
+2015,"New York, NY","16000US3651000","General Drama & Theater Arts","500501","Research Doctorate","17",7
+2013,"New York, NY","16000US3651000","General Drama & Theater Arts","500501","Research Doctorate","17",14
+2014,"New York, NY","16000US3651000","General Drama & Theater Arts","500501","Research Doctorate","17",14
+2015,"New York, NY","16000US3651000","Cinematography & Film Production","500602","Research Doctorate","17",6
+2013,"New York, NY","16000US3651000","Cinematography & Film Production","500602","Research Doctorate","17",10
+2014,"New York, NY","16000US3651000","Cinematography & Film Production","500602","Research Doctorate","17",5
+2015,"New York, NY","16000US3651000","General Fine Studio Arts","500702","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","Art History, Criticism, & Conservation","500703","Research Doctorate","17",52
+2013,"New York, NY","16000US3651000","Art History, Criticism, & Conservation","500703","Research Doctorate","17",60
+2014,"New York, NY","16000US3651000","Art History, Criticism, & Conservation","500703","Research Doctorate","17",47
+2015,"New York, NY","16000US3651000","General Music","500901","Research Doctorate","17",30
+2013,"New York, NY","16000US3651000","General Music","500901","Research Doctorate","17",22
+2014,"New York, NY","16000US3651000","General Music","500901","Research Doctorate","17",24
+2015,"New York, NY","16000US3651000","General Music Performance","500903","Research Doctorate","17",15
+2013,"New York, NY","16000US3651000","General Music Performance","500903","Research Doctorate","17",12
+2014,"New York, NY","16000US3651000","General Music Performance","500903","Research Doctorate","17",5
+2015,"New York, NY","16000US3651000","Music Theory & Composition","500904","Research Doctorate","17",5
+2013,"New York, NY","16000US3651000","Music Theory & Composition","500904","Research Doctorate","17",5
+2014,"New York, NY","16000US3651000","Music Theory & Composition","500904","Research Doctorate","17",9
+2015,"New York, NY","16000US3651000","Keyboard Instruments","500907","Research Doctorate","17",4
+2013,"New York, NY","16000US3651000","Keyboard Instruments","500907","Research Doctorate","17",4
+2014,"New York, NY","16000US3651000","Keyboard Instruments","500907","Research Doctorate","17",2
+2015,"New York, NY","16000US3651000","Stringed Instruments","500911","Research Doctorate","17",1
+2014,"New York, NY","16000US3651000","Stringed Instruments","500911","Research Doctorate","17",2
+2015,"New York, NY","16000US3651000","Music Technology","500913","Research Doctorate","17",3
+2014,"New York, NY","16000US3651000","Music Technology","500913","Research Doctorate","17",2
+2015,"New York, NY","16000US3651000","Other Visual & Performing Arts","509999","Research Doctorate","17",6
+2013,"New York, NY","16000US3651000","Other Visual & Performing Arts","509999","Research Doctorate","17",8
+2014,"New York, NY","16000US3651000","Other Visual & Performing Arts","509999","Research Doctorate","17",7
+2013,"New York, NY","16000US3651000","Speech-Language Pathology","510203","Research Doctorate","17",1
+2014,"New York, NY","16000US3651000","Speech-Language Pathology","510203","Research Doctorate","17",3
+2015,"New York, NY","16000US3651000","Audiology & Speech-Language Pathology","510204","Research Doctorate","17",12
+2013,"New York, NY","16000US3651000","Audiology & Speech-Language Pathology","510204","Research Doctorate","17",15
+2014,"New York, NY","16000US3651000","Audiology & Speech-Language Pathology","510204","Research Doctorate","17",18
+2015,"New York, NY","16000US3651000","Medical Scientist","511401","Research Doctorate","17",1
+2013,"New York, NY","16000US3651000","Medical Scientist","511401","Research Doctorate","17",3
+2015,"New York, NY","16000US3651000","Other Ophthalmic & Optometric Support Services","511899","Research Doctorate","17",2
+2013,"New York, NY","16000US3651000","Other Ophthalmic & Optometric Support Services","511899","Research Doctorate","17",2
+2014,"New York, NY","16000US3651000","Other Ophthalmic & Optometric Support Services","511899","Research Doctorate","17",3
+2015,"New York, NY","16000US3651000","Pharmaceutics & Drug Design","512003","Research Doctorate","17",14
+2015,"New York, NY","16000US3651000","Pharmaceutical Sciences","512010","Research Doctorate","17",19
+2013,"New York, NY","16000US3651000","Pharmaceutical Sciences","512010","Research Doctorate","17",3
+2014,"New York, NY","16000US3651000","Pharmaceutical Sciences","512010","Research Doctorate","17",19
+2013,"New York, NY","16000US3651000","Other Pharmacy, Pharmaceutical Sciences, & Administration","512099","Research Doctorate","17",3
+2014,"New York, NY","16000US3651000","Other Pharmacy, Pharmaceutical Sciences, & Administration","512099","Research Doctorate","17",5
+2015,"New York, NY","16000US3651000","General Public Health","512201","Research Doctorate","17",12
+2013,"New York, NY","16000US3651000","General Public Health","512201","Research Doctorate","17",6
+2014,"New York, NY","16000US3651000","General Public Health","512201","Research Doctorate","17",11
+2015,"New York, NY","16000US3651000","Environmental Health","512202","Research Doctorate","17",10
+2013,"New York, NY","16000US3651000","Environmental Health","512202","Research Doctorate","17",2
+2014,"New York, NY","16000US3651000","Environmental Health","512202","Research Doctorate","17",11
+2014,"New York, NY","16000US3651000","Occupational Therapy","512306","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","Nursing Administration","513802","Research Doctorate","17",2
+2013,"New York, NY","16000US3651000","Nursing Administration","513802","Research Doctorate","17",2
+2014,"New York, NY","16000US3651000","Nursing Administration","513802","Research Doctorate","17",1
+2013,"New York, NY","16000US3651000","Adult Health Nurse","513803","Research Doctorate","17",1
+2013,"New York, NY","16000US3651000","Nurse Midwife","513807","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","Nursing School","513808","Research Doctorate","17",13
+2013,"New York, NY","16000US3651000","Nursing School","513808","Research Doctorate","17",20
+2014,"New York, NY","16000US3651000","Nursing School","513808","Research Doctorate","17",28
+2013,"New York, NY","16000US3651000","Critical Care Nursing","513814","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","Nurse Education","513817","Research Doctorate","17",2
+2013,"New York, NY","16000US3651000","Nurse Education","513817","Research Doctorate","17",1
+2013,"New York, NY","16000US3651000","Geriatric Nurse","513821","Research Doctorate","17",1
+2013,"New York, NY","16000US3651000","Other Health Professions & Related Clinical Sciences","519999","Research Doctorate","17",8
+2015,"New York, NY","16000US3651000","General Business","520101","Research Doctorate","17",18
+2013,"New York, NY","16000US3651000","General Business","520101","Research Doctorate","17",20
+2014,"New York, NY","16000US3651000","General Business","520101","Research Doctorate","17",19
+2015,"New York, NY","16000US3651000","General Business Administration & Management","520201","Research Doctorate","17",9
+2013,"New York, NY","16000US3651000","General Business Administration & Management","520201","Research Doctorate","17",15
+2014,"New York, NY","16000US3651000","General Business Administration & Management","520201","Research Doctorate","17",25
+2015,"New York, NY","16000US3651000","Operations Management & Supervision","520205","Research Doctorate","17",2
+2015,"New York, NY","16000US3651000","Accounting","520301","Research Doctorate","17",3
+2013,"New York, NY","16000US3651000","Accounting","520301","Research Doctorate","17",1
+2014,"New York, NY","16000US3651000","Accounting","520301","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","Business & Managerial Economics","520601","Research Doctorate","17",3
+2013,"New York, NY","16000US3651000","Business & Managerial Economics","520601","Research Doctorate","17",3
+2014,"New York, NY","16000US3651000","Business & Managerial Economics","520601","Research Doctorate","17",2
+2015,"New York, NY","16000US3651000","General Finance","520801","Research Doctorate","17",5
+2013,"New York, NY","16000US3651000","General Finance","520801","Research Doctorate","17",3
+2014,"New York, NY","16000US3651000","General Finance","520801","Research Doctorate","17",3
+2015,"New York, NY","16000US3651000","General Sales, Distribution, & Marketing Operations","521801","Research Doctorate","17",2
+2013,"New York, NY","16000US3651000","General Sales, Distribution, & Marketing Operations","521801","Research Doctorate","17",4
+2014,"New York, NY","16000US3651000","General Sales, Distribution, & Marketing Operations","521801","Research Doctorate","17",2
+2014,"New York, NY","16000US3651000","Other Business, Management, Marketing, & Related Support Services","529999","Research Doctorate","17",1
+2015,"New York, NY","16000US3651000","General History","540101","Research Doctorate","17",66
+2013,"New York, NY","16000US3651000","General History","540101","Research Doctorate","17",65
+2014,"New York, NY","16000US3651000","General History","540101","Research Doctorate","17",62

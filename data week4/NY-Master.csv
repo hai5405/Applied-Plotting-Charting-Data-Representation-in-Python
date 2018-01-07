@@ -1,0 +1,1205 @@
+year,geo_name,geo,cip_name,cip,degree_name,degree,grads_total
+2014,"New York, NY","16000US3651000","Environmental Studies","030103","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","Environmental Science","030104","Master's Degree","7",38
+2013,"New York, NY","16000US3651000","Environmental Science","030104","Master's Degree","7",54
+2014,"New York, NY","16000US3651000","Environmental Science","030104","Master's Degree","7",61
+2015,"New York, NY","16000US3651000","Architecture","040201","Master's Degree","7",319
+2013,"New York, NY","16000US3651000","Architecture","040201","Master's Degree","7",315
+2014,"New York, NY","16000US3651000","Architecture","040201","Master's Degree","7",317
+2015,"New York, NY","16000US3651000","Urban, Community, & Regional Planning","040301","Master's Degree","7",197
+2013,"New York, NY","16000US3651000","Urban, Community, & Regional Planning","040301","Master's Degree","7",195
+2014,"New York, NY","16000US3651000","Urban, Community, & Regional Planning","040301","Master's Degree","7",229
+2015,"New York, NY","16000US3651000","Environmental Design","040401","Master's Degree","7",10
+2013,"New York, NY","16000US3651000","Environmental Design","040401","Master's Degree","7",24
+2014,"New York, NY","16000US3651000","Environmental Design","040401","Master's Degree","7",15
+2015,"New York, NY","16000US3651000","Landscape Architecture","040601","Master's Degree","7",19
+2013,"New York, NY","16000US3651000","Landscape Architecture","040601","Master's Degree","7",34
+2014,"New York, NY","16000US3651000","Landscape Architecture","040601","Master's Degree","7",21
+2015,"New York, NY","16000US3651000","General Architectural History & Criticism","040801","Master's Degree","7",12
+2013,"New York, NY","16000US3651000","General Architectural History & Criticism","040801","Master's Degree","7",9
+2014,"New York, NY","16000US3651000","General Architectural History & Criticism","040801","Master's Degree","7",12
+2015,"New York, NY","16000US3651000","Real Estate Development","041001","Master's Degree","7",89
+2013,"New York, NY","16000US3651000","Real Estate Development","041001","Master's Degree","7",88
+2014,"New York, NY","16000US3651000","Real Estate Development","041001","Master's Degree","7",88
+2015,"New York, NY","16000US3651000","Other Architecture & Related Services","049999","Master's Degree","7",38
+2013,"New York, NY","16000US3651000","Other Architecture & Related Services","049999","Master's Degree","7",35
+2014,"New York, NY","16000US3651000","Other Architecture & Related Services","049999","Master's Degree","7",32
+2015,"New York, NY","16000US3651000","American & U.S. Studies","050102","Master's Degree","7",22
+2013,"New York, NY","16000US3651000","American & U.S. Studies","050102","Master's Degree","7",19
+2014,"New York, NY","16000US3651000","American & U.S. Studies","050102","Master's Degree","7",29
+2015,"New York, NY","16000US3651000","East Asian Studies","050104","Master's Degree","7",17
+2013,"New York, NY","16000US3651000","East Asian Studies","050104","Master's Degree","7",23
+2014,"New York, NY","16000US3651000","East Asian Studies","050104","Master's Degree","7",30
+2015,"New York, NY","16000US3651000","Russian, Central European, East European, & Eurasian Studies","050105","Master's Degree","7",2
+2013,"New York, NY","16000US3651000","Russian, Central European, East European, & Eurasian Studies","050105","Master's Degree","7",2
+2014,"New York, NY","16000US3651000","Russian, Central European, East European, & Eurasian Studies","050105","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","European Studies","050106","Master's Degree","7",3
+2013,"New York, NY","16000US3651000","European Studies","050106","Master's Degree","7",10
+2014,"New York, NY","16000US3651000","European Studies","050106","Master's Degree","7",7
+2015,"New York, NY","16000US3651000","Latin American Studies","050107","Master's Degree","7",16
+2013,"New York, NY","16000US3651000","Latin American Studies","050107","Master's Degree","7",10
+2014,"New York, NY","16000US3651000","Latin American Studies","050107","Master's Degree","7",18
+2015,"New York, NY","16000US3651000","Near & Middle Eastern Studies","050108","Master's Degree","7",30
+2013,"New York, NY","16000US3651000","Near & Middle Eastern Studies","050108","Master's Degree","7",21
+2014,"New York, NY","16000US3651000","Near & Middle Eastern Studies","050108","Master's Degree","7",32
+2015,"New York, NY","16000US3651000","Russian Studies","050110","Master's Degree","7",3
+2013,"New York, NY","16000US3651000","Russian Studies","050110","Master's Degree","7",2
+2014,"New York, NY","16000US3651000","Russian Studies","050110","Master's Degree","7",3
+2015,"New York, NY","16000US3651000","South Asian Studies","050112","Master's Degree","7",8
+2013,"New York, NY","16000US3651000","South Asian Studies","050112","Master's Degree","7",2
+2014,"New York, NY","16000US3651000","South Asian Studies","050112","Master's Degree","7",8
+2015,"New York, NY","16000US3651000","Western European Studies","050114","Master's Degree","7",4
+2013,"New York, NY","16000US3651000","Western European Studies","050114","Master's Degree","7",41
+2014,"New York, NY","16000US3651000","Western European Studies","050114","Master's Degree","7",14
+2015,"New York, NY","16000US3651000","Chinese Studies","050123","Master's Degree","7",2
+2013,"New York, NY","16000US3651000","Chinese Studies","050123","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","French Studies","050124","Master's Degree","7",16
+2014,"New York, NY","16000US3651000","French Studies","050124","Master's Degree","7",12
+2015,"New York, NY","16000US3651000","Italian Studies","050126","Master's Degree","7",5
+2014,"New York, NY","16000US3651000","Italian Studies","050126","Master's Degree","7",4
+2015,"New York, NY","16000US3651000","Irish Studies","050133","Master's Degree","7",10
+2013,"New York, NY","16000US3651000","Irish Studies","050133","Master's Degree","7",14
+2014,"New York, NY","16000US3651000","Irish Studies","050133","Master's Degree","7",2
+2015,"New York, NY","16000US3651000","Latin American & Caribbean Studies","050134","Master's Degree","7",10
+2014,"New York, NY","16000US3651000","Latin American & Caribbean Studies","050134","Master's Degree","7",14
+2015,"New York, NY","16000US3651000","African-American & Black Studies","050201","Master's Degree","7",5
+2013,"New York, NY","16000US3651000","African-American & Black Studies","050201","Master's Degree","7",13
+2014,"New York, NY","16000US3651000","African-American & Black Studies","050201","Master's Degree","7",6
+2015,"New York, NY","16000US3651000","Disability Studies","050210","Master's Degree","7",24
+2013,"New York, NY","16000US3651000","Disability Studies","050210","Master's Degree","7",20
+2014,"New York, NY","16000US3651000","Disability Studies","050210","Master's Degree","7",24
+2013,"New York, NY","16000US3651000","Other Ethnic, Minority, Gender, & Group Studies","050299","Master's Degree","7",5
+2015,"New York, NY","16000US3651000","General Communication","090100","Master's Degree","7",9
+2015,"New York, NY","16000US3651000","Speech Communication & Rhetoric","090101","Master's Degree","7",57
+2013,"New York, NY","16000US3651000","Speech Communication & Rhetoric","090101","Master's Degree","7",110
+2014,"New York, NY","16000US3651000","Speech Communication & Rhetoric","090101","Master's Degree","7",137
+2015,"New York, NY","16000US3651000","Mass Communication & Media Studies","090102","Master's Degree","7",159
+2013,"New York, NY","16000US3651000","Mass Communication & Media Studies","090102","Master's Degree","7",224
+2014,"New York, NY","16000US3651000","Mass Communication & Media Studies","090102","Master's Degree","7",193
+2015,"New York, NY","16000US3651000","Other Communication & Media Studies","090199","Master's Degree","7",66
+2013,"New York, NY","16000US3651000","Other Communication & Media Studies","090199","Master's Degree","7",85
+2014,"New York, NY","16000US3651000","Other Communication & Media Studies","090199","Master's Degree","7",98
+2015,"New York, NY","16000US3651000","Journalism","090401","Master's Degree","7",210
+2013,"New York, NY","16000US3651000","Journalism","090401","Master's Degree","7",471
+2014,"New York, NY","16000US3651000","Journalism","090401","Master's Degree","7",501
+2015,"New York, NY","16000US3651000","Other Journalism","090499","Master's Degree","7",298
+2015,"New York, NY","16000US3651000","Radio & Television","090701","Master's Degree","7",5
+2013,"New York, NY","16000US3651000","Radio & Television","090701","Master's Degree","7",8
+2014,"New York, NY","16000US3651000","Radio & Television","090701","Master's Degree","7",11
+2015,"New York, NY","16000US3651000","Digital Communication & Multimedia","090702","Master's Degree","7",2
+2014,"New York, NY","16000US3651000","Digital Communication & Multimedia","090702","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","Public Relations, Advertising, & Applied Communication","090900","Master's Degree","7",23
+2015,"New York, NY","16000US3651000","Advertising","090903","Master's Degree","7",25
+2013,"New York, NY","16000US3651000","Advertising","090903","Master's Degree","7",23
+2014,"New York, NY","16000US3651000","Advertising","090903","Master's Degree","7",27
+2015,"New York, NY","16000US3651000","International & Intercultural Communication","090907","Master's Degree","7",20
+2015,"New York, NY","16000US3651000","Publishing","091001","Master's Degree","7",104
+2013,"New York, NY","16000US3651000","Publishing","091001","Master's Degree","7",97
+2014,"New York, NY","16000US3651000","Publishing","091001","Master's Degree","7",94
+2015,"New York, NY","16000US3651000","Other Communication, Journalism, & Related Programs","099999","Master's Degree","7",211
+2013,"New York, NY","16000US3651000","Other Communication, Journalism, & Related Programs","099999","Master's Degree","7",155
+2014,"New York, NY","16000US3651000","Other Communication, Journalism, & Related Programs","099999","Master's Degree","7",253
+2015,"New York, NY","16000US3651000","Communications Technology","100105","Master's Degree","7",18
+2013,"New York, NY","16000US3651000","Communications Technology","100105","Master's Degree","7",12
+2014,"New York, NY","16000US3651000","Communications Technology","100105","Master's Degree","7",20
+2015,"New York, NY","16000US3651000","Radio & Television Broadcasting Technology","100202","Master's Degree","7",17
+2013,"New York, NY","16000US3651000","Radio & Television Broadcasting Technology","100202","Master's Degree","7",20
+2014,"New York, NY","16000US3651000","Radio & Television Broadcasting Technology","100202","Master's Degree","7",25
+2015,"New York, NY","16000US3651000","Animation, Interactive Technology, Video Graphics, & Special Effects","100304","Master's Degree","7",18
+2013,"New York, NY","16000US3651000","Animation, Interactive Technology, Video Graphics, & Special Effects","100304","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","General Computer & Information Sciences","110101","Master's Degree","7",536
+2013,"New York, NY","16000US3651000","General Computer & Information Sciences","110101","Master's Degree","7",204
+2014,"New York, NY","16000US3651000","General Computer & Information Sciences","110101","Master's Degree","7",333
+2015,"New York, NY","16000US3651000","Information Technology","110103","Master's Degree","7",34
+2013,"New York, NY","16000US3651000","Information Technology","110103","Master's Degree","7",56
+2014,"New York, NY","16000US3651000","Information Technology","110103","Master's Degree","7",57
+2015,"New York, NY","16000US3651000","Informatics","110104","Master's Degree","7",22
+2014,"New York, NY","16000US3651000","Other Computer & Information Sciences","110199","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","Information Science","110401","Master's Degree","7",224
+2013,"New York, NY","16000US3651000","Information Science","110401","Master's Degree","7",206
+2014,"New York, NY","16000US3651000","Information Science","110401","Master's Degree","7",207
+2015,"New York, NY","16000US3651000","Computer Science","110701","Master's Degree","7",352
+2013,"New York, NY","16000US3651000","Computer Science","110701","Master's Degree","7",424
+2014,"New York, NY","16000US3651000","Computer Science","110701","Master's Degree","7",297
+2015,"New York, NY","16000US3651000","Web Page, Digital, & Information Resource Design","110801","Master's Degree","7",130
+2013,"New York, NY","16000US3651000","Web Page, Digital, & Information Resource Design","110801","Master's Degree","7",114
+2014,"New York, NY","16000US3651000","Web Page, Digital, & Information Resource Design","110801","Master's Degree","7",115
+2015,"New York, NY","16000US3651000","Computer Graphics","110803","Master's Degree","7",70
+2013,"New York, NY","16000US3651000","Computer Graphics","110803","Master's Degree","7",70
+2014,"New York, NY","16000US3651000","Computer Graphics","110803","Master's Degree","7",50
+2015,"New York, NY","16000US3651000","Other Computer Software & Media Applications","110899","Master's Degree","7",27
+2013,"New York, NY","16000US3651000","Other Computer Software & Media Applications","110899","Master's Degree","7",30
+2014,"New York, NY","16000US3651000","Other Computer Software & Media Applications","110899","Master's Degree","7",17
+2013,"New York, NY","16000US3651000","Computer Systems Networking & Telecommunications","110901","Master's Degree","7",27
+2015,"New York, NY","16000US3651000","Computer & Information Systems Security","111003","Master's Degree","7",36
+2013,"New York, NY","16000US3651000","Computer & Information Systems Security","111003","Master's Degree","7",31
+2014,"New York, NY","16000US3651000","Computer & Information Systems Security","111003","Master's Degree","7",32
+2013,"New York, NY","16000US3651000","Other Computer & Information Technology Services Management","111099","Master's Degree","7",4
+2015,"New York, NY","16000US3651000","Other Computer & Information Support Services","119999","Master's Degree","7",11
+2013,"New York, NY","16000US3651000","Other Computer & Information Support Services","119999","Master's Degree","7",3
+2014,"New York, NY","16000US3651000","Other Computer & Information Support Services","119999","Master's Degree","7",24
+2015,"New York, NY","16000US3651000","General Education","130101","Master's Degree","7",6
+2013,"New York, NY","16000US3651000","General Education","130101","Master's Degree","7",62
+2014,"New York, NY","16000US3651000","General Education","130101","Master's Degree","7",371
+2015,"New York, NY","16000US3651000","Bilingual & Multilingual Education","130201","Master's Degree","7",33
+2013,"New York, NY","16000US3651000","Bilingual & Multilingual Education","130201","Master's Degree","7",43
+2014,"New York, NY","16000US3651000","Bilingual & Multilingual Education","130201","Master's Degree","7",50
+2015,"New York, NY","16000US3651000","Multicultural Education","130202","Master's Degree","7",16
+2013,"New York, NY","16000US3651000","Multicultural Education","130202","Master's Degree","7",15
+2014,"New York, NY","16000US3651000","Multicultural Education","130202","Master's Degree","7",12
+2015,"New York, NY","16000US3651000","Curriculum & Instruction","130301","Master's Degree","7",57
+2013,"New York, NY","16000US3651000","Curriculum & Instruction","130301","Master's Degree","7",55
+2014,"New York, NY","16000US3651000","Curriculum & Instruction","130301","Master's Degree","7",57
+2015,"New York, NY","16000US3651000","General Educational Leadership & Administration","130401","Master's Degree","7",357
+2013,"New York, NY","16000US3651000","General Educational Leadership & Administration","130401","Master's Degree","7",304
+2014,"New York, NY","16000US3651000","General Educational Leadership & Administration","130401","Master's Degree","7",263
+2015,"New York, NY","16000US3651000","Educational, Instructional, & Curriculum Supervision","130404","Master's Degree","7",172
+2013,"New York, NY","16000US3651000","Educational, Instructional, & Curriculum Supervision","130404","Master's Degree","7",233
+2014,"New York, NY","16000US3651000","Educational, Instructional, & Curriculum Supervision","130404","Master's Degree","7",204
+2015,"New York, NY","16000US3651000","Higher Education & Administration","130406","Master's Degree","7",80
+2013,"New York, NY","16000US3651000","Higher Education & Administration","130406","Master's Degree","7",105
+2014,"New York, NY","16000US3651000","Higher Education & Administration","130406","Master's Degree","7",88
+2013,"New York, NY","16000US3651000","Elementary & Middle School Administration","130408","Master's Degree","7",22
+2015,"New York, NY","16000US3651000","Urban Education & Leadership","130410","Master's Degree","7",12
+2013,"New York, NY","16000US3651000","Urban Education & Leadership","130410","Master's Degree","7",8
+2014,"New York, NY","16000US3651000","Urban Education & Leadership","130410","Master's Degree","7",19
+2015,"New York, NY","16000US3651000","Superintendency & Educational System Administration","130411","Master's Degree","7",63
+2013,"New York, NY","16000US3651000","Superintendency & Educational System Administration","130411","Master's Degree","7",126
+2014,"New York, NY","16000US3651000","Superintendency & Educational System Administration","130411","Master's Degree","7",69
+2015,"New York, NY","16000US3651000","Other Educational Administration & Supervision","130499","Master's Degree","7",56
+2014,"New York, NY","16000US3651000","Other Educational Administration & Supervision","130499","Master's Degree","7",48
+2015,"New York, NY","16000US3651000","Educational & Instructional Technology","130501","Master's Degree","7",66
+2013,"New York, NY","16000US3651000","Educational & Instructional Technology","130501","Master's Degree","7",29
+2014,"New York, NY","16000US3651000","Educational & Instructional Technology","130501","Master's Degree","7",62
+2015,"New York, NY","16000US3651000","Educational Statistics & Research Methods","130603","Master's Degree","7",16
+2013,"New York, NY","16000US3651000","Educational Statistics & Research Methods","130603","Master's Degree","7",13
+2014,"New York, NY","16000US3651000","Educational Statistics & Research Methods","130603","Master's Degree","7",13
+2015,"New York, NY","16000US3651000","International & Comparative Education","130701","Master's Degree","7",132
+2013,"New York, NY","16000US3651000","International & Comparative Education","130701","Master's Degree","7",62
+2014,"New York, NY","16000US3651000","International & Comparative Education","130701","Master's Degree","7",141
+2015,"New York, NY","16000US3651000","Social & Philosophical Foundations of Education","130901","Master's Degree","7",48
+2013,"New York, NY","16000US3651000","Social & Philosophical Foundations of Education","130901","Master's Degree","7",18
+2014,"New York, NY","16000US3651000","Social & Philosophical Foundations of Education","130901","Master's Degree","7",30
+2015,"New York, NY","16000US3651000","General Special Education & Teaching","131001","Master's Degree","7",424
+2013,"New York, NY","16000US3651000","General Special Education & Teaching","131001","Master's Degree","7",1014
+2014,"New York, NY","16000US3651000","General Special Education & Teaching","131001","Master's Degree","7",547
+2015,"New York, NY","16000US3651000","Education of Individuals with Hearing Impairments","131003","Master's Degree","7",25
+2013,"New York, NY","16000US3651000","Education of Individuals with Hearing Impairments","131003","Master's Degree","7",35
+2014,"New York, NY","16000US3651000","Education of Individuals with Hearing Impairments","131003","Master's Degree","7",25
+2015,"New York, NY","16000US3651000","Education of the Gifted & Talented","131004","Master's Degree","7",6
+2013,"New York, NY","16000US3651000","Education of the Gifted & Talented","131004","Master's Degree","7",4
+2014,"New York, NY","16000US3651000","Education of the Gifted & Talented","131004","Master's Degree","7",4
+2015,"New York, NY","16000US3651000","Education of Individuals with Emotional Disturbances","131005","Master's Degree","7",22
+2013,"New York, NY","16000US3651000","Education of Individuals with Emotional Disturbances","131005","Master's Degree","7",28
+2014,"New York, NY","16000US3651000","Education of Individuals with Emotional Disturbances","131005","Master's Degree","7",15
+2015,"New York, NY","16000US3651000","Education of Individuals with Mental Retardation","131006","Master's Degree","7",27
+2013,"New York, NY","16000US3651000","Education of Individuals with Mental Retardation","131006","Master's Degree","7",117
+2014,"New York, NY","16000US3651000","Education of Individuals with Mental Retardation","131006","Master's Degree","7",45
+2015,"New York, NY","16000US3651000","Education of Individuals with Multiple Disabilities","131007","Master's Degree","7",6
+2013,"New York, NY","16000US3651000","Education of Individuals with Multiple Disabilities","131007","Master's Degree","7",7
+2014,"New York, NY","16000US3651000","Education of Individuals with Multiple Disabilities","131007","Master's Degree","7",6
+2015,"New York, NY","16000US3651000","Education of Individuals with Vision Impairments","131009","Master's Degree","7",11
+2013,"New York, NY","16000US3651000","Education of Individuals with Vision Impairments","131009","Master's Degree","7",13
+2014,"New York, NY","16000US3651000","Education of Individuals with Vision Impairments","131009","Master's Degree","7",8
+2015,"New York, NY","16000US3651000","Education of Individuals with Specific Learning Disabilities","131011","Master's Degree","7",18
+2013,"New York, NY","16000US3651000","Education of Individuals with Specific Learning Disabilities","131011","Master's Degree","7",23
+2014,"New York, NY","16000US3651000","Education of Individuals with Specific Learning Disabilities","131011","Master's Degree","7",26
+2015,"New York, NY","16000US3651000","Education of Individuals with Speech or Language Impairments","131012","Master's Degree","7",1
+2013,"New York, NY","16000US3651000","Education of Individuals with Speech or Language Impairments","131012","Master's Degree","7",14
+2014,"New York, NY","16000US3651000","Education of Individuals with Speech or Language Impairments","131012","Master's Degree","7",14
+2015,"New York, NY","16000US3651000","Education of Individuals in Early Childhood Special Education Programs","131015","Master's Degree","7",567
+2013,"New York, NY","16000US3651000","Education of Individuals in Early Childhood Special Education Programs","131015","Master's Degree","7",653
+2014,"New York, NY","16000US3651000","Education of Individuals in Early Childhood Special Education Programs","131015","Master's Degree","7",776
+2015,"New York, NY","16000US3651000","Education of Individuals in Elementary Special Education Programs","131017","Master's Degree","7",670
+2013,"New York, NY","16000US3651000","Education of Individuals in Elementary Special Education Programs","131017","Master's Degree","7",397
+2014,"New York, NY","16000US3651000","Education of Individuals in Elementary Special Education Programs","131017","Master's Degree","7",1189
+2015,"New York, NY","16000US3651000","Education of Individuals in Middle School Special Education Programs","131018","Master's Degree","7",126
+2013,"New York, NY","16000US3651000","Education of Individuals in Middle School Special Education Programs","131018","Master's Degree","7",203
+2014,"New York, NY","16000US3651000","Education of Individuals in Middle School Special Education Programs","131018","Master's Degree","7",242
+2015,"New York, NY","16000US3651000","Education of Individuals in Secondary Special Education Programs","131019","Master's Degree","7",391
+2013,"New York, NY","16000US3651000","Education of Individuals in Secondary Special Education Programs","131019","Master's Degree","7",202
+2014,"New York, NY","16000US3651000","Education of Individuals in Secondary Special Education Programs","131019","Master's Degree","7",268
+2015,"New York, NY","16000US3651000","Other Special Education & Teaching","131099","Master's Degree","7",68
+2014,"New York, NY","16000US3651000","Other Special Education & Teaching","131099","Master's Degree","7",68
+2015,"New York, NY","16000US3651000","School Counseling & Guidance Services","131101","Master's Degree","7",321
+2013,"New York, NY","16000US3651000","School Counseling & Guidance Services","131101","Master's Degree","7",408
+2014,"New York, NY","16000US3651000","School Counseling & Guidance Services","131101","Master's Degree","7",329
+2015,"New York, NY","16000US3651000","Other Student Counseling & Personal Services","131199","Master's Degree","7",10
+2014,"New York, NY","16000US3651000","Other Student Counseling & Personal Services","131199","Master's Degree","7",25
+2015,"New York, NY","16000US3651000","Adult & Continuing Education","131201","Master's Degree","7",12
+2013,"New York, NY","16000US3651000","Adult & Continuing Education","131201","Master's Degree","7",6
+2014,"New York, NY","16000US3651000","Adult & Continuing Education","131201","Master's Degree","7",9
+2015,"New York, NY","16000US3651000","Elementary Education & Teaching","131202","Master's Degree","7",536
+2013,"New York, NY","16000US3651000","Elementary Education & Teaching","131202","Master's Degree","7",896
+2014,"New York, NY","16000US3651000","Elementary Education & Teaching","131202","Master's Degree","7",724
+2015,"New York, NY","16000US3651000","Middle School Education & Teaching","131203","Master's Degree","7",22
+2013,"New York, NY","16000US3651000","Middle School Education & Teaching","131203","Master's Degree","7",34
+2014,"New York, NY","16000US3651000","Middle School Education & Teaching","131203","Master's Degree","7",43
+2015,"New York, NY","16000US3651000","Secondary Education & Teaching","131205","Master's Degree","7",94
+2013,"New York, NY","16000US3651000","Secondary Education & Teaching","131205","Master's Degree","7",182
+2014,"New York, NY","16000US3651000","Secondary Education & Teaching","131205","Master's Degree","7",157
+2015,"New York, NY","16000US3651000","Teacher Education","131206","Master's Degree","7",701
+2013,"New York, NY","16000US3651000","Teacher Education","131206","Master's Degree","7",58
+2014,"New York, NY","16000US3651000","Teacher Education","131206","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","Early Childhood Education & Teaching","131210","Master's Degree","7",235
+2013,"New York, NY","16000US3651000","Early Childhood Education & Teaching","131210","Master's Degree","7",299
+2014,"New York, NY","16000US3651000","Early Childhood Education & Teaching","131210","Master's Degree","7",330
+2015,"New York, NY","16000US3651000","Art Teacher Education","131302","Master's Degree","7",108
+2013,"New York, NY","16000US3651000","Art Teacher Education","131302","Master's Degree","7",129
+2014,"New York, NY","16000US3651000","Art Teacher Education","131302","Master's Degree","7",98
+2015,"New York, NY","16000US3651000","Business Teacher Education","131303","Master's Degree","7",9
+2013,"New York, NY","16000US3651000","Business Teacher Education","131303","Master's Degree","7",6
+2014,"New York, NY","16000US3651000","Business Teacher Education","131303","Master's Degree","7",10
+2015,"New York, NY","16000US3651000","English & Language Arts Teacher Education","131305","Master's Degree","7",249
+2013,"New York, NY","16000US3651000","English & Language Arts Teacher Education","131305","Master's Degree","7",238
+2014,"New York, NY","16000US3651000","English & Language Arts Teacher Education","131305","Master's Degree","7",233
+2015,"New York, NY","16000US3651000","Foreign Language Teacher Education","131306","Master's Degree","7",8
+2013,"New York, NY","16000US3651000","Foreign Language Teacher Education","131306","Master's Degree","7",9
+2014,"New York, NY","16000US3651000","Foreign Language Teacher Education","131306","Master's Degree","7",29
+2015,"New York, NY","16000US3651000","Health Teacher Education","131307","Master's Degree","7",36
+2013,"New York, NY","16000US3651000","Health Teacher Education","131307","Master's Degree","7",41
+2014,"New York, NY","16000US3651000","Health Teacher Education","131307","Master's Degree","7",31
+2015,"New York, NY","16000US3651000","Family & Consumer Sciences Teacher Education","131308","Master's Degree","7",9
+2013,"New York, NY","16000US3651000","Family & Consumer Sciences Teacher Education","131308","Master's Degree","7",8
+2014,"New York, NY","16000US3651000","Family & Consumer Sciences Teacher Education","131308","Master's Degree","7",8
+2015,"New York, NY","16000US3651000","Technology & Industrial Arts Teacher Education","131309","Master's Degree","7",16
+2013,"New York, NY","16000US3651000","Technology & Industrial Arts Teacher Education","131309","Master's Degree","7",15
+2014,"New York, NY","16000US3651000","Technology & Industrial Arts Teacher Education","131309","Master's Degree","7",8
+2015,"New York, NY","16000US3651000","Mathematics Teacher Education","131311","Master's Degree","7",205
+2013,"New York, NY","16000US3651000","Mathematics Teacher Education","131311","Master's Degree","7",331
+2014,"New York, NY","16000US3651000","Mathematics Teacher Education","131311","Master's Degree","7",351
+2015,"New York, NY","16000US3651000","Music Teacher Education","131312","Master's Degree","7",120
+2013,"New York, NY","16000US3651000","Music Teacher Education","131312","Master's Degree","7",114
+2014,"New York, NY","16000US3651000","Music Teacher Education","131312","Master's Degree","7",131
+2015,"New York, NY","16000US3651000","Physical Education Teaching & Coaching","131314","Master's Degree","7",71
+2013,"New York, NY","16000US3651000","Physical Education Teaching & Coaching","131314","Master's Degree","7",87
+2014,"New York, NY","16000US3651000","Physical Education Teaching & Coaching","131314","Master's Degree","7",59
+2015,"New York, NY","16000US3651000","Reading Teacher Education","131315","Master's Degree","7",346
+2013,"New York, NY","16000US3651000","Reading Teacher Education","131315","Master's Degree","7",395
+2014,"New York, NY","16000US3651000","Reading Teacher Education","131315","Master's Degree","7",344
+2015,"New York, NY","16000US3651000","General Science Teacher Education","131316","Master's Degree","7",73
+2013,"New York, NY","16000US3651000","General Science Teacher Education","131316","Master's Degree","7",80
+2014,"New York, NY","16000US3651000","General Science Teacher Education","131316","Master's Degree","7",112
+2015,"New York, NY","16000US3651000","Social Studies Teacher Education","131318","Master's Degree","7",170
+2013,"New York, NY","16000US3651000","Social Studies Teacher Education","131318","Master's Degree","7",201
+2014,"New York, NY","16000US3651000","Social Studies Teacher Education","131318","Master's Degree","7",152
+2015,"New York, NY","16000US3651000","Computer Teacher Education","131321","Master's Degree","7",11
+2013,"New York, NY","16000US3651000","Computer Teacher Education","131321","Master's Degree","7",25
+2014,"New York, NY","16000US3651000","Computer Teacher Education","131321","Master's Degree","7",20
+2015,"New York, NY","16000US3651000","Biology Teacher Education","131322","Master's Degree","7",25
+2013,"New York, NY","16000US3651000","Biology Teacher Education","131322","Master's Degree","7",55
+2014,"New York, NY","16000US3651000","Biology Teacher Education","131322","Master's Degree","7",46
+2015,"New York, NY","16000US3651000","Chemistry Teacher Education","131323","Master's Degree","7",11
+2013,"New York, NY","16000US3651000","Chemistry Teacher Education","131323","Master's Degree","7",25
+2014,"New York, NY","16000US3651000","Chemistry Teacher Education","131323","Master's Degree","7",15
+2015,"New York, NY","16000US3651000","Drama & Dance Teacher Education","131324","Master's Degree","7",6
+2014,"New York, NY","16000US3651000","Drama & Dance Teacher Education","131324","Master's Degree","7",9
+2015,"New York, NY","16000US3651000","French Language Teacher Education","131325","Master's Degree","7",5
+2013,"New York, NY","16000US3651000","French Language Teacher Education","131325","Master's Degree","7",7
+2014,"New York, NY","16000US3651000","French Language Teacher Education","131325","Master's Degree","7",13
+2015,"New York, NY","16000US3651000","Physics Teacher Education","131329","Master's Degree","7",10
+2013,"New York, NY","16000US3651000","Physics Teacher Education","131329","Master's Degree","7",8
+2014,"New York, NY","16000US3651000","Physics Teacher Education","131329","Master's Degree","7",6
+2015,"New York, NY","16000US3651000","Spanish Language Teacher Education","131330","Master's Degree","7",38
+2013,"New York, NY","16000US3651000","Spanish Language Teacher Education","131330","Master's Degree","7",48
+2014,"New York, NY","16000US3651000","Spanish Language Teacher Education","131330","Master's Degree","7",32
+2015,"New York, NY","16000US3651000","Latin Teacher Education","131333","Master's Degree","7",2
+2013,"New York, NY","16000US3651000","Latin Teacher Education","131333","Master's Degree","7",5
+2014,"New York, NY","16000US3651000","Latin Teacher Education","131333","Master's Degree","7",2
+2015,"New York, NY","16000US3651000","School Librarian & Library Media Specialist","131334","Master's Degree","7",13
+2013,"New York, NY","16000US3651000","School Librarian & Library Media Specialist","131334","Master's Degree","7",31
+2014,"New York, NY","16000US3651000","School Librarian & Library Media Specialist","131334","Master's Degree","7",20
+2015,"New York, NY","16000US3651000","Earth Science Teacher Education","131337","Master's Degree","7",10
+2013,"New York, NY","16000US3651000","Earth Science Teacher Education","131337","Master's Degree","7",16
+2014,"New York, NY","16000US3651000","Earth Science Teacher Education","131337","Master's Degree","7",27
+2015,"New York, NY","16000US3651000","Other Teacher Education & Professional Development","131399","Master's Degree","7",22
+2013,"New York, NY","16000US3651000","Other Teacher Education & Professional Development","131399","Master's Degree","7",31
+2014,"New York, NY","16000US3651000","Other Teacher Education & Professional Development","131399","Master's Degree","7",19
+2015,"New York, NY","16000US3651000","Teaching English as a Second or Foreign Language Instructor","131401","Master's Degree","7",472
+2013,"New York, NY","16000US3651000","Teaching English as a Second or Foreign Language Instructor","131401","Master's Degree","7",506
+2014,"New York, NY","16000US3651000","Teaching English as a Second or Foreign Language Instructor","131401","Master's Degree","7",545
+2015,"New York, NY","16000US3651000","Other Education","139999","Master's Degree","7",97
+2013,"New York, NY","16000US3651000","Other Education","139999","Master's Degree","7",92
+2014,"New York, NY","16000US3651000","Other Education","139999","Master's Degree","7",124
+2015,"New York, NY","16000US3651000","Bioengineering & Biomedical Engineering","140501","Master's Degree","7",54
+2013,"New York, NY","16000US3651000","Bioengineering & Biomedical Engineering","140501","Master's Degree","7",59
+2014,"New York, NY","16000US3651000","Bioengineering & Biomedical Engineering","140501","Master's Degree","7",50
+2015,"New York, NY","16000US3651000","Chemical Engineering","140701","Master's Degree","7",92
+2013,"New York, NY","16000US3651000","Chemical Engineering","140701","Master's Degree","7",78
+2014,"New York, NY","16000US3651000","Chemical Engineering","140701","Master's Degree","7",78
+2015,"New York, NY","16000US3651000","Chemical & Biomolecular Engineering","140702","Master's Degree","7",1
+2014,"New York, NY","16000US3651000","Chemical & Biomolecular Engineering","140702","Master's Degree","7",2
+2015,"New York, NY","16000US3651000","General Civil Engineering","140801","Master's Degree","7",219
+2013,"New York, NY","16000US3651000","General Civil Engineering","140801","Master's Degree","7",185
+2014,"New York, NY","16000US3651000","General Civil Engineering","140801","Master's Degree","7",207
+2015,"New York, NY","16000US3651000","Structural Engineering","140803","Master's Degree","7",1
+2013,"New York, NY","16000US3651000","Structural Engineering","140803","Master's Degree","7",1
+2014,"New York, NY","16000US3651000","Structural Engineering","140803","Master's Degree","7",3
+2015,"New York, NY","16000US3651000","Transportation & Highway Engineering","140804","Master's Degree","7",14
+2013,"New York, NY","16000US3651000","Transportation & Highway Engineering","140804","Master's Degree","7",24
+2014,"New York, NY","16000US3651000","Transportation & Highway Engineering","140804","Master's Degree","7",12
+2015,"New York, NY","16000US3651000","General Computer Engineering","140901","Master's Degree","7",110
+2013,"New York, NY","16000US3651000","General Computer Engineering","140901","Master's Degree","7",46
+2014,"New York, NY","16000US3651000","General Computer Engineering","140901","Master's Degree","7",67
+2015,"New York, NY","16000US3651000","Computer Software Engineering","140903","Master's Degree","7",7
+2013,"New York, NY","16000US3651000","Computer Software Engineering","140903","Master's Degree","7",6
+2014,"New York, NY","16000US3651000","Computer Software Engineering","140903","Master's Degree","7",21
+2015,"New York, NY","16000US3651000","Electrical & Electronics Engineering","141001","Master's Degree","7",403
+2013,"New York, NY","16000US3651000","Electrical & Electronics Engineering","141001","Master's Degree","7",468
+2014,"New York, NY","16000US3651000","Electrical & Electronics Engineering","141001","Master's Degree","7",414
+2015,"New York, NY","16000US3651000","Engineering Physics & Applied Physics","141201","Master's Degree","7",23
+2013,"New York, NY","16000US3651000","Engineering Physics & Applied Physics","141201","Master's Degree","7",19
+2014,"New York, NY","16000US3651000","Engineering Physics & Applied Physics","141201","Master's Degree","7",26
+2015,"New York, NY","16000US3651000","Environmental Health Engineering","141401","Master's Degree","7",63
+2013,"New York, NY","16000US3651000","Environmental Health Engineering","141401","Master's Degree","7",44
+2014,"New York, NY","16000US3651000","Environmental Health Engineering","141401","Master's Degree","7",55
+2015,"New York, NY","16000US3651000","Mechanical Engineering","141901","Master's Degree","7",174
+2013,"New York, NY","16000US3651000","Mechanical Engineering","141901","Master's Degree","7",127
+2014,"New York, NY","16000US3651000","Mechanical Engineering","141901","Master's Degree","7",150
+2015,"New York, NY","16000US3651000","Systems Engineering","142701","Master's Degree","7",6
+2013,"New York, NY","16000US3651000","Systems Engineering","142701","Master's Degree","7",9
+2014,"New York, NY","16000US3651000","Systems Engineering","142701","Master's Degree","7",4
+2013,"New York, NY","16000US3651000","Construction Engineering","143301","Master's Degree","7",34
+2014,"New York, NY","16000US3651000","Construction Engineering","143301","Master's Degree","7",25
+2015,"New York, NY","16000US3651000","Industrial Engineering","143501","Master's Degree","7",127
+2013,"New York, NY","16000US3651000","Industrial Engineering","143501","Master's Degree","7",98
+2014,"New York, NY","16000US3651000","Industrial Engineering","143501","Master's Degree","7",131
+2015,"New York, NY","16000US3651000","Manufacturing Engineering","143601","Master's Degree","7",11
+2013,"New York, NY","16000US3651000","Manufacturing Engineering","143601","Master's Degree","7",4
+2014,"New York, NY","16000US3651000","Manufacturing Engineering","143601","Master's Degree","7",6
+2015,"New York, NY","16000US3651000","Operations Research","143701","Master's Degree","7",293
+2013,"New York, NY","16000US3651000","Operations Research","143701","Master's Degree","7",275
+2014,"New York, NY","16000US3651000","Operations Research","143701","Master's Degree","7",257
+2015,"New York, NY","16000US3651000","Telecommunications Technology","150305","Master's Degree","7",5
+2013,"New York, NY","16000US3651000","Telecommunications Technology","150305","Master's Degree","7",5
+2014,"New York, NY","16000US3651000","Telecommunications Technology","150305","Master's Degree","7",11
+2013,"New York, NY","16000US3651000","Engineering & Industrial Management","151501","Master's Degree","7",79
+2015,"New York, NY","16000US3651000","General Foreign Languages & Literatures","160101","Master's Degree","7",6
+2013,"New York, NY","16000US3651000","General Foreign Languages & Literatures","160101","Master's Degree","7",6
+2014,"New York, NY","16000US3651000","General Foreign Languages & Literatures","160101","Master's Degree","7",12
+2015,"New York, NY","16000US3651000","Linguistics","160102","Master's Degree","7",74
+2013,"New York, NY","16000US3651000","Linguistics","160102","Master's Degree","7",89
+2014,"New York, NY","16000US3651000","Linguistics","160102","Master's Degree","7",64
+2015,"New York, NY","16000US3651000","Language Interpretation & Translation","160103","Master's Degree","7",21
+2014,"New York, NY","16000US3651000","Language Interpretation & Translation","160103","Master's Degree","7",16
+2015,"New York, NY","16000US3651000","Comparative Literature","160104","Master's Degree","7",21
+2013,"New York, NY","16000US3651000","Comparative Literature","160104","Master's Degree","7",17
+2014,"New York, NY","16000US3651000","Comparative Literature","160104","Master's Degree","7",17
+2015,"New York, NY","16000US3651000","General East Asian Languages, Literatures, & Linguistics","160300","Master's Degree","7",33
+2013,"New York, NY","16000US3651000","General East Asian Languages, Literatures, & Linguistics","160300","Master's Degree","7",28
+2014,"New York, NY","16000US3651000","General East Asian Languages, Literatures, & Linguistics","160300","Master's Degree","7",26
+2013,"New York, NY","16000US3651000","Chinese Language & Literature","160301","Master's Degree","7",7
+2015,"New York, NY","16000US3651000","General Slavic Languages, Literatures, & Linguistics","160400","Master's Degree","7",9
+2013,"New York, NY","16000US3651000","General Slavic Languages, Literatures, & Linguistics","160400","Master's Degree","7",20
+2014,"New York, NY","16000US3651000","General Slavic Languages, Literatures, & Linguistics","160400","Master's Degree","7",11
+2015,"New York, NY","16000US3651000","German Language & Literature","160501","Master's Degree","7",2
+2014,"New York, NY","16000US3651000","German Language & Literature","160501","Master's Degree","7",8
+2015,"New York, NY","16000US3651000","French Language & Literature","160901","Master's Degree","7",44
+2013,"New York, NY","16000US3651000","French Language & Literature","160901","Master's Degree","7",52
+2014,"New York, NY","16000US3651000","French Language & Literature","160901","Master's Degree","7",53
+2015,"New York, NY","16000US3651000","Italian Language & Literature","160902","Master's Degree","7",11
+2013,"New York, NY","16000US3651000","Italian Language & Literature","160902","Master's Degree","7",14
+2014,"New York, NY","16000US3651000","Italian Language & Literature","160902","Master's Degree","7",11
+2015,"New York, NY","16000US3651000","Spanish Language & Literature","160905","Master's Degree","7",54
+2013,"New York, NY","16000US3651000","Spanish Language & Literature","160905","Master's Degree","7",43
+2014,"New York, NY","16000US3651000","Spanish Language & Literature","160905","Master's Degree","7",75
+2015,"New York, NY","16000US3651000","Hebrew Language & Literature","161102","Master's Degree","7",18
+2013,"New York, NY","16000US3651000","Hebrew Language & Literature","161102","Master's Degree","7",27
+2014,"New York, NY","16000US3651000","Hebrew Language & Literature","161102","Master's Degree","7",27
+2015,"New York, NY","16000US3651000","Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics","161199","Master's Degree","7",19
+2013,"New York, NY","16000US3651000","Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics","161199","Master's Degree","7",19
+2014,"New York, NY","16000US3651000","Other Middle/Near Eastern & Semetic Languages, Literatures, & Linguistics","161199","Master's Degree","7",9
+2015,"New York, NY","16000US3651000","General Classical Language, Literature, & Linguistics","161200","Master's Degree","7",18
+2013,"New York, NY","16000US3651000","General Classical Language, Literature, & Linguistics","161200","Master's Degree","7",12
+2014,"New York, NY","16000US3651000","General Classical Language, Literature, & Linguistics","161200","Master's Degree","7",17
+2013,"New York, NY","16000US3651000","Other Foreign Languages, Literatures, & Linguistics","169999","Master's Degree","7",24
+2015,"New York, NY","16000US3651000","General Food, Nutrition, & Wellness Studies","190501","Master's Degree","7",191
+2013,"New York, NY","16000US3651000","General Food, Nutrition, & Wellness Studies","190501","Master's Degree","7",213
+2014,"New York, NY","16000US3651000","General Food, Nutrition, & Wellness Studies","190501","Master's Degree","7",157
+2015,"New York, NY","16000US3651000","General Legal Studies","220000","Master's Degree","7",12
+2013,"New York, NY","16000US3651000","General Legal Studies","220000","Master's Degree","7",34
+2014,"New York, NY","16000US3651000","General Legal Studies","220000","Master's Degree","7",10
+2015,"New York, NY","16000US3651000","General Advanced Legal Studies","220201","Master's Degree","7",397
+2013,"New York, NY","16000US3651000","General Advanced Legal Studies","220201","Master's Degree","7",274
+2014,"New York, NY","16000US3651000","General Advanced Legal Studies","220201","Master's Degree","7",407
+2015,"New York, NY","16000US3651000","Programs for Foreign Lawyers","220202","Master's Degree","7",49
+2013,"New York, NY","16000US3651000","Programs for Foreign Lawyers","220202","Master's Degree","7",11
+2014,"New York, NY","16000US3651000","Programs for Foreign Lawyers","220202","Master's Degree","7",35
+2015,"New York, NY","16000US3651000","Legal Studies & Jurisprudence","220203","Master's Degree","7",8
+2013,"New York, NY","16000US3651000","Legal Studies & Jurisprudence","220203","Master's Degree","7",3
+2014,"New York, NY","16000US3651000","Legal Studies & Jurisprudence","220203","Master's Degree","7",10
+2015,"New York, NY","16000US3651000","Banking, Corporate, Finance, & Securities Law","220205","Master's Degree","7",76
+2013,"New York, NY","16000US3651000","Banking, Corporate, Finance, & Securities Law","220205","Master's Degree","7",20
+2014,"New York, NY","16000US3651000","Banking, Corporate, Finance, & Securities Law","220205","Master's Degree","7",98
+2015,"New York, NY","16000US3651000","Energy, Environment, & Natural Resources Law","220207","Master's Degree","7",13
+2013,"New York, NY","16000US3651000","Energy, Environment, & Natural Resources Law","220207","Master's Degree","7",8
+2014,"New York, NY","16000US3651000","Energy, Environment, & Natural Resources Law","220207","Master's Degree","7",17
+2015,"New York, NY","16000US3651000","Health Law","220208","Master's Degree","7",5
+2013,"New York, NY","16000US3651000","Health Law","220208","Master's Degree","7",2
+2014,"New York, NY","16000US3651000","Health Law","220208","Master's Degree","7",4
+2015,"New York, NY","16000US3651000","International Law & Legal Studies","220209","Master's Degree","7",150
+2013,"New York, NY","16000US3651000","International Law & Legal Studies","220209","Master's Degree","7",13
+2014,"New York, NY","16000US3651000","International Law & Legal Studies","220209","Master's Degree","7",240
+2015,"New York, NY","16000US3651000","International Business, Trade, & Tax Law","220210","Master's Degree","7",23
+2014,"New York, NY","16000US3651000","International Business, Trade, & Tax Law","220210","Master's Degree","7",48
+2015,"New York, NY","16000US3651000","Tax Law","220211","Master's Degree","7",170
+2013,"New York, NY","16000US3651000","Tax Law","220211","Master's Degree","7",21
+2014,"New York, NY","16000US3651000","Tax Law","220211","Master's Degree","7",196
+2015,"New York, NY","16000US3651000","Intellectual Property Law","220212","Master's Degree","7",52
+2013,"New York, NY","16000US3651000","Intellectual Property Law","220212","Master's Degree","7",48
+2014,"New York, NY","16000US3651000","Intellectual Property Law","220212","Master's Degree","7",46
+2015,"New York, NY","16000US3651000","Other Legal Research & Advanced Professional Studies","220299","Master's Degree","7",2
+2014,"New York, NY","16000US3651000","Other Legal Research & Advanced Professional Studies","220299","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","Other Legal Professions & Studies","229999","Master's Degree","7",162
+2013,"New York, NY","16000US3651000","Other Legal Professions & Studies","229999","Master's Degree","7",723
+2014,"New York, NY","16000US3651000","Other Legal Professions & Studies","229999","Master's Degree","7",74
+2015,"New York, NY","16000US3651000","General English Language & Literature","230101","Master's Degree","7",168
+2013,"New York, NY","16000US3651000","General English Language & Literature","230101","Master's Degree","7",222
+2014,"New York, NY","16000US3651000","General English Language & Literature","230101","Master's Degree","7",206
+2015,"New York, NY","16000US3651000","Creative Writing","231302","Master's Degree","7",357
+2013,"New York, NY","16000US3651000","Creative Writing","231302","Master's Degree","7",343
+2014,"New York, NY","16000US3651000","Creative Writing","231302","Master's Degree","7",350
+2013,"New York, NY","16000US3651000","Rhetoric & Composition","231304","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","British & Commonwealth English Literature","231404","Master's Degree","7",39
+2013,"New York, NY","16000US3651000","British & Commonwealth English Literature","231404","Master's Degree","7",46
+2014,"New York, NY","16000US3651000","British & Commonwealth English Literature","231404","Master's Degree","7",27
+2015,"New York, NY","16000US3651000","Liberal Arts & Sciences","240101","Master's Degree","7",113
+2013,"New York, NY","16000US3651000","Liberal Arts & Sciences","240101","Master's Degree","7",121
+2014,"New York, NY","16000US3651000","Liberal Arts & Sciences","240101","Master's Degree","7",126
+2014,"New York, NY","16000US3651000","General Studies","240102","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","Humanistic Studies","240103","Master's Degree","7",85
+2013,"New York, NY","16000US3651000","Humanistic Studies","240103","Master's Degree","7",97
+2014,"New York, NY","16000US3651000","Humanistic Studies","240103","Master's Degree","7",72
+2015,"New York, NY","16000US3651000","Other Liberal Arts & Sciences, General Studies, & Humanities","240199","Master's Degree","7",4
+2015,"New York, NY","16000US3651000","Library & Information Science","250101","Master's Degree","7",207
+2013,"New York, NY","16000US3651000","Library & Information Science","250101","Master's Degree","7",298
+2014,"New York, NY","16000US3651000","Library & Information Science","250101","Master's Degree","7",234
+2014,"New York, NY","16000US3651000","Other Library Science","259999","Master's Degree","7",13
+2015,"New York, NY","16000US3651000","General Biological Sciences","260101","Master's Degree","7",223
+2013,"New York, NY","16000US3651000","General Biological Sciences","260101","Master's Degree","7",216
+2014,"New York, NY","16000US3651000","General Biological Sciences","260101","Master's Degree","7",218
+2015,"New York, NY","16000US3651000","General Biomedical Sciences","260102","Master's Degree","7",11
+2013,"New York, NY","16000US3651000","General Biomedical Sciences","260102","Master's Degree","7",10
+2014,"New York, NY","16000US3651000","General Biomedical Sciences","260102","Master's Degree","7",14
+2015,"New York, NY","16000US3651000","Biochemistry","260202","Master's Degree","7",12
+2013,"New York, NY","16000US3651000","Biochemistry","260202","Master's Degree","7",17
+2014,"New York, NY","16000US3651000","Biochemistry","260202","Master's Degree","7",23
+2013,"New York, NY","16000US3651000","Structural Biology","260207","Master's Degree","7",2
+2014,"New York, NY","16000US3651000","Structural Biology","260207","Master's Degree","7",2
+2015,"New York, NY","16000US3651000","Cellular Biology & Histology","260401","Master's Degree","7",15
+2013,"New York, NY","16000US3651000","Cellular Biology & Histology","260401","Master's Degree","7",13
+2014,"New York, NY","16000US3651000","Cellular Biology & Histology","260401","Master's Degree","7",17
+2015,"New York, NY","16000US3651000","Cellular & Molecular Biology","260406","Master's Degree","7",14
+2013,"New York, NY","16000US3651000","Cellular & Molecular Biology","260406","Master's Degree","7",10
+2014,"New York, NY","16000US3651000","Cellular & Molecular Biology","260406","Master's Degree","7",10
+2015,"New York, NY","16000US3651000","Cell Biology & Anatomy","260407","Master's Degree","7",1
+2013,"New York, NY","16000US3651000","Cell Biology & Anatomy","260407","Master's Degree","7",3
+2014,"New York, NY","16000US3651000","Cell Biology & Anatomy","260407","Master's Degree","7",1
+2013,"New York, NY","16000US3651000","Other Cellular Biology & Anatomical Sciences","260499","Master's Degree","7",2
+2015,"New York, NY","16000US3651000","General Microbiology","260502","Master's Degree","7",23
+2013,"New York, NY","16000US3651000","General Microbiology","260502","Master's Degree","7",16
+2014,"New York, NY","16000US3651000","General Microbiology","260502","Master's Degree","7",31
+2015,"New York, NY","16000US3651000","Immunology","260507","Master's Degree","7",2
+2015,"New York, NY","16000US3651000","Microbiology & Immunology","260508","Master's Degree","7",4
+2013,"New York, NY","16000US3651000","Microbiology & Immunology","260508","Master's Degree","7",16
+2014,"New York, NY","16000US3651000","Microbiology & Immunology","260508","Master's Degree","7",8
+2015,"New York, NY","16000US3651000","General Genetics","260801","Master's Degree","7",18
+2013,"New York, NY","16000US3651000","General Genetics","260801","Master's Degree","7",10
+2014,"New York, NY","16000US3651000","General Genetics","260801","Master's Degree","7",15
+2015,"New York, NY","16000US3651000","General Physiology","260901","Master's Degree","7",16
+2013,"New York, NY","16000US3651000","General Physiology","260901","Master's Degree","7",8
+2014,"New York, NY","16000US3651000","General Physiology","260901","Master's Degree","7",9
+2015,"New York, NY","16000US3651000","Exercise Physiology","260908","Master's Degree","7",14
+2013,"New York, NY","16000US3651000","Exercise Physiology","260908","Master's Degree","7",16
+2014,"New York, NY","16000US3651000","Exercise Physiology","260908","Master's Degree","7",18
+2015,"New York, NY","16000US3651000","Pathology & Experimental Pathology","260910","Master's Degree","7",16
+2013,"New York, NY","16000US3651000","Pathology & Experimental Pathology","260910","Master's Degree","7",9
+2014,"New York, NY","16000US3651000","Pathology & Experimental Pathology","260910","Master's Degree","7",18
+2015,"New York, NY","16000US3651000","Pharmacology","261001","Master's Degree","7",15
+2013,"New York, NY","16000US3651000","Pharmacology","261001","Master's Degree","7",2
+2014,"New York, NY","16000US3651000","Pharmacology","261001","Master's Degree","7",12
+2015,"New York, NY","16000US3651000","Molecular Pharmacology","261002","Master's Degree","7",3
+2013,"New York, NY","16000US3651000","Molecular Pharmacology","261002","Master's Degree","7",4
+2014,"New York, NY","16000US3651000","Molecular Pharmacology","261002","Master's Degree","7",2
+2015,"New York, NY","16000US3651000","Toxicology","261004","Master's Degree","7",8
+2013,"New York, NY","16000US3651000","Toxicology","261004","Master's Degree","7",4
+2014,"New York, NY","16000US3651000","Toxicology","261004","Master's Degree","7",4
+2015,"New York, NY","16000US3651000","Pharmacology & Toxicology","261007","Master's Degree","7",32
+2015,"New York, NY","16000US3651000","Biometrics","261101","Master's Degree","7",3
+2013,"New York, NY","16000US3651000","Biometrics","261101","Master's Degree","7",1
+2014,"New York, NY","16000US3651000","Biometrics","261101","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","Biostatistics","261102","Master's Degree","7",50
+2013,"New York, NY","16000US3651000","Biostatistics","261102","Master's Degree","7",37
+2014,"New York, NY","16000US3651000","Biostatistics","261102","Master's Degree","7",34
+2015,"New York, NY","16000US3651000","Bioinformatics","261103","Master's Degree","7",15
+2013,"New York, NY","16000US3651000","Bioinformatics","261103","Master's Degree","7",16
+2014,"New York, NY","16000US3651000","Bioinformatics","261103","Master's Degree","7",14
+2015,"New York, NY","16000US3651000","Biotechnology","261201","Master's Degree","7",64
+2013,"New York, NY","16000US3651000","Biotechnology","261201","Master's Degree","7",62
+2014,"New York, NY","16000US3651000","Biotechnology","261201","Master's Degree","7",78
+2013,"New York, NY","16000US3651000","Ecology","261301","Master's Degree","7",3
+2015,"New York, NY","16000US3651000","Conservation Biology","261307","Master's Degree","7",13
+2013,"New York, NY","16000US3651000","Conservation Biology","261307","Master's Degree","7",14
+2014,"New York, NY","16000US3651000","Conservation Biology","261307","Master's Degree","7",11
+2015,"New York, NY","16000US3651000","Epidemiology","261309","Master's Degree","7",156
+2013,"New York, NY","16000US3651000","Epidemiology","261309","Master's Degree","7",120
+2014,"New York, NY","16000US3651000","Epidemiology","261309","Master's Degree","7",139
+2015,"New York, NY","16000US3651000","Neuroscience","261501","Master's Degree","7",36
+2013,"New York, NY","16000US3651000","Neuroscience","261501","Master's Degree","7",41
+2014,"New York, NY","16000US3651000","Neuroscience","261501","Master's Degree","7",24
+2015,"New York, NY","16000US3651000","Other Biological & Biomedical Sciences","269999","Master's Degree","7",33
+2013,"New York, NY","16000US3651000","Other Biological & Biomedical Sciences","269999","Master's Degree","7",43
+2014,"New York, NY","16000US3651000","Other Biological & Biomedical Sciences","269999","Master's Degree","7",53
+2015,"New York, NY","16000US3651000","General Mathematics","270101","Master's Degree","7",93
+2013,"New York, NY","16000US3651000","General Mathematics","270101","Master's Degree","7",113
+2014,"New York, NY","16000US3651000","General Mathematics","270101","Master's Degree","7",122
+2015,"New York, NY","16000US3651000","General Applied Mathematics","270301","Master's Degree","7",147
+2013,"New York, NY","16000US3651000","General Applied Mathematics","270301","Master's Degree","7",179
+2014,"New York, NY","16000US3651000","General Applied Mathematics","270301","Master's Degree","7",13
+2015,"New York, NY","16000US3651000","Financial Mathematics","270305","Master's Degree","7",125
+2013,"New York, NY","16000US3651000","Financial Mathematics","270305","Master's Degree","7",53
+2014,"New York, NY","16000US3651000","Financial Mathematics","270305","Master's Degree","7",133
+2015,"New York, NY","16000US3651000","General Statistics","270501","Master's Degree","7",344
+2013,"New York, NY","16000US3651000","General Statistics","270501","Master's Degree","7",232
+2014,"New York, NY","16000US3651000","General Statistics","270501","Master's Degree","7",254
+2015,"New York, NY","16000US3651000","Mathematical Statistics & Probability","270502","Master's Degree","7",105
+2013,"New York, NY","16000US3651000","Mathematical Statistics & Probability","270502","Master's Degree","7",79
+2014,"New York, NY","16000US3651000","Mathematical Statistics & Probability","270502","Master's Degree","7",60
+2015,"New York, NY","16000US3651000","Mathematics & Statistics","270503","Master's Degree","7",24
+2013,"New York, NY","16000US3651000","Mathematics & Statistics","270503","Master's Degree","7",26
+2014,"New York, NY","16000US3651000","Mathematics & Statistics","270503","Master's Degree","7",17
+2015,"New York, NY","16000US3651000","Biological & Physical Sciences","300101","Master's Degree","7",58
+2013,"New York, NY","16000US3651000","Biological & Physical Sciences","300101","Master's Degree","7",66
+2014,"New York, NY","16000US3651000","Biological & Physical Sciences","300101","Master's Degree","7",53
+2015,"New York, NY","16000US3651000","Biopsychology","301001","Master's Degree","7",3
+2013,"New York, NY","16000US3651000","Biopsychology","301001","Master's Degree","7",2
+2014,"New York, NY","16000US3651000","Biopsychology","301001","Master's Degree","7",8
+2015,"New York, NY","16000US3651000","Historic Preservation & Conservation","301201","Master's Degree","7",8
+2013,"New York, NY","16000US3651000","Historic Preservation & Conservation","301201","Master's Degree","7",7
+2014,"New York, NY","16000US3651000","Historic Preservation & Conservation","301201","Master's Degree","7",7
+2015,"New York, NY","16000US3651000","Museum Studies","301401","Master's Degree","7",44
+2013,"New York, NY","16000US3651000","Museum Studies","301401","Master's Degree","7",1
+2014,"New York, NY","16000US3651000","Museum Studies","301401","Master's Degree","7",34
+2015,"New York, NY","16000US3651000","Nutrition Sciences","301901","Master's Degree","7",85
+2013,"New York, NY","16000US3651000","Nutrition Sciences","301901","Master's Degree","7",80
+2014,"New York, NY","16000US3651000","Nutrition Sciences","301901","Master's Degree","7",82
+2015,"New York, NY","16000US3651000","Dispute Resolution","302801","Master's Degree","7",55
+2013,"New York, NY","16000US3651000","Dispute Resolution","302801","Master's Degree","7",40
+2014,"New York, NY","16000US3651000","Dispute Resolution","302801","Master's Degree","7",50
+2015,"New York, NY","16000US3651000","Computational Science","303001","Master's Degree","7",4
+2014,"New York, NY","16000US3651000","Computational Science","303001","Master's Degree","7",14
+2015,"New York, NY","16000US3651000","Sustainability Studies","303301","Master's Degree","7",161
+2013,"New York, NY","16000US3651000","Sustainability Studies","303301","Master's Degree","7",139
+2014,"New York, NY","16000US3651000","Sustainability Studies","303301","Master's Degree","7",188
+2015,"New York, NY","16000US3651000","Other Multidisciplinary Studies","309999","Master's Degree","7",28
+2013,"New York, NY","16000US3651000","Other Multidisciplinary Studies","309999","Master's Degree","7",17
+2014,"New York, NY","16000US3651000","Other Multidisciplinary Studies","309999","Master's Degree","7",14
+2013,"New York, NY","16000US3651000","General Health & Physical Education","310501","Master's Degree","7",24
+2015,"New York, NY","16000US3651000","Sport & Fitness Management","310504","Master's Degree","7",88
+2013,"New York, NY","16000US3651000","Sport & Fitness Management","310504","Master's Degree","7",49
+2014,"New York, NY","16000US3651000","Sport & Fitness Management","310504","Master's Degree","7",97
+2015,"New York, NY","16000US3651000","Kinesiology & Exercise Science","310505","Master's Degree","7",50
+2013,"New York, NY","16000US3651000","Kinesiology & Exercise Science","310505","Master's Degree","7",83
+2014,"New York, NY","16000US3651000","Kinesiology & Exercise Science","310505","Master's Degree","7",81
+2015,"New York, NY","16000US3651000","Philosophy","380101","Master's Degree","7",79
+2013,"New York, NY","16000US3651000","Philosophy","380101","Master's Degree","7",63
+2014,"New York, NY","16000US3651000","Philosophy","380101","Master's Degree","7",83
+2015,"New York, NY","16000US3651000","Religious Studies","380201","Master's Degree","7",15
+2013,"New York, NY","16000US3651000","Religious Studies","380201","Master's Degree","7",18
+2014,"New York, NY","16000US3651000","Religious Studies","380201","Master's Degree","7",13
+2015,"New York, NY","16000US3651000","Christian Studies","380203","Master's Degree","7",7
+2014,"New York, NY","16000US3651000","Christian Studies","380203","Master's Degree","7",2
+2015,"New York, NY","16000US3651000","Islamic Studies","380205","Master's Degree","7",2
+2013,"New York, NY","16000US3651000","Islamic Studies","380205","Master's Degree","7",1
+2014,"New York, NY","16000US3651000","Islamic Studies","380205","Master's Degree","7",4
+2015,"New York, NY","16000US3651000","Judaic Studies","380206","Master's Degree","7",81
+2013,"New York, NY","16000US3651000","Judaic Studies","380206","Master's Degree","7",20
+2014,"New York, NY","16000US3651000","Judaic Studies","380206","Master's Degree","7",32
+2015,"New York, NY","16000US3651000","Biblical Studies","390201","Master's Degree","7",5
+2015,"New York, NY","16000US3651000","Religious Education","390401","Master's Degree","7",62
+2013,"New York, NY","16000US3651000","Religious Education","390401","Master's Degree","7",43
+2014,"New York, NY","16000US3651000","Religious Education","390401","Master's Degree","7",56
+2015,"New York, NY","16000US3651000","Religious & Sacred Music","390501","Master's Degree","7",10
+2013,"New York, NY","16000US3651000","Religious & Sacred Music","390501","Master's Degree","7",8
+2014,"New York, NY","16000US3651000","Religious & Sacred Music","390501","Master's Degree","7",10
+2015,"New York, NY","16000US3651000","Theological Studies","390601","Master's Degree","7",37
+2013,"New York, NY","16000US3651000","Theological Studies","390601","Master's Degree","7",43
+2014,"New York, NY","16000US3651000","Theological Studies","390601","Master's Degree","7",48
+2015,"New York, NY","16000US3651000","Divinity & Ministry","390602","Master's Degree","7",135
+2013,"New York, NY","16000US3651000","Divinity & Ministry","390602","Master's Degree","7",147
+2014,"New York, NY","16000US3651000","Divinity & Ministry","390602","Master's Degree","7",130
+2015,"New York, NY","16000US3651000","Rabbinical Studies","390605","Master's Degree","7",88
+2013,"New York, NY","16000US3651000","Rabbinical Studies","390605","Master's Degree","7",84
+2014,"New York, NY","16000US3651000","Rabbinical Studies","390605","Master's Degree","7",77
+2015,"New York, NY","16000US3651000","Talmudic Studies","390606","Master's Degree","7",63
+2013,"New York, NY","16000US3651000","Talmudic Studies","390606","Master's Degree","7",56
+2014,"New York, NY","16000US3651000","Talmudic Studies","390606","Master's Degree","7",64
+2015,"New York, NY","16000US3651000","Pastoral Studies & Counseling","390701","Master's Degree","7",22
+2013,"New York, NY","16000US3651000","Pastoral Studies & Counseling","390701","Master's Degree","7",9
+2014,"New York, NY","16000US3651000","Pastoral Studies & Counseling","390701","Master's Degree","7",16
+2015,"New York, NY","16000US3651000","Astronomy","400201","Master's Degree","7",5
+2013,"New York, NY","16000US3651000","Astronomy","400201","Master's Degree","7",3
+2014,"New York, NY","16000US3651000","Astronomy","400201","Master's Degree","7",7
+2015,"New York, NY","16000US3651000","General Chemistry","400501","Master's Degree","7",75
+2013,"New York, NY","16000US3651000","General Chemistry","400501","Master's Degree","7",89
+2014,"New York, NY","16000US3651000","General Chemistry","400501","Master's Degree","7",88
+2015,"New York, NY","16000US3651000","General Geology & Earch Science","400601","Master's Degree","7",40
+2013,"New York, NY","16000US3651000","General Geology & Earch Science","400601","Master's Degree","7",31
+2014,"New York, NY","16000US3651000","General Geology & Earch Science","400601","Master's Degree","7",41
+2015,"New York, NY","16000US3651000","General Physics","400801","Master's Degree","7",81
+2013,"New York, NY","16000US3651000","General Physics","400801","Master's Degree","7",57
+2014,"New York, NY","16000US3651000","General Physics","400801","Master's Degree","7",61
+2015,"New York, NY","16000US3651000","Other Physics","400899","Master's Degree","7",4
+2015,"New York, NY","16000US3651000","Materials Science","401001","Master's Degree","7",18
+2013,"New York, NY","16000US3651000","Materials Science","401001","Master's Degree","7",8
+2014,"New York, NY","16000US3651000","Materials Science","401001","Master's Degree","7",10
+2015,"New York, NY","16000US3651000","Other Physical Sciences","409999","Master's Degree","7",2
+2013,"New York, NY","16000US3651000","Other Physical Sciences","409999","Master's Degree","7",6
+2014,"New York, NY","16000US3651000","Other Physical Sciences","409999","Master's Degree","7",2
+2015,"New York, NY","16000US3651000","General Psychology","420101","Master's Degree","7",236
+2013,"New York, NY","16000US3651000","General Psychology","420101","Master's Degree","7",270
+2014,"New York, NY","16000US3651000","General Psychology","420101","Master's Degree","7",266
+2015,"New York, NY","16000US3651000","Comparative Psychology","422702","Master's Degree","7",9
+2015,"New York, NY","16000US3651000","Developmental & Child Psychology","422703","Master's Degree","7",40
+2013,"New York, NY","16000US3651000","Developmental & Child Psychology","422703","Master's Degree","7",51
+2014,"New York, NY","16000US3651000","Developmental & Child Psychology","422703","Master's Degree","7",50
+2015,"New York, NY","16000US3651000","Experimental Psychology","422704","Master's Degree","7",30
+2013,"New York, NY","16000US3651000","Experimental Psychology","422704","Master's Degree","7",23
+2014,"New York, NY","16000US3651000","Experimental Psychology","422704","Master's Degree","7",20
+2015,"New York, NY","16000US3651000","Physiological Psychology & Psychobiology","422706","Master's Degree","7",31
+2013,"New York, NY","16000US3651000","Physiological Psychology & Psychobiology","422706","Master's Degree","7",25
+2014,"New York, NY","16000US3651000","Physiological Psychology & Psychobiology","422706","Master's Degree","7",23
+2015,"New York, NY","16000US3651000","Social Psychology","422707","Master's Degree","7",132
+2013,"New York, NY","16000US3651000","Social Psychology","422707","Master's Degree","7",12
+2014,"New York, NY","16000US3651000","Social Psychology","422707","Master's Degree","7",14
+2015,"New York, NY","16000US3651000","Other Research & Experimental Psychology","422799","Master's Degree","7",7
+2013,"New York, NY","16000US3651000","Other Research & Experimental Psychology","422799","Master's Degree","7",5
+2014,"New York, NY","16000US3651000","Other Research & Experimental Psychology","422799","Master's Degree","7",6
+2015,"New York, NY","16000US3651000","Clinical Psychology","422801","Master's Degree","7",197
+2013,"New York, NY","16000US3651000","Clinical Psychology","422801","Master's Degree","7",168
+2014,"New York, NY","16000US3651000","Clinical Psychology","422801","Master's Degree","7",180
+2015,"New York, NY","16000US3651000","Counseling Psychology","422803","Master's Degree","7",142
+2013,"New York, NY","16000US3651000","Counseling Psychology","422803","Master's Degree","7",105
+2014,"New York, NY","16000US3651000","Counseling Psychology","422803","Master's Degree","7",98
+2015,"New York, NY","16000US3651000","Industrial & Organizational Psychology","422804","Master's Degree","7",134
+2013,"New York, NY","16000US3651000","Industrial & Organizational Psychology","422804","Master's Degree","7",265
+2014,"New York, NY","16000US3651000","Industrial & Organizational Psychology","422804","Master's Degree","7",293
+2015,"New York, NY","16000US3651000","School Psychology","422805","Master's Degree","7",195
+2013,"New York, NY","16000US3651000","School Psychology","422805","Master's Degree","7",210
+2014,"New York, NY","16000US3651000","School Psychology","422805","Master's Degree","7",206
+2015,"New York, NY","16000US3651000","Educational Psychology","422806","Master's Degree","7",43
+2013,"New York, NY","16000US3651000","Educational Psychology","422806","Master's Degree","7",40
+2014,"New York, NY","16000US3651000","Educational Psychology","422806","Master's Degree","7",35
+2013,"New York, NY","16000US3651000","Clinical Child Psychology","422807","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","Environmental Psychology","422808","Master's Degree","7",4
+2013,"New York, NY","16000US3651000","Environmental Psychology","422808","Master's Degree","7",10
+2014,"New York, NY","16000US3651000","Environmental Psychology","422808","Master's Degree","7",10
+2015,"New York, NY","16000US3651000","Health & Medical Psychology","422810","Master's Degree","7",7
+2014,"New York, NY","16000US3651000","Health & Medical Psychology","422810","Master's Degree","7",11
+2015,"New York, NY","16000US3651000","Forensic Psychology","422812","Master's Degree","7",96
+2013,"New York, NY","16000US3651000","Forensic Psychology","422812","Master's Degree","7",85
+2014,"New York, NY","16000US3651000","Forensic Psychology","422812","Master's Degree","7",95
+2015,"New York, NY","16000US3651000","Applied Psychology","422813","Master's Degree","7",5
+2013,"New York, NY","16000US3651000","Applied Psychology","422813","Master's Degree","7",2
+2014,"New York, NY","16000US3651000","Applied Psychology","422813","Master's Degree","7",2
+2015,"New York, NY","16000US3651000","Applied Behavior Analysis","422814","Master's Degree","7",7
+2013,"New York, NY","16000US3651000","Applied Behavior Analysis","422814","Master's Degree","7",10
+2014,"New York, NY","16000US3651000","Applied Behavior Analysis","422814","Master's Degree","7",10
+2015,"New York, NY","16000US3651000","Other Clinical, Counseling, & Applied Psychology","422899","Master's Degree","7",23
+2013,"New York, NY","16000US3651000","Other Clinical, Counseling, & Applied Psychology","422899","Master's Degree","7",16
+2014,"New York, NY","16000US3651000","Other Clinical, Counseling, & Applied Psychology","422899","Master's Degree","7",11
+2015,"New York, NY","16000US3651000","Other Psychology","429999","Master's Degree","7",37
+2013,"New York, NY","16000US3651000","Other Psychology","429999","Master's Degree","7",49
+2014,"New York, NY","16000US3651000","Other Psychology","429999","Master's Degree","7",37
+2015,"New York, NY","16000US3651000","Criminal Justice - Law Enforcement Administration","430103","Master's Degree","7",191
+2013,"New York, NY","16000US3651000","Criminal Justice - Law Enforcement Administration","430103","Master's Degree","7",208
+2014,"New York, NY","16000US3651000","Criminal Justice - Law Enforcement Administration","430103","Master's Degree","7",209
+2015,"New York, NY","16000US3651000","Forensic Science & Technology","430106","Master's Degree","7",30
+2013,"New York, NY","16000US3651000","Forensic Science & Technology","430106","Master's Degree","7",40
+2014,"New York, NY","16000US3651000","Forensic Science & Technology","430106","Master's Degree","7",31
+2015,"New York, NY","16000US3651000","Computer Forensics & Counterterrorism","430116","Master's Degree","7",10
+2013,"New York, NY","16000US3651000","Computer Forensics & Counterterrorism","430116","Master's Degree","7",7
+2014,"New York, NY","16000US3651000","Computer Forensics & Counterterrorism","430116","Master's Degree","7",7
+2015,"New York, NY","16000US3651000","Other Corrections & Criminal Justice","430199","Master's Degree","7",20
+2013,"New York, NY","16000US3651000","Other Corrections & Criminal Justice","430199","Master's Degree","7",14
+2014,"New York, NY","16000US3651000","Other Corrections & Criminal Justice","430199","Master's Degree","7",24
+2015,"New York, NY","16000US3651000","Homeland Security","430301","Master's Degree","7",3
+2013,"New York, NY","16000US3651000","Homeland Security","430301","Master's Degree","7",3
+2014,"New York, NY","16000US3651000","Homeland Security","430301","Master's Degree","7",7
+2015,"New York, NY","16000US3651000","General Human Services","440000","Master's Degree","7",23
+2014,"New York, NY","16000US3651000","General Human Services","440000","Master's Degree","7",5
+2015,"New York, NY","16000US3651000","Community Organization & Advocacy","440201","Master's Degree","7",28
+2013,"New York, NY","16000US3651000","Community Organization & Advocacy","440201","Master's Degree","7",41
+2014,"New York, NY","16000US3651000","Community Organization & Advocacy","440201","Master's Degree","7",35
+2015,"New York, NY","16000US3651000","Public Administration","440401","Master's Degree","7",1256
+2013,"New York, NY","16000US3651000","Public Administration","440401","Master's Degree","7",1257
+2014,"New York, NY","16000US3651000","Public Administration","440401","Master's Degree","7",1196
+2013,"New York, NY","16000US3651000","General Public Policy Analysis","440501","Master's Degree","7",2
+2013,"New York, NY","16000US3651000","Education Policy Analysis","440502","Master's Degree","7",3
+2014,"New York, NY","16000US3651000","Education Policy Analysis","440502","Master's Degree","7",17
+2015,"New York, NY","16000US3651000","Other Public Policy Analysis","440599","Master's Degree","7",41
+2014,"New York, NY","16000US3651000","Other Public Policy Analysis","440599","Master's Degree","7",49
+2015,"New York, NY","16000US3651000","Social Work","440701","Master's Degree","7",2488
+2013,"New York, NY","16000US3651000","Social Work","440701","Master's Degree","7",2383
+2014,"New York, NY","16000US3651000","Social Work","440701","Master's Degree","7",2458
+2015,"New York, NY","16000US3651000","Other Public Administration & Social Service Professions","449999","Master's Degree","7",33
+2013,"New York, NY","16000US3651000","Other Public Administration & Social Service Professions","449999","Master's Degree","7",62
+2014,"New York, NY","16000US3651000","Other Public Administration & Social Service Professions","449999","Master's Degree","7",43
+2015,"New York, NY","16000US3651000","General Social Sciences","450101","Master's Degree","7",4
+2013,"New York, NY","16000US3651000","General Social Sciences","450101","Master's Degree","7",19
+2014,"New York, NY","16000US3651000","General Social Sciences","450101","Master's Degree","7",10
+2015,"New York, NY","16000US3651000","Anthropology","450201","Master's Degree","7",83
+2013,"New York, NY","16000US3651000","Anthropology","450201","Master's Degree","7",68
+2014,"New York, NY","16000US3651000","Anthropology","450201","Master's Degree","7",95
+2015,"New York, NY","16000US3651000","Cultural Anthropology","450204","Master's Degree","7",16
+2014,"New York, NY","16000US3651000","Cultural Anthropology","450204","Master's Degree","7",19
+2015,"New York, NY","16000US3651000","Other Anthropology","450299","Master's Degree","7",11
+2013,"New York, NY","16000US3651000","Other Anthropology","450299","Master's Degree","7",11
+2014,"New York, NY","16000US3651000","Other Anthropology","450299","Master's Degree","7",14
+2015,"New York, NY","16000US3651000","Criminology","450401","Master's Degree","7",10
+2013,"New York, NY","16000US3651000","Criminology","450401","Master's Degree","7",22
+2014,"New York, NY","16000US3651000","Criminology","450401","Master's Degree","7",11
+2015,"New York, NY","16000US3651000","General Economics","450601","Master's Degree","7",173
+2013,"New York, NY","16000US3651000","General Economics","450601","Master's Degree","7",259
+2014,"New York, NY","16000US3651000","General Economics","450601","Master's Degree","7",210
+2015,"New York, NY","16000US3651000","Econometrics & Quantitative Economics","450603","Master's Degree","7",13
+2013,"New York, NY","16000US3651000","Econometrics & Quantitative Economics","450603","Master's Degree","7",7
+2014,"New York, NY","16000US3651000","Econometrics & Quantitative Economics","450603","Master's Degree","7",13
+2013,"New York, NY","16000US3651000","Developmental Economics & International Development","450604","Master's Degree","7",1
+2013,"New York, NY","16000US3651000","International Economics","450605","Master's Degree","7",2
+2014,"New York, NY","16000US3651000","International Economics","450605","Master's Degree","7",2
+2015,"New York, NY","16000US3651000","Other Economics","450699","Master's Degree","7",43
+2013,"New York, NY","16000US3651000","Other Economics","450699","Master's Degree","7",36
+2014,"New York, NY","16000US3651000","Other Economics","450699","Master's Degree","7",24
+2015,"New York, NY","16000US3651000","Geography","450701","Master's Degree","7",9
+2013,"New York, NY","16000US3651000","Geography","450701","Master's Degree","7",12
+2014,"New York, NY","16000US3651000","Geography","450701","Master's Degree","7",7
+2015,"New York, NY","16000US3651000","Geographic Information Science & Cartography","450702","Master's Degree","7",13
+2013,"New York, NY","16000US3651000","Geographic Information Science & Cartography","450702","Master's Degree","7",2
+2014,"New York, NY","16000US3651000","Geographic Information Science & Cartography","450702","Master's Degree","7",2
+2015,"New York, NY","16000US3651000","International Relations & Affairs","450901","Master's Degree","7",609
+2013,"New York, NY","16000US3651000","International Relations & Affairs","450901","Master's Degree","7",622
+2014,"New York, NY","16000US3651000","International Relations & Affairs","450901","Master's Degree","7",586
+2015,"New York, NY","16000US3651000","General Political Science & Government","451001","Master's Degree","7",203
+2013,"New York, NY","16000US3651000","General Political Science & Government","451001","Master's Degree","7",258
+2014,"New York, NY","16000US3651000","General Political Science & Government","451001","Master's Degree","7",255
+2015,"New York, NY","16000US3651000","Political Economy","451004","Master's Degree","7",2
+2015,"New York, NY","16000US3651000","Other Political Science & Government","451099","Master's Degree","7",10
+2013,"New York, NY","16000US3651000","Other Political Science & Government","451099","Master's Degree","7",11
+2014,"New York, NY","16000US3651000","Other Political Science & Government","451099","Master's Degree","7",14
+2015,"New York, NY","16000US3651000","Sociology","451101","Master's Degree","7",167
+2013,"New York, NY","16000US3651000","Sociology","451101","Master's Degree","7",163
+2014,"New York, NY","16000US3651000","Sociology","451101","Master's Degree","7",174
+2015,"New York, NY","16000US3651000","Urban Studies","451201","Master's Degree","7",147
+2013,"New York, NY","16000US3651000","Urban Studies","451201","Master's Degree","7",204
+2014,"New York, NY","16000US3651000","Urban Studies","451201","Master's Degree","7",162
+2015,"New York, NY","16000US3651000","Other Social Sciences","459999","Master's Degree","7",70
+2013,"New York, NY","16000US3651000","Other Social Sciences","459999","Master's Degree","7",43
+2014,"New York, NY","16000US3651000","Other Social Sciences","459999","Master's Degree","7",38
+2015,"New York, NY","16000US3651000","Other Transportation & Materials Moving","499999","Master's Degree","7",4
+2014,"New York, NY","16000US3651000","Other Transportation & Materials Moving","499999","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","General Visual & Performing Arts","500101","Master's Degree","7",9
+2013,"New York, NY","16000US3651000","General Visual & Performing Arts","500101","Master's Degree","7",14
+2014,"New York, NY","16000US3651000","General Visual & Performing Arts","500101","Master's Degree","7",7
+2015,"New York, NY","16000US3651000","Digital Arts","500102","Master's Degree","7",95
+2013,"New York, NY","16000US3651000","Digital Arts","500102","Master's Degree","7",17
+2014,"New York, NY","16000US3651000","Digital Arts","500102","Master's Degree","7",33
+2015,"New York, NY","16000US3651000","General Dance","500301","Master's Degree","7",32
+2013,"New York, NY","16000US3651000","General Dance","500301","Master's Degree","7",50
+2014,"New York, NY","16000US3651000","General Dance","500301","Master's Degree","7",38
+2015,"New York, NY","16000US3651000","General Design & Visual Communications","500401","Master's Degree","7",78
+2013,"New York, NY","16000US3651000","General Design & Visual Communications","500401","Master's Degree","7",177
+2014,"New York, NY","16000US3651000","General Design & Visual Communications","500401","Master's Degree","7",169
+2015,"New York, NY","16000US3651000","Commercial & Advertising Art","500402","Master's Degree","7",57
+2013,"New York, NY","16000US3651000","Commercial & Advertising Art","500402","Master's Degree","7",41
+2014,"New York, NY","16000US3651000","Commercial & Advertising Art","500402","Master's Degree","7",50
+2015,"New York, NY","16000US3651000","Industrial & Product Design","500404","Master's Degree","7",24
+2013,"New York, NY","16000US3651000","Industrial & Product Design","500404","Master's Degree","7",25
+2014,"New York, NY","16000US3651000","Industrial & Product Design","500404","Master's Degree","7",22
+2015,"New York, NY","16000US3651000","Fashion & Apparel Design","500407","Master's Degree","7",15
+2013,"New York, NY","16000US3651000","Fashion & Apparel Design","500407","Master's Degree","7",17
+2014,"New York, NY","16000US3651000","Fashion & Apparel Design","500407","Master's Degree","7",12
+2015,"New York, NY","16000US3651000","Interior Design","500408","Master's Degree","7",138
+2013,"New York, NY","16000US3651000","Interior Design","500408","Master's Degree","7",141
+2014,"New York, NY","16000US3651000","Interior Design","500408","Master's Degree","7",141
+2015,"New York, NY","16000US3651000","Graphic Design","500409","Master's Degree","7",21
+2013,"New York, NY","16000US3651000","Graphic Design","500409","Master's Degree","7",12
+2014,"New York, NY","16000US3651000","Graphic Design","500409","Master's Degree","7",14
+2015,"New York, NY","16000US3651000","Illustration","500410","Master's Degree","7",29
+2013,"New York, NY","16000US3651000","Illustration","500410","Master's Degree","7",19
+2014,"New York, NY","16000US3651000","Illustration","500410","Master's Degree","7",27
+2015,"New York, NY","16000US3651000","Game & Interactive Media Design","500411","Master's Degree","7",21
+2013,"New York, NY","16000US3651000","Game & Interactive Media Design","500411","Master's Degree","7",13
+2014,"New York, NY","16000US3651000","Game & Interactive Media Design","500411","Master's Degree","7",23
+2015,"New York, NY","16000US3651000","Other Design & Applied Arts","500499","Master's Degree","7",56
+2013,"New York, NY","16000US3651000","Other Design & Applied Arts","500499","Master's Degree","7",42
+2014,"New York, NY","16000US3651000","Other Design & Applied Arts","500499","Master's Degree","7",43
+2015,"New York, NY","16000US3651000","General Drama & Theater Arts","500501","Master's Degree","7",146
+2013,"New York, NY","16000US3651000","General Drama & Theater Arts","500501","Master's Degree","7",200
+2014,"New York, NY","16000US3651000","General Drama & Theater Arts","500501","Master's Degree","7",157
+2015,"New York, NY","16000US3651000","Technical Theatre Design & Technology","500502","Master's Degree","7",30
+2013,"New York, NY","16000US3651000","Technical Theatre Design & Technology","500502","Master's Degree","7",25
+2014,"New York, NY","16000US3651000","Technical Theatre Design & Technology","500502","Master's Degree","7",33
+2015,"New York, NY","16000US3651000","Playwriting & Screenwriting","500504","Master's Degree","7",55
+2013,"New York, NY","16000US3651000","Playwriting & Screenwriting","500504","Master's Degree","7",8
+2014,"New York, NY","16000US3651000","Playwriting & Screenwriting","500504","Master's Degree","7",68
+2015,"New York, NY","16000US3651000","Acting","500506","Master's Degree","7",17
+2013,"New York, NY","16000US3651000","Acting","500506","Master's Degree","7",35
+2014,"New York, NY","16000US3651000","Acting","500506","Master's Degree","7",24
+2015,"New York, NY","16000US3651000","Directing & Theatrical Production","500507","Master's Degree","7",43
+2013,"New York, NY","16000US3651000","Directing & Theatrical Production","500507","Master's Degree","7",32
+2014,"New York, NY","16000US3651000","Directing & Theatrical Production","500507","Master's Degree","7",41
+2015,"New York, NY","16000US3651000","Film, Cinema, & Video Studies","500601","Master's Degree","7",45
+2013,"New York, NY","16000US3651000","Film, Cinema, & Video Studies","500601","Master's Degree","7",21
+2014,"New York, NY","16000US3651000","Film, Cinema, & Video Studies","500601","Master's Degree","7",22
+2015,"New York, NY","16000US3651000","Cinematography & Film Production","500602","Master's Degree","7",180
+2013,"New York, NY","16000US3651000","Cinematography & Film Production","500602","Master's Degree","7",191
+2014,"New York, NY","16000US3651000","Cinematography & Film Production","500602","Master's Degree","7",178
+2015,"New York, NY","16000US3651000","Photography","500605","Master's Degree","7",78
+2013,"New York, NY","16000US3651000","Photography","500605","Master's Degree","7",79
+2014,"New York, NY","16000US3651000","Photography","500605","Master's Degree","7",76
+2015,"New York, NY","16000US3651000","Other Film & Photographic Arts","500699","Master's Degree","7",10
+2013,"New York, NY","16000US3651000","Other Film & Photographic Arts","500699","Master's Degree","7",22
+2014,"New York, NY","16000US3651000","Other Film & Photographic Arts","500699","Master's Degree","7",20
+2015,"New York, NY","16000US3651000","General Fine Studio Arts","500702","Master's Degree","7",218
+2013,"New York, NY","16000US3651000","General Fine Studio Arts","500702","Master's Degree","7",192
+2014,"New York, NY","16000US3651000","General Fine Studio Arts","500702","Master's Degree","7",218
+2015,"New York, NY","16000US3651000","Art History, Criticism, & Conservation","500703","Master's Degree","7",348
+2013,"New York, NY","16000US3651000","Art History, Criticism, & Conservation","500703","Master's Degree","7",377
+2014,"New York, NY","16000US3651000","Art History, Criticism, & Conservation","500703","Master's Degree","7",401
+2015,"New York, NY","16000US3651000","Drawing","500705","Master's Degree","7",7
+2013,"New York, NY","16000US3651000","Drawing","500705","Master's Degree","7",6
+2014,"New York, NY","16000US3651000","Drawing","500705","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","Painting","500708","Master's Degree","7",47
+2013,"New York, NY","16000US3651000","Painting","500708","Master's Degree","7",41
+2014,"New York, NY","16000US3651000","Painting","500708","Master's Degree","7",42
+2015,"New York, NY","16000US3651000","Sculpture","500709","Master's Degree","7",4
+2013,"New York, NY","16000US3651000","Sculpture","500709","Master's Degree","7",8
+2014,"New York, NY","16000US3651000","Sculpture","500709","Master's Degree","7",5
+2015,"New York, NY","16000US3651000","Other Fine Arts & Art Studies","500799","Master's Degree","7",14
+2013,"New York, NY","16000US3651000","Other Fine Arts & Art Studies","500799","Master's Degree","7",41
+2014,"New York, NY","16000US3651000","Other Fine Arts & Art Studies","500799","Master's Degree","7",13
+2015,"New York, NY","16000US3651000","General Music","500901","Master's Degree","7",31
+2013,"New York, NY","16000US3651000","General Music","500901","Master's Degree","7",39
+2014,"New York, NY","16000US3651000","General Music","500901","Master's Degree","7",29
+2015,"New York, NY","16000US3651000","Music History, Literature, & Theory","500902","Master's Degree","7",15
+2013,"New York, NY","16000US3651000","Music History, Literature, & Theory","500902","Master's Degree","7",12
+2014,"New York, NY","16000US3651000","Music History, Literature, & Theory","500902","Master's Degree","7",17
+2015,"New York, NY","16000US3651000","General Music Performance","500903","Master's Degree","7",307
+2013,"New York, NY","16000US3651000","General Music Performance","500903","Master's Degree","7",378
+2014,"New York, NY","16000US3651000","General Music Performance","500903","Master's Degree","7",345
+2015,"New York, NY","16000US3651000","Music Theory & Composition","500904","Master's Degree","7",54
+2013,"New York, NY","16000US3651000","Music Theory & Composition","500904","Master's Degree","7",65
+2014,"New York, NY","16000US3651000","Music Theory & Composition","500904","Master's Degree","7",44
+2013,"New York, NY","16000US3651000","Musicology & Ethnomusicology","500905","Master's Degree","7",3
+2014,"New York, NY","16000US3651000","Musicology & Ethnomusicology","500905","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","Conducting","500906","Master's Degree","7",3
+2013,"New York, NY","16000US3651000","Conducting","500906","Master's Degree","7",3
+2014,"New York, NY","16000US3651000","Conducting","500906","Master's Degree","7",3
+2015,"New York, NY","16000US3651000","Keyboard Instruments","500907","Master's Degree","7",34
+2013,"New York, NY","16000US3651000","Keyboard Instruments","500907","Master's Degree","7",29
+2014,"New York, NY","16000US3651000","Keyboard Instruments","500907","Master's Degree","7",44
+2015,"New York, NY","16000US3651000","Voice & Opera","500908","Master's Degree","7",38
+2013,"New York, NY","16000US3651000","Voice & Opera","500908","Master's Degree","7",23
+2014,"New York, NY","16000US3651000","Voice & Opera","500908","Master's Degree","7",36
+2015,"New York, NY","16000US3651000","Jazz & Jazz Studies","500910","Master's Degree","7",19
+2013,"New York, NY","16000US3651000","Jazz & Jazz Studies","500910","Master's Degree","7",1
+2014,"New York, NY","16000US3651000","Jazz & Jazz Studies","500910","Master's Degree","7",8
+2015,"New York, NY","16000US3651000","Stringed Instruments","500911","Master's Degree","7",47
+2013,"New York, NY","16000US3651000","Stringed Instruments","500911","Master's Degree","7",52
+2014,"New York, NY","16000US3651000","Stringed Instruments","500911","Master's Degree","7",52
+2015,"New York, NY","16000US3651000","Music Technology","500913","Master's Degree","7",40
+2014,"New York, NY","16000US3651000","Music Technology","500913","Master's Degree","7",25
+2015,"New York, NY","16000US3651000","Brass Instruments","500914","Master's Degree","7",6
+2014,"New York, NY","16000US3651000","Brass Instruments","500914","Master's Degree","7",7
+2015,"New York, NY","16000US3651000","Woodwind Instruments","500915","Master's Degree","7",7
+2013,"New York, NY","16000US3651000","Woodwind Instruments","500915","Master's Degree","7",18
+2014,"New York, NY","16000US3651000","Woodwind Instruments","500915","Master's Degree","7",13
+2015,"New York, NY","16000US3651000","Percussion Instruments","500916","Master's Degree","7",1
+2014,"New York, NY","16000US3651000","Percussion Instruments","500916","Master's Degree","7",2
+2015,"New York, NY","16000US3651000","Other Music","500999","Master's Degree","7",11
+2013,"New York, NY","16000US3651000","Other Music","500999","Master's Degree","7",41
+2014,"New York, NY","16000US3651000","Other Music","500999","Master's Degree","7",10
+2015,"New York, NY","16000US3651000","General Arts, Entertainment, & Media Management","501001","Master's Degree","7",113
+2013,"New York, NY","16000US3651000","General Arts, Entertainment, & Media Management","501001","Master's Degree","7",69
+2014,"New York, NY","16000US3651000","General Arts, Entertainment, & Media Management","501001","Master's Degree","7",79
+2015,"New York, NY","16000US3651000","Fine & Studio Arts Management","501002","Master's Degree","7",88
+2013,"New York, NY","16000US3651000","Fine & Studio Arts Management","501002","Master's Degree","7",25
+2014,"New York, NY","16000US3651000","Fine & Studio Arts Management","501002","Master's Degree","7",48
+2015,"New York, NY","16000US3651000","Other Visual & Performing Arts","509999","Master's Degree","7",244
+2013,"New York, NY","16000US3651000","Other Visual & Performing Arts","509999","Master's Degree","7",327
+2014,"New York, NY","16000US3651000","Other Visual & Performing Arts","509999","Master's Degree","7",232
+2015,"New York, NY","16000US3651000","Speech-Language Pathology","510203","Master's Degree","7",233
+2013,"New York, NY","16000US3651000","Speech-Language Pathology","510203","Master's Degree","7",219
+2014,"New York, NY","16000US3651000","Speech-Language Pathology","510203","Master's Degree","7",254
+2015,"New York, NY","16000US3651000","Audiology & Speech-Language Pathology","510204","Master's Degree","7",139
+2013,"New York, NY","16000US3651000","Audiology & Speech-Language Pathology","510204","Master's Degree","7",179
+2014,"New York, NY","16000US3651000","Audiology & Speech-Language Pathology","510204","Master's Degree","7",121
+2015,"New York, NY","16000US3651000","General Dental Clinical Sciences","510501","Master's Degree","7",1
+2014,"New York, NY","16000US3651000","General Dental Clinical Sciences","510501","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","Orthodontics","510508","Master's Degree","7",7
+2013,"New York, NY","16000US3651000","Orthodontics","510508","Master's Degree","7",7
+2014,"New York, NY","16000US3651000","Orthodontics","510508","Master's Degree","7",7
+2015,"New York, NY","16000US3651000","Periodontics","510510","Master's Degree","7",7
+2013,"New York, NY","16000US3651000","Periodontics","510510","Master's Degree","7",6
+2014,"New York, NY","16000US3651000","Periodontics","510510","Master's Degree","7",3
+2015,"New York, NY","16000US3651000","Prosthodontics","510511","Master's Degree","7",4
+2013,"New York, NY","16000US3651000","Prosthodontics","510511","Master's Degree","7",4
+2014,"New York, NY","16000US3651000","Prosthodontics","510511","Master's Degree","7",3
+2015,"New York, NY","16000US3651000","Dental Laboratory Technology","510603","Master's Degree","7",17
+2013,"New York, NY","16000US3651000","Dental Laboratory Technology","510603","Master's Degree","7",7
+2014,"New York, NY","16000US3651000","Dental Laboratory Technology","510603","Master's Degree","7",13
+2015,"New York, NY","16000US3651000","Health Care Administration & Management","510701","Master's Degree","7",22
+2013,"New York, NY","16000US3651000","Health Care Administration & Management","510701","Master's Degree","7",22
+2014,"New York, NY","16000US3651000","Health Care Administration & Management","510701","Master's Degree","7",19
+2015,"New York, NY","16000US3651000","Hospital & Health Care Facilities Management","510702","Master's Degree","7",123
+2013,"New York, NY","16000US3651000","Hospital & Health Care Facilities Management","510702","Master's Degree","7",83
+2014,"New York, NY","16000US3651000","Hospital & Health Care Facilities Management","510702","Master's Degree","7",123
+2015,"New York, NY","16000US3651000","Physician Assistant","510912","Master's Degree","7",371
+2013,"New York, NY","16000US3651000","Physician Assistant","510912","Master's Degree","7",257
+2014,"New York, NY","16000US3651000","Physician Assistant","510912","Master's Degree","7",331
+2015,"New York, NY","16000US3651000","Athletic Trainer","510913","Master's Degree","7",7
+2013,"New York, NY","16000US3651000","Athletic Trainer","510913","Master's Degree","7",6
+2014,"New York, NY","16000US3651000","Athletic Trainer","510913","Master's Degree","7",10
+2015,"New York, NY","16000US3651000","Other Clinical Laboratory & Allied Health Professions","511099","Master's Degree","7",7
+2015,"New York, NY","16000US3651000","Medical Scientist","511401","Master's Degree","7",20
+2013,"New York, NY","16000US3651000","Medical Scientist","511401","Master's Degree","7",3
+2014,"New York, NY","16000US3651000","Medical Scientist","511401","Master's Degree","7",4
+2015,"New York, NY","16000US3651000","Marriage & Family Therapy","511505","Master's Degree","7",38
+2013,"New York, NY","16000US3651000","Marriage & Family Therapy","511505","Master's Degree","7",32
+2014,"New York, NY","16000US3651000","Marriage & Family Therapy","511505","Master's Degree","7",17
+2015,"New York, NY","16000US3651000","Mental Health Counseling","511508","Master's Degree","7",338
+2013,"New York, NY","16000US3651000","Mental Health Counseling","511508","Master's Degree","7",330
+2014,"New York, NY","16000US3651000","Mental Health Counseling","511508","Master's Degree","7",379
+2015,"New York, NY","16000US3651000","Genetic Counseling","511509","Master's Degree","7",7
+2013,"New York, NY","16000US3651000","Genetic Counseling","511509","Master's Degree","7",6
+2014,"New York, NY","16000US3651000","Genetic Counseling","511509","Master's Degree","7",8
+2015,"New York, NY","16000US3651000","Other Ophthalmic & Optometric Support Services","511899","Master's Degree","7",6
+2013,"New York, NY","16000US3651000","Other Ophthalmic & Optometric Support Services","511899","Master's Degree","7",10
+2014,"New York, NY","16000US3651000","Other Ophthalmic & Optometric Support Services","511899","Master's Degree","7",5
+2015,"New York, NY","16000US3651000","Pharmacy Administration & Pharmacy Policy","512002","Master's Degree","7",36
+2013,"New York, NY","16000US3651000","Pharmacy Administration & Pharmacy Policy","512002","Master's Degree","7",26
+2014,"New York, NY","16000US3651000","Pharmacy Administration & Pharmacy Policy","512002","Master's Degree","7",30
+2015,"New York, NY","16000US3651000","Industrial, Physical Pharmacy, & Cosmetic Sciences","512009","Master's Degree","7",57
+2015,"New York, NY","16000US3651000","Pharmaceutical Sciences","512010","Master's Degree","7",15
+2013,"New York, NY","16000US3651000","Pharmaceutical Sciences","512010","Master's Degree","7",22
+2014,"New York, NY","16000US3651000","Pharmaceutical Sciences","512010","Master's Degree","7",29
+2013,"New York, NY","16000US3651000","Other Pharmacy, Pharmaceutical Sciences, & Administration","512099","Master's Degree","7",116
+2014,"New York, NY","16000US3651000","Other Pharmacy, Pharmaceutical Sciences, & Administration","512099","Master's Degree","7",91
+2015,"New York, NY","16000US3651000","General Public Health","512201","Master's Degree","7",721
+2013,"New York, NY","16000US3651000","General Public Health","512201","Master's Degree","7",653
+2014,"New York, NY","16000US3651000","General Public Health","512201","Master's Degree","7",699
+2015,"New York, NY","16000US3651000","Environmental Health","512202","Master's Degree","7",39
+2013,"New York, NY","16000US3651000","Environmental Health","512202","Master's Degree","7",24
+2014,"New York, NY","16000US3651000","Environmental Health","512202","Master's Degree","7",38
+2015,"New York, NY","16000US3651000","Public Health Education & Promotion","512207","Master's Degree","7",18
+2013,"New York, NY","16000US3651000","Public Health Education & Promotion","512207","Master's Degree","7",21
+2014,"New York, NY","16000US3651000","Public Health Education & Promotion","512207","Master's Degree","7",24
+2015,"New York, NY","16000US3651000","Community Health & Preventative Medicine","512208","Master's Degree","7",2
+2015,"New York, NY","16000US3651000","Maternal & Child Health","512209","Master's Degree","7",17
+2013,"New York, NY","16000US3651000","Maternal & Child Health","512209","Master's Degree","7",9
+2014,"New York, NY","16000US3651000","Maternal & Child Health","512209","Master's Degree","7",11
+2014,"New York, NY","16000US3651000","Health Services Administration","512211","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","Other Public Health","512299","Master's Degree","7",10
+2015,"New York, NY","16000US3651000","Art Therapy","512301","Master's Degree","7",50
+2013,"New York, NY","16000US3651000","Art Therapy","512301","Master's Degree","7",46
+2014,"New York, NY","16000US3651000","Art Therapy","512301","Master's Degree","7",57
+2015,"New York, NY","16000US3651000","Dance Therapy","512302","Master's Degree","7",8
+2013,"New York, NY","16000US3651000","Dance Therapy","512302","Master's Degree","7",16
+2014,"New York, NY","16000US3651000","Dance Therapy","512302","Master's Degree","7",17
+2015,"New York, NY","16000US3651000","Occupational Therapy","512306","Master's Degree","7",235
+2013,"New York, NY","16000US3651000","Occupational Therapy","512306","Master's Degree","7",213
+2014,"New York, NY","16000US3651000","Occupational Therapy","512306","Master's Degree","7",216
+2015,"New York, NY","16000US3651000","Physical Therapy","512308","Master's Degree","7",2
+2013,"New York, NY","16000US3651000","Physical Therapy","512308","Master's Degree","7",4
+2014,"New York, NY","16000US3651000","Physical Therapy","512308","Master's Degree","7",5
+2015,"New York, NY","16000US3651000","Vocational Rehabilitation Counseling","512310","Master's Degree","7",79
+2013,"New York, NY","16000US3651000","Vocational Rehabilitation Counseling","512310","Master's Degree","7",18
+2014,"New York, NY","16000US3651000","Vocational Rehabilitation Counseling","512310","Master's Degree","7",72
+2015,"New York, NY","16000US3651000","Medical Informatics","512706","Master's Degree","7",19
+2013,"New York, NY","16000US3651000","Medical Informatics","512706","Master's Degree","7",21
+2014,"New York, NY","16000US3651000","Medical Informatics","512706","Master's Degree","7",16
+2015,"New York, NY","16000US3651000","Bioethics & Medical Ethics","513201","Master's Degree","7",30
+2013,"New York, NY","16000US3651000","Bioethics & Medical Ethics","513201","Master's Degree","7",8
+2014,"New York, NY","16000US3651000","Bioethics & Medical Ethics","513201","Master's Degree","7",21
+2015,"New York, NY","16000US3651000","Acupuncture & Oriental Medicine","513301","Master's Degree","7",124
+2013,"New York, NY","16000US3651000","Acupuncture & Oriental Medicine","513301","Master's Degree","7",104
+2014,"New York, NY","16000US3651000","Acupuncture & Oriental Medicine","513301","Master's Degree","7",124
+2015,"New York, NY","16000US3651000","Traditional Chinese Medicine & Chinese Herbology","513302","Master's Degree","7",5
+2013,"New York, NY","16000US3651000","Traditional Chinese Medicine & Chinese Herbology","513302","Master's Degree","7",5
+2015,"New York, NY","16000US3651000","Registered Nursing","513801","Master's Degree","7",228
+2013,"New York, NY","16000US3651000","Registered Nursing","513801","Master's Degree","7",202
+2014,"New York, NY","16000US3651000","Registered Nursing","513801","Master's Degree","7",217
+2015,"New York, NY","16000US3651000","Nursing Administration","513802","Master's Degree","7",26
+2013,"New York, NY","16000US3651000","Nursing Administration","513802","Master's Degree","7",42
+2014,"New York, NY","16000US3651000","Nursing Administration","513802","Master's Degree","7",15
+2015,"New York, NY","16000US3651000","Adult Health Nurse","513803","Master's Degree","7",126
+2013,"New York, NY","16000US3651000","Adult Health Nurse","513803","Master's Degree","7",143
+2014,"New York, NY","16000US3651000","Adult Health Nurse","513803","Master's Degree","7",92
+2015,"New York, NY","16000US3651000","Nurse Anesthetist","513804","Master's Degree","7",11
+2013,"New York, NY","16000US3651000","Nurse Anesthetist","513804","Master's Degree","7",11
+2014,"New York, NY","16000US3651000","Nurse Anesthetist","513804","Master's Degree","7",10
+2015,"New York, NY","16000US3651000","Family Practice Nurse","513805","Master's Degree","7",271
+2013,"New York, NY","16000US3651000","Family Practice Nurse","513805","Master's Degree","7",213
+2014,"New York, NY","16000US3651000","Family Practice Nurse","513805","Master's Degree","7",274
+2013,"New York, NY","16000US3651000","Child Health & Neonatal Nurse","513806","Master's Degree","7",5
+2014,"New York, NY","16000US3651000","Child Health & Neonatal Nurse","513806","Master's Degree","7",2
+2015,"New York, NY","16000US3651000","Nurse Midwife","513807","Master's Degree","7",13
+2013,"New York, NY","16000US3651000","Nurse Midwife","513807","Master's Degree","7",26
+2014,"New York, NY","16000US3651000","Nurse Midwife","513807","Master's Degree","7",20
+2015,"New York, NY","16000US3651000","Nursing School","513808","Master's Degree","7",32
+2013,"New York, NY","16000US3651000","Nursing School","513808","Master's Degree","7",27
+2014,"New York, NY","16000US3651000","Nursing School","513808","Master's Degree","7",32
+2015,"New York, NY","16000US3651000","Pediatric Nurse","513809","Master's Degree","7",20
+2013,"New York, NY","16000US3651000","Pediatric Nurse","513809","Master's Degree","7",12
+2014,"New York, NY","16000US3651000","Pediatric Nurse","513809","Master's Degree","7",17
+2015,"New York, NY","16000US3651000","Psychiatric Nurse","513810","Master's Degree","7",10
+2013,"New York, NY","16000US3651000","Psychiatric Nurse","513810","Master's Degree","7",29
+2014,"New York, NY","16000US3651000","Psychiatric Nurse","513810","Master's Degree","7",32
+2015,"New York, NY","16000US3651000","Public Health Nurse","513811","Master's Degree","7",26
+2013,"New York, NY","16000US3651000","Public Health Nurse","513811","Master's Degree","7",23
+2014,"New York, NY","16000US3651000","Public Health Nurse","513811","Master's Degree","7",4
+2015,"New York, NY","16000US3651000","Clinical Nurse Specialist","513813","Master's Degree","7",10
+2013,"New York, NY","16000US3651000","Clinical Nurse Specialist","513813","Master's Degree","7",13
+2014,"New York, NY","16000US3651000","Clinical Nurse Specialist","513813","Master's Degree","7",16
+2015,"New York, NY","16000US3651000","Critical Care Nursing","513814","Master's Degree","7",43
+2013,"New York, NY","16000US3651000","Critical Care Nursing","513814","Master's Degree","7",40
+2014,"New York, NY","16000US3651000","Critical Care Nursing","513814","Master's Degree","7",37
+2015,"New York, NY","16000US3651000","Nurse Education","513817","Master's Degree","7",26
+2013,"New York, NY","16000US3651000","Nurse Education","513817","Master's Degree","7",33
+2014,"New York, NY","16000US3651000","Nurse Education","513817","Master's Degree","7",23
+2013,"New York, NY","16000US3651000","Palliative Care Nursing","513819","Master's Degree","7",5
+2015,"New York, NY","16000US3651000","Clinical Nurse Leader","513820","Master's Degree","7",17
+2013,"New York, NY","16000US3651000","Clinical Nurse Leader","513820","Master's Degree","7",15
+2014,"New York, NY","16000US3651000","Clinical Nurse Leader","513820","Master's Degree","7",13
+2015,"New York, NY","16000US3651000","Geriatric Nurse","513821","Master's Degree","7",76
+2013,"New York, NY","16000US3651000","Geriatric Nurse","513821","Master's Degree","7",67
+2014,"New York, NY","16000US3651000","Geriatric Nurse","513821","Master's Degree","7",62
+2015,"New York, NY","16000US3651000","Women's Health Nurse","513822","Master's Degree","7",14
+2014,"New York, NY","16000US3651000","Women's Health Nurse","513822","Master's Degree","7",7
+2015,"New York, NY","16000US3651000","Other Practical Nursing, Vocational Nursing, & Nursing Assistants","513999","Master's Degree","7",10
+2013,"New York, NY","16000US3651000","Other Practical Nursing, Vocational Nursing, & Nursing Assistants","513999","Master's Degree","7",25
+2014,"New York, NY","16000US3651000","Other Practical Nursing, Vocational Nursing, & Nursing Assistants","513999","Master's Degree","7",23
+2015,"New York, NY","16000US3651000","Other Health Professions & Related Clinical Sciences","519999","Master's Degree","7",71
+2013,"New York, NY","16000US3651000","Other Health Professions & Related Clinical Sciences","519999","Master's Degree","7",99
+2014,"New York, NY","16000US3651000","Other Health Professions & Related Clinical Sciences","519999","Master's Degree","7",93
+2015,"New York, NY","16000US3651000","General Business","520101","Master's Degree","7",8
+2013,"New York, NY","16000US3651000","General Business","520101","Master's Degree","7",2
+2014,"New York, NY","16000US3651000","General Business","520101","Master's Degree","7",12
+2015,"New York, NY","16000US3651000","General Business Administration & Management","520201","Master's Degree","7",4022
+2013,"New York, NY","16000US3651000","General Business Administration & Management","520201","Master's Degree","7",4045
+2014,"New York, NY","16000US3651000","General Business Administration & Management","520201","Master's Degree","7",4063
+2015,"New York, NY","16000US3651000","Operations Management & Supervision","520205","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","Non-Profit, Public, & Organizational Management","520206","Master's Degree","7",83
+2013,"New York, NY","16000US3651000","Non-Profit, Public, & Organizational Management","520206","Master's Degree","7",95
+2014,"New York, NY","16000US3651000","Non-Profit, Public, & Organizational Management","520206","Master's Degree","7",85
+2015,"New York, NY","16000US3651000","Customer Service Management","520207","Master's Degree","7",5
+2014,"New York, NY","16000US3651000","E-Commerce","520208","Master's Degree","7",9
+2015,"New York, NY","16000US3651000","Transportation Management","520209","Master's Degree","7",61
+2013,"New York, NY","16000US3651000","Transportation Management","520209","Master's Degree","7",58
+2014,"New York, NY","16000US3651000","Transportation Management","520209","Master's Degree","7",69
+2015,"New York, NY","16000US3651000","Retail Management","520212","Master's Degree","7",51
+2014,"New York, NY","16000US3651000","Retail Management","520212","Master's Degree","7",10
+2013,"New York, NY","16000US3651000","Organizational Leadership","520213","Master's Degree","7",1
+2014,"New York, NY","16000US3651000","Organizational Leadership","520213","Master's Degree","7",1
+2015,"New York, NY","16000US3651000","Accounting","520301","Master's Degree","7",1104
+2013,"New York, NY","16000US3651000","Accounting","520301","Master's Degree","7",978
+2014,"New York, NY","16000US3651000","Accounting","520301","Master's Degree","7",1048
+2015,"New York, NY","16000US3651000","Auditing","520303","Master's Degree","7",11
+2013,"New York, NY","16000US3651000","Auditing","520303","Master's Degree","7",12
+2014,"New York, NY","16000US3651000","Auditing","520303","Master's Degree","7",6
+2015,"New York, NY","16000US3651000","Accounting & Finance","520304","Master's Degree","7",31
+2013,"New York, NY","16000US3651000","Accounting & Finance","520304","Master's Degree","7",71
+2014,"New York, NY","16000US3651000","Accounting & Finance","520304","Master's Degree","7",31
+2015,"New York, NY","16000US3651000","Other Accounting & Related Services","520399","Master's Degree","7",11
+2015,"New York, NY","16000US3651000","Business & Corporate Communications","520501","Master's Degree","7",11
+2013,"New York, NY","16000US3651000","Business & Corporate Communications","520501","Master's Degree","7",24
+2014,"New York, NY","16000US3651000","Business & Corporate Communications","520501","Master's Degree","7",28
+2015,"New York, NY","16000US3651000","Business & Managerial Economics","520601","Master's Degree","7",11
+2013,"New York, NY","16000US3651000","Business & Managerial Economics","520601","Master's Degree","7",7
+2014,"New York, NY","16000US3651000","Business & Managerial Economics","520601","Master's Degree","7",4
+2015,"New York, NY","16000US3651000","Entrepreneurial Studies","520701","Master's Degree","7",14
+2013,"New York, NY","16000US3651000","Entrepreneurial Studies","520701","Master's Degree","7",6
+2014,"New York, NY","16000US3651000","Entrepreneurial Studies","520701","Master's Degree","7",13
+2015,"New York, NY","16000US3651000","General Finance","520801","Master's Degree","7",384
+2013,"New York, NY","16000US3651000","General Finance","520801","Master's Degree","7",547
+2014,"New York, NY","16000US3651000","General Finance","520801","Master's Degree","7",410
+2015,"New York, NY","16000US3651000","Financial Planning & Services","520804","Master's Degree","7",14
+2013,"New York, NY","16000US3651000","Financial Planning & Services","520804","Master's Degree","7",15
+2014,"New York, NY","16000US3651000","Financial Planning & Services","520804","Master's Degree","7",10
+2015,"New York, NY","16000US3651000","Investments & Securities","520807","Master's Degree","7",86
+2013,"New York, NY","16000US3651000","Investments & Securities","520807","Master's Degree","7",90
+2014,"New York, NY","16000US3651000","Investments & Securities","520807","Master's Degree","7",105
+2014,"New York, NY","16000US3651000","Other Finance & Financial Management Services","520899","Master's Degree","7",125
+2015,"New York, NY","16000US3651000","Tourism & Travel Services Management","520903","Master's Degree","7",24
+2013,"New York, NY","16000US3651000","Tourism & Travel Services Management","520903","Master's Degree","7",20
+2014,"New York, NY","16000US3651000","Tourism & Travel Services Management","520903","Master's Degree","7",18
+2015,"New York, NY","16000US3651000","Hotel Administration & Management","520904","Master's Degree","7",56
+2013,"New York, NY","16000US3651000","Hotel Administration & Management","520904","Master's Degree","7",29
+2014,"New York, NY","16000US3651000","Hotel Administration & Management","520904","Master's Degree","7",41
+2015,"New York, NY","16000US3651000","General Human Resources Management & Personnel Administration","521001","Master's Degree","7",153
+2013,"New York, NY","16000US3651000","General Human Resources Management & Personnel Administration","521001","Master's Degree","7",113
+2014,"New York, NY","16000US3651000","General Human Resources Management & Personnel Administration","521001","Master's Degree","7",156
+2015,"New York, NY","16000US3651000","Labor & Industrial Relations","521002","Master's Degree","7",24
+2013,"New York, NY","16000US3651000","Labor & Industrial Relations","521002","Master's Degree","7",21
+2014,"New York, NY","16000US3651000","Labor & Industrial Relations","521002","Master's Degree","7",28
+2015,"New York, NY","16000US3651000","Organizational Behavior Studies","521003","Master's Degree","7",38
+2013,"New York, NY","16000US3651000","Organizational Behavior Studies","521003","Master's Degree","7",12
+2014,"New York, NY","16000US3651000","Organizational Behavior Studies","521003","Master's Degree","7",11
+2015,"New York, NY","16000US3651000","Labor Studies","521004","Master's Degree","7",20
+2013,"New York, NY","16000US3651000","Labor Studies","521004","Master's Degree","7",25
+2014,"New York, NY","16000US3651000","Labor Studies","521004","Master's Degree","7",25
+2015,"New York, NY","16000US3651000","Other Human Resources Management & Services","521099","Master's Degree","7",23
+2015,"New York, NY","16000US3651000","International Business, Trade, & Commerce","521101","Master's Degree","7",52
+2013,"New York, NY","16000US3651000","International Business, Trade, & Commerce","521101","Master's Degree","7",75
+2014,"New York, NY","16000US3651000","International Business, Trade, & Commerce","521101","Master's Degree","7",70
+2015,"New York, NY","16000US3651000","General Management Information Systems","521201","Master's Degree","7",66
+2013,"New York, NY","16000US3651000","General Management Information Systems","521201","Master's Degree","7",21
+2014,"New York, NY","16000US3651000","General Management Information Systems","521201","Master's Degree","7",31
+2015,"New York, NY","16000US3651000","Information Resources Management","521206","Master's Degree","7",34
+2013,"New York, NY","16000US3651000","Information Resources Management","521206","Master's Degree","7",49
+2014,"New York, NY","16000US3651000","Information Resources Management","521206","Master's Degree","7",49
+2015,"New York, NY","16000US3651000","Business Statistics","521302","Master's Degree","7",13
+2013,"New York, NY","16000US3651000","Business Statistics","521302","Master's Degree","7",5
+2014,"New York, NY","16000US3651000","Business Statistics","521302","Master's Degree","7",11
+2015,"New York, NY","16000US3651000","Actuarial Science","521304","Master's Degree","7",127
+2013,"New York, NY","16000US3651000","Actuarial Science","521304","Master's Degree","7",67
+2014,"New York, NY","16000US3651000","Actuarial Science","521304","Master's Degree","7",99
+2015,"New York, NY","16000US3651000","Other Management Sciences & Quantitative Methods","521399","Master's Degree","7",154
+2013,"New York, NY","16000US3651000","Other Management Sciences & Quantitative Methods","521399","Master's Degree","7",4
+2014,"New York, NY","16000US3651000","Other Management Sciences & Quantitative Methods","521399","Master's Degree","7",149
+2015,"New York, NY","16000US3651000","General Marketing & Marketing Management","521401","Master's Degree","7",33
+2013,"New York, NY","16000US3651000","General Marketing & Marketing Management","521401","Master's Degree","7",36
+2014,"New York, NY","16000US3651000","General Marketing & Marketing Management","521401","Master's Degree","7",36
+2015,"New York, NY","16000US3651000","Other Marketing","521499","Master's Degree","7",37
+2013,"New York, NY","16000US3651000","Other Marketing","521499","Master's Degree","7",12
+2014,"New York, NY","16000US3651000","Other Marketing","521499","Master's Degree","7",12
+2015,"New York, NY","16000US3651000","Real Estate","521501","Master's Degree","7",220
+2013,"New York, NY","16000US3651000","Real Estate","521501","Master's Degree","7",190
+2014,"New York, NY","16000US3651000","Real Estate","521501","Master's Degree","7",197
+2015,"New York, NY","16000US3651000","Taxation","521601","Master's Degree","7",258
+2013,"New York, NY","16000US3651000","Taxation","521601","Master's Degree","7",291
+2014,"New York, NY","16000US3651000","Taxation","521601","Master's Degree","7",302
+2015,"New York, NY","16000US3651000","Insurance","521701","Master's Degree","7",12
+2013,"New York, NY","16000US3651000","Insurance","521701","Master's Degree","7",21
+2014,"New York, NY","16000US3651000","Insurance","521701","Master's Degree","7",38
+2015,"New York, NY","16000US3651000","General Sales, Distribution, & Marketing Operations","521801","Master's Degree","7",316
+2013,"New York, NY","16000US3651000","General Sales, Distribution, & Marketing Operations","521801","Master's Degree","7",200
+2014,"New York, NY","16000US3651000","General Sales, Distribution, & Marketing Operations","521801","Master's Degree","7",317
+2015,"New York, NY","16000US3651000","Other Specialized Merchandising, Sales, & Marketing Operations","521999","Master's Degree","7",16
+2013,"New York, NY","16000US3651000","Other Specialized Merchandising, Sales, & Marketing Operations","521999","Master's Degree","7",15
+2014,"New York, NY","16000US3651000","Other Specialized Merchandising, Sales, & Marketing Operations","521999","Master's Degree","7",21
+2015,"New York, NY","16000US3651000","Construction Management","522001","Master's Degree","7",53
+2013,"New York, NY","16000US3651000","Construction Management","522001","Master's Degree","7",45
+2014,"New York, NY","16000US3651000","Construction Management","522001","Master's Degree","7",31
+2015,"New York, NY","16000US3651000","Other Business, Management, Marketing, & Related Support Services","529999","Master's Degree","7",349
+2013,"New York, NY","16000US3651000","Other Business, Management, Marketing, & Related Support Services","529999","Master's Degree","7",232
+2014,"New York, NY","16000US3651000","Other Business, Management, Marketing, & Related Support Services","529999","Master's Degree","7",301
+2015,"New York, NY","16000US3651000","General History","540101","Master's Degree","7",157
+2013,"New York, NY","16000US3651000","General History","540101","Master's Degree","7",192
+2014,"New York, NY","16000US3651000","General History","540101","Master's Degree","7",189
+2015,"New York, NY","16000US3651000","Public Applied History","540105","Master's Degree","7",3
+2014,"New York, NY","16000US3651000","Public Applied History","540105","Master's Degree","7",5
+2015,"New York, NY","16000US3651000","Other History","540199","Master's Degree","7",13
+2013,"New York, NY","16000US3651000","Other History","540199","Master's Degree","7",23
+2014,"New York, NY","16000US3651000","Other History","540199","Master's Degree","7",22
